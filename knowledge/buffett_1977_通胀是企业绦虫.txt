@@ -1,0 +1,32 @@
+---
+topic: 通胀是企业绦虫
+category: 宏观经济
+source: 1977年Fortune文章《通胀如何欺骗股票投资者》
+related: 股票本质上是带息票的债券, 定价权
+year: 1977
+---
+# 通胀是企业绦虫
+
+## 摘要
+巴菲特的经典比喻：通胀像一条巨大的企业绦虫，无论企业健康状况如何，都抢先消耗掉每天所需的资本。低回报企业被迫保留所有收益。
+
+## 核心观点
+1. "通胀是一条巨大的企业绦虫"(gigantic corporate tapeworm)
+2. 通胀持续消耗投资资金，不管企业盈利如何
+3. 低回报企业（8-10% ROE）被迫保留所有收益——没有余钱用于扩张、还债或真实分红
+4. 高回报企业应该保留收益再投资，低回报企业应该高分红
+5. 但通胀迫使低回报企业也必须保留——好钱追坏钱（违反圣经才干的比喻）
+6. 5%回报的企业要求股东100分钱重新投入，理性做法是把钱投向最高回报的安全资产
+7. AT&T案例：分红再投资计划本质是让股东缴税但拿不到现金
+
+## 原文引用
+> "Inflation acts as a gigantic corporate tapeworm. That tapeworm preemptively consumes its requisite daily diet of investment dollars regardless of the health of the host organism."
+>
+> "A business earning 8% or 10% on equity often has no leftovers for expansion, debt reduction or real dividends. The tapeworm of inflation simply cleans the plate."
+
+## 来源
+Fortune Magazine, May 1977: "How Inflation Swindles the Equity Investor"
+
+## 相关主题
+- 股票本质上是带息票的债券
+- 定价权

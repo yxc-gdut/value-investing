@@ -1,0 +1,139 @@
+Accounts and notes receivable . . . . . . .
+Inventory . . . . . . . . . . . . . . . . . . . . . . .
+Other current assets . . . . . . . . . . . . . . .
+Total current assets . . . . . . . . . . . . . . . .
+Goodwill and other intangibles . . . . . .
+Fixed assets . . . . . . . . . . . . . . . . . . . . .
+Other assets . . . . . . . . . . . . . . . . . . . . .
+
+$ 5,338
+7,382
+9,675
+734
+23,129
+26,017
+18,871
+3,416
+$71,433
+
+Liabilities and Equity
+Notes payable . . . . . . . . . . . . . . .
+Other current liabilities . . . . . . . .
+Total current liabilities . . . . . . . .
+
+Deferred taxes . . . . . . . . . . . . . . .
+Term debt and other liabilities . .
+Non-controlling interests . . . . . .
+Berkshire equity . . . . . . . . . . . . .
+
+$ 1,454
+8,527
+9,981
+
+4,907
+5,826
+2,062
+48,657
+$71,433
+
+Earnings Statement (in millions)
+2012
+
+2011*
+
+2010
+
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $83,255
+Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,978
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+146
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,131
+Income taxes and non-controlling interests . . . . . . . . . . . . . . . . . .
+2,432
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,699
+*Includes earnings of Lubrizol from September 16.
+
+$72,406
+67,239
+130
+5,037
+1,998
+$ 3,039
+
+$66,610
+62,225
+111
+4,274
+1,812
+$ 2,462
+
+Our income and expense data conforming to Generally Accepted Accounting Principles (“GAAP”) is on
+page 29. In contrast, the operating expense figures above are non-GAAP. In particular, they exclude some
+purchase-accounting items, primarily the amortization of certain intangible assets. We present the data in this
+manner because Charlie and I believe the adjusted numbers more accurately reflect the real expenses and profits of
+the businesses aggregated in the table.
+I won’t explain all of the adjustments – some are small and arcane – but serious investors should
+understand the disparate nature of intangible assets: Some truly deplete over time while others never lose value.
+With software, for example, amortization charges are very real expenses. Charges against other intangibles such as
+the amortization of customer relationships, however, arise through purchase-accounting rules and are clearly not real
+expenses. GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as
+expenses when calculating earnings – even though from an investor’s viewpoint they could not be more different.
+In the GAAP-compliant figures we show on page 29, amortization charges of $600 million for the
+companies included in this section are deducted as expenses. We would call about 20% of these “real” – and indeed
+that is the portion we have included in the table above – and the rest not. This difference has become significant
+because of the many acquisitions we have made.
+“Non-real” amortization expense also looms large at some of our major investees. IBM has made many
+small acquisitions in recent years and now regularly reports “adjusted operating earnings,” a non-GAAP figure that
+excludes certain purchase-accounting adjustments. Analysts focus on this number, as they should.
+
+12
+
+A “non-real” amortization charge at Wells Fargo, however, is not highlighted by the company and never, to
+my knowledge, has been noted in analyst reports. The earnings that Wells Fargo reports are heavily burdened by an
+“amortization of core deposits” charge, the implication being that these deposits are disappearing at a fairly rapid
+clip. Yet core deposits regularly increase. The charge last year was about $1.5 billion. In no sense, except GAAP
+accounting, is this whopping charge an expense.
+And that ends today’s accounting lecture. Why is no one shouting “More, more?”
+************
+The crowd of companies in this section sell products ranging from lollipops to jet airplanes. Some of the
+businesses enjoy terrific economics, measured by earnings on unleveraged net tangible assets that run from 25%
+after-tax to more than 100%. Others produce good returns in the area of 12-20%. A few, however, have very poor
+returns, a result of some serious mistakes I made in my job of capital allocation.
+More than 50 years ago, Charlie told me that it was far better to buy a wonderful business at a fair price
+than to buy a fair business at a wonderful price. Despite the compelling logic of his position, I have sometimes
+reverted to my old habit of bargain-hunting, with results ranging from tolerable to terrible. Fortunately, my mistakes
+have usually occurred when I made smaller purchases. Our large acquisitions have generally worked out well and,
+in a few cases, more than well.
+Viewed as a single entity, therefore, the companies in this group are an excellent business. They employ
+$22.6 billion of net tangible assets and, on that base, earned 16.3% after-tax.
+Of course, a business with terrific economics can be a bad investment if the price paid is excessive. We
+have paid substantial premiums to net tangible assets for most of our businesses, a cost that is reflected in the large
+figure we show for intangible assets. Overall, however, we are getting a decent return on the capital we have
+deployed in this sector. Furthermore, the intrinsic value of the businesses, in aggregate, exceeds their carrying value
+by a good margin. Even so, the difference between intrinsic value and carrying value in the insurance and regulatedindustry segments is far greater. It is there that the huge winners reside.
+************
+Marmon provides an example of a clear and substantial gap existing between book value and intrinsic
+value. Let me explain the odd origin of this differential.
+Last year I told you that we had purchased additional shares in Marmon, raising our ownership to 80% (up
+from the 64% we acquired in 2008). I also told you that GAAP accounting required us to immediately record the
+2011 purchase on our books at far less than what we paid. I’ve now had a year to think about this weird accounting
+rule, but I’ve yet to find an explanation that makes any sense – nor can Charlie or Marc Hamburg, our CFO, come
+up with one. My confusion increases when I am told that if we hadn’t already owned 64%, the 16% we purchased
+in 2011 would have been entered on our books at our cost.
+In 2012 (and in early 2013, retroactive to yearend 2012) we acquired an additional 10% of Marmon and the
+same bizarre accounting treatment was required. The $700 million write-off we immediately incurred had no effect
+on earnings but did reduce book value and, therefore, 2012’s gain in net worth.
+The cost of our recent 10% purchase implies a $12.6 billion value for the 90% of Marmon we now own.
+Our balance-sheet carrying value for the 90%, however, is $8 billion. Charlie and I believe our current purchase
+represents excellent value. If we are correct, our Marmon holding is worth at least $4.6 billion more than its
+carrying value.
+Marmon is a diverse enterprise, comprised of about 150 companies operating in a wide variety of
+industries. Its largest business involves the ownership of tank cars that are leased to a variety of shippers, such as oil
+and chemical companies. Marmon conducts this business through two subsidiaries, Union Tank Car in the U.S. and
+Procor in Canada.
+
+13
+
+Union Tank Car has been around a long time, having been owned by the Standard Oil Trust until that
+empire was broken up in 1911. Look for its UTLX logo on tank cars when you watch trains roll by. As a Berkshire

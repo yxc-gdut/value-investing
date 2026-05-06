@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Third-party cloned repos (have separate licenses)
+external/
+
+# Raw PDFs (sources, not processed content)
+pdfs/
+
+# Books (copyright - full book PDFs)
+books/
+
+# OS
+.DS_Store
+Thumbs.db

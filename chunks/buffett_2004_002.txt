@@ -1,0 +1,311 @@
+Our failure here illustrates the importance of a guideline – stay with simple propositions – that we
+usually apply in investments as well as operations. If only one variable is key to a decision, and the
+variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90%. But
+if ten independent variables need to break favorably for a successful result, and each has a 90% probability
+of success, the likelihood of having a winner is only 35%. In our zinc venture, we solved most of the
+problems. But one proved intractable, and that was one too many. Since a chain is no stronger than its
+weakest link, it makes sense to look for – if you’ll excuse an oxymoron – mono-linked chains.
+A breakdown of MidAmerican’s results follows. In 2004, the “other” category includes a $72.2
+million profit from sale of an Enron receivable that was thrown in when we purchased Northern Natural
+two years earlier. Walter, Dave and I, as natives of Omaha, view this unanticipated gain as war reparations
+– partial compensation for the loss our city suffered in 1986 when Ken Lay moved Northern to Houston,
+after promising to leave the company here. (For details, see Berkshire’s 2002 annual report.)
+Here are some key figures on MidAmerican’s operations:
+
+U.K. utilities .......................................................................................................
+Iowa utility .........................................................................................................
+Pipelines .............................................................................................................
+HomeServices.....................................................................................................
+Other (net) ..........................................................................................................
+Loss from zinc project ........................................................................................
+Earnings before corporate interest and taxes ......................................................
+Interest, other than to Berkshire .........................................................................
+Interest on Berkshire junior debt ........................................................................
+Income tax ..........................................................................................................
+Net earnings........................................................................................................
+Earnings applicable to Berkshire* ......................................................................
+Debt owed to others............................................................................................
+Debt owed to Berkshire ......................................................................................
+
+Earnings (in $ millions)
+2004
+2003
+$ 326
+$ 289
+268
+269
+288
+261
+130
+113
+172
+190
+(579)
+(46)
+605
+1,076
+(212)
+(225)
+(170)
+(184)
+(53)
+(251)
+$ 170
+$ 416
+$ 237
+10,528
+1,478
+
+$ 429
+10,296
+1,578
+
+*Includes interest earned by Berkshire (net of related income taxes) of $110 in 2004 and $118 in 2003.
+
+5
+
+Insurance
+Since Berkshire purchased National Indemnity (“NICO”) in 1967, property-casualty insurance has
+been our core business and the propellant of our growth. Insurance has provided a fountain of funds with
+which we’ve acquired the securities and businesses that now give us an ever-widening variety of earnings
+streams. So in this section, I will be spending a little time telling you how we got where we are.
+The source of our insurance funds is “float,” which is money that doesn’t belong to us but that we
+temporarily hold. Most of our float arises because (1) premiums are paid upfront though the service we
+provide – insurance protection – is delivered over a period that usually covers a year and; (2) loss events
+that occur today do not always result in our immediately paying claims, because it sometimes takes many
+years for losses to be reported (asbestos losses would be an example), negotiated and settled. The $20
+million of float that came with our 1967 purchase has now increased – both by way of internal growth and
+acquisitions – to $46.1 billion.
+Float is wonderful – if it doesn’t come at a high price. Its cost is determined by underwriting
+results, meaning how the expenses and losses we will ultimately pay compare with the premiums we have
+received. When an underwriting profit is achieved – as has been the case at Berkshire in about half of the
+38 years we have been in the insurance business – float is better than free. In such years, we are actually
+paid for holding other people’s money. For most insurers, however, life has been far more difficult: In
+aggregate, the property-casualty industry almost invariably operates at an underwriting loss. When that
+loss is large, float becomes expensive, sometimes devastatingly so.
+Insurers have generally earned poor returns for a simple reason: They sell a commodity-like
+product. Policy forms are standard, and the product is available from many suppliers, some of whom are
+mutual companies (“owned” by policyholders rather than stockholders) with profit goals that are limited.
+Moreover, most insureds don’t care from whom they buy. Customers by the millions say “I need some
+Gillette blades” or “I’ll have a Coke” but we wait in vain for “I’d like a National Indemnity policy, please.”
+Consequently, price competition in insurance is usually fierce. Think airline seats.
+So, you may ask, how do Berkshire’s insurance operations overcome the dismal economics of the
+industry and achieve some measure of enduring competitive advantage? We’ve attacked that problem in
+several ways. Let’s look first at NICO’s strategy.
+When we purchased the company – a specialist in commercial auto and general liability insurance
+– it did not appear to have any attributes that would overcome the industry’s chronic troubles. It was not
+well-known, had no informational advantage (the company has never had an actuary), was not a low-cost
+operator, and sold through general agents, a method many people thought outdated. Nevertheless, for
+almost all of the past 38 years, NICO has been a star performer. Indeed, had we not made this acquisition,
+Berkshire would be lucky to be worth half of what it is today.
+What we’ve had going for us is a managerial mindset that most insurers find impossible to
+replicate. Take a look at the facing page. Can you imagine any public company embracing a business
+model that would lead to the decline in revenue that we experienced from 1986 through 1999? That
+colossal slide, it should be emphasized, did not occur because business was unobtainable. Many billions of
+premium dollars were readily available to NICO had we only been willing to cut prices. But we instead
+consistently priced to make a profit, not to match our most optimistic competitor. We never left customers
+– but they left us.
+Most American businesses harbor an “institutional imperative” that rejects extended decreases in
+volume. What CEO wants to report to his shareholders that not only did business contract last year but that
+it will continue to drop? In insurance, the urge to keep writing business is also intensified because the
+consequences of foolishly-priced policies may not become apparent for some time. If an insurer is
+optimistic in its reserving, reported earnings will be overstated, and years may pass before true loss costs
+are revealed (a form of self-deception that nearly destroyed GEICO in the early 1970s).
+
+6
+
+Portrait of a Disciplined Underwriter
+National Indemnity Company
+
+Year
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+...........................
+
+Written Premium
+(In $ millions)
+
+No. of
+Employees at
+Year-End
+
+Ratio of
+Operating Expenses
+to
+Written Premium
+
+$79.6
+59.9
+52.5
+58.2
+62.2
+160.7
+366.2
+232.3
+139.9
+98.4
+87.8
+88.3
+82.7
+86.8
+85.9
+78.0
+74.0
+65.3
+56.8
+54.5
+68.1
+161.3
+343.5
+594.5
+605.6
+
+372
+353
+323
+308
+342
+380
+403
+368
+347
+320
+289
+284
+277
+279
+263
+258
+243
+240
+231
+222
+230
+254
+313
+337
+340
+
+32.3%
+36.1%
+36.7%
+35.6%
+35.5%
+28.0%
+25.9%
+29.5%
+31.7%
+35.9%
+37.4%
+35.7%
+37.9%
+36.1%
+34.6%
+36.6%
+36.5%
+40.4%
+40.4%
+41.2%
+38.4%
+28.8%
+24.0%
+22.2%
+22.5%
+
+Underwriting Profit
+(Loss) as a Percentage of Premiums
+(Calculated as of
+year end 2004)*
+8.2%
+(.8%)
+(15.3%)
+(18.7%)
+(17.0%)
+1.9%
+30.7%
+27.3%
+24.8%
+14.8%
+7.0%
+13.0%
+5.2%
+11.3%
+4.6%
+9.2%
+6.8%
+6.2%
+9.4%
+4.5%
+2.9%
+(11.6%)
+16.8%
+18.1%
+5.1%
+
+*It takes a long time to learn the true profitability of any given year. First, many claims are received after
+the end of the year, and we must estimate how many of these there will be and what they will cost. (In
+insurance jargon, these claims are termed IBNR – incurred but not reported.) Second, claims often take
+years, or even decades, to settle, which means there can be many surprises along the way.
+For these reasons, the results in this column simply represent our best estimate at the end of 2004 as to how
+we have done in prior years. Profit margins for the years through 1999 are probably close to correct
+because these years are “mature,” in the sense that they have few claims still outstanding. The more recent
+the year, the more guesswork is involved. In particular, the results shown for 2003 and 2004 are apt to
+change significantly.
+
+7
+
+Finally, there is a fear factor at work, in that a shrinking business usually leads to layoffs. To
+avoid pink slips, employees will rationalize inadequate pricing, telling themselves that poorly-priced
+business must be tolerated in order to keep the organization intact and the distribution system happy. If this
+course isn’t followed, these employees will argue, the company will not participate in the recovery that
+they invariably feel is just around the corner.
+To combat employees’ natural tendency to save their own skins, we have always promised
+NICO’s workforce that no one will be fired because of declining volume, however severe the contraction.

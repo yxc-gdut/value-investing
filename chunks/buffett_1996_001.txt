@@ -1,0 +1,171 @@
+# Berkshire Hathaway Shareholder Letter 1996
+
+BERKSHIRE HATHAWAY INC.
+Chairman's Letter
+To the Shareholders of Berkshire Hathaway Inc.:
+Our gain in net worth during 1996 was $6.2 billion, or 36.1%.  Per-
+share book value, however, grew by less, 31.8%, because the number of 
+Berkshire shares increased:  We issued stock in acquiring FlightSafety 
+International and also sold new Class B shares.*   Over the last 32 years 
+(that is, since present management took over) per-share book value has 
+grown from $19 to $19,011, or at a rate of 23.8% compounded annually.
+* Each Class B share has an economic interest equal to 1/30th of 
+   that possessed by a Class A share, which is the new designation for  
+   the only stock that Berkshire had outstanding before May 1996.  
+   Throughout this report, we state all per-share figures in terms of
+   "Class A equivalents," which are the sum of the Class A shares 
+   outstanding and 1/30th of the Class B shares outstanding.
+For technical reasons, we have restated our 1995 financial 
+statements, a matter that requires me to present one of my less-than-
+thrilling explanations of accounting arcana.  I'll make it brief.
+
+     The restatement was required because GEICO became a wholly-owned 
+subsidiary of Berkshire on January 2, 1996, whereas it was previously 
+classified as an investment.  From an economic viewpoint - taking into 
+account major tax efficiencies and other benefits we gained - the value 
+of the 51% of GEICO we owned at year-end 1995
+increased
+significantly 
+when we acquired the remaining 49% of the company two days later.  
+Accounting rules applicable to this type of "step acquisition," however, 
+required us to
+write down
+the value of our 51% at the time we moved to 
+100%.  That writedown - which also, of course, reduced book value - 
+amounted to $478.4 million.  As a result, we now carry our original 51% 
+of GEICO at a value that is both lower than its market value at the time 
+we purchased the remaining 49% of the company and lower than the value at 
+which we carry that 49% itself.
+
+     There is an offset, however, to the reduction in book value I have 
+just described:  Twice during 1996 we issued Berkshire shares at a 
+premium to book value, first in May when we sold the B shares for cash 
+and again in December when we used both A and B shares as part-payment 
+for FlightSafety.  In total, the three non-operational items affecting 
+book value contributed less than one percentage point to our 31.8% per-
+share gain last year.
+
+     I dwell on this rise in per-share book value because it roughly 
+indicates our economic progress during the year.  But, as Charlie Munger, 
+Berkshire's Vice Chairman, and I have repeatedly told you, what counts at 
+Berkshire is intrinsic value, not book value.  The last time you got that 
+message from us was in the Owner's Manual, sent to you in June after we 
+issued the Class B shares.  In that manual, we not only defined certain 
+key terms - such as intrinsic value -  but also set forth our economic 
+principles.
+
+     For many years, we have listed these principles in the front of our 
+annual report, but in this report, on pages 58 to 67, we reproduce the 
+entire Owner's Manual.  In this letter, we will occasionally refer to the 
+manual so that we can avoid repeating certain definitions and 
+explanations.  For example, if you wish to brush up on "intrinsic value," 
+see pages 64 and 65.
+
+     Last year, for the first time, we supplied you with a table that 
+Charlie and I believe will help anyone trying to estimate Berkshire's 
+intrinsic value.  In the updated version of that table, which follows, we 
+trace two key indices of value.  The first column lists our per-share 
+ownership of investments (including cash and equivalents) and the second 
+column shows our per-share earnings from Berkshire's operating businesses 
+before taxes and purchase-accounting adjustments but after all interest 
+and corporate overhead expenses.  The operating-earnings column excludes
+all dividends, interest and capital gains that we realized from the 
+investments presented in the first column.  In effect, the two columns 
+show what Berkshire would have reported had it been broken into two parts.
+
+
+		                                 Pre-tax Earnings Per Share
+	                           Investments   Excluding All Income from
+Year	                            Per Share           Investments        
+----                               -----------   -------------------------
+1965................................$       4	        $      4.08
+1975................................	  159	              (6.48)
+1985................................	2,443	              18.86
+1995................................   22,088	             258.20
+1996................................   28,500	             421.39
+
+Annual Growth Rate, 1965-95.........	33.4%	              14.7% 
+One-Year Growth Rate, 1995-96 ......	29.0%	              63.2% 
+
+
+     As the table tells you, our investments per share increased in 1996 
+by 29.0% and our non-investment earnings grew by 63.2%.  Our goal is to 
+keep the numbers in both columns moving ahead at a reasonable (or, better 
+yet, unreasonable) pace.
+
+     Our expectations, however, are tempered by two realities.  First, 
+our past rates of growth cannot be matched nor even approached:  
+Berkshire's equity capital is now large - in fact, fewer than ten 
+businesses in America have capital larger -  and an abundance of funds 
+tends to dampen returns.  Second, whatever our rate of progress, it will 
+not be smooth:  Year-to-year moves in the first column of the table above 
+will be influenced in a major way by fluctuations in securities markets; 
+the figures in the second column will be affected by wide swings in the 
+profitability of our catastrophe-reinsurance business.
+
+     In the table, the donations made pursuant to our shareholder-
+designated contributions program are charged against the second column, 
+though we view them as a shareholder benefit rather than as an expense.  
+All other corporate expenses are also charged against the second column. 
+These costs may be lower than those of any other large American 
+corporation:  Our after-tax headquarters expense amounts to less than two 
+basis points (1/50th of 1%) measured against net worth.  Even so, Charlie 
+used to think this expense percentage outrageously high, blaming it on my 
+use of Berkshire's corporate jet,
+The Indefensible
+.  But Charlie has 
+recently experienced a "counter-revelation":  With our purchase of 
+FlightSafety, whose major activity is the training of corporate pilots, 
+he now rhapsodizes at the mere mention of jets.
+
+     Seriously, costs matter.  For example, equity mutual funds incur 
+corporate expenses - largely payments to the funds' managers - that 
+average about 100 basis points, a levy likely to cut the returns their 
+investors earn by 10% or more over time.  Charlie and I make no promises 
+about Berkshire's results.  We do promise you, however, that virtually 
+all of the gains Berkshire makes will end up with shareholders.  We are 
+here to make money with you, not off you.
+The Relationship of Intrinsic Value to Market Price
+In last year's letter, with Berkshire shares selling at $36,000, I 
+told you:  (1) Berkshire's gain in market value in recent years had 
+outstripped its gain in intrinsic value, even though the latter gain had 
+been highly satisfactory; (2) that kind of overperformance could not 
+continue indefinitely; (3) Charlie and I did not at that moment consider 
+Berkshire to be undervalued.
+
+     Since I set down those cautions, Berkshire's intrinsic value has 
+increased very significantly - aided in a major way by a stunning 
+performance at GEICO that I will tell you more about later - while the 
+market price of our shares has changed little.  This, of course, means 
+that in 1996 Berkshire's stock underperformed the business.  
+Consequently, today's price/value relationship is both much different 
+from what it was a year ago and, as Charlie and I see it, more 
+appropriate.
+
+     Over time, the aggregate gains made by Berkshire shareholders must 
+of necessity match the business gains of the company.  When the stock 
+temporarily overperforms or underperforms the business, a limited number 
+of shareholders - either sellers or buyers - receive outsized benefits at 
+the expense of those they trade with.  Generally, the sophisticated have 
+an edge over the innocents in this game.
+
+     Though our primary goal is to maximize the amount that our 
+shareholders, in total, reap from their ownership of Berkshire, we wish 
+also to minimize the benefits going to some shareholders at the expense 
+of others.  These are goals we would have were we managing a family 
+partnership, and we believe they make equal sense for the manager of a 
+public company.  In a partnership, fairness requires that partnership 
+interests be valued equitably when partners enter or exit; in a public 
+company, fairness prevails when market price and intrinsic value are in 
+sync.  Obviously, they won't always meet that ideal, but a manager - by 
+his policies and communications - can do much to foster equity.
+
+     Of course, the longer a shareholder holds his shares, the more 
+bearing Berkshire's business results will have on his financial 
+experience - and the less it will matter what premium or discount to 
+intrinsic value prevails when he buys and sells his stock.  That's one 
+reason we hope to attract owners with long-term horizons.  Overall, I 
+think we have succeeded in that pursuit.  Berkshire probably ranks number 
+one among large American corporations in the percentage of its shares 
+held by owners with a long-term view.
+Acquisitions of 1996

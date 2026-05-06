@@ -1,0 +1,27 @@
+---
+topic: 创新不等于好投资——汽车与航空业教训
+category: 投资原则
+source: 1999年巴菲特太阳谷演讲
+related: 好主意比坏主意更危险
+year: 1999
+---
+# 创新不等于好投资——汽车与航空业教训
+
+## 摘要
+巴菲特在太阳谷演讲中用汽车和航空业的百年历史证明：改变世界的伟大行业不等于好投资。2000家汽车公司只剩3家，投资者全军覆没。
+
+## 核心观点
+1. 汽车改变了美国，催生了石油、橡胶、钢铁、玻璃等产业——每个人都认为"汽车是未来"
+2. 2000+家汽车制造商→3家存活（99.85%消失），幸存者股价仍低于账面价值
+3. 航空业同样改变了世界，但航空投资者几乎从未赚钱
+4. 这些教训适用于互联网/任何新兴技术——人们总高估自己的运气
+5. 互联网热潮和汽车热潮的本质一样："人们总是高估自己"
+
+## 原文引用
+> "Of those over 2,000 manufacturers, only 3 survived. Imagine the impact: 2,000 dropped to 3 — 99.85% of the companies disappeared! Moreover, even the selling prices of the surviving 3 were below their book values, meaning investors didn't make money at all!"
+
+## 来源
+1999年巴菲特太阳谷演讲（分析版）
+
+## 相关主题
+- 好主意比坏主意更危险

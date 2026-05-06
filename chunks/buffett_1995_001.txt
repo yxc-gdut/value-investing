@@ -1,0 +1,119 @@
+---
+source: Berkshire Hathaway Annual Report (HTML)
+year: 1995
+type: chairman-letter
+url: https://www.berkshirehathaway.com/1995ar/1995ar.html
+extracted_from: char 15456 - 91479
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+     Our gain in net worth during 1995 was $5.3 billion, or 45.0%.  Per-share book value grew by a little less, 43.1%, because
+we paid stock for two acquisitions, increasing our shares outstanding by 1.3%.  Over the last 31 years (that is, since present
+management took over) per-share book value has grown from $19 to $14,426, or at a rate of 23.6% compounded annually.
+
+     There's no reason to do handsprings over 1995's gains.  This was a year in which any fool could make a bundle in the
+stock market.  And we did.  To paraphrase President Kennedy, a rising tide lifts all yachts.
+
+     Putting aside the financial results, there was plenty of good news at Berkshire last year:  We negotiated three acquisitions
+of exactly the type we desire.  Two of these, Helzberg's Diamond Shops and R.C. Willey Home Furnishings, are included in
+our 1995 financial statements, while our largest transaction, the purchase of GEICO, closed immediately after the end of the year. 
+(I'll tell you more about all three acquisitions later in the report.)
+
+     These new subsidiaries roughly double our revenues.  Even so, the acquisitions neither materially increased our shares
+outstanding nor our debt.  And, though these three operations employ over 11,000 people, our headquarters staff grew only from
+11 to 12.  (No sense going crazy.)
+
+     Charlie Munger, Berkshire's Vice Chairman and my partner, and I want to build a collection of companies   both wholly-
+and partly-owned   that have excellent economic characteristics and that are run by outstanding managers.  Our favorite acquisition
+is the negotiated transaction that allows us to purchase 100% of such a business at a fair price.  But we are almost as happy
+when the stock market offers us the chance to buy a modest percentage of an outstanding business at a pro-rata price well below
+what it would take to buy 100%.  This double-barrelled approach   purchases of entire businesses through negotiation or purchases
+of part-interests through the stock market   gives us an important advantage over capital-allocators who stick to a single course. 
+Woody Allen once explained why eclecticism works:  &quot;The real advantage of being bisexual is that it doubles your chances for
+a date on Saturday night.&quot;
+
+     Over the years, we've been Woody-like in our thinking, attempting to increase our marketable investments in wonderful
+businesses, while simultaneously trying to buy similar businesses in their entirety.  The following table illustrates our progress
+on both fronts.  In the tabulation, we show the marketable securities owned per share of Berkshire at ten-year intervals.  A
+second column lists our per-share operating earnings (before taxes and purchase-price adjustments but after interest and corporate
+overhead) from all other activities.  In other words, the second column shows what we earned excluding the dividends, interest
+and capital gains that we realized from investments.  Purchase-price accounting adjustments are ignored for reasons we have
+explained at length in previous reports and which, as an act of mercy, we won't repeat.  (We'll be glad to send masochists the
+earlier explanations, however.)
+
+                                                        Pre-tax Earnings Per Share
+                                Marketable Securities   Excluding All Income from
+    Year                               Per Share                 Investments        
+    ----                        ---------------------   --------------------------
+    1965 ..........................   $      4                    $  4.08 
+    1975 ..........................        159                      (6.48)
+    1985 ..........................      2,443                      18.86 
+    1995 ..........................     22,088                     258.20 
+
+    Yearly Growth Rate: 1965-95....      33.4%                      14.7% 
+
+     These results have not sprung from some master plan that we concocted in 1965.  In a general way, we knew then what
+we hoped to accomplish but had no idea what specific opportunities might make it possible.  Today we remain similarly
+unstructured:  Over time, we expect to improve the figures in both columns but have no road map to tell us how that will come
+about.
+
+     We proceed with two advantages:  First, our operating managers are outstanding and, in most cases, have an unusually
+strong attachment to Berkshire.  Second, Charlie and I have had considerable experience in allocating capital and try to go at
+that job rationally and objectively.  The giant disadvantage we face is size:  In the early years, we needed only good ideas, but
+now we need good big ideas.  Unfortunately, the difficulty of finding these grows in direct proportion to our financial success,
+a problem that increasingly erodes our strengths.
+
+     I will have more to say about Berkshire's prospects later in this report, when I discuss our proposed recapitalization.
+
+Acquisitions  
+
+     It may seem strange that we exult over a year in which we made three acquisitions, given that we have regularly used these
+pages to question the acquisition activities of most managers.  Rest assured, Charlie and I haven't lost our skepticism:  We
+believe most deals do damage to the shareholders of the acquiring company.  Too often, the words from HMS Pinafore apply: 
+&quot;Things are seldom what they seem, skim milk masquerades as cream.&quot;  Specifically, sellers and their representatives invariably
+present financial projections having more entertainment value than educational value.  In the production of rosy scenarios, Wall
+Street can hold its own against Washington.
+
+     In any case, why potential buyers even look at projections prepared by sellers baffles me.  Charlie and I never give them
+a glance, but instead keep in mind the story of the man with an ailing horse.  Visiting the vet, he said:  &quot;Can you help me? 
+Sometimes my horse walks just fine and sometimes he limps.&quot;  The vet's reply was pointed:  &quot;No problem   when he's walking
+fine, sell him.&quot;  In the world of mergers and acquisitions, that horse would be peddled as Secretariat.
+
+     At Berkshire, we have all the difficulties in perceiving the future that other acquisition-minded companies do.  Like they also,
+we face the inherent problem that the seller of a business practically always knows far more about it than the buyer and also picks
+the time of sale   a time when the business is likely to be walking &quot;just fine.&quot;
+
+     Even so, we do have a few advantages, perhaps the greatest being that we don't have a strategic plan.  Thus we feel no
+need to proceed in an ordained direction (a course leading almost invariably to silly purchase prices) but can instead simply decide
+what makes sense for our owners.  In doing that, we always mentally compare any move we are contemplating with dozens of
+other opportunities open to us, including the purchase of small pieces of the best businesses in the world via the stock market. 
+Our practice of making this comparison   acquisitions against passive investments   is a discipline that managers focused simply
+on expansion seldom use.
+
+     Talking to Time Magazine a few years back, Peter Drucker got to the heart of things:  &quot;I will tell you a secret: Dealmaking
+beats working.  Dealmaking is exciting and fun, and working is grubby.  Running anything is primarily an enormous amount
+of grubby detail work . . . dealmaking is romantic, sexy.  That's why you have deals that make no sense.&quot;
+
+     In making acquisitions, we have a further advantage:  As payment, we can offer sellers a stock backed by an extraordinary
+collection of outstanding businesses.  An individual or a family wishing to dispose of a single fine business, but also wishing
+to defer personal taxes indefinitely, is apt to find Berkshire stock a particularly comfortable holding.  I believe, in fact, that this
+calculus played an important part in the two acquisitions for which we paid shares in 1995.
+
+     Beyond that, sellers sometimes care about placing their companies in a corporate home that will both endure and provide
+pleasant, productive working conditions for their managers.  Here again, Berkshire offers something special.  Our managers
+operate with extraordinary autonomy.  Additionally, our ownership structure enables sellers to know that when I say we are
+buying to keep, the promise means something.  For our part, we like dealing with owners who care what happens to their
+companies and people.  A buyer is likely to find fewer unpleasant surprises dealing with that type of seller than with one simply
+auctioning off his business.
+
+     In addition to the foregoing being an explanation of our acquisition style, it is, of course, a not-so-subtle sales pitch.  If
+you own or represent a business earning $25 million or more before tax, and it fits the criteria listed on page 23, just give me
+a call.  Our discussion will be confidential.  And if you aren't interested now, file our proposition in the back of your mind:  We
+are never going to lose our appetite for buying companies with good economics and excellent management.
+
+     Concluding this little dissertation on acquisitions, I can't resist repeating a tale told me last year by a corporate executive. 
+The business he grew up in was a fine one, with a long-time record of leadership in its industry.  Its main product, however,
+was distressingly glamorless.  So several decades ago, the company hired a management consultant who   naturally   advised
+diversification, the then-current fad.  (&quot;Focus&quot; was not yet in style.)  Before long, the company acquired a number of businesses,
+each after the consulting firm had gone through a long   and expensive   acquisition study.  And the outcome?  Said the

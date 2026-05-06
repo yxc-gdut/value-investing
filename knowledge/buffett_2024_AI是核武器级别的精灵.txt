@@ -1,0 +1,35 @@
+---
+topic: AI是核武器级别的精灵
+category: 宏观经济
+source: 2024年伯克希尔股东大会
+related: AI与核武器, 好主意比坏主意更危险
+year: 2024
+---
+# AI是核武器级别的精灵
+
+## 摘要
+2024年巴菲特在股东大会上将AI与核武器发明相提并论，认为AI是"放出的精灵"，拥有巨大的善和恶的潜力。巴菲特亲身体验了AI深度伪造——屏幕上的"自己"说着自己从未说过的话，连家人都无法分辨。
+
+## 核心观点
+1. "去年我说核武器是把精灵放出了瓶子，AI某种程度上类似"
+2. 巴菲特亲见AI深度伪造自己的视频和声音，妻子和女儿都无法分辨
+3. "如果你对诈骗感兴趣，这将成为有史以来增长最快的行业"
+4. AI创造了大量闲暇时间，但人们如何利用闲暇是另一个问题
+5. 引用Einstein-Szilard致Roosevelt的信作为类比——最关键的决策往往在不确定性中做出
+6. AI对社会可能是好事也可能是坏事，但没人知道如何确保结果是好的
+7. Greg Abel: 伯克希尔各业务主要用AI提高效率、安全性，还处于早期阶段
+8. 引用Keynes: 正确预测了人均产出增长，但没预测对人们会如何利用
+
+## 原文引用
+> "AI is part way out of the bottle, and it's enormously important, and it's going to be done by somebody."
+>
+> "If you can reproduce images that I can't even tell... it's going to be the growth industry of all time."
+>
+> "You can be kind. And then the world's better off."
+
+## 来源
+2024年伯克希尔股东大会逐字稿
+
+## 相关主题
+- AI与核武器
+- 好主意比坏主意更危险

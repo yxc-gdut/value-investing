@@ -1,0 +1,151 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2006
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2006ar/2006ar.pdf
+extracted_from: line 329 - 1662
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Our gain in net worth during 2006 was $16.9 billion, which increased the per-share book value of
+both our Class A and Class B stock by 18.4%. Over the last 42 years (that is, since present management
+took over) book value has grown from $19 to $70,281, a rate of 21.4% compounded annually.*
+We believe that $16.9 billion is a record for a one-year gain in net worth – more than has ever
+been booked by any American business, leaving aside boosts that have occurred because of mergers (e.g.,
+AOL’s purchase of Time Warner). Of course, Exxon Mobil and other companies earn far more than
+Berkshire, but their earnings largely go to dividends and/or repurchases, rather than to building net worth.
+All that said, a confession about our 2006 gain is in order. Our most important business,
+insurance, benefited from a large dose of luck: Mother Nature, bless her heart, went on vacation. After
+hammering us with hurricanes in 2004 and 2005 – storms that caused us to lose a bundle on super-cat
+insurance – she just vanished. Last year, the red ink from this activity turned black – very black.
+In addition, the great majority of our 73 businesses did outstandingly well in 2006. Let me focus
+for a moment on one of our largest operations, GEICO. What management accomplished there was simply
+extraordinary.
+As I’ve told you before, Tony Nicely, GEICO’s CEO, went to work at the company 45 years ago,
+two months after turning 18. He became CEO in 1992, and from then on the company’s growth exploded.
+In addition, Tony has delivered staggering productivity gains in recent years. Between yearend 2003 and
+yearend 2006, the number of GEICO policies increased from 5.7 million to 8.1 million, a jump of 42%.
+Yet during that same period, the company’s employees (measured on a fulltime-equivalent basis) fell 3.5%.
+So productivity grew 47%. And GEICO didn’t start fat.
+That remarkable gain has allowed GEICO to maintain its all-important position as a low-cost
+producer, even though it has dramatically increased advertising expenditures. Last year GEICO spent $631
+million on ads, up from $238 million in 2003 (and up from $31 million in 1995, when Berkshire took
+control). Today, GEICO spends far more on ads than any of its competitors, even those much larger. We
+will continue to raise the bar.
+Last year I told you that if you had a new son or grandson to be sure to name him Tony. But Don
+Keough, a Berkshire director, recently had a better idea. After reviewing GEICO’s performance in 2006,
+he wrote me, “Forget births. Tell the shareholders to immediately change the names of their present
+children to Tony or Antoinette.” Don signed his letter “Tony.”
+************
+Charlie Munger – my partner and Berkshire’s vice chairman – and I run what has turned out to be
+a big business, one with 217,000 employees and annual revenues approaching $100 billion. We certainly
+didn’t plan it that way. Charlie began as a lawyer, and I thought of myself as a security analyst. Sitting in
+those seats, we both grew skeptical about the ability of big entities of any type to function well. Size seems
+to make many organizations slow-thinking, resistant to change and smug. In Churchill’s words: “We shape
+our buildings, and afterwards our buildings shape us.” Here’s a telling fact: Of the ten non-oil companies
+having the largest market capitalization in 1965 – titans such as General Motors, Sears, DuPont and
+Eastman Kodak – only one made the 2006 list.
+
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares
+are 1/30th of those shown for the A.
+
+3
+
+In fairness, we’ve seen plenty of successes as well, some truly outstanding. There are many giantcompany managers whom I greatly admire; Ken Chenault of American Express, Jeff Immelt of G.E. and
+Dick Kovacevich of Wells Fargo come quickly to mind. But I don’t think I could do the management job
+they do. And I know I wouldn’t enjoy many of the duties that come with their positions – meetings,
+speeches, foreign travel, the charity circuit and governmental relations. For me, Ronald Reagan had it
+right: “It’s probably true that hard work never killed anyone – but why take the chance?”
+So I’ve taken the easy route, just sitting back and working through great managers who run their
+own shows. My only tasks are to cheer them on, sculpt and harden our corporate culture, and make major
+capital-allocation decisions. Our managers have returned this trust by working hard and effectively.
+For their performance over the last 42 years – and particularly for 2006 – Charlie and I thank
+them.
+Yardsticks
+Charlie and I measure Berkshire’s progress and evaluate its intrinsic value in a number of ways.
+No single criterion is effective in doing these jobs, and even an avalanche of statistics will not capture some
+factors that are important. For example, it’s essential that we have managers much younger than I available
+to succeed me. Berkshire has never been in better shape in this regard – but I can’t prove it to you with
+numbers.
+There are two statistics, however, that are of real importance. The first is the amount of
+investments (including cash and cash-equivalents) that we own on a per-share basis. Arriving at this figure,
+we exclude investments held in our finance operation because these are largely offset by borrowings.
+Here’s the record since present management acquired control of Berkshire:
+
+Year
+
+Per-Share Investments*
+
+1965 .....................................................................
+1975 .....................................................................
+1985 .....................................................................
+1995 .....................................................................
+2006 .....................................................................
+Compound Growth Rate 1965-2006....................
+Compound Growth Rate 1995-2006....................
+*Net of minority interests
+
+$
+
+4
+159
+2,407
+21,817
+$80,636
+27.5%
+12.6%
+
+In our early years we put most of our retained earnings and insurance float into investments in
+marketable securities. Because of this emphasis, and because the securities we purchased generally did
+well, our growth rate in investments was for a long time quite high.
+Over the years, however, we have focused more and more on the acquisition of operating
+businesses. Using our funds for these purchases has both slowed our growth in investments and accelerated
+our gains in pre-tax earnings from non-insurance businesses, the second yardstick we use. Here’s how
+those earnings have looked:
+
+4
+
+Year
+
+Pre-Tax Earnings Per Share*
+
+1965 .....................................................................
+$
+4
+1975 .....................................................................
+4
+1985 .....................................................................
+52
+1995 .....................................................................
+175
+2006 .....................................................................
+$3,625
+Compound Growth Rate 1965-2006 ....................
+17.9%
+Compound Growth Rate 1995-2006 ....................
+31.7%
+*Excluding purchase-accounting adjustments and net of minority interests
+Last year we had a good increase in non-insurance earnings – 38%. Large gains from here on in,
+though, will come only if we are able to make major, and sensible, acquisitions. That will not be easy. We
+do, however, have one advantage: More and more, Berkshire has become “the buyer of choice” for
+business owners and managers. Initially, we were viewed that way only in the U.S. (and more often than
+not by private companies). We’ve long wanted, nonetheless, to extend Berkshire’s appeal beyond U.S.
+borders. And last year, our globe-trotting finally got underway.
+Acquisitions
+We began 2006 by completing the three acquisitions pending at yearend 2005, spending about $6
+billion for PacifiCorp, Business Wire and Applied Underwriters. All are performing very well.
+The highlight of the year, however, was our July 5th acquisition of most of ISCAR, an Israeli
+company, and our new association with its chairman, Eitan Wertheimer, and CEO, Jacob Harpaz. The
+story here began on October 25, 2005, when I received a 1¼-page letter from Eitan, of whom I then knew
+nothing. The letter began, “I am writing to introduce you to ISCAR,” and proceeded to describe a cuttingtool business carried on in 61 countries. Then Eitan wrote, “We have for some time considered the issues
+of generational transfer and ownership that are typical for large family enterprises, and have given much
+thought to ISCAR’s future. Our conclusion is that Berkshire Hathaway would be the ideal home for
+ISCAR. We believe that ISCAR would continue to thrive as a part of your portfolio of businesses.”
+Overall, Eitan’s letter made the quality of the company and the character of its management leap
+off the page. It also made me want to learn more, and in November, Eitan, Jacob and ISCAR’s CFO,
+Danny Goldman, came to Omaha. A few hours with them convinced me that if we were to make a deal, we
+would be teaming up with extraordinarily talented managers who could be trusted to run the business after
+a sale with all of the energy and dedication that they had exhibited previously. However, having never
+bought a business based outside of the U.S. (though I had bought a number of foreign stocks), I needed to
+get educated on some tax and jurisdictional matters. With that task completed, Berkshire purchased 80% of
+ISCAR for $4 billion. The remaining 20% stays in the hands of the Wertheimer family, making it our

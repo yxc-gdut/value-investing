@@ -1,0 +1,140 @@
+underwriting loss should fall considerably. It takes some time, however, for the full effect of rate increases to kick in,
+and General Re is therefore likely to have another unsatisfactory underwriting year.
+
+4
+
+You should be aware that one item regularly working to widen the amount by which intrinsic value exceeds book
+value is the annual charge against income we take for amortization of goodwill — an amount now running about $500
+million. This charge reduces the amount of goodwill we show as an asset and likewise the amount that is included in
+our book value. This is an accounting matter having nothing to do with true economic goodwill, which increases in most
+years. But even if economic goodwill were to remain constant, the annual amortization charge would persistently widen
+the gap between intrinsic value and book value.
+Though we can’t give you a precise figure for Berkshire’s intrinsic value, or even an approximation, Charlie and
+I can assure you that it far exceeds our $57.8 billion book value. Businesses such as See’s and Buffalo News are now
+worth fifteen to twenty times the value at which they are carried on our books. Our goal is to continually widen this
+spread at all subsidiaries.
+A Managerial Story You Will Never Read Elsewhere
+Berkshire’s collection of managers is unusual in several important ways. As one example, a very high percentage
+of these men and women are independently wealthy, having made fortunes in the businesses that they run. They work
+neither because they need the money nor because they are contractually obligated to — we have no contracts at Berkshire.
+Rather, they work long and hard because they love their businesses. And I use the word “their” advisedly, since these
+managers are truly in charge — there are no show-and-tell presentations in Omaha, no budgets to be approved by
+headquarters, no dictums issued about capital expenditures. We simply ask our managers to run their companies as if
+these are the sole asset of their families and will remain so for the next century.
+Charlie and I try to behave with our managers just as we attempt to behave with Berkshire’s shareholders, treating
+both groups as we would wish to be treated if our positions were reversed. Though “working” means nothing to me
+financially, I love doing it at Berkshire for some simple reasons: It gives me a sense of achievement, a freedom to act as
+I see fit and an opportunity to interact daily with people I like and trust. Why should our managers — accomplished
+artists at what they do — see things differently?
+In their relations with Berkshire, our managers often appear to be hewing to President Kennedy’s charge, “Ask
+not what your country can do for you; ask what you can do for your country.” Here’s a remarkable story from last year:
+It’s about R. C. Willey, Utah’s dominant home furnishing business, which Berkshire purchased from Bill Child and his
+family in 1995. Bill and most of his managers are Mormons, and for this reason R. C. Willey’s stores have never
+operated on Sunday. This is a difficult way to do business: Sunday is the favorite shopping day for many customers.
+Bill, nonetheless, stuck to his principles -- and while doing so built his business from $250,000 of annual sales in 1954,
+when he took over, to $342 million in 1999.
+Bill felt that R. C. Willey could operate successfully in markets outside of Utah and in 1997 suggested that we open
+a store in Boise. I was highly skeptical about taking a no-Sunday policy into a new territory where we would be up
+against entrenched rivals open seven days a week. Nevertheless, this was Bill’s business to run. So, despite my
+reservations, I told him to follow both his business judgment and his religious convictions.
+Bill then insisted on a truly extraordinary proposition: He would personally buy the land and build the store — for
+about $9 million as it turned out — and would sell it to us at his cost if it proved to be successful. On the other hand,
+if sales fell short of his expectations, we could exit the business without paying Bill a cent. This outcome, of course, would
+leave him with a huge investment in an empty building. I told him that I appreciated his offer but felt that if Berkshire
+was going to get the upside it should also take the downside. Bill said nothing doing: If there was to be failure because
+of his religious beliefs, he wanted to take the blow personally.
+The store opened last August and immediately became a huge success. Bill thereupon turned the property over
+to us — including some extra land that had appreciated significantly — and we wrote him a check for his cost. And get
+this: Bill refused to take a dime of interest on the capital he had tied up over the two years.
+
+5
+
+If a manager has behaved similarly at some other public corporation, I haven’t heard about it. You can understand
+why the opportunity to partner with people like Bill Child causes me to tap dance to work every morning.
+************
+A footnote: After our “soft” opening in August, we had a grand opening of the Boise store about a month later.
+Naturally, I went there to cut the ribbon (your Chairman, I wish to emphasize, is good for something). In my talk I told
+the crowd how sales had far exceeded expectations, making us, by a considerable margin, the largest home furnishings
+store in Idaho. Then, as the speech progressed, my memory miraculously began to improve. By the end of my talk, it
+all had come back to me: Opening a store in Boise had been my idea.
+The Economics of Property/Casualty Insurance
+Our main business — though we have others of great importance — is insurance. To understand Berkshire,
+therefore, it is necessary that you understand how to evaluate an insurance company. The key determinants are: (1) the
+amount of float that the business generates; (2) its cost; and (3) most critical of all, the long-term outlook for both of these
+factors.
+To begin with, float is money we hold but don't own. In an insurance operation, float arises because premiums are
+received before losses are paid, an interval that sometimes extends over many years. During that time, the insurer invests
+the money. This pleasant activity typically carries with it a downside: The premiums that an insurer takes in usually
+do not cover the losses and expenses it eventually must pay. That leaves it running an "underwriting loss," which is the
+cost of float. An insurance business has value if its cost of float over time is less than the cost the company would
+otherwise incur to obtain funds. But the business is a lemon if its cost of float is higher than market rates for money.
+A caution is appropriate here: Because loss costs must be estimated, insurers have enormous latitude in figuring
+their underwriting results, and that makes it very difficult for investors to calculate a company's true cost of float. Errors
+of estimation, usually innocent but sometimes not, can be huge. The consequences of these miscalculations flow directly
+into earnings. An experienced observer can usually detect large-scale errors in reserving, but the general public can
+typically do no more than accept what's presented, and at times I have been amazed by the numbers that big-name
+auditors have implicitly blessed. In 1999 a number of insurers announced reserve adjustments that made a mockery of
+the “earnings” that investors had relied on earlier when making their buy and sell decisions. At Berkshire, we strive to
+be conservative and consistent in our reserving. Even so, we warn you that an unpleasant surprise is always possible.
+The table that follows shows (at intervals) the float generated by the various segments of Berkshire’s insurance
+operations since we entered the business 33 years ago upon acquiring National Indemnity Company (whose traditional
+lines are included in the segment “Other Primary”). For the table we have calculated our float — which we generate in
+large amounts relative to our premium volume — by adding net loss reserves, loss adjustment reserves, funds held under
+reinsurance assumed and unearned premium reserves, and then subtracting agents balances, prepaid acquisition costs,
+prepaid taxes and deferred charges applicable to assumed reinsurance. (Got that?)
+Yearend Float (in $ millions)
+
+Year
+1967
+1977
+1987
+1997
+
+GEICO
+
+1998
+1999
+
+3,125
+3,444
+
+General Re
+
+Other
+Reinsurance
+
+2,917
+14,909
+15,166
+
+40
+701
+4,014
+
+Other
+Primary
+20
+131
+807
+455
+
+Total
+20
+171
+1,508
+7,386
+
+4,305
+6,285
+
+415
+403
+
+22,754
+25,298
+
+Growth of float is important — but its cost is what’s vital. Over the years we have usually recorded only a small
+underwriting loss — which means our cost of float was correspondingly low — or actually had an underwriting profit,
+6
+
+which means we were being paid for holding other people’s money. Indeed, our cumulative result through 1998 was an

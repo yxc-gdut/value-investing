@@ -1,0 +1,163 @@
+commodity positions be carried at market value. Therefore, both our annual
+and quarterly financial statements reflect any unrealized gain or loss
+in these contracts. When we established our contracts, oil for future delivery
+seemed modestly underpriced. Today, though, we have no opinion as to its
+attractiveness.
+
+Our second non-traditional commitment
+is in silver. Last year, we purchased 111.2 million ounces. Marked to market,
+that position produced a pre-tax gain of $97.4 million for us in 1997.
+In a way, this is a return to the past for me: Thirty years ago, I bought
+silver because I anticipated its demonetization by the U.S. Government.
+Ever since, I have followed the metal's fundamentals but not owned it.
+In recent years, bullion inventories have fallen materially, and last summer
+Charlie and I concluded that a higher price would be needed to establish
+equilibrium between supply and demand. Inflation expectations, it should
+be noted, play no part in our calculation of silver's value.
+
+Finally, our largest non-traditional
+position at yearend was $4.6 billion, at amortized cost, of long-term zero-coupon
+obligations of the U.S. Treasury. These securities pay no interest. Instead,
+they provide their holders a return by way of the discount at which they
+are purchased, a characteristic that makes their market prices move rapidly
+when interest rates change. If rates rise, you lose heavily with zeros,
+and if rates fall, you make outsized gains. Since rates fell in 1997, we
+ended the year with an unrealized pre-tax gain of $598.8 million in our
+zeros. Because we carry the securities at market value, that gain is reflected
+in yearend book value.
+
+In purchasing zeros, rather than
+staying with cash-equivalents, we risk looking very foolish: A macro-based
+commitment such as this never has anything close to a 100% probability
+of being successful. However, you pay Charlie and me to use our best judgment
+-- not to avoid embarrassment -- and we will occasionally make an unconventional
+move when we believe the odds favor it. Try to think kindly of us when
+we blow one. Along with President Clinton, we will be feeling your pain:
+The Munger family has more than 90% of its net worth in Berkshire and the
+Buffetts more than 99%.
+
+How We Think About Market Fluctuations
+
+A short quiz: If you plan to eat
+hamburgers throughout your life and are not a cattle producer, should you
+wish for higher or lower prices for beef? Likewise, if you are going to
+buy a car from time to time but are not an auto manufacturer, should you
+prefer higher or lower car prices? These questions, of course, answer themselves.
+
+But now for the final exam: If
+you expect to be a net saver during the next five years, should you hope
+for a higher or lower stock market during that period? Many investors get
+this one wrong. Even though they are going to be net buyers of stocks for
+many years to come, they are elated when stock prices rise and depressed
+when they fall. In effect, they rejoice because prices have risen for the
+"hamburgers" they will soon be buying. This reaction makes no
+sense. Only those who will be sellers of equities in the near future should
+be happy at seeing stocks rise. Prospective purchasers should much prefer
+sinking prices.
+
+For shareholders of Berkshire who
+do not expect to sell, the choice is even clearer. To begin with, our owners
+are automatically saving even if they spend every dime they personally
+earn: Berkshire "saves" for them by retaining all earnings, thereafter
+using these savings to purchase businesses and securities. Clearly, the
+more cheaply we make these buys, the more profitable our owners' indirect
+savings program will be.
+
+Furthermore, through Berkshire
+you own major positions in companies that consistently repurchase their
+shares. The benefits that these programs supply us grow as prices fall:
+When stock prices are low, the funds that an investee spends on repurchases
+increase our ownership of that company by a greater amount than is the
+case when prices are higher. For example, the repurchases that Coca-Cola,
+The Washington Post and Wells Fargo made in past years at very low prices
+benefitted Berkshire far more than do today's repurchases, made at loftier
+prices.
+
+At the end of every year, about
+97% of Berkshire's shares are held by the same investors who owned them
+at the start of the year. That makes them savers. They should therefore
+rejoice when markets decline and allow both us and our investees to deploy
+funds more advantageously.
+
+So smile when you read a headline
+that says "Investors lose as market falls." Edit it in your mind
+to " Dis investors lose as market falls -- but investors gain."
+Though writers often forget this truism, there is a buyer for every seller
+and what hurts one necessarily helps the other. (As they say in golf matches:
+"Every putt makes someone happy.")
+
+We gained enormously from the low
+prices placed on many equities and businesses in the 1970s and 1980s. Markets
+that then were hostile to investment transients were friendly to those
+taking up permanent residence. In recent years, the actions we took in
+those decades have been validated, but we have found few new opportunities.
+In its role as a corporate "saver," Berkshire continually looks
+for ways to sensibly deploy capital, but it may be some time before we
+find opportunities that get us truly excited.
+
+Insurance Operations -- Overview
+
+What does excite us, however, is
+our insurance business. GEICO is flying, and we expect that it will continue
+to do so. Before we expound on that, though, let's discuss "float"
+and how to measure its cost. Unless you understand this subject, it will
+be impossible for you to make an informed judgment about Berkshire's intrinsic
+value.
+
+To begin with, float is money we
+hold but don't own. In an insurance operation, float arises because premiums
+are received before losses are paid, an interval that sometimes extends
+over many years. During that time, the insurer invests the money. Typically,
+this pleasant activity carries with it a downside: The premiums that an
+insurer takes in usually do not cover the losses and expenses it eventually
+must pay. That leaves it running an "underwriting loss," which
+is the cost of float. An insurance business has value if its cost of float
+over time is less than the cost the company would otherwise incur to obtain
+funds. But the business is a lemon if its cost of float is higher than
+market rates for money.
+
+A caution is appropriate here:
+Because loss costs must be estimated, insurers have enormous latitude in
+figuring their underwriting results, and that makes it very difficult for
+investors to calculate a company's true cost of float. Estimating errors,
+usually innocent but sometimes not, can be huge. The consequences of these
+miscalculations flow directly into earnings. An experienced observer can
+usually detect large-scale errors in reserving, but the general public
+can typically do no more than accept what's presented, and at times I have
+been amazed by the numbers that big-name auditors have implicitly blessed.
+As for Berkshire, Charlie and I attempt to be conservative in presenting
+its underwriting results to you, because we have found that virtually all
+surprises in insurance are unpleasant ones.
+
+As the numbers in the following
+table show, Berkshire's insurance business has been a huge winner. For
+the table, we have calculated our float -- which we generate in large amounts
+relative to our premium volume -- by adding net loss reserves, loss adjustment
+reserves, funds held under reinsurance assumed and unearned premium reserves,
+and then subtracting agents' balances, prepaid acquisition costs, prepaid
+taxes and deferred charges applicable to assumed reinsurance. Our cost
+of float is determined by our underwriting loss or profit. In those years
+when we have had an underwriting profit, such as the last five, our cost
+of float has been negative. In effect, we have been paid for holding money.
+
+Since 1967, when we entered the
+insurance business, our float has grown at an annual compounded rate of
+21.7%. Better yet, it has cost us nothing, and in fact has made us money.
+Therein lies an accounting irony: Though our float is shown on our balance
+sheet as a liability, it has had a value to Berkshire greater than an equal
+amount of net worth would have had.
+
+The expiration of several large
+contracts will cause our float to decline during the first quarter of 1998,
+but we expect it to grow substantially over the long term. We also believe
+that our cost of float will continue to be highly favorable.
+
+Super-Cat Insurance
+
+Occasionally, however, the cost
+of our float will spike severely. That will occur because of our heavy
+involvement in the super-cat business, which by its nature is the most
+volatile of all insurance lines. In this operation, we sell policies that
+insurance and reinsurance companies purchase in order to limit their losses
+when mega-catastrophes strike. Berkshire is the preferred market for sophisticated
+buyers: When the "big one" hits, the financial strength of super-cat

@@ -1,0 +1,138 @@
+ConocoPhillips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Johnson & Johnson . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kraft Foods Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+POSCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Procter & Gamble Company . . . . . . . . . . . . . . . . .
+Sanofi-Aventis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Swiss Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+U.S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Washington Post Company . . . . . . . . . . . . . . . . . .
+Wells Fargo & Company . . . . . . . . . . . . . . . . . . . . . . .
+Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Total Common Stocks Carried at Market . . . . . . . . . .
+
+13.1
+8.6
+5.7
+1.1
+8.9
+5.2
+3.1
+1.7
+3.2
+2.9
+4.3
+0.5
+18.4
+7.2
+
+Cost*
+Market
+(in millions)
+$ 1,287
+$ 2,812
+1,299
+9,054
+7,008
+4,398
+1,847
+1,795
+4,330
+3,498
+768
+1,191
+643
+5,684
+1,827
+1,404
+773
+530
+1,326
+1,193
+2,337
+1,879
+942
+1,118
+11
+674
+6,702
+8,973
+6,035
+4,870
+$37,135
+
+$49,073
+
+*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of
+write-ups or write-downs that have been required.
+In addition, we have holdings in Moody’s and Burlington Northern Santa Fe that we now carry at
+“equity value” – our cost plus retained earnings since our purchase, minus the tax that would be paid if those
+earnings were paid to us as dividends. This accounting treatment is usually required when ownership of an
+investee company reaches 20%.
+We purchased 15% of Moody’s some years ago and have not since bought a share. Moody’s, though,
+has repurchased its own shares and, by late 2008, those repurchases reduced its outstanding shares to the point
+that our holdings rose above 20%. Burlington Northern has also repurchased shares, but our increase to 20%
+primarily occurred because we continued to buy this stock.
+
+15
+
+Unless facts or rules change, you will see these holdings reflected in our balance sheet at “equity
+accounting” values, whatever their market prices. You will also see our share of their earnings (less applicable
+taxes) regularly included in our quarterly and annual earnings.
+I told you in an earlier part of this report that last year I made a major mistake of commission (and
+maybe more; this one sticks out). Without urging from Charlie or anyone else, I bought a large amount of
+ConocoPhillips stock when oil and gas prices were near their peak. I in no way anticipated the dramatic fall in
+energy prices that occurred in the last half of the year. I still believe the odds are good that oil sells far higher in
+the future than the current $40-$50 price. But so far I have been dead wrong. Even if prices should rise,
+moreover, the terrible timing of my purchase has cost Berkshire several billion dollars.
+I made some other already-recognizable errors as well. They were smaller, but unfortunately not that
+small. During 2008, I spent $244 million for shares of two Irish banks that appeared cheap to me. At yearend we
+wrote these holdings down to market: $27 million, for an 89% loss. Since then, the two stocks have declined
+even further. The tennis crowd would call my mistakes “unforced errors.”
+On the plus side last year, we made purchases totaling $14.5 billion in fixed-income securities issued
+by Wrigley, Goldman Sachs and General Electric. We very much like these commitments, which carry high
+current yields that, in themselves, make the investments more than satisfactory. But in each of these three
+purchases, we also acquired a substantial equity participation as a bonus. To fund these large purchases, I had to
+sell portions of some holdings that I would have preferred to keep (primarily Johnson & Johnson, Procter &
+Gamble and ConocoPhillips). However, I have pledged – to you, the rating agencies and myself – to always run
+Berkshire with more than ample cash. We never want to count on the kindness of strangers in order to meet
+tomorrow’s obligations. When forced to choose, I will not trade even a night’s sleep for the chance of extra
+profits.
+The investment world has gone from underpricing risk to overpricing it. This change has not been
+minor; the pendulum has covered an extraordinary arc. A few years ago, it would have seemed unthinkable that
+yields like today’s could have been obtained on good-grade municipal or corporate bonds even while risk-free
+governments offered near-zero returns on short-term bonds and no better than a pittance on long-terms. When the
+financial history of this decade is written, it will surely speak of the Internet bubble of the late 1990s and the
+housing bubble of the early 2000s. But the U.S. Treasury bond bubble of late 2008 may be regarded as almost
+equally extraordinary.
+Clinging to cash equivalents or long-term government bonds at present yields is almost certainly a
+terrible policy if continued for long. Holders of these instruments, of course, have felt increasingly comfortable –
+in fact, almost smug – in following this policy as financial turmoil has mounted. They regard their judgment
+confirmed when they hear commentators proclaim “cash is king,” even though that wonderful cash is earning
+close to nothing and will surely find its purchasing power eroded over time.
+Approval, though, is not the goal of investing. In fact, approval is often counter-productive because it
+sedates the brain and makes it less receptive to new facts or a re-examination of conclusions formed earlier.
+Beware the investment activity that produces applause; the great moves are usually greeted by yawns.
+Derivatives
+Derivatives are dangerous. They have dramatically increased the leverage and risks in our financial
+system. They have made it almost impossible for investors to understand and analyze our largest commercial
+banks and investment banks. They allowed Fannie Mae and Freddie Mac to engage in massive misstatements of
+earnings for years. So indecipherable were Freddie and Fannie that their federal regulator, OFHEO, whose more
+than 100 employees had no job except the oversight of these two institutions, totally missed their cooking of the
+books.
+
+16
+
+Indeed, recent events demonstrate that certain big-name CEOs (or former CEOs) at major financial
+institutions were simply incapable of managing a business with a huge, complex book of derivatives. Include
+Charlie and me in this hapless group: When Berkshire purchased General Re in 1998, we knew we could not get
+our minds around its book of 23,218 derivatives contracts, made with 884 counterparties (many of which we had
+never heard of). So we decided to close up shop. Though we were under no pressure and were operating in
+benign markets as we exited, it took us five years and more than $400 million in losses to largely complete the
+task. Upon leaving, our feelings about the business mirrored a line in a country song: “I liked you better before I
+got to know you so well.”
+Improved “transparency” – a favorite remedy of politicians, commentators and financial regulators for
+averting future train wrecks – won’t cure the problems that derivatives pose. I know of no reporting mechanism
+that would come close to describing and measuring the risks in a huge and complex portfolio of derivatives.

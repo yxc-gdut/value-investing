@@ -1,0 +1,100 @@
+investments or, better yet, a really major business acquisition that would absorb our liquid assets. Currently,
+however, we see nothing on the horizon.
+Once we knew that the General Re merger would definitely take place, we asked the company to dispose of
+the equities that it held. (As mentioned earlier, we do not manage the Cologne Re portfolio, which includes many
+equities.) General Re subsequently eliminated its positions in about 250 common stocks, incurring $935 million
+of taxes in the process. This “clean sweep” approach reflects a basic principle that Charlie and I employ in
+business and investing: We don’t back into decisions.
+Last year I deviated from my standard practice of not disclosing our investments (other than those we are
+legally required to report) and told you about three unconventional investments we had made. There were several
+reasons behind that disclosure. First, questions about our silver position that we had received from regulatory
+authorities led us to believe that they wished us to publicly acknowledge this investment. Second, our holdings
+of zero-coupon bonds were so large that we wanted our owners to know of this investment’s potential impact on
+Berkshire’s net worth. Third, we simply wanted to alert you to the fact that we sometimes do make unconventional
+commitments.
+Normally, however, as discussed in the Owner’s Manual on page 61, we see no advantage in talking about
+specific investment actions. Therefore — unless we again take a position that is particularly large — we will not
+post you as to what we are doing in respect to any specific holding of an unconventional sort. We can report,
+however, that we have eliminated certain of the positions discussed last year and added certain others.
+Our never-comment-even-if-untrue policy in regard to investments may disappoint “piggybackers” but will
+benefit owners: Your Berkshire shares would be worth less if we discussed what we are doing. Incidentally, we
+should warn you that media speculation about our investment moves continues in most cases to be incorrect.
+People who rely on such commentary do so at their own peril.
+Accounting — Part 1
+Our General Re acquisition put a spotlight on an egregious flaw in accounting procedure. Sharp-eyed
+shareholders reading our proxy statement probably noticed an unusual item on page 60. In the pro-forma
+statement of income — which detailed how the combined 1997 earnings of the two entities would have been
+affected by the merger — there was an item stating that compensation expense would have been increased by $63
+million.
+This item, we hasten to add, does not signal that either Charlie or I have experienced a major personality
+change. (He still travels coach and quotes Ben Franklin.) Nor does it indicate any shortcoming in General Re’s
+accounting practices, which have followed GAAP to the letter. Instead, the pro-forma adjustment came about
+because we are replacing General Re’s longstanding stock option plan with a cash plan that ties the incentive
+compensation of General Re managers to their operating achievements. Formerly what counted for these managers
+was General Re’s stock price; now their payoff will come from the business performance they deliver.
+The new plan and the terminated option arrangement have matching economics, which means that the rewards
+they deliver to employees should, for a given level of performance, be the same. But what these people could have
+formerly anticipated earning from new option grants will now be paid in cash. (Options granted in past years
+remain outstanding.)
+Though the two plans are an economic wash, the cash plan we are putting in will produce a vastly different
+accounting result. This Alice-in-Wonderland outcome occurs because existing accounting principles ignore the cost
+of stock options when earnings are being calculated, even though options are a huge and increasing expense at a
+great many corporations. In effect, accounting principles offer management a choice: Pay employees in one form
+and count the cost, or pay them in another form and ignore the cost. Small wonder then that the use of options
+
+13
+
+has mushroomed. This lop-sided choice has a big downside for owners, however: Though options, if properly
+structured, can be an appropriate, and even ideal, way to compensate and motivate top managers, they are more
+often wildly capricious in their distribution of rewards, inefficient as motivators, and inordinately expensive for
+shareholders.
+Whatever the merits of options may be, their accounting treatment is outrageous. Think for a moment of that
+$190 million we are going to spend for advertising at GEICO this year. Suppose that instead of paying cash for
+our ads, we paid the media in ten-year, at-the-market Berkshire options. Would anyone then care to argue
+that Berkshire had not borne a cost for advertising, or should not be charged this cost on its books?
+Perhaps Bishop Berkeley — you may remember him as the philosopher who mused about trees falling in a
+forest when no one was around — would believe that an expense unseen by an accountant does not exist. Charlie
+and I, however, have trouble being philosophical about unrecorded costs. When we consider investing in an optionissuing company, we make an appropriate downward adjustment to reported earnings, simply subtracting an amount
+equal to what the company could have realized by publicly selling options of like quantity and structure. Similarly,
+if we contemplate an acquisition, we include in our evaluation the cost of replacing any option plan. Then, if we
+make a deal, we promptly take that cost out of hiding.
+Readers who disagree with me about options will by this time be mentally quarreling with my equating the
+cost of options issued to employees with those that might theoretically be sold and traded publicly. It is true, to
+state one of these arguments, that employee options are sometimes forfeited — that lessens the damage done to
+shareholders — whereas publicly-offered options would not be. It is true, also, that companies receive a tax
+deduction when employee options are exercised; publicly-traded options deliver no such benefit. But there’s an
+offset to these points: Options issued to employees are often repriced, a transformation that makes them much more
+costly than the public variety.
+It’s sometimes argued that a non-transferable option given to an employee is less valuable to him than would
+be a publicly-traded option that he could freely sell. That fact, however, does not reduce the cost of the nontransferable option: Giving an employee a company car that can only be used for certain purposes diminishes its
+value to the employee, but does not in the least diminish its cost to the employer.
+The earning revisions that Charlie and I have made for options in recent years have frequently cut the
+reported per-share figures by 5%, with 10% not all that uncommon. On occasion, the downward adjustment has
+been so great that it has affected our portfolio decisions, causing us either to make a sale or to pass on a stock
+purchase we might otherwise have made.
+A few years ago we asked three questions in these pages to which we have not yet received an answer: “If
+options aren’t a form of compensation, what are they? If compensation isn’t an expense, what is it? And, if
+expenses shouldn’t go into the calculation of earnings, where in the world should they go?”
+Accounting — Part 2
+The role that managements have played in stock-option accounting has hardly been benign: A distressing
+number of both CEOs and auditors have in recent years bitterly fought FASB’s attempts to replace option fiction
+with truth and virtually none have spoken out in support of FASB. Its opponents even enlisted Congress in the
+fight, pushing the case that inflated figures were in the national interest.
+Still, I believe that the behavior of managements has been even worse when it comes to restructurings and
+merger accounting. Here, many managements purposefully work at manipulating numbers and deceiving investors.
+And, as Michael Kinsley has said about Washington: “The scandal isn’t in what’s done that’s illegal but rather
+in what’s legal.”
+It was once relatively easy to tell the good guys in accounting from the bad: The late 1960's, for example,
+brought on an orgy of what one charlatan dubbed “bold, imaginative accounting” (the practice of which,
+incidentally, made him loved for a time by Wall Street because he never missed expectations). But most investors
+
+14
+
+of that period knew who was playing games. And, to their credit, virtually all of America’s most-admired
+companies then shunned deception.
+In recent years, probity has eroded. Many major corporations still play things straight, but a significant and
+growing number of otherwise high-grade managers — CEOs you would be happy to have as spouses for your
+children or as trustees under your will — have come to the view that it’s okay to manipulate earnings to satisfy
+what they believe are Wall Street’s desires. Indeed, many CEOs think this kind of manipulation is not only okay,
+but actually their duty.
+These managers start with the assumption, all too common, that their job at all times is to encourage the

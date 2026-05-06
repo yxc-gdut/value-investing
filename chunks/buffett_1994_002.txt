@@ -1,0 +1,189 @@
+education.  That gives us an excess earnings figure, which must 
+then be discounted, at an appropriate interest rate, back to 
+graduation day.  The dollar result equals the intrinsic economic 
+value of the education.
+
+     Some graduates will find that the book value of their 
+education exceeds its intrinsic value, which means that whoever 
+paid for the education didn't get his money's worth.  In other 
+cases, the intrinsic value of an education will far exceed its 
+book value, a result that proves capital was wisely deployed.  In 
+all cases, what is clear is that book value is meaningless as an 
+indicator of intrinsic value.
+
+     Now let's get less academic and look at Scott Fetzer, an 
+example from Berkshire's own experience.  This account will not 
+only illustrate how the relationship of book value and intrinsic 
+value can change but also will provide an accounting lesson that 
+I know you have been breathlessly awaiting.  Naturally, I've 
+chosen here to talk about an acquisition that has turned out to 
+be a huge winner.
+
+     Berkshire purchased Scott Fetzer at the beginning of 1986.  
+At the time, the company was a collection of 22 businesses, and 
+today we have exactly the same line-up - no additions and no 
+disposals.  Scott Fetzer's main operations are World Book, Kirby, 
+and Campbell Hausfeld, but many other units are important 
+contributors to earnings as well.
+
+     We paid $315.2 million for Scott Fetzer, which at the time 
+had $172.6 million of book value.  The $142.6 million premium we 
+handed over indicated our belief that the company's intrinsic 
+value was close to double its book value.
+
+     In the table below we trace the book value of Scott Fetzer, 
+as well as its earnings and dividends, since our purchase.
+(1)                                 (4)
+                    Beginning      (2)         (3)        Ending
+Year                Book Value   Earnings   Dividends   Book Value
+----                ----------   --------   ---------   ----------
+                                   (In $ Millions)      (1)+(2)-(3)
+
+1986 ...............  $172.6      $ 40.3     $125.0       $ 87.9
+1987 ...............    87.9        48.6       41.0         95.5
+1988 ...............    95.5        58.0       35.0        118.6
+1989 ...............   118.6        58.5       71.5        105.5
+1990 ...............   105.5        61.3       33.5        133.3
+1991 ...............   133.3        61.4       74.0        120.7
+1992 ...............   120.7        70.5       80.0        111.2
+1993 ...............   111.2        77.5       98.0         90.7
+1994 ...............    90.7        79.3       76.0         94.0
+
+
+     Because it had excess cash when our deal was made, Scott 
+Fetzer was able to pay Berkshire dividends of $125 million in 
+1986, though it earned only $40.3 million.  I should mention that 
+we have not introduced leverage into Scott Fetzer's balance 
+sheet.  In fact, the company has gone from very modest debt when 
+we purchased it to virtually no debt at all (except for debt used 
+by its finance subsidiary).  Similarly, we have not sold plants 
+and leased them back, nor sold receivables, nor the like.  
+Throughout our years of ownership, Scott Fetzer has operated as a 
+conservatively-financed and liquid enterprise.
+
+     As you can see, Scott Fetzer's earnings have increased 
+steadily since we bought it, but book value has not grown 
+commensurately.  Consequently, return on equity, which was 
+exceptional at the time of our purchase, has now become truly 
+extraordinary.  Just how extraordinary is illustrated by 
+comparing Scott Fetzer's performance to that of the Fortune 500, 
+a group it would qualify for if it were a stand-alone company.
+
+     Had Scott Fetzer been on the 1993 500 list - the latest 
+available for inspection - the company's return on equity would 
+have ranked 4th.  But that is far from the whole story.  The top 
+three companies in return on equity were Insilco, LTV and Gaylord 
+Container, each of which emerged from bankruptcy in 1993 and none 
+of which achieved meaningful earnings that year except for those 
+they realized when they were accorded debt forgiveness in 
+bankruptcy proceedings.  Leaving aside such non-operating 
+windfalls, Scott Fetzer's return on equity would have ranked it 
+first on the Fortune 500, well ahead of number two.  Indeed, 
+Scott Fetzer's return on equity was double that of the company 
+ranking tenth.
+
+     You might expect that Scott Fetzer's success could only be 
+explained by a cyclical peak in earnings, a monopolistic 
+position, or leverage.  But no such circumstances apply.  Rather, 
+the company's success comes from the managerial expertise of CEO 
+Ralph Schey, of whom I'll tell you more later.
+
+     First, however, the promised accounting lesson:  When we 
+paid a $142.6 million premium over book value for Scott Fetzer, 
+that figure had to be recorded on Berkshire's balance sheet.  
+I'll spare you the details of how this worked (these were laid 
+out in an appendix to our 1986 Annual Report) and get to the 
+bottom line:  After a premium is initially recorded, it must in 
+almost all cases be written off over time through annual charges 
+that are shown as costs in the acquiring company's earnings 
+statement.
+
+     The following table shows, first, the annual charges 
+Berkshire has made to gradually extinguish the Scott Fetzer 
+acquisition premium and, second, the premium that remains on our 
+books.  These charges have no effect on cash or the taxes we pay, 
+and are not, in our view, an economic cost (though many 
+accountants would disagree with us).  They are merely a way for 
+us to reduce the carrying value of Scott Fetzer on our books so 
+that the figure will eventually match the net worth that Scott 
+Fetzer actually employs in its business.
+Beginning     Purchase-Premium      Ending
+                       Purchase         Charge to        Purchase
+Year                   Premium     Berkshire Earnings    Premium
+----                  ---------    ------------------    --------
+                                     (In $ Millions)
+
+1986 ................  $142.6            $ 11.6           $131.0
+1987 ................   131.0               7.1            123.9
+1988 ................   123.9               7.9            115.9
+1989 ................   115.9               7.0            108.9
+1990 ................   108.9               7.1            101.9
+1991 ................   101.9               6.9             95.0
+1992 ................    95.0               7.7             87.2
+1993 ................    87.2              28.1             59.1
+1994 ................    59.1               4.9             54.2
+
+     Note that by the end of 1994 the premium was reduced to 
+$54.2 million.  When this figure is added to Scott Fetzer's year-
+end book value of $94 million, the total is $148.2 million, which 
+is the current carrying value of Scott Fetzer on Berkshire's 
+books.  That amount is less than half of our carrying value for 
+the company when it was acquired.  Yet Scott Fetzer is now 
+earning about twice what it then did.  Clearly, the intrinsic 
+value of the business has consistently grown, even though we have 
+just as consistently marked down its carrying value through 
+purchase-premium charges that reduced Berkshire's earnings and 
+net worth.
+
+     The difference between Scott Fetzer's intrinsic value and 
+its carrying value on Berkshire's books is now huge.  As I 
+mentioned earlier - but am delighted to mention again - credit 
+for this agreeable mismatch goes to Ralph Schey, a focused, smart 
+and high-grade manager.
+
+     The reasons for Ralph's success are not complicated.  Ben 
+Graham taught me 45 years ago that in investing it is not 
+necessary to do extraordinary things to get extraordinary 
+results.  In later life, I have been surprised to find that this 
+statement holds true in business management as well.  What a 
+manager must do is handle the basics well and not get diverted.  
+That's precisely Ralph's formula.  He establishes the right goals 
+and never forgets what he set out to do.  On the personal side, 
+Ralph is a joy to work with.  He's forthright about problems and 
+is self-confident without being self-important.
+
+     He is also experienced.  Though I don't know Ralph's age, I 
+do know that, like many of our managers, he is over 65.  At 
+Berkshire, we look to performance, not to the calendar.  Charlie 
+and I, at 71 and 64 respectively, now keep George Foreman's 
+picture on our desks.  You can make book that our scorn for a 
+mandatory retirement age will grow stronger every year.
+Intrinsic Value and Capital Allocation
+Understanding intrinsic value is as important for managers 
+as it is for investors.  When managers are making capital 
+allocation decisions - including decisions to repurchase shares - 
+it's vital that they act in ways that increase per-share 
+intrinsic value and avoid moves that decrease it.  This principle 
+may seem obvious but we constantly see it violated.  And, when 
+misallocations occur, shareholders are hurt.
+
+     For example, in contemplating business mergers and 
+acquisitions, many managers tend to focus on whether the 
+transaction is immediately dilutive or anti-dilutive to earnings 
+per share (or, at financial institutions, to per-share book 
+value).  An emphasis of this sort carries great dangers.  Going 
+back to our college-education example, imagine that a 25-year-old 
+first-year MBA student is considering merging his future economic 
+interests with those of a 25-year-old day laborer.  The MBA 
+student, a non-earner, would find that a "share-for-share" merger 
+of his equity interest in himself with that of the day laborer 
+would enhance his near-term earnings (in a big way!).  But what 
+could be sillier for the student than a deal of this kind?
+
+     In corporate transactions, it's equally silly for the would-
+be purchaser to focus on current earnings when the prospective 
+acquiree has either different prospects, different amounts of 
+non-operating assets, or a different capital structure.  At 
+Berkshire, we have rejected many merger and purchase 
+opportunities that would have boosted current and near-term 
+earnings but that would have reduced per-share intrinsic value.  

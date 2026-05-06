@@ -1,0 +1,116 @@
+Duracell by means of a similar exchange set to close in 2015.
+************
+Now, let’s examine the four major sectors of our operations. Each has vastly different balance sheet and
+income characteristics from the others. So we’ll present them as four separate businesses, which is how Charlie and
+I view them (though there are important and enduring advantages to having them all under one roof). Our goal is to
+provide you with the information we would wish to have if our positions were reversed, with you being the
+reporting manager and we the absentee shareholders. (But don’t get any ideas!)
+Insurance
+Let’s look first at insurance, Berkshire’s core operation. That industry has been the engine that has
+propelled our expansion since 1967, when we acquired National Indemnity and its sister company, National Fire &
+Marine, for $8.6 million. Though that purchase had monumental consequences for Berkshire, its execution was
+simplicity itself.
+Jack Ringwalt, a friend of mine who was the controlling shareholder of the two companies, came to my
+office saying he would like to sell. Fifteen minutes later, we had a deal. Neither of Jack’s companies had ever had an
+audit by a public accounting firm, and I didn’t ask for one. My reasoning: (1) Jack was honest and (2) He was also a
+bit quirky and likely to walk away if the deal became at all complicated.
+On pages 128-129, we reproduce the 1 1⁄ 2-page purchase agreement we used to finalize the transaction.
+That contract was homemade: Neither side used a lawyer. Per page, this has to be Berkshire’s best deal: National
+Indemnity today has GAAP (generally accepted accounting principles) net worth of $111 billion, which exceeds that
+of any other insurer in the world.
+One reason we were attracted to the property-casualty business was its financial characteristics: P/C
+insurers receive premiums upfront and pay claims later. In extreme cases, such as those arising from certain
+workers’ compensation accidents, payments can stretch over many decades. This collect-now, pay-later model
+leaves P/C companies holding large sums – money we call “float” – that will eventually go to others. Meanwhile,
+insurers get to invest this float for their benefit. Though individual policies and claims come and go, the amount of
+float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business
+grows, so does our float. And how we have grown, as the following table shows:
+Year
+1970
+1980
+1990
+2000
+2010
+2014
+
+Float (in $ millions)
+$
+39
+237
+1,632
+27,871
+65,832
+83,921
+
+Further gains in float will be tough to achieve. On the plus side, GEICO and our new commercial
+insurance operation are almost certain to grow at a good clip. National Indemnity’s reinsurance division, however, is
+party to a number of run-off contracts whose float drifts downward. If we do in time experience a decline in float, it
+will be very gradual – at the outside no more than 3% in any year. The nature of our insurance contracts is such that
+we can never be subject to immediate demands for sums that are large compared to our cash resources. This strength
+is a key pillar in Berkshire’s economic fortress.
+
+8
+
+If our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit
+that adds to the investment income our float produces. When such a profit is earned, we enjoy the use of free money
+– and, better yet, get paid for holding it.
+Unfortunately, the wish of all insurers to achieve this happy result creates intense competition, so
+vigorous indeed that it frequently causes the P/C industry as a whole to operate at a significant underwriting loss.
+This loss, in effect, is what the industry pays to hold its float. Competitive dynamics almost guarantee that the
+insurance industry, despite the float income all its companies enjoy, will continue its dismal record of earning
+subnormal returns on tangible net worth as compared to other American businesses. The prolonged period of low
+interest rates our country is now dealing with causes earnings on float to decrease, thereby exacerbating the profit
+problems of the industry.
+As noted in the first section of this report, Berkshire has now operated at an underwriting profit for
+twelve consecutive years, our pre-tax gain for the period having totaled $24 billion. Looking ahead, I believe we
+will continue to underwrite profitably in most years. Doing so is the daily focus of all of our insurance managers,
+who know that while float is valuable, its benefits can be drowned by poor underwriting results. That message is
+given at least lip service by all insurers; at Berkshire it is a religion.
+So how does our float affect intrinsic value? When Berkshire’s book value is calculated, the full amount
+of our float is deducted as a liability, just as if we had to pay it out tomorrow and could not replenish it. But to think
+of float as strictly a liability is incorrect; it should instead be viewed as a revolving fund. Daily, we pay old claims
+and related expenses – a huge $22.7 billion to more than six million claimants in 2014 – and that reduces float. Just
+as surely, we each day write new business and thereby generate new claims that add to float.
+If our revolving float is both costless and long-enduring, which I believe it will be, the true value of this
+liability is dramatically less than the accounting liability. Owing $1 that in effect will never leave the premises –
+because new business is almost certain to deliver a substitute – is worlds different from owing $1 that will go out the
+door tomorrow and not be replaced. The two types of liabilities are treated as equals, however, under GAAP.
+A partial offset to this overstated liability is a $15.5 billion “goodwill” asset that we incurred in buying
+our insurance companies and that increases book value. In very large part, this goodwill represents the price we paid
+for the float-generating capabilities of our insurance operations. The cost of the goodwill, however, has no bearing
+on its true value. For example, if an insurance company sustains large and prolonged underwriting losses, any
+goodwill asset carried on the books should be deemed valueless, whatever its original cost.
+Fortunately, that does not describe Berkshire. Charlie and I believe the true economic value of our
+insurance goodwill – what we would happily pay for float of similar quality were we to purchase an insurance
+operation possessing it – to be far in excess of its historic carrying value. Under present accounting rules (with
+which we agree) this excess value will never be entered on our books. But I can assure you that it’s real. That’s one
+reason – a huge reason – why we believe Berkshire’s intrinsic business value substantially exceeds its book value.
+************
+Berkshire’s attractive insurance economics exist only because we have some terrific managers running
+disciplined operations that possess hard-to-replicate business models. Let me tell you about the major units.
+First by float size is the Berkshire Hathaway Reinsurance Group, managed by Ajit Jain. Ajit insures risks
+that no one else has the desire or the capital to take on. His operation combines capacity, speed, decisiveness and,
+most important, brains in a manner unique in the insurance business. Yet he never exposes Berkshire to risks that
+are inappropriate in relation to our resources.
+
+9
+
+Indeed, we are far more conservative in avoiding risk than most large insurers. For example, if the
+insurance industry should experience a $250 billion loss from some mega-catastrophe – a loss about triple anything
+it has ever experienced – Berkshire as a whole would likely record a significant profit for the year because of its
+many streams of earnings. We would also remain awash in cash and be looking for large opportunities in a market
+that might well have gone into shock. Meanwhile, other major insurers and reinsurers would be far in the red, if not
+facing insolvency.
+Ajit’s underwriting skills are unmatched. His mind, moreover, is an idea factory that is always looking
+for more lines of business he can add to his current assortment. Last year I told you about his formation of Berkshire
+Hathaway Specialty Insurance (“BHSI”). This initiative took us into commercial insurance, where we were instantly
+welcomed by both major insurance brokers and corporate risk managers throughout America. Previously, we had
+written only a few specialized lines of commercial insurance.
+BHSI is led by Peter Eastwood, an experienced underwriter who is widely respected in the insurance
+world. During 2014, Peter expanded his talented group, moving into both international business and new lines of
+insurance. We repeat last year’s prediction that BHSI will be a major asset for Berkshire, one that will generate
+volume in the billions within a few years.
+************
+We have another reinsurance powerhouse in General Re, managed by Tad Montross.
+At bottom, a sound insurance operation needs to adhere to four disciplines. It must (1) understand all
+exposures that might cause a policy to incur losses; (2) conservatively assess the likelihood of any exposure actually

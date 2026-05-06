@@ -1,0 +1,271 @@
+2002-2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2003-2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2004-2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2005-2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2006-2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17.2
+14.7
+13.9
+16.8
+17.7
+15.0
+13.9
+20.8
+23.4
+24.4
+30.1
+33.4
+29.0
+29.9
+31.6
+27.0
+32.6
+31.5
+27.4
+25.0
+31.1
+22.9
+25.4
+25.6
+24.4
+18.6
+25.6
+24.2
+26.9
+33.7
+30.4
+22.9
+14.8
+10.4
+6.0
+8.0
+8.0
+13.1
+13.3
+6.9
+8.6
+10.0
+
+5.0
+3.9
+9.2
+7.5
+2.0
+(2.4)
+3.2
+4.9
+(0.2)
+4.3
+14.7
+13.9
+8.1
+14.1
+17.3
+14.8
+14.6
+19.8
+16.4
+15.2
+20.3
+13.1
+15.3
+15.8
+14.5
+8.7
+16.5
+15.2
+20.2
+24.0
+28.5
+18.3
+10.7
+(0.6)
+(0.6)
+(2.3)
+0.6
+6.2
+12.8
+(2.2)
+0.4
+2.3
+
+Relative
+Results
+(1)-(2)
+12.2
+10.8
+4.7
+9.3
+15.7
+17.4
+10.7
+15.9
+23.6
+20.1
+15.4
+19.5
+20.9
+15.8
+14.3
+12.2
+18.0
+11.7
+11.0
+9.8
+10.8
+9.8
+10.1
+9.8
+9.9
+9.9
+9.1
+9.0
+6.7
+9.7
+1.9
+4.6
+4.1
+11.0
+6.6
+10.3
+7.4
+6.9
+0.5
+9.1
+8.2
+7.7
+
+Notes: The first two periods cover the five years beginning September 30 of the previous year. The third period covers
+63 months beginning September 30, 1966 to December 31, 1971. All other periods involve calendar years.
+The other notes on page 2 also apply to this table.
+
+5
+
+Intrinsic Value – Today and Tomorrow
+Though Berkshire’s intrinsic value cannot be precisely calculated, two of its three key pillars can be
+measured. Charlie and I rely heavily on these measurements when we make our own estimates of Berkshire’s
+value.
+The first component of value is our investments: stocks, bonds and cash equivalents. At yearend these
+totaled $158 billion at market value.
+Insurance float – money we temporarily hold in our insurance operations that does not belong to us –
+funds $66 billion of our investments. This float is “free” as long as insurance underwriting breaks even, meaning
+that the premiums we receive equal the losses and expenses we incur. Of course, underwriting results are volatile,
+swinging erratically between profits and losses. Over our entire history, though, we’ve been significantly
+profitable, and I also expect us to average breakeven results or better in the future. If we do that, all of our
+investments – those funded both by float and by retained earnings – can be viewed as an element of value for
+Berkshire shareholders.
+Berkshire’s second component of value is earnings that come from sources other than investments and
+insurance underwriting. These earnings are delivered by our 68 non-insurance companies, itemized on page 106.
+In Berkshire’s early years, we focused on the investment side. During the past two decades, however, we’ve
+increasingly emphasized the development of earnings from non-insurance businesses, a practice that will
+continue.
+The following tables illustrate this shift. In the first table, we present per-share investments at decade
+intervals beginning in 1970, three years after we entered the insurance business. We exclude those investments
+applicable to minority interests.
+Per-Share
+Investments
+
+Yearend
+1970 . . . . . . . . . . . . . . . . . . .
+1980 . . . . . . . . . . . . . . . . . . .
+1990 . . . . . . . . . . . . . . . . . . .
+2000 . . . . . . . . . . . . . . . . . . .
+2010 . . . . . . . . . . . . . . . . . . .
+
+66
+754
+7,798
+50,229
+94,730
+
+Period
+
+Compounded Annual Increase
+in Per-Share Investments
+
+1970-1980
+1980-1990
+1990-2000
+2000-2010
+
+27.5%
+26.3%
+20.5%
+6.6%
+
+$
+
+Though our compounded annual increase in per-share investments was a healthy 19.9% over the
+40-year period, our rate of increase has slowed sharply as we have focused on using funds to buy operating
+businesses.
+The payoff from this shift is shown in the following table, which illustrates how earnings of our
+non-insurance businesses have increased, again on a per-share basis and after applicable minority interests.
+Year
+1970 . . . . . . . . . . . .
+1980 . . . . . . . . . . . .
+1990 . . . . . . . . . . . .
+2000 . . . . . . . . . . . .
+2010 . . . . . . . . . . . .
+
+Per-Share
+Pre-Tax Earnings
+$
+
+2.87
+19.01
+102.58
+918.66
+5,926.04
+
+Period
+
+Compounded Annual Increase in
+Per-Share Pre-Tax Earnings
+
+1970-1980
+1980-1990
+1990-2000
+2000-2010
+
+20.8%
+18.4%
+24.5%
+20.5%
+
+6
+
+For the forty years, our compounded annual gain in pre-tax, non-insurance earnings per share is 21.0%.
+During the same period, Berkshire’s stock price increased at a rate of 22.1% annually. Over time, you can expect
+our stock price to move in rough tandem with Berkshire’s investments and earnings. Market price and intrinsic
+value often follow very different paths – sometimes for extended periods – but eventually they meet.
+There is a third, more subjective, element to an intrinsic value calculation that can be either positive or
+negative: the efficacy with which retained earnings will be deployed in the future. We, as well as many other
+businesses, are likely to retain earnings over the next decade that will equal, or even exceed, the capital we presently
+employ. Some companies will turn these retained dollars into fifty-cent pieces, others into two-dollar bills.
+This “what-will-they-do-with-the-money” factor must always be evaluated along with the
+“what-do-we-have-now” calculation in order for us, or anybody, to arrive at a sensible estimate of a company’s
+intrinsic value. That’s because an outside investor stands by helplessly as management reinvests his share of the
+company’s earnings. If a CEO can be expected to do this job well, the reinvestment prospects add to the
+company’s current value; if the CEO’s talents or motives are suspect, today’s value must be discounted. The
+difference in outcome can be huge. A dollar of then-value in the hands of Sears Roebuck’s or Montgomery
+Ward’s CEOs in the late 1960s had a far different destiny than did a dollar entrusted to Sam Walton.
+************
+Charlie and I hope that the per-share earnings of our non-insurance businesses continue to increase at a
+decent rate. But the job gets tougher as the numbers get larger. We will need both good performance from our
+current businesses and more major acquisitions. We’re prepared. Our elephant gun has been reloaded, and my
+trigger finger is itchy.
+Partially offsetting our anchor of size are several important advantages we have. First, we possess a
+cadre of truly skilled managers who have an unusual commitment to their own operations and to Berkshire.
+Many of our CEOs are independently wealthy and work only because they love what they do. They are
+volunteers, not mercenaries. Because no one can offer them a job they would enjoy more, they can’t be lured
+away.
+At Berkshire, managers can focus on running their businesses: They are not subjected to meetings at
+headquarters nor financing worries nor Wall Street harassment. They simply get a letter from me every two years
+(it’s reproduced on pages 104-105) and call me when they wish. And their wishes do differ: There are managers
+to whom I have not talked in the last year, while there is one with whom I talk almost daily. Our trust is in people
+rather than process. A “hire well, manage little” code suits both them and me.
+Berkshire’s CEOs come in many forms. Some have MBAs; others never finished college. Some use
+budgets and are by-the-book types; others operate by the seat of their pants. Our team resembles a baseball squad
+composed of all-stars having vastly different batting styles. Changes in our line-up are seldom required.
+Our second advantage relates to the allocation of the money our businesses earn. After meeting the

@@ -1,0 +1,108 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2018
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2018ar/2018ar.pdf
+extracted_from: line 308 - 932
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire earned $4.0 billion in 2018 utilizing generally accepted accounting principles (commonly called
+“GAAP”). The components of that figure are $24.8 billion in operating earnings, a $3.0 billion non-cash loss from an
+impairment of intangible assets (arising almost entirely from our equity interest in Kraft Heinz), $2.8 billion in realized
+capital gains from the sale of investment securities and a $20.6 billion loss from a reduction in the amount of unrealized
+capital gains that existed in our investment holdings.
+A new GAAP rule requires us to include that last item in earnings. As I emphasized in the 2017 annual report,
+neither Berkshire’s Vice Chairman, Charlie Munger, nor I believe that rule to be sensible. Rather, both of us have
+consistently thought that at Berkshire this mark-to-market change would produce what I described as “wild and
+capricious swings in our bottom line.”
+The accuracy of that prediction can be suggested by our quarterly results during 2018. In the first and fourth
+quarters, we reported GAAP losses of $1.1 billion and $25.4 billion respectively. In the second and third quarters, we
+reported profits of $12 billion and $18.5 billion. In complete contrast to these gyrations, the many businesses that
+Berkshire owns delivered consistent and satisfactory operating earnings in all quarters. For the year, those earnings
+exceeded their 2016 high of $17.6 billion by 41%.
+Wide swings in our quarterly GAAP earnings will inevitably continue. That’s because our huge equity
+portfolio – valued at nearly $173 billion at the end of 2018 – will often experience one-day price fluctuations of $2
+billion or more, all of which the new rule says must be dropped immediately to our bottom line. Indeed, in the fourth
+quarter, a period of high volatility in stock prices, we experienced several days with a “profit” or “loss” of more than
+$4 billion.
+Our advice? Focus on operating earnings, paying little attention to gains or losses of any variety. My saying
+that in no way diminishes the importance of our investments to Berkshire. Over time, Charlie and I expect them to
+deliver substantial gains, albeit with highly irregular timing.
+************
+Long-time readers of our annual reports will have spotted the different way in which I opened this letter. For
+nearly three decades, the initial paragraph featured the percentage change in Berkshire’s per-share book value. It’s
+now time to abandon that practice.
+The fact is that the annual change in Berkshire’s book value – which makes its farewell appearance on page
+2 – is a metric that has lost the relevance it once had. Three circumstances have made that so. First, Berkshire has
+gradually morphed from a company whose assets are concentrated in marketable stocks into one whose major value
+resides in operating businesses. Charlie and I expect that reshaping to continue in an irregular manner. Second, while
+our equity holdings are valued at market prices, accounting rules require our collection of operating companies to be
+included in book value at an amount far below their current value, a mismark that has grown in recent years. Third, it
+is likely that – over time – Berkshire will be a significant repurchaser of its shares, transactions that will take place at
+prices above book value but below our estimate of intrinsic value. The math of such purchases is simple: Each
+transaction makes per-share intrinsic value go up, while per-share book value goes down. That combination causes
+the book-value scorecard to become increasingly out of touch with economic reality.
+
+3
+
+In future tabulations of our financial results, we expect to focus on Berkshire’s market price. Markets can be
+extremely capricious: Just look at the 54-year history laid out on page 2. Over time, however, Berkshire’s stock price
+will provide the best measure of business performance.
+************
+Before moving on, I want to give you some good news – really good news – that is not reflected in our
+financial statements. It concerns the management changes we made in early 2018, when Ajit Jain was put in charge
+of all insurance activities and Greg Abel was given authority over all other operations. These moves were overdue.
+Berkshire is now far better managed than when I alone was supervising operations. Ajit and Greg have rare talents,
+and Berkshire blood flows through their veins.
+Now let’s take a look at what you own.
+Focus on the Forest – Forget the Trees
+Investors who evaluate Berkshire sometimes obsess on the details of our many and diverse businesses – our
+economic “trees,” so to speak. Analysis of that type can be mind-numbing, given that we own a vast array of
+specimens, ranging from twigs to redwoods. A few of our trees are diseased and unlikely to be around a decade from
+now. Many others, though, are destined to grow in size and beauty.
+Fortunately, it’s not necessary to evaluate each tree individually to make a rough estimate of Berkshire’s
+intrinsic business value. That’s because our forest contains five “groves” of major importance, each of which can be
+appraised, with reasonable accuracy, in its entirety. Four of those groves are differentiated clusters of businesses and
+financial assets that are easy to understand. The fifth – our huge and diverse insurance operation – delivers great value
+to Berkshire in a less obvious manner, one I will explain later in this letter.
+Before we look more closely at the first four groves, let me remind you of our prime goal in the deployment
+of your capital: to buy ably-managed businesses, in whole or part, that possess favorable and durable economic
+characteristics. We also need to make these purchases at sensible prices.
+Sometimes we can buy control of companies that meet our tests. Far more often, we find the attributes we
+seek in publicly-traded businesses, in which we normally acquire a 5% to 10% interest. Our two-pronged approach to
+huge-scale capital allocation is rare in corporate America and, at times, gives us an important advantage.
+In recent years, the sensible course for us to follow has been clear: Many stocks have offered far more for
+our money than we could obtain by purchasing businesses in their entirety. That disparity led us to buy about $43
+billion of marketable equities last year, while selling only $19 billion. Charlie and I believe the companies in which
+we invested offered excellent value, far exceeding that available in takeover transactions.
+Despite our recent additions to marketable equities, the most valuable grove in Berkshire’s forest remains the
+many dozens of non-insurance businesses that Berkshire controls (usually with 100% ownership and never with less
+than 80%). Those subsidiaries earned $16.8 billion last year. When we say “earned,” moreover, we are describing what
+remains after all income taxes, interest payments, managerial compensation (whether cash or stock-based),
+restructuring expenses, depreciation, amortization and home-office overhead.
+That brand of earnings is a far cry from that frequently touted by Wall Street bankers and corporate CEOs.
+Too often, their presentations feature “adjusted EBITDA,” a measure that redefines “earnings” to exclude a variety of
+all-too-real costs.
+
+4
+
+For example, managements sometimes assert that their company’s stock-based compensation shouldn’t be
+counted as an expense. (What else could it be – a gift from shareholders?) And restructuring expenses? Well, maybe
+last year’s exact rearrangement won’t recur. But restructurings of one sort or another are common in business –
+Berkshire has gone down that road dozens of times, and our shareholders have always borne the costs of doing so.
+Abraham Lincoln once posed the question: “If you call a dog’s tail a leg, how many legs does it have?” and
+then answered his own query: “Four, because calling a tail a leg doesn’t make it one.” Abe would have felt lonely on
+Wall Street.
+Charlie and I do contend that our acquisition-related amortization expenses of $1.4 billion (detailed on page
+K-84) are not a true economic cost. We add back such amortization “costs” to GAAP earnings when we are evaluating
+both private businesses and marketable stocks.
+In contrast, Berkshire’s $8.4 billion depreciation charge understates our true economic cost. In fact, we need
+to spend more than this sum annually to simply remain competitive in our many operations. Beyond those
+“maintenance” capital expenditures, we spend large sums in pursuit of growth. Overall, Berkshire invested a record
+$14.5 billion last year in plant, equipment and other fixed assets, with 89% of that spent in America.
+Berkshire’s runner-up grove by value is its collection of equities, typically involving a 5% to 10% ownership
+position in a very large company. As noted earlier, our equity investments were worth nearly $173 billion at yearend,
+an amount far above their cost. If the portfolio had been sold at its yearend valuation, federal income tax of about
+$14.7 billion would have been payable on the gain. In all likelihood, we will hold most of these stocks for a long time.
+Eventually, however, gains generate taxes at whatever rate prevails at the time of sale.

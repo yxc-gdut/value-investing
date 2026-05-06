@@ -1,0 +1,201 @@
+Berkshire's Major Investees     Ownership at Yearend        (in millions)  
+---------------------------    -----------------------   ------------------
+                                   1992       1991         1992      1991
+                                 --------   --------     --------  --------
+Capital Cities/ABC Inc. .......   18.2%      18.1%        $ 70      $ 61
+The Coca-Cola Company .........    7.1%       7.0%          82        69
+Federal Home Loan Mortgage Corp.   8.2%(1)    3.4%(1)       29(2)     15
+GEICO Corp. ...................   48.1%      48.2%          34(3)     69(3)
+General Dynamics Corp. ........   14.1%       --            11(2)     -- 
+The Gillette Company ..........   10.9%      11.0%          38        23(2)
+Guinness PLC ..................    2.0%       1.6%           7        -- 
+The Washington Post Company ...   14.6%      14.6%          11        10
+Wells Fargo & Company .........   11.5%       9.6%          16(2)    (17)(2)
+                                 --------   --------     --------  --------
+Berkshire's share of 
+  undistributed earnings of major investees               $298      $230
+Hypothetical tax on these 
+  undistributed investee earnings                          (42)      (30)
+Reported operating earnings of Berkshire                   348       316 
+                                                         --------  --------
+     Total look-through earnings of Berkshire             $604      $516 
+
+     (1) Net of minority interest at Wesco
+     (2) Calculated on average ownership for the year
+     (3) Excludes realized capital gains, which have been both 
+recurring and significant
+Insurance Operations
+Shown below is an updated version of our usual table 
+presenting key figures for the property-casualty insurance 
+industry:
+Yearly Change        Combined Ratio 
+                                  in Premiums       After Policyholder
+                                  Written (%)           Dividends
+-------------      ------------------
+
+1981 ...........................      3.8                 106.0
+1982 ...........................      3.7                 109.6
+1983 ...........................      5.0                 112.0
+1984 ...........................      8.5                 118.0
+1985 ...........................     22.1                 116.3
+1986 ...........................     22.2                 108.0
+1987 ...........................      9.4                 104.6
+1988 ...........................      4.5                 105.4
+1989 ...........................      3.2                 109.2
+1990 ...........................      4.5                 109.6
+1991 (Revised) .................      2.4                 108.8
+1992 (Est.) ....................      2.7                 114.8
+
+     The combined ratio represents total insurance costs (losses 
+incurred plus expenses) compared to revenue from premiums:  A 
+ratio below 100 indicates an underwriting profit, and one above 
+100 indicates a loss.  The higher the ratio, the worse the year. 
+When the investment income that an insurer earns from holding 
+policyholders' funds ("the float") is taken into account, a 
+combined ratio in the 106 - 110 range typically produces an 
+overall break-even result, exclusive of earnings on the funds 
+provided by shareholders.
+
+     About four points in the industry's 1992 combined ratio can 
+be attributed to Hurricane Andrew, which caused the largest 
+insured loss in history.  Andrew destroyed a few small insurers. 
+Beyond that, it awakened some larger companies to the fact that 
+their reinsurance protection against catastrophes was far from 
+adequate.  (It's only when the tide goes out that you learn who's 
+been swimming naked.)  One major insurer escaped insolvency 
+solely because it had a wealthy parent that could promptly supply 
+a massive transfusion of capital.
+
+     Bad as it was, however, Andrew could easily have been far 
+more damaging if it had hit Florida 20 or 30 miles north of where 
+it actually did and had hit Louisiana further east than was the 
+case.  All in all, many companies will rethink their reinsurance 
+programs in light of the Andrew experience.
+
+     As you know we are a large writer - perhaps the largest in 
+the world - of "super-cat" coverages, which are the policies that 
+other insurance companies buy to protect themselves against major 
+catastrophic losses.  Consequently, we too took our lumps from 
+Andrew, suffering losses from it of about $125 million, an amount 
+roughly equal to our 1992 super-cat premium income.  Our other 
+super-cat losses, though, were negligible.  This line of business 
+therefore produced an overall loss of only $2 million for the 
+year.  (In addition, our investee, GEICO, suffered a net loss 
+from Andrew, after reinsurance recoveries and tax savings, of 
+about $50 million, of which our share is roughly $25 million.  
+This loss did not affect our operating earnings, but did reduce 
+our look-through earnings.)
+
+     In last year's report I told you that I hoped that our 
+super-cat business would over time achieve a 10% profit margin.  
+But I also warned you that in any given year the line was likely 
+to be "either enormously profitable or enormously unprofitable." 
+Instead, both 1991 and 1992 have come in close to a break-even 
+level.  Nonetheless, I see these results as aberrations and stick 
+with my prediction of huge annual swings in profitability from 
+this business.
+
+     Let me remind you of some characteristics of our super-cat 
+policies.  Generally, they are activated only when two things 
+happen.  First, the direct insurer or reinsurer we protect must 
+suffer losses of a given amount - that's the policyholder's 
+"retention" - from a catastrophe; and second, industry-wide 
+insured losses from the catastrophe must exceed some minimum 
+level, which usually is $3 billion or more.  In most cases, the 
+policies we issue cover only a specific geographical area, such 
+as a portion of the U.S., the entire U.S., or everywhere other 
+than the U.S.  Also, many policies are not activated by the first 
+super-cat that meets the policy terms, but instead cover only a 
+"second-event" or even a third- or fourth-event.  Finally, some 
+policies are triggered only by a catastrophe of a specific type, 
+such as an earthquake.  Our exposures are large: We have one 
+policy that calls for us to pay $100 million to the policyholder 
+if a specified catastrophe occurs.  (Now you know why I suffer 
+eyestrain:  from watching The Weather Channel.)
+
+     Currently, Berkshire is second in the U.S. property-casualty 
+industry in net worth (the leader being State Farm, which neither 
+buys nor sells reinsurance).  Therefore, we have the capacity to 
+assume risk on a scale that interests virtually no other company. 
+We have the appetite as well:  As Berkshire's net worth and 
+earnings grow, our willingness to write business increases also. 
+But let me add that means good business.  The saying, "a fool 
+and his money are soon invited everywhere," applies in spades in 
+reinsurance, and we actually reject more than 98% of the business 
+we are offered.  Our ability to choose between good and bad 
+proposals reflects a management strength that matches our 
+financial strength:  Ajit Jain, who runs our reinsurance 
+operation, is simply the best in this business.  In combination, 
+these strengths guarantee that we will stay a major factor in the 
+super-cat business so long as prices are appropriate.
+
+     What constitutes an appropriate price, of course, is 
+difficult to determine.  Catastrophe insurers can't simply 
+extrapolate past experience.  If there is truly "global warming," 
+for example, the odds would shift, since tiny changes in 
+atmospheric conditions can produce momentous changes in weather 
+patterns.  Furthermore, in recent years there has been a 
+mushrooming of population and insured values in U.S. coastal 
+areas that are particularly vulnerable to hurricanes, the number 
+one creator of super-cats.  A hurricane that caused
+x
+dollars of 
+damage 20 years ago could easily cost 10
+x
+now.
+
+     Occasionally, also, the unthinkable happens.  Who would have 
+guessed, for example, that a major earthquake could occur in 
+Charleston, S.C.? (It struck in 1886, registered an estimated 6.6 
+on the Richter scale, and caused 60 deaths.)  And who could have 
+imagined that our country's most serious quake would occur at New 
+Madrid, Missouri, which suffered an estimated 8.7 shocker in 
+1812.  By comparison, the 1989 San Francisco quake was a 7.1 - 
+and remember that each one-point Richter increase represents a 
+ten-fold increase in strength.  Someday, a U.S. earthquake 
+occurring far from California will cause enormous losses for 
+insurers.
+
+     When viewing our quarterly figures, you should understand 
+that our accounting for super-cat premiums differs from our 
+accounting for other insurance premiums.  Rather than recording 
+our super-cat premiums on a pro-rata basis over the life of a 
+given policy, we defer recognition of revenue until a loss occurs 
+or until the policy expires.  We take this conservative approach 
+because the likelihood of super-cats causing us losses is 
+particularly great toward the end of the year.  It is then that 
+weather tends to kick up:  Of the ten largest insured losses in 
+U.S. history, nine occurred in the last half of the year.  In 
+addition, policies that are not triggered by a first event are 
+unlikely, by their very terms, to cause us losses until late in 
+the year.
+
+     The bottom-line effect of our accounting procedure for 
+super-cats is this:  Large losses may be reported in any quarter 
+of the year, but significant profits will only be reported in the 
+fourth quarter.
+
+                    * * * * * * * * * * * *
+
+     As I've told you in each of the last few years, what counts 
+in our insurance business is "the cost of funds developed from 
+insurance," or in the vernacular, "the cost of float."  Float - 
+which we generate in exceptional amounts - is the total of loss 
+reserves, loss adjustment expense reserves and unearned premium 
+reserves minus agents' balances, prepaid acquisition costs and 
+deferred charges applicable to assumed reinsurance.  The cost of 
+float is measured by our underwriting loss.
+
+     The table below shows our cost of float since we entered the 
+business in 1967.
+
+                   (1)            (2)                          Yearend Yield
+              Underwriting                     Approximate      on Long-Term
+                  Loss       Average Float    Cost of Funds     Govt. Bonds 	
+              ------------   -------------   ---------------   -------------
+                    (In $ Millions)         (Ratio of 1 to 2)
+
+1967 .........   profit          $17.3        less than zero        5.50%
+1968 .........   profit           19.9        less than zero        5.90%
+1969 .........   profit           23.4        less than zero        6.79%
+1970 .........   $ 0.37           32.4                 1.14%        6.25%

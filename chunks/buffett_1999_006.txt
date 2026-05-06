@@ -1,0 +1,184 @@
+would first have the acquiring company record its purchase price — whether paid in stock or cash — at fair value. In
+most cases, this procedure would create a large asset representing economic goodwill. We would then leave this asset
+on the books, not requiring its amortization. Later, if the economic goodwill became impaired, as it sometimes would,
+it would be written down just as would any other asset judged to be impaired.
+If our proposed rule were to be adopted, it should be applied retroactively so that acquisition accounting would
+be consistent throughout America — a far cry from what exists today. One prediction: If this plan were to take effect,
+managements would structure acquisitions more sensibly, deciding whether to use cash or stock based on the real
+consequences for their shareholders rather than on the unreal consequences for their reported earnings.
+************
+
+12
+
+In our purchase of Jordan’s, we followed a procedure that will maximize the cash produced for our shareholders
+but minimize the earnings we report to you. Berkshire purchased assets for cash, an approach that on our tax returns
+permits us to amortize the resulting goodwill over a 15-year period. Obviously, this tax deduction materially increases
+the amount of cash delivered by the business. In contrast, when stock, rather than assets, is purchased for cash, the
+resulting writeoffs of goodwill are not tax-deductible. The economic difference between these two approaches is
+substantial.
+From the economic standpoint of the acquiring company, the worst deal of all is a stock-for-stock acquisition.
+Here, a huge price is often paid without there being any step-up in the tax basis of either the stock of the acquiree or its
+assets. If the acquired entity is subsequently sold, its owner may owe a large capital gains tax (at a 35% or greater rate),
+even though the sale may truly be producing a major economic loss.
+We have made some deals at Berkshire that used far-from-optimal tax structures. These deals occurred because
+the sellers insisted on a given structure and because, overall, we still felt the acquisition made sense. We have never
+done an inefficiently-structured deal, however, in order to make our figures look better.
+Sources of Reported Earnings
+The table that follows shows the main sources of Berkshire's reported earnings. In this presentation, purchaseaccounting adjustments are not assigned to the specific businesses to which they apply, but are instead aggregated and
+shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had
+we not purchased them. For the reasons discussed on page 61, this form of presentation seems to us to be more useful
+to investors and managers than one utilizing generally accepted accounting principles (GAAP), which require purchasepremiums to be charged off business-by-business. The total earnings we show in the table are, of course, identical to
+the GAAP total in our audited financial statements.
+(in millions)
+Berkshire’s Share
+of Net Earnings
+(after taxes and
+Pre-Tax Earnings
+minority interests)
+1999
+1998
+1999
+1998
+Operating Earnings:
+Insurance Group:
+Underwriting — Reinsurance . . . . . . . . . . . . . . .
+$(1,440)
+$(21)
+$(927)
+$(14)
+Underwriting — GEICO . . . . . . . . . . . . . . . . . . .
+24
+269
+16
+175
+Underwriting — Other Primary . . . . . . . . . . . . . .
+22
+17
+14
+10
+Net Investment Income . . . . . . . . . . . . . . . . . . . .
+2,482
+974
+1,764
+731
+Buffalo News . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+53
+34
+32
+Finance and Financial Products Businesses . . . . . .
+125
+205 (1)
+86
+133 (1)
+Flight Services . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+225 (2)
+181
+132 (2)
+110
+Home Furnishings . . . . . . . . . . . . . . . . . . . . . . . . .
+79
+72
+46
+41
+International Dairy Queen . . . . . . . . . . . . . . . . . . .
+56
+58
+35
+35
+Jewelry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+39
+31
+23
+Scott Fetzer (excluding finance operation) . . . . . . .
+147
+137
+92
+85
+See’s Candies . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+74
+62
+46
+40
+Shoe Group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+33
+11
+23
+Purchase-Accounting Adjustments . . . . . . . . . . . .
+(739)
+(123)
+(648)
+(118)
+Interest Expense (3) . . . . . . . . . . . . . . . . . . . . . . . . .
+(109)
+(100)
+(70)
+(63)
+Shareholder-Designated Contributions . . . . . . . . .
+(17)
+(17)(4)
+(11)
+(11)(4)
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+60
+20
+45
+Operating Earnings . . . . . . . . . . . . . . . . . . . . . . . . .
+1,085
+1,899
+671
+1,277
+Capital Gains from Investments . . . . . . . . . . . . . . . .
+1,365
+2,415
+886
+1,553
+Total Earnings - All Entities . . . . . . . . . . . . . . .
+$2,450
+$4,314
+$1,557
+$ 2,830
+(1)
+(2)
+
+(3)
+
+Includes Executive Jet from August 7, 1998 .
+Includes Jordan’s Furniture from November 13, 1999.
+
+(4)
+
+13
+
+Excludes interest expense of Finance Businesses.
+Includes General Re operations for ten days in 1998.
+
+Almost all of our manufacturing, retailing and service businesses had excellent results in 1999. The exception
+was Dexter Shoe, and there the shortfall did not occur because of managerial problems: In skills, energy and devotion
+to their work, the Dexter executives are every bit the equal of our other managers. But we manufacture shoes primarily
+in the U.S., and it has become extremely difficult for domestic producers to compete effectively. In 1999, approximately
+93% of the 1.3 billion pairs of shoes purchased in this country came from abroad, where extremely low-cost labor is the
+rule.
+Counting both Dexter and H. H. Brown, we are currently the leading domestic manufacturer of shoes, and we are
+likely to continue to be. We have loyal, highly-skilled workers in our U.S. plants, and we want to retain every job here
+that we can. Nevertheless, in order to remain viable, we are sourcing more of our output internationally. In doing that,
+we have incurred significant severance and relocation costs that are included in the earnings we show in the table.
+A few years back, Helzberg’s, our 200-store jewelry operation, needed to make operating adjustments to restore
+margins to appropriate levels. Under Jeff Comment’s leadership, the job was done and profits have dramatically
+rebounded. In the shoe business, where we have Harold Alfond, Peter Lunder, Frank Rooney and Jim Issler in charge,
+I believe we will see a similar improvement over the next few years.
+See’s Candies deserves a special comment, given that it achieved a record operating margin of 24% last year.
+Since we bought See’s for $25 million in 1972, it has earned $857 million pre-tax. And, despite its growth, the business
+has required very little additional capital. Give the credit for this performance to Chuck Huggins. Charlie and I put
+him in charge the day of our purchase, and his fanatical insistence on both product quality and friendly service has
+rewarded customers, employees and owners.
+Chuck gets better every year. When he took charge of See’s at age 46, the company’s pre-tax profit, expressed
+in millions, was about 10% of his age. Today he’s 74, and the ratio has increased to 100%. Having discovered this
+mathematical relationship — let’s call it Huggins’ Law — Charlie and I now become giddy at the mere thought of
+Chuck’s birthday.
+************
+Additional information about our various businesses is given on pages 39 - 54, where you will also find our
+segment earnings reported on a GAAP basis. In addition, on pages 63 - 69, we have rearranged Berkshire's financial

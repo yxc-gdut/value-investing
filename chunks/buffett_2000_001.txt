@@ -1,0 +1,114 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2000
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2000ar/2000ar.pdf
+extracted_from: line 297 - 1411
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+Our gain in net worth during 2000 was $3.96 billion, which increased the per-share book value of both
+our Class A and Class B stock by 6.5%. Over the last 36 years (that is, since present management took over) pershare book value has grown from $19 to $40,442, a gain of 23.6% compounded annually.∗
+Overall, we had a decent year, our book-value gain having outpaced the performance of the S&P 500.
+And, though this judgment is necessarily subjective, we believe Berkshire’s gain in per-share intrinsic value
+moderately exceeded its gain in book value. (Intrinsic value, as well as other key investment and accounting terms
+and concepts, are explained in our Owner’s Manual on pages 59-66. Intrinsic value is discussed on page 64.)
+Furthermore, we completed two significant acquisitions that we negotiated in 1999 and initiated six more.
+All told, these purchases have cost us about $8 billion, with 97% of that amount paid in cash and 3% in stock. The
+eight businesses we’ve acquired have aggregate sales of about $13 billion and employ 58,000 people. Still, we
+incurred no debt in making these purchases, and our shares outstanding have increased only 1/3 of 1%. Better yet,
+we remain awash in liquid assets and are both eager and ready for even larger acquisitions.
+I will detail our purchases in the next section of the report. But I will tell you now that we have embraced
+the 21st century by entering such cutting-edge industries as brick, carpet, insulation and paint. Try to control your
+excitement.
+On the minus side, policyholder growth at GEICO slowed to a halt as the year progressed. It has become
+much more expensive to obtain new business. I told you last year that we would get our money’s worth from
+stepped-up advertising at GEICO in 2000, but I was wrong. We’ll examine the reasons later in the report.
+Another negative — which has persisted for several years — is that we see our equity portfolio as only
+mildly attractive. We own stocks of some excellent businesses, but most of our holdings are fully priced and are
+unlikely to deliver more than moderate returns in the future. We’re not alone in facing this problem: The longterm prospect for equities in general is far from exciting.
+Finally, there is the negative that recurs annually: Charlie Munger, Berkshire’s Vice Chairman and my
+partner, and I are a year older than when we last reported to you. Mitigating this adverse development is the
+indisputable fact that the age of your top managers is increasing at a considerably lower rate — percentage-wise —
+than is the case at almost all other major corporations. Better yet, this differential will widen in the future.
+Charlie and I continue to aim at increasing Berkshire’s per-share value at a rate that, over time, will
+modestly exceed the gain from owning the S&P 500. As the table on the facing page shows, a small annual
+advantage in our favor can, if sustained, produce an anything-but-small long-term advantage. To reach our goal
+we will need to add a few good businesses to Berkshire’s stable each year, have the businesses we own generally
+gain in value, and avoid any material increase in our outstanding shares. We are confident about meeting the last
+two objectives; the first will require some luck.
+It’s appropriate here to thank two groups that made my job both easy and fun last year  just as they do
+every year. First, our operating managers continue to run their businesses in splendid fashion, which allows me to
+spend my time allocating capital rather than supervising them. (I wouldn’t be good at that anyway.)
+
+∗
+
+All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the
+company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
+
+3
+
+Our managers are a very special breed. At most large companies, the truly talented divisional managers
+seldom have the job they really want. Instead they yearn to become CEOs, either at their present employer or
+elsewhere. Indeed, if they stay put, they and their colleagues are likely to feel they have failed.
+At Berkshire, our all-stars have exactly the jobs they want, ones that they hope and expect to keep
+throughout their business lifetimes. They therefore concentrate solely on maximizing the long-term value of the
+businesses that they “own” and love. If the businesses succeed, they have succeeded. And they stick with us: In
+our last 36 years, Berkshire has never had a manager of a significant subsidiary voluntarily leave to join another
+business.
+The other group to which I owe enormous thanks is the home-office staff. After the eight acquisitions
+more than doubled our worldwide workforce to about 112,000, Charlie and I went soft last year and added one
+more person at headquarters. (Charlie, bless him, never lets me forget Ben Franklin’s advice: “A small leak can
+sink a great ship.”) Now we have 13.8 people.
+This tiny band works miracles. In 2000 it handled all of the details connected with our eight acquisitions,
+processed extensive regulatory and tax filings (our tax return covers 4,896 pages), smoothly produced an annual
+meeting to which 25,000 tickets were issued, and accurately dispensed checks to 3,660 charities designated by our
+shareholders. In addition, the group dealt with all the routine tasks served up by a company with a revenue runrate of $40 billion and more than 300,000 owners. And, to add to all of this, the other 12.8 are a delight to be
+around.
+I should pay to have my job.
+Acquisitions of 2000
+Our acquisition technique at Berkshire is simplicity itself: We answer the phone. I’m also glad to report
+that it rings a bit more often now, because owners and/or managers increasingly wish to join their companies with
+Berkshire. Our acquisition criteria are set forth on page 23, and the number to call is 402-346-1400.
+Let me tell you a bit about the businesses we have purchased during the past 14 months, starting with the
+two transactions that were initiated in 1999, but closed in 2000. (This list excludes some smaller purchases that
+were made by the managers of our subsidiaries and that, in most cases, will be integrated into their operations.)
+•
+
+I described the first purchase — 76% of MidAmerican Energy — in last year’s report. Because
+of regulatory constraints on our voting privileges, we perform only a “one-line” consolidation of
+MidAmerican’s earnings and equity in our financial statements. If we instead fully consolidated
+the company’s figures, our revenues in 2000 would have been $5 billion greater than we
+reported, though net income would remain the same.
+
+•
+
+On November 23, 1999, I received a one-page fax from Bruce Cort that appended a Washington
+Post article describing an aborted buyout of CORT Business Services. Despite his name, Bruce
+has no connection with CORT. Rather, he is an airplane broker who had sold Berkshire a jet in
+1986 and who, before the fax, had not been in touch with me for about ten years.
+I knew nothing about CORT, but I immediately printed out its SEC filings and liked what I saw.
+That same day I told Bruce I had a possible interest and asked him to arrange a meeting with
+Paul Arnold, CORT’s CEO. Paul and I got together on November 29, and I knew at once that we
+had the right ingredients for a purchase: a fine though unglamorous business, an outstanding
+manager, and a price (going by that on the failed deal) that made sense.
+Operating out of 117 showrooms, CORT is the national leader in “rent-to-rent” furniture,
+primarily used in offices but also by temporary occupants of apartments. This business, it should
+be noted, has no similarity to “rent-to-own” operations, which usually involve the sale of home
+furnishings and electronics to people having limited income and poor credit.
+
+4
+
+We quickly purchased CORT for Wesco, our 80%-owned subsidiary, paying about $386 million
+in cash. You will find more details about CORT’s operations in Wesco’s 1999 and 2000 annual
+reports. Both Charlie and I enjoy working with Paul, and CORT looks like a good bet to beat our
+original expectations.
+•
+
+Early last year, Ron Ferguson of General Re put me in contact with Bob Berry, whose family had
+owned U.S. Liability for 49 years. This insurer, along with two sister companies, is a mediumsized, highly-respected writer of unusual risks — “excess and surplus lines” in insurance jargon.
+After Bob and I got in touch, we agreed by phone on a half-stock, half-cash deal.
+In recent years, Tom Nerney has managed the operation for the Berry family and has achieved a
+rare combination of excellent growth and unusual profitability. Tom is a powerhouse in other
+ways as well. In addition to having four adopted children (two from Russia), he has an extended

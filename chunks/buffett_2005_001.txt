@@ -1,0 +1,161 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2005
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2005ar/2005ar.pdf
+extracted_from: line 322 - 1578
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Our gain in net worth during 2005 was $5.6 billion, which increased the per-share book value of
+both our Class A and Class B stock by 6.4%. Over the last 41 years (that is, since present management
+took over) book value has grown from $19 to $59,377, a rate of 21.5% compounded annually.*
+Berkshire had a decent year in 2005. We initiated five acquisitions (two of which have yet to
+close) and most of our operating subsidiaries prospered. Even our insurance business in its entirety did
+well, though Hurricane Katrina inflicted record losses on both Berkshire and the industry. We estimate our
+loss from Katrina at $2.5 billion – and her ugly sisters, Rita and Wilma, cost us an additional $.9 billion.
+Credit GEICO – and its brilliant CEO, Tony Nicely – for our stellar insurance results in a disasterridden year. One statistic stands out: In just two years, GEICO improved its productivity by 32%.
+Remarkably, employment fell by 4% even as policy count grew by 26% – and more gains are in store.
+When we drive unit costs down in such a dramatic manner, we can offer ever-greater value to our
+customers. The payoff: Last year, GEICO gained market-share, earned commendable profits and
+strengthened its brand. If you have a new son or grandson in 2006, name him Tony.
+************
+My goal in writing this report is to give you the information you need to estimate Berkshire’s
+intrinsic value. I say “estimate” because calculations of intrinsic value, though all-important, are
+necessarily imprecise and often seriously wrong. The more uncertain the future of a business, the more
+possibility there is that the calculation will be wildly off-base. (For an explanation of intrinsic value, see
+pages 77 – 78.) Here Berkshire has some advantages: a wide variety of relatively-stable earnings streams,
+combined with great liquidity and minimum debt. These factors mean that Berkshire’s intrinsic value can
+be more precisely calculated than can the intrinsic value of most companies.
+Yet if precision is aided by Berkshire’s financial characteristics, the job of calculating intrinsic
+value has been made more complex by the mere presence of so many earnings streams. Back in 1965,
+when we owned only a small textile operation, the task of calculating intrinsic value was a snap. Now we
+own 68 distinct businesses with widely disparate operating and financial characteristics. This array of
+unrelated enterprises, coupled with our massive investment holdings, makes it impossible for you to simply
+examine our consolidated financial statements and arrive at an informed estimate of intrinsic value.
+We have attempted to ease this problem by clustering our businesses into four logical groups, each
+of which we discuss later in this report. In these discussions, we will provide the key figures for both the
+group and its important components. Of course, the value of Berkshire may be either greater or less than
+the sum of these four parts. The outcome depends on whether our many units function better or worse by
+being part of a larger enterprise and whether capital allocation improves or deteriorates when it is under the
+direction of a holding company. In other words, does Berkshire ownership bring anything to the party, or
+would our shareholders be better off if they directly owned shares in each of our 68 businesses? These are
+important questions but ones that you will have to answer for yourself.
+Before we look at our individual businesses, however, let’s review two sets of figures that show
+where we’ve come from and where we are now. The first set is the amount of investments (including cash
+and cash-equivalents) we own on a per-share basis. In making this calculation, we exclude investments
+held in our finance operation because these are largely offset by borrowings:
+*All figures used in this report apply to Berkshire’s A shares, the successor to the only stock that
+the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of
+the A.
+
+3
+
+Year
+
+Per-Share Investments*
+
+1965 .....................................................................
+1975 .....................................................................
+1985 .....................................................................
+1995 .....................................................................
+2005 .....................................................................
+Compound Growth Rate 1965-2005....................
+Compound Growth Rate 1995-2005....................
+*Net of minority interests
+
+$
+
+4
+159
+2,407
+21,817
+$74,129
+28.0%
+13.0%
+
+In addition to these marketable securities, which with minor exceptions are held in our insurance
+companies, we own a wide variety of non-insurance businesses. Below, we show the pre-tax earnings
+(excluding goodwill amortization) of these businesses, again on a per-share basis:
+Year
+
+Per-Share Earnings*
+
+1965 .....................................................................
+1975 .....................................................................
+1985 .....................................................................
+1995 .....................................................................
+2005 .....................................................................
+Compound Growth Rate 1965-2005....................
+Compound Growth Rate 1995-2005....................
+*Pre-tax and net of minority interests
+
+$
+
+4
+4
+52
+175
+$2,441
+17.2%
+30.2%
+
+When growth rates are under discussion, it will pay you to be suspicious as to why the beginning
+and terminal years have been selected. If either year was aberrational, any calculation of growth will be
+distorted. In particular, a base year in which earnings were poor can produce a breathtaking, but
+meaningless, growth rate. In the table above, however, the base year of 1965 was abnormally good;
+Berkshire earned more money in that year than it did in all but one of the previous ten.
+As you can see from the two tables, the comparative growth rates of Berkshire’s two elements of
+value have changed in the last decade, a result reflecting our ever-increasing emphasis on business
+acquisitions. Nevertheless, Charlie Munger, Berkshire’s Vice Chairman and my partner, and I want to
+increase the figures in both tables. In this ambition, we hope – metaphorically – to avoid the fate of the
+elderly couple who had been romantically challenged for some time. As they finished dinner on their 50th
+anniversary, however, the wife – stimulated by soft music, wine and candlelight – felt a long-absent tickle
+and demurely suggested to her husband that they go upstairs and make love. He agonized for a moment
+and then replied, “I can do one or the other, but not both.”
+Acquisitions
+Over the years, our current businesses, in aggregate, should deliver modest growth in operating
+earnings. But they will not in themselves produce truly satisfactory gains. We will need major acquisitions
+to get that job done.
+In this quest, 2005 was encouraging. We agreed to five purchases: two that were completed last
+year, one that closed after yearend and two others that we expect to close soon. None of the deals involve
+the issuance of Berkshire shares. That’s a crucial, but often ignored, point: When a management proudly
+acquires another company for stock, the shareholders of the acquirer are concurrently selling part of their
+interest in everything they own. I’ve made this kind of deal a few times myself – and, on balance, my
+actions have cost you money.
+
+4
+
+Here are last year’s purchases:
+•
+
+On June 30 we bought Medical Protective Company (“MedPro”), a 106-year-old medical
+malpractice insurer based in Fort Wayne. Malpractice insurance is tough to underwrite and has
+proved to be a graveyard for many insurers. MedPro nevertheless should do well. It will have the
+attitudinal advantage that all Berkshire insurers share, wherein underwriting discipline trumps all
+other goals. Additionally, as part of Berkshire, MedPro has financial strength far exceeding that of
+its competitors, a quality assuring doctors that long-to-settle claims will not end up back on their
+doorstep because their insurer failed. Finally, the company has a smart and energetic CEO, Tim
+Kenesey, who instinctively thinks like a Berkshire manager.
+
+•
+
+Forest River, our second acquisition, closed on August 31. A couple of months earlier, on June
+21, I received a two-page fax telling me – point by point – why Forest River met the acquisition
+criteria we set forth on page 25 of this report. I had not before heard of the company, a
+recreational vehicle manufacturer with $1.6 billion of sales, nor of Pete Liegl, its owner and
+manager. But the fax made sense, and I immediately asked for more figures. These came the next
+morning, and that afternoon I made Pete an offer. On June 28, we shook hands on a deal.
+Pete is a remarkable entrepreneur. Some years back, he sold his business, then far smaller than
+today, to an LBO operator who promptly began telling him how to run the place. Before long,
+Pete left, and the business soon sunk into bankruptcy. Pete then repurchased it. You can be sure
+that I won’t be telling Pete how to manage his operation.
+Forest River has 60 plants, 5,400 employees and has consistently gained share in the RV business,
+while also expanding into other areas such as boats. Pete is 61 – and definitely in an acceleration
+mode. Read the piece from RV Business that accompanies this report, and you’ll see why Pete and
+Berkshire are made for each other.
+
+•
+
+On November 12, 2005, an article ran in The Wall Street Journal dealing with Berkshire’s unusual
+acquisition and managerial practices. In it Pete declared, “It was easier to sell my business than to

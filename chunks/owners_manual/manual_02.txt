@@ -1,0 +1,835 @@
+2036. This amount is not deductible for tax purposes, so it reduces both our pre-tax and after-tax earnings by $40
+million.
+In an accounting sense, consequently, our GEICO goodwill will disappear gradually in even-sized bites. But
+the one thing I can guarantee you is that the economic goodwill we have purchased at GEICO will not decline in the
+same measured way. In fact, my best guess is that the economic goodwill assignable to GEICO has dramatically
+increased since our purchase and will likely continue to increase — quite probably in a very substantial way.
+
+63
+I made a similar statement in our 1983 Annual Report about the goodwill attributed to See's Candy, when
+I used that company as an example in a discussion of goodwill accounting. At that time, our balance sheet carried
+about $36 million of See's goodwill. We have since been charging about $1 million against earnings every year in
+order to amortize the asset, and the See's goodwill on our balance sheet is now down to about $21 million. In other
+words, from an accounting standpoint, See's is now presented as having lost a good deal of goodwill since 1983.
+The economic facts could not be more different. In 1983, See's earned about $27 million pre-tax on $11
+million of net operating assets; in 1997 it earned $59 million on $5 million of net operating assets. Clearly See's
+economic goodwill has increased dramatically  during the interval rather than decreased. Just as clearly, See's is worth
+many hundreds of millions of dollars more than its stated value on our books.
+We could, of course, be wrong, but we expect that GEICO's gradual loss of accounting value will continue
+to be paired with major increases in its economic value. Certainly that has been the pattern at most of our subsidiaries,
+not just See's. That is why we regularly present our operating earnings in a way that allows you to ignore all purchase-
+accounting adjustments.
+Before leaving this subject, we should issue an important warning:  Investors are often led astray by CEOs
+and Wall Street analysts who equate depreciation charges with the amortization charges we have just discussed. In
+no way are the two the same:  With rare exceptions, depreciation is an economic cost every bit as real as wages,
+materials, or taxes. Certainly that is true at Berkshire and at virtually all the other businesses we have studied.
+Furthermore, we do not think so-called EBITDA (earnings before interest, taxes, depreciation and amortization) is
+a meaningful measure of performance. Managements that dismiss the importance of depreciation — and emphasize
+"cash flow" or EBITDA — are apt to make faulty decisions, and you should keep that in mind as you make your own
+investment decisions.
+THE MANAGING OF BERKSHIRE
+I think it's appropriate that I conclude with a discussion of Berkshire's management, today and in the future.
+As our first owner-related principle tells you, Charlie and I are the managing partners of Berkshire. But we
+subcontract all of the heavy lifting in this business to the managers of our subsidiaries. In fact, we delegate almost
+to the point of abdication:  Though Berkshire has about 45,000 employees, only 12 of these are at headquarters.
+Charlie and I mainly attend to capital allocation and the care and feeding of our key managers. Most of these
+managers are happiest when they are left alone to run their businesses, and that is customarily just how we leave them.
+That puts them in charge of all operating decisions and of dispatching the excess cash they generate to headquarters.
+By sending it to us, they don't get diverted by the various enticements that would come their way were they
+responsible for deploying the cash their businesses throw off. Furthermore, Charlie and I are exposed to a much wider
+range of possibilities for investing these funds than any of our managers could find in his or her own industry.
+Most of our managers are independently wealthy, and it's therefore up to us to create a climate that
+encourages them to choose working with Berkshire over golfing or fishing. This leaves us needing to treat them fairly
+and in the manner that we would wish to be treated if our positions were reversed.
+As for the allocation of capital, that's an activity both Charlie and I enjoy and in which we have acquired
+some useful experience. In a general sense, grey hair doesn't hurt on this playing field:  You don't need good hand-
+eye coordination or well-toned muscles to push money around (thank heavens). As long as our minds continue to
+function effectively, Charlie and I can keep on doing our jobs pretty much as we have in the past.
+
+64
+On my death, Berkshire's ownership picture will change but not in a disruptive way:  First, only about 1%
+of my stock will have to be sold to take care of bequests and taxes; second, the balance of my stock will go to my
+wife, Susan, if she survives me, or to a family foundation if she doesn't. In either event, Berkshire will possess a
+controlling shareholder guided by the same philosophy and objectives that now set our course.
+At that juncture, the Buffett family will not be involved in managing the business, only in picking and
+overseeing the managers who do. Just who those managers will be, of course, depends on the date of my death. But
+I can anticipate what the management structure will be:  Essentially my job will be split into two parts, with one
+executive becoming responsible for investments and another for operations. If the acquisition of new businesses is in
+prospect, the two will cooperate in making the decisions needed. Both executives will report to a board of directors
+who will be responsive to the controlling shareholder, whose interests will in turn be aligned with yours.
+Were we to need the management structure I have just described on an immediate basis, my family and a
+few key individuals know who I would pick to fill both posts. Both currently work for Berkshire and are people in
+whom I have total confidence.
+I will continue to keep my family posted on the succession issue. Since Berkshire stock will make up virtually
+my entire estate and will account for a similar portion of the assets of either my wife or the foundation for a
+considerable period after my death, you can be sure that I have thought through the succession question carefully. You
+can be equally sure that the principles we have employed to date in running Berkshire will continue to guide the
+managers who succeed me.
+Lest we end on a morbid note, I also want to assure you that I have never felt better. I love running
+Berkshire, and if enjoying life promotes longevity, Methuselah's record is in jeopardy.
+Warren E. Buffett
+Chairman
+
+65
+BERKSHIRE HATHAWAY INC.
+COMBINED FINANCIAL STATEMENTS
+BUSINESS GROUPS
+Berkshire's consolidated data is rearranged in the presentations on the
+following six pages into four categories, corresponding to the way Mr.
+Buffett and Mr. Munger think about Berkshire's businesses. The
+presentations may be helpful to readers in making estimates of Berkshire's
+intrinsic value.
+The presentations in this section do not conform in all respects to generally
+accepted accounting principles. Principal departures from GAAP relate to
+accounting treatment for assets acquired in business acquisitions, although
+students and practitioners of accounting will recognize others.
+Opinions of Berkshire's independent auditors were not solicited for this
+data. The four-category presentations in no way fell within their
+purview.
+
+66
+BERKSHIRE HATHAWAY INC.
+INSURANCE GROUP
+Berkshire's insurance businesses are comprised of four operating groups of
+subsidiaries.  GEICO Corporation ("GEICO"), currently the sixth largest auto
+insurer in the U.S., was merged with another Berkshire subsidiary at the
+beginning of 1996. Prior to that date, Berkshire subsidiaries owned approximately
+51% of the then outstanding capital stock of GEICO. GEICO, through its
+subsidiaries, is a multiple line property and casualty insurer the principal business
+of which is writing private passenger automobile insurance.  GEICO's voluntary
+auto policy count grew 21% during the twelve months ended December 31, 1998.
+At the same time, outstanding underwriting results continued to be generated.
+The Berkshire Hathaway Reinsurance Division provides treaty and limited
+facultative reinsurance to other property/casualty insurers and reinsurers.
+Berkshire is one of the world's leading providers of catastrophe excess of loss
+reinsurance. Berkshire's unparalled capital strength has enabled it to offer dollar
+coverages of a magnitude far in excess of its competitors.
+Berkshire's third group of businesses underwrite miscellaneous forms of direct
+insurance. National Indemnity Company and other affiliated entities underwrite
+multiple lines of traditional insurance for primarily commercial accounts. The
+"Homestate Group" companies underwrite various commercial coverages for risks
+in an increasing number of selected states. Cypress Insurance Company provides
+workers' compensation insurance to employers in California and other states.
+Central States Indemnity Company issues credit insurance distributed through
+credit card issuers nationwide and Kansas Bankers Surety Company is an insurer
+for primarily small and medium sized banks located in the midwest.
+On December 21, 1998, Berkshire completed its acquisition of General Re
+Corporation.  General Re is a holding company for global reinsurance and related
+risk management operations.  General Re, through its domestic subsidiaries,
+General Reinsurance Corporation and National Reinsurance Corporation, is one
+of the largest professional property/casualty reinsurance group domiciled in the
+United States.  General Re also owns a controlling interest in Cologne Re, a major
+international reinsurer.
+Berkshire Hathaway’s insurance businesses maintains capital strength at
+unparalleled high levels. Statutory surplus as regards policyholders of these
+businesses increased to about $45 billion at December 31, 1998.
+Combined financial statements of the Insurance Group — unaudited and not
+fully adjusted to conform to Generally Accepted Accounting Principles — are
+presented on the following page.  These combined financial statements include
+the assets and liabilities of General Re’s insurance operations as of December 31,
+1998 but exclude the operating results of General Re from 1998's Statement of
+Earnings.
+
+67
+BERKSHIRE HATHAWAY INC.
+INSURANCE GROUP
+Balance Sheets
+(dollars in millions)
+December 31,
+1998
+1997
+Assets
+   Investments:
+      Fixed maturities at market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$21,216
+$10,028
+      Equity securities and other investments at market:
+American Express Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,067
+4,315
+The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13,368
+13,305
+The Walt Disney Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,489
+2,083
+Freddie Mac . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,885
+2,683
+The Gillette Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,590
+4,821
+Wells Fargo & Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,466
+2,208
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    8,629
+    6,526
+60,710
+45,969
+   Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13,081
+516
+   Deferred costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,226
+608
+   Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    7,745
+    1,287
+$82,762
+$48,380
+Liabilities
+   Losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$23,012
+$6,850
+   Unearned premiums . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,324
+1,274
+   Policyholder liabilities and other accruals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,419
+1,654
+   Income taxes, principally deferred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 11,432
+ 10,372
+ 44,187
+ 20,150
+Equity
+   Minority shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,554
+359
+   Berkshire shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 37,021
+ 27,871
+ 38,575
+ 28,230
+$82,762
+$48,380
+Statements of Earnings
+(dollars in millions)
+1998
+1997
+1996
+Premiums written . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$5,476
+$4,852
+$4,105
+Premiums earned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$5,300
+$4,761
+$4,118
+Losses and loss expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,904
+3,420
+3,090
+Underwriting expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 1,131
+    880
+    806
+   Total losses and expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 5,035
+ 4,300
+ 3,896
+Underwriting gain — pre-tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+265
+461
+222
+Net investment income* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+974
+882
+726
+Realized investment gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 2,462
+ 1,059
+ 2,290
+Earnings before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,701
+2,402
+3,238
+Income tax expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 1,186
+    704
+ 1,007
+2,515
+1,698
+2,231
+Minority interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      17
+      15
+       7
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$2,498
+$1,683
+$2,224
+* Net investment income is summarized below:
+      Dividends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$363 
+$457 
+$418 
+      Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+621 
+430 
+322 
+      Investment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ (10)
+   (5)
+ (14)
+$974
+$882
+$726
+These statements do not conform to GAAP in all respects
+These statements are unaudited
+
+68
+BERKSHIRE HATHAWAY INC.
+MANUFACTURING, RETAILING AND SERVICES BUSINESSES
+Combined financial statements of Berkshire's Manufacturing, Retailing and Services businesses - unaudited and not
+fully adjusted to conform to Generally Accepted Accounting Principles - are presented on the following page. The
+operations whose data have been combined in these presentations include the following:
+Operation
+Product/Service/Activity
+Adalet 
+Electrical enclosure systems and cable accessories
+Blue Chip Stamps
+Marketing motivational services
+Borsheim's
+Retailing fine jewelry
+Buffalo News
+Daily and Sunday newspaper
+Campbell Hausfeld
+Air compressors, air tools, painting systems, pressure washers, welders and
+generators
+Carefree
+Comfort and convenience products for the recreational vehicle industry
+Cleveland Wood Products
+Vacuum cleaner brushes and bags
+Dexter Shoe Companies
+Dress, casual and athletic shoes
+Douglas Products
+Specialty and cordless vacuum cleaners
+Executive Jet
+Fractional ownership programs for general aviation aircraft
+Fechheimer Bros. Co.
+Uniforms and accessories
+FlightSafety
+High technology training to operators of aircraft and ships
+France
+Ignition and sign transformers and components
+H. H. Brown Shoe Co.
+Work shoes, boots and casual footwear
+Halex
+Zinc die cast conduit fittings and other electrical construction materials
+Helzberg's Diamond Shops
+Retailing fine jewelry
+International Dairy Queen
+Licensing and servicing Dairy Queen Stores
+Kingston
+Appliance controls
+Kirby
+Home cleaning systems
+Lowell Shoe, Inc.
+Women's and nurses' shoes
+Meriam
+Pressure and flow measurement devices
+Nebraska Furniture Mart
+Retailing home furnishings
+Northland
+Fractional horsepower electric motors
+Powerwinch
+Marine and general purpose winches, windlasses, and hoists
+Precision Steel Products
+Steel service center
+Quikut
+Cutlery for the home and sporting goods markets
+ScottCare
+Cardiopulmonary rehabilitation and monitoring equipment
+Scot Labs
+Cleaning compounds and solutions
+See's Candies
+Boxed chocolates and other confectionery products
+Stahl
+Truck equipment including service bodies, flatbed bodies, cranes, tool boxes,
+hoists and dump bodies
+Star Furniture Company
+Retailing home furnishings
+Wayne Combustion Systems
+Oil and gas burners for residential and commercial furnaces and water heaters
+Wayne Pumps
+Sump, utility and sewage pumps
+Western Enterprises
+Medical and industrial compressed gas fittings and regulators
+Western Plastics
+Molded plastic components
+R.C. Willey Home Furnishings
+Retailing home furnishings
+World Book
+Printed and multimedia encyclopedias and other reference materials
+
+69
+BERKSHIRE HATHAWAY INC.
+MANUFACTURING, RETAILING AND SERVICES BUSINESSES
+Balance Sheets
+(dollars in millions)
+December 31,
+1998
+1997
+Assets
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$  281
+$  103
+Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+823
+624
+Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+727
+599
+Properties and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,190
+892
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    331
+    156
+$3,352
+$2,374
+Liabilities
+Accounts payable, accruals and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$  761
+$  532
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+166
+157
+Term debt and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    442
+    216
+ 1,369
+    905
+Equity
+Minority shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+75
+52
+Berkshire shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 1,908
+ 1,417
+ 1,983
+ 1,469
+$3,352
+$2,374
+Statements of Earnings
+(dollars in millions)
+1998
+1997
+1996
+Revenues:
+Sales and service revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$4,67
+$3,61
+$3,09
+5
+5
+5
+Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        8
+        7
+        6
+ 4,683
+ 3,622
+ 3,101
+Cost and expenses:
+Cost of products and services sold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,010
+2,179
+1,876
+Selling, general and administrative expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,014
+899
+832
+Interest on debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      19
+     20
+     16
+ 4,043
+ 3,098
+ 2,724
+Earnings from operations before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+640
+524
+377
+Income tax expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    234
+    200
+    138
+406
+324
+239
+Minority interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        5
+        6
+        5
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$  401
+$  318
+$  234
+This presentation reflects the results of operations of FlightSafety International, Star Furniture Company,
+International Dairy Queen and Executive Jet  from their respective dates of acquisition; (FlightSafety — December 23,
+1996; Star Furniture — July 1, 1997; International Dairy Queen — January 7, 1998; Executive Jet — August 7, 1998).
+Purchase accounting adjustments, including goodwill, arising from Berkshire's business acquisitions are not reflected
+in these statements, but instead are reflected in the statements of non-operating activities at page 71.
+These statements do not conform to GAAP in all respects
+These statements are unaudited
+
+70
+BERKSHIRE HATHAWAY INC.
+FINANCE AND FINANCIAL PRODUCTS BUSINESSES
+Scott Fetzer Financial Group, Inc., Berkshire Hathaway Life Insurance Co. of Nebraska and General Re Financial
+Products make up Berkshire's finance and financial products businesses.
+Balance Sheets
+(dollars in millions)
+1998
+  1997
+Assets
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$16,907
+$1,256
+Investment in securities with fixed maturities:
+Held to maturity, at cost (fair value $1,366 in 1998; $1,082 in 1997) . . . . . . . . . . . . . . . .
+1,227
+971
+Trading, at fair value (cost $5,643) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,219
+—
+Available for sale, at fair value (cost $745) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+743
+—
+Trading account assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,234
+—
+Securities purchased under agreements to resell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,083
+—
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    1,576
+     244
+$16,989
+$1,271
+Liabilities
+Annuity reserves and policyholder liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$16,816
+$1,697
+Securities sold under agreements to repurchase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,065
+—
+Securities sold but not yet purchased . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,181
+—
+Trading account liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,834
+—
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,503
+326
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    2,428
+      126
+$15,827
+$1,149
+Equity
+Berkshire shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    1,162
+    122
+$16,989
+$1,271
+Statements of Earnings
+(dollars in millions)
+  1998
+  1997
+  1996
+Revenues:
+Annuity premiums earned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$   95
+$ 248
+$ 259
+Other revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  293
+  112
+    94
+388
+360
+353
+Expenses:
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+24
+32
+Annuity benefits and underwriting expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+146
+287
+277
+General and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    16
+     21
+     21
+  189
+   332
+   330
+Earnings from operations before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+199
+28
+23
+Income tax expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    70
+     10
+       8
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 129
+$   18
+$   15
+This presentation includes the assets and liabilities as of December 31, 1998 of General Re Financial Products,
+acquired in connection with the acquisition of General Re Corporation on December 21, 1998.  It does not include the
+operating results of this business.
+These statements do not conform to GAAP in all respects
+These statements are unaudited
+
+71
+BERKSHIRE HATHAWAY INC.
+NON-OPERATING ACTIVITIES
+These statements reflect the consolidated financial statement values for assets, liabilities, shareholders' equity,
+revenues and expenses that were not assigned to any Berkshire operating group in the unaudited, and not fully GAAP -
+adjusted group financial statements heretofore presented (pages 65 to 70).
+Statements of Net Assets
+(dollars in millions)
+December 31,
+1998
+1997
+Assets
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$     220
+$  383
+Investments:
+Fixed maturities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+269
+Equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+267
+307
+Unamortized goodwill and other purchase accounting adjustments * . . . . . . . . . . . . . . . . . . .
+18,613
+3,099
+Deferred tax assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+130
+136
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+       128
+    104
+$19,388
+$4,298
+Liabilities
+Accounts payable, accruals and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$       40
+$    40
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+158
+152
+Borrowings under investment agreements and other debt . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 1,863
+ 2,016
+ 2,061
+ 2,208
+Equity
+Minority shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+45
+Berkshire shareholders’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17,312
+ 2,045
+17,327
+ 2,090
+$19,388
+$4,298
+Statements of Earnings
+(dollars in millions)
+1998
+1997
+1996
+Revenues:
+Interest, dividend and other income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$    63 
+$    41 
+$    55 
+Realized investment gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+     40 
+     53 
+    194 
+   103 
+     94 
+    249 
+Expenses:
+Corporate administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6 
+7 
+5 
+Shareholder-designated contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17 
+15 
+13 
+Amortization of goodwill and purchase accounting adjustments * . . . . . . . . . . . . . .
+210 
+105 
+76 
+Interest on debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96 
+101 
+91 
+Other income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      — 
+     (7)
+     (3)
+   329 
+    221 
+    182 
+Income (loss) before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(226)
+(127)
+67 
+Income tax expense (benefit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   (33)
+   (17)
+     44 
+(193)
+(110)
+23 
+Minority interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+       5 
+       8 
+       7 
+Net earnings (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$(198)
+$(118)
+$    16 
+ * Purchase accounting adjustments and goodwill arose in accounting for business acquisitions.
+These statements do not conform to GAAP in all respects
+These statements are unaudited
+
+72
+BERKSHIRE HATHAWAY INC.
+COMMON STOCK
+General
+The Company has two classes of common stock designated Class A Common Stock and Class B Common Stock.
+Each share of Class A Common Stock is convertible, at the option of the holder, into 30 shares of Class B Common Stock.
+Shares of Class B Common Stock are not convertible into shares of Class A Common Stock.
+Stock Transfer Agent
+BankBoston, N.A. /o Boston EquiServe, P.O. Box 8040, Boston, MA 02266-8040 serves as Transfer Agent and
+c
+Registrar for the Company's common stock. Correspondence may be directed to Investor Relations, Mail Stop 45-02-64.
+Certificates for re-issue or transfer should be directed to the Transfer Processing Section, Mail Stop 45-01-05. Notices for
+conversion and underlying stock certificates should be directed to Corporate Reorganization, Mail Stop 45-02-53. Phone
+inquiries should be directed to Investor Relations — (781) 575-3100.
+Shareholders of record wishing to convert Class A Common Stock into Class B Common Stock should contact
+BankBoston to obtain a "form of conversion notice" and instructions for converting their shares. Shareholders may call
+BankBoston between 9:00 a.m. and 6:00 p.m. Eastern Time to request a "form of conversion notice."
+Alternatively, shareholders may notify BankBoston in writing. Along with the underlying stock certificate,
+shareholders should provide BankBoston with specific written instructions regarding the number of shares to be converted
+and the manner in which the Class B shares are to be registered. We recommend that you use certified or registered mail
+when delivering the stock certificates and written instructions.
+If Class A shares are held in "street name", shareholders wishing to convert all or a portion of their holding should
+contact their broker or bank nominee. It will be necessary for the nominee to make the request for conversion.
+Shareholders
+The Company had approximately 9,300 record holders of its Class A Common Stock and13,400 record holders of
+its Class B Common Stock at March 5, 1999. Record owners included nominees holding at least 385,000 shares of
+Class A Common Stock and 4,850,000 shares of Class B Common Stock on behalf of beneficial-but-not-of-record owners.
+Price Range of Common Stock
+The Company's Class A and Class B Common Stock are listed for trading on the New York Stock Exchange, trading
+symbol: BRK.A and BRK.B. The following table sets forth the high and low sales prices per share, as reported on the New
+York Stock Exchange Composite List during the periods indicated:
+1998
+1997
+Class A
+Class B
+Class A
+Class B
+High
+Low
+High
+Low
+High
+Low
+High
+Low
+First Quarter . . . . . . . .
+$69,500
+$45,700
+$2,324
+$1,526
+$37,900
+$33,000
+$1,264
+$1,088
+Second Quarter . . . . . .
+84,000
+65,800
+2,795
+2,184
+48,600
+35,900
+1,624
+1,197
+Third Quarter . . . . . . .
+78,500
+57,000
+2,622
+1,893
+48,300
+41,300
+1,608
+1,377
+Fourth Quarter . . . . . .
+71,000
+57,700
+2,396
+1,916
+47,200
+42,500
+1,565
+1,400
+Dividends
+Berkshire has not declared a cash dividend since 1967.
+
+BERKSHIRE HATHAWAY INC.
+DIRECTORS
+WARREN E. BUFFETT, Chairman
+Chief Executive Officer of Berkshire
+CHARLES T. MUNGER, Vice Chairman of Berkshire
+SUSAN T. BUFFETT
+HOWARD G. BUFFETT,
+Chairman of the Board of Directors of The GSI Group,
+   a company primarily engaged in the manufacture of
+     agricultural equipment.
+MALCOLM G. CHACE,
+Chairman of the Board of Directors of BankRI,
+   a community bank located in the State
+     of Rhode Island.
+RONALD L. OLSON,
+Partner of the law firm of 
+   Munger Tolles & Olson, LLP.
+WALTER SCOTT, JR.,
+Chairman of Level 3 Communications, a successor to certain
+   businesses of Peter Kiewit Sons’ Inc. which is engaged in
+     telecommunications and computer outsourcing.
+OFFICERS
+WARREN E. BUFFETT,  Chairman and CEO
+CHARLES T. MUNGER,  Vice Chairman
+MARC D. HAMBURG,  Vice President, Treasurer
+DANIEL J. JAKSICH,  Controller
+FORREST N. KRUTTER,  Secretary
+REBECCA K. AMICK,  
+Director of Internal Auditing
+JERRY W. HUFTON, 
+ Director of Taxes
+MARK D. MILLARD,
+ Director of Financial Assets
+Letters from Annual Reports (1977 through 1998), quarterly reports, press
+releases and other information about Berkshire may be obtained on the Internet at
+www.berkshirehathaway.com.  In addition, this site includes links to the home pages of
+many Berkshire subsidiaries.  A two volume bound set of compilations of letters (1977
+through 1995) is available upon written request accompanied by a payment of $30.00
+to cover production, postage and handling costs. Requests should be submitted to the
+Company at 3555 Farnam St., Suite 1440, Omaha, NE  68131.
+

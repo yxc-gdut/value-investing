@@ -1,0 +1,168 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2007
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2007ar/2007ar.pdf
+extracted_from: line 336 - 1547
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Our gain in net worth during 2007 was $12.3 billion, which increased the per-share book value of
+both our Class A and Class B stock by 11%. Over the last 43 years (that is, since present management took
+over) book value has grown from $19 to $78,008, a rate of 21.1% compounded annually.*
+Overall, our 76 operating businesses did well last year. The few that had problems were primarily
+those linked to housing, among them our brick, carpet and real estate brokerage operations. Their setbacks
+are minor and temporary. Our competitive position in these businesses remains strong, and we have firstclass CEOs who run them right, in good times or bad.
+Some major financial institutions have, however, experienced staggering problems because they
+engaged in the “weakened lending practices” I described in last year’s letter. John Stumpf, CEO of Wells
+Fargo, aptly dissected the recent behavior of many lenders: “It is interesting that the industry has invented
+new ways to lose money when the old ways seemed to work just fine.”
+You may recall a 2003 Silicon Valley bumper sticker that implored, “Please, God, Just One More
+Bubble.” Unfortunately, this wish was promptly granted, as just about all Americans came to believe that
+house prices would forever rise. That conviction made a borrower’s income and cash equity seem
+unimportant to lenders, who shoveled out money, confident that HPA – house price appreciation – would
+cure all problems. Today, our country is experiencing widespread pain because of that erroneous belief.
+As house prices fall, a huge amount of financial folly is being exposed. You only learn who has been
+swimming naked when the tide goes out – and what we are witnessing at some of our largest financial
+institutions is an ugly sight.
+Turning to happier thoughts, we can report that Berkshire’s newest acquisitions of size, TTI and
+Iscar, led by their CEOs, Paul Andrews and Jacob Harpaz respectively, performed magnificently in 2007.
+Iscar is as impressive a manufacturing operation as I’ve seen, a view I reported last year and that was
+confirmed by a visit I made in the fall to its extraordinary plant in Korea.
+Finally, our insurance business – the cornerstone of Berkshire – had an excellent year. Part of the
+reason is that we have the best collection of insurance managers in the business – more about them later.
+But we also were very lucky in 2007, the second year in a row free of major insured catastrophes.
+That party is over. It’s a certainty that insurance-industry profit margins, including ours, will fall
+significantly in 2008. Prices are down, and exposures inexorably rise. Even if the U.S. has its third
+consecutive catastrophe-light year, industry profit margins will probably shrink by four percentage points
+or so. If the winds roar or the earth trembles, results could be far worse. So be prepared for lower
+insurance earnings during the next few years.
+Yardsticks
+Berkshire has two major areas of value. The first is our investments: stocks, bonds and cash
+equivalents. At yearend these totaled $141 billion (not counting those in our finance or utility operations,
+which we assign to our second bucket of value).
+
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares
+are 1/30th of those shown for the A.
+
+3
+
+Insurance float – money we temporarily hold in our insurance operations that does not belong to
+us – funds $59 billion of our investments. This float is “free” as long as insurance underwriting breaks
+even, meaning that the premiums we receive equal the losses and expenses we incur. Of course, insurance
+underwriting is volatile, swinging erratically between profits and losses. Over our entire history, however,
+we’ve been profitable, and I expect we will average breakeven results or better in the future. If we do that,
+our investments can be viewed as an unencumbered source of value for Berkshire shareholders.
+Berkshire’s second component of value is earnings that come from sources other than investments
+and insurance. These earnings are delivered by our 66 non-insurance companies, itemized on page 76. In
+our early years, we focused on the investment side. During the past two decades, however, we have put
+ever more emphasis on the development of earnings from non-insurance businesses.
+The following tables illustrate this shift. In the first we tabulate per-share investments at 14-year
+intervals. We exclude those applicable to minority interests.
+
+Year
+1965
+1979
+1993
+2007
+
+Per-Share
+Investments
+4
+577
+13,961
+90,343
+
+Years
+
+Compounded Annual
+Gain in Per-Share Investments
+
+1965-1979
+1979-1993
+1993-2007
+
+42.8%
+25.6%
+14.3%
+
+$
+
+For the entire 42 years, our compounded annual gain in per-share investments was 27.1%. But the
+trend has been downward as we increasingly used our available funds to buy operating businesses.
+Here’s the record on how earnings of our non-insurance businesses have grown, again on a pershare basis and after applicable minority interests.
+
+Year
+1965
+1979
+1993
+2007
+
+Per Share
+Pre-Tax Earnings
+4
+18
+212
+4,093
+
+Years
+
+Compounded Annual Gain in PerShare Pre-Tax Earnings
+
+1965-1979
+1979-1993
+1993-2007
+
+11.1%
+19.1%
+23.5%
+
+$
+
+For the entire period, the compounded annual gain was 17.8%, with gains accelerating as our
+focus shifted.
+Though these tables may help you gain historical perspective and be useful in valuation, they are
+completely misleading in predicting future possibilities. Berkshire’s past record can’t be duplicated or
+even approached. Our base of assets and earnings is now far too large for us to make outsized gains in the
+future.
+Charlie Munger, my partner at Berkshire, and I will continue to measure our progress by the two
+yardsticks I have just described and will regularly update you on the results. Though we can’t come close
+to duplicating the past, we will do our best to make sure the future is not disappointing.
+************
+In our efforts, we will be aided enormously by the managers who have joined Berkshire. This is
+an unusual group in several ways. First, most of them have no financial need to work. Many sold us their
+businesses for large sums and run them because they love doing so, not because they need the money.
+Naturally they wish to be paid fairly, but money alone is not the reason they work hard and productively.
+
+4
+
+A second, somewhat related, point about these managers is that they have exactly the job they
+want for the rest of their working years. At almost any other company, key managers below the top aspire
+to keep climbing the pyramid. For them, the subsidiary or division they manage today is a way station – or
+so they hope. Indeed, if they are in their present positions five years from now, they may well feel like
+failures.
+Conversely, our CEOs’ scorecards for success are not whether they obtain my job but instead are
+the long-term performances of their businesses. Their decisions flow from a here-today, here-forever
+mindset. I think our rare and hard-to-replicate managerial structure gives Berkshire a real advantage.
+Acquisitions
+Though our managers may be the best, we will need large and sensible acquisitions to get the
+growth in operating earnings we wish. Here, we made little progress in 2007 until very late in the year.
+Then, on Christmas day, Charlie and I finally earned our paychecks by contracting for the largest cash
+purchase in Berkshire’s history.
+The seeds of this transaction were planted in 1954. That fall, only three months into a new job, I
+was sent by my employers, Ben Graham and Jerry Newman, to a shareholders’ meeting of Rockwood
+Chocolate in Brooklyn. A young fellow had recently taken control of this company, a manufacturer of
+assorted cocoa-based items. He had then initiated a one-of-a-kind tender, offering 80 pounds of cocoa
+beans for each share of Rockwood stock. I described this transaction in a section of the 1988 annual report
+that explained arbitrage. I also told you that Jay Pritzker – the young fellow mentioned above – was the
+business genius behind this tax-efficient idea, the possibilities for which had escaped all the other experts
+who had thought about buying Rockwood, including my bosses, Ben and Jerry.
+At the meeting, Jay was friendly and gave me an education on the 1954 tax code. I came away
+very impressed. Thereafter, I avidly followed Jay’s business dealings, which were many and brilliant. His
+valued partner was his brother, Bob, who for nearly 50 years ran Marmon Group, the home for most of the
+Pritzker businesses.
+Jay died in 1999, and Bob retired early in 2002. Around then, the Pritzker family decided to
+gradually sell or reorganize certain of its holdings, including Marmon, a company operating 125
+businesses, managed through nine sectors. Marmon’s largest operation is Union Tank Car, which together
+with a Canadian counterpart owns 94,000 rail cars that are leased to various shippers. The original cost of
+this fleet is $5.1 billion. All told, Marmon has $7 billion in sales and about 20,000 employees.

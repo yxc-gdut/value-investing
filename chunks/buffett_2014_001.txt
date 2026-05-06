@@ -1,0 +1,134 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2014
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2014ar/2014ar.pdf
+extracted_from: line 309 - 1549
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire’s gain in net worth during 2014 was $18.3 billion, which increased the per-share book value of
+both our Class A and Class B stock by 8.3%. Over the last 50 years (that is, since present management took over),
+per-share book value has grown from $19 to $146,186, a rate of 19.4% compounded annually.*
+During our tenure, we have consistently compared the yearly performance of the S&P 500 to the change in
+Berkshire’s per-share book value. We’ve done that because book value has been a crude, but useful, tracking device
+for the number that really counts: intrinsic business value.
+In our early decades, the relationship between book value and intrinsic value was much closer than it is
+now. That was true because Berkshire’s assets were then largely securities whose values were continuously restated
+to reflect their current market prices. In Wall Street parlance, most of the assets involved in the calculation of book
+value were “marked to market.”
+Today, our emphasis has shifted in a major way to owning and operating large businesses. Many of these
+are worth far more than their cost-based carrying value. But that amount is never revalued upward no matter how
+much the value of these companies has increased. Consequently, the gap between Berkshire’s intrinsic value and its
+book value has materially widened.
+With that in mind, we have added a new set of data – the historical record of Berkshire’s stock price – to
+the performance table on the facing page. Market prices, let me stress, have their limitations in the short term.
+Monthly or yearly movements of stocks are often erratic and not indicative of changes in intrinsic value. Over time,
+however, stock prices and intrinsic value almost invariably converge. Charlie Munger, Berkshire Vice Chairman
+and my partner, and I believe that has been true at Berkshire: In our view, the increase in Berkshire’s per-share
+intrinsic value over the past 50 years is roughly equal to the 1,826,163% gain in market price of the company’s
+shares.
+
+* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of
+those shown for A.
+
+3
+
+The Year at Berkshire
+It was a good year for Berkshire on all major fronts, except one. Here are the important developments:
+‹
+
+Our “Powerhouse Five” – a collection of Berkshire’s largest non-insurance businesses – had a record $12.4
+billion of pre-tax earnings in 2014, up $1.6 billion from 2013.* The companies in this sainted group are
+Berkshire Hathaway Energy (formerly MidAmerican Energy), BNSF, IMC (I’ve called it Iscar in the past),
+Lubrizol and Marmon.
+Of the five, only Berkshire Hathaway Energy, then earning $393 million, was owned by us a decade ago.
+Subsequently we purchased another three of the five on an all-cash basis. In acquiring the fifth, BNSF, we
+paid about 70% of the cost in cash and, for the remainder, issued Berkshire shares that increased the
+number outstanding by 6.1%. In other words, the $12 billion gain in annual earnings delivered Berkshire by
+the five companies over the ten-year span has been accompanied by only minor dilution. That satisfies our
+goal of not simply increasing earnings, but making sure we also increase per-share results.
+If the U.S. economy continues to improve in 2015, we expect earnings of our Powerhouse Five to improve
+as well. The gain could reach $1 billion, in part because of bolt-on acquisitions by the group that have
+already closed or are under contract.
+
+‹
+
+Our bad news from 2014 comes from our group of five as well and is unrelated to earnings. During the
+year, BNSF disappointed many of its customers. These shippers depend on us, and service failures can
+badly hurt their businesses.
+BNSF is, by far, Berkshire’s most important non-insurance subsidiary and, to improve its performance, we
+will spend $6 billion on plant and equipment in 2015. That sum is nearly 50% more than any other railroad
+has spent in a single year and is a truly extraordinary amount, whether compared to revenues, earnings or
+depreciation charges.
+Though weather, which was particularly severe last year, will always cause railroads a variety of operating
+problems, our responsibility is to do whatever it takes to restore our service to industry-leading levels. That
+can’t be done overnight: The extensive work required to increase system capacity sometimes disrupts
+operations while it is underway. Recently, however, our outsized expenditures are beginning to show
+results. During the last three months, BNSF’s performance metrics have materially improved from last
+year’s figures.
+
+‹
+
+Our many dozens of smaller non-insurance businesses earned $5.1 billion last year, up from $4.7 billion in
+2013. Here, as with our Powerhouse Five, we expect further gains in 2015. Within this group, we have two
+companies that last year earned between $400 million and $600 million, six that earned between $250
+million and $400 million, and seven that earned between $100 million and $250 million. This collection of
+businesses will increase in both number and earnings. Our ambitions have no finish line.
+
+‹
+
+Berkshire’s huge and growing insurance operation again operated at an underwriting profit in 2014 – that
+makes 12 years in a row – and increased its float. During that 12-year stretch, our float – money that
+doesn’t belong to us but that we can invest for Berkshire’s benefit – has grown from $41 billion to $84
+billion. Though neither that gain nor the size of our float is reflected in Berkshire’s earnings, float
+generates significant investment income because of the assets it allows us to hold.
+
+* Throughout this letter, as well as in the “Golden Anniversary” letters included later in this report, all earnings are
+stated on a pre-tax basis unless otherwise designated.
+
+4
+
+Meanwhile, our underwriting profit totaled $24 billion during the twelve-year period, including $2.7 billion
+earned in 2014. And all of this began with our 1967 purchase of National Indemnity for $8.6 million.
+‹
+
+While Charlie and I search for new businesses to buy, our many subsidiaries are regularly making bolt-on
+acquisitions. Last year was particularly fruitful: We contracted for 31 bolt-ons, scheduled to cost $7.8
+billion in aggregate. The size of these transactions ranged from $400,000 to $2.9 billion. However, the
+largest acquisition, Duracell, will not close until the second half of this year. It will then be placed under
+Marmon’s jurisdiction.
+Charlie and I encourage bolt-ons, if they are sensibly-priced. (Most deals offered us aren’t.) They deploy
+capital in activities that fit with our existing businesses and that will be managed by our corps of expert
+managers. This means no more work for us, yet more earnings, a combination we find particularly
+appealing. We will make many more of these bolt-on deals in future years.
+
+‹
+
+Two years ago my friend, Jorge Paulo Lemann, asked Berkshire to join his 3G Capital group in the
+acquisition of Heinz. My affirmative response was a no-brainer: I knew immediately that this partnership
+would work well from both a personal and financial standpoint. And it most definitely has.
+I’m not embarrassed to admit that Heinz is run far better under Alex Behring, Chairman, and Bernardo
+Hees, CEO, than would be the case if I were in charge. They hold themselves to extraordinarily high
+performance standards and are never satisfied, even when their results far exceed those of competitors.
+We expect to partner with 3G in more activities. Sometimes our participation will only involve a financing
+role, as was the case in the recent acquisition of Tim Hortons by Burger King. Our favored arrangement,
+however, will usually be to link up as a permanent equity partner (who, in some cases, contributes to the
+financing of the deal as well). Whatever the structure, we feel good when working with Jorge Paulo.
+Berkshire also has fine partnerships with Mars and Leucadia, and we may form new ones with them or with
+other partners. Our participation in any joint activities, whether as a financing or equity partner, will be
+limited to friendly transactions.
+
+‹
+
+In October, we contracted to buy Van Tuyl Automotive, a group of 78 automobile dealerships that is
+exceptionally well-run. Larry Van Tuyl, the company’s owner, and I met some years ago. He then decided
+that if he were ever to sell his company, its home should be Berkshire. Our purchase was recently
+completed, and we are now “car guys.”
+Larry and his dad, Cecil, spent 62 years building the group, following a strategy that made owner-partners
+of all local managers. Creating this mutuality of interests proved over and over to be a winner. Van Tuyl is
+now the fifth-largest automotive group in the country, with per-dealership sales figures that are
+outstanding.
+In recent years, Jeff Rachor has worked alongside Larry, a successful arrangement that will continue. There
+are about 17,000 dealerships in the country, and ownership transfers always require approval by the
+relevant auto manufacturer. Berkshire’s job is to perform in a manner that will cause manufacturers to

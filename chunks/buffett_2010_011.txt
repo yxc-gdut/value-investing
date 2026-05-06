@@ -1,0 +1,99 @@
+have a deep disgust for “game playing” with numbers, a practice that was rampant throughout corporate America
+in the 1990s and still persists, though it occurs less frequently and less blatantly than it used to.
+Operating earnings, despite having some shortcomings, are in general a reasonable guide as to how our
+businesses are doing. Ignore our net income figure, however. Regulations require that we report it to you. But if
+you find reporters focusing on it, that will speak more to their performance than ours.
+Both realized and unrealized gains and losses are fully reflected in the calculation of our book value.
+Pay attention to the changes in that metric and to the course of our operating earnings, and you will be on the
+right track.
+************
+As a p.s., I can’t resist pointing out just how capricious reported net income can be. Had our equity puts
+had a termination date of June 30, 2010, we would have been required to pay $6.4 billion to our counterparties at
+that date. Security prices then generally rose in the next quarter, a move that brought the corresponding figure
+down to $5.8 billion on September 30th. Yet the Black-Scholes formula that we use in valuing these contracts
+required us to increase our balance-sheet liability during this period from $8.9 billion to $9.6 billion, a change
+that, after the effect of tax accruals, reduced our net income for the quarter by $455 million.
+Both Charlie and I believe that Black-Scholes produces wildly inappropriate values when applied to
+long-dated options. We set out one absurd example in these pages two years ago. More tangibly, we put our
+money where our mouth was by entering into our equity put contracts. By doing so, we implicitly asserted that
+the Black-Scholes calculations used by our counterparties or their customers were faulty.
+We continue, nevertheless, to use that formula in presenting our financial statements. Black-Scholes is
+the accepted standard for option valuation – almost all leading business schools teach it – and we would be
+accused of shoddy accounting if we deviated from it. Moreover, we would present our auditors with an
+insurmountable problem were we to do that: They have clients who are our counterparties and who use BlackScholes values for the same contracts we hold. It would be impossible for our auditors to attest to the accuracy of
+both their values and ours were the two far apart.
+Part of the appeal of Black-Scholes to auditors and regulators is that it produces a precise number.
+Charlie and I can’t supply one of those. We believe the true liability of our contracts to be far lower than that
+calculated by Black-Scholes, but we can’t come up with an exact figure – anymore than we can come up with a
+precise value for GEICO, BNSF, or for Berkshire Hathaway itself. Our inability to pinpoint a number doesn’t
+bother us: We would rather be approximately right than precisely wrong.
+John Kenneth Galbraith once slyly observed that economists were most economical with ideas: They
+made the ones learned in graduate school last a lifetime. University finance departments often behave similarly.
+Witness the tenacity with which almost all clung to the theory of efficient markets throughout the 1970s and
+1980s, dismissively calling powerful facts that refuted it “anomalies.” (I always love explanations of that kind:
+The Flat Earth Society probably views a ship’s circling of the globe as an annoying, but inconsequential,
+anomaly.)
+21
+
+Academics’ current practice of teaching Black-Scholes as revealed truth needs re-examination. For that
+matter, so does the academic’s inclination to dwell on the valuation of options. You can be highly successful as
+an investor without having the slightest ability to value an option. What students should be learning is how to
+value a business. That’s what investing is all about.
+Life and Debt
+The fundamental principle of auto racing is that to finish first, you must first finish. That dictum is
+equally applicable to business and guides our every action at Berkshire.
+Unquestionably, some people have become very rich through the use of borrowed money. However,
+that’s also been a way to get very poor. When leverage works, it magnifies your gains. Your spouse thinks you’re
+clever, and your neighbors get envious. But leverage is addictive. Once having profited from its wonders, very
+few people retreat to more conservative practices. And as we all learned in third grade – and some relearned in
+2008 – any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a
+single zero. History tells us that leverage all too often produces zeroes, even when it is employed by very smart
+people.
+Leverage, of course, can be lethal to businesses as well. Companies with large debts often assume that
+these obligations can be refinanced as they mature. That assumption is usually valid. Occasionally, though, either
+because of company-specific problems or a worldwide shortage of credit, maturities must actually be met by
+payment. For that, only cash will do the job.
+Borrowers then learn that credit is like oxygen. When either is abundant, its presence goes unnoticed.
+When either is missing, that’s all that is noticed. Even a short absence of credit can bring a company to its knees.
+In September 2008, in fact, its overnight disappearance in many sectors of the economy came dangerously close
+to bringing our entire country to its knees.
+Charlie and I have no interest in any activity that could pose the slightest threat to Berkshire’s wellbeing. (With our having a combined age of 167, starting over is not on our bucket list.) We are forever conscious
+of the fact that you, our partners, have entrusted us with what in many cases is a major portion of your savings. In
+addition, important philanthropy is dependent on our prudence. Finally, many disabled victims of accidents
+caused by our insureds are counting on us to deliver sums payable decades from now. It would be irresponsible
+for us to risk what all these constituencies need just to pursue a few points of extra return.
+A little personal history may partially explain our extreme aversion to financial adventurism. I didn’t
+meet Charlie until he was 35, though he grew up within 100 yards of where I have lived for 52 years and also
+attended the same inner-city public high school in Omaha from which my father, wife, children and two
+grandchildren graduated. Charlie and I did, however, both work as young boys at my grandfather’s grocery store,
+though our periods of employment were separated by about five years. My grandfather’s name was Ernest, and
+perhaps no man was more aptly named. No one worked for Ernest, even as a stock boy, without being shaped by
+the experience.
+On the facing page you can read a letter sent in 1939 by Ernest to his youngest son, my Uncle Fred.
+Similar letters went to his other four children. I still have the letter sent to my Aunt Alice, which I found – along
+with $1,000 of cash – when, as executor of her estate, I opened her safe deposit box in 1970.
+Ernest never went to business school – he never in fact finished high school – but he understood the
+importance of liquidity as a condition for assured survival. At Berkshire, we have taken his $1,000 solution a bit
+further and have pledged that we will hold at least $10 billion of cash, excluding that held at our regulated utility
+and railroad businesses. Because of that commitment, we customarily keep at least $20 billion on hand so that we
+can both withstand unprecedented insurance losses (our largest to date having been about $3 billion from Katrina,
+the insurance industry’s most expensive catastrophe) and quickly seize acquisition or investment opportunities,
+even during times of financial turmoil.
+
+22
+
+23
+
+We keep our cash largely in U.S. Treasury bills and avoid other short-term securities yielding a few
+more basis points, a policy we adhered to long before the frailties of commercial paper and money market funds
+became apparent in September 2008. We agree with investment writer Ray DeVoe’s observation, “More money
+has been lost reaching for yield than at the point of a gun.” At Berkshire, we don’t rely on bank lines, and we
+don’t enter into contracts that could require postings of collateral except for amounts that are tiny in relation to
+our liquid assets.
+Furthermore, not a dime of cash has left Berkshire for dividends or share repurchases during the past
+40 years. Instead, we have retained all of our earnings to strengthen our business, a reinforcement now running
+about $1 billion per month. Our net worth has thus increased from $48 million to $157 billion during those four
+decades and our intrinsic value has grown far more. No other American corporation has come close to building
+up its financial strength in this unrelenting way.
+By being so cautious in respect to leverage, we penalize our returns by a minor amount. Having loads of
+liquidity, though, lets us sleep well. Moreover, during the episodes of financial chaos that occasionally erupt in our

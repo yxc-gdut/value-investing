@@ -1,0 +1,34 @@
+---
+topic: 伯克希尔50年最大错误——NICO买错壳
+category: 投资教训
+source: 2014年Fortune文章"Berkshire Past Present and Future"
+related: 资本配置
+year: 2014
+---
+# 伯克希尔50年最大错误——NICO买错壳
+
+## 摘要
+巴菲特2014年公开承认职业生涯最大错误：本应用巴菲特合伙公司（BPL）买下NICO保险，却错误地用伯克希尔纺织公司作为壳。这个决定导致约1000亿美元从合伙人转移给了陌生人。
+
+## 核心观点
+1. NICO保险860万美元收购，本应用BPL直接买——合伙人将100%拥有
+2. 用伯克希尔壳买NICO的错误后果：
+   - 39%股权归属伯克希尔遗留股东（对合伙人无义务）
+   - 被纺织业务的亏损拖累近20年
+   - 后续收购也被39%稀释
+3. 估计损失：约1000亿美元从BPL合伙人转移到陌生人
+4. "我48年来一直在思考这个问题，仍然没找到好答案——我犯了一个巨大的错误"
+5. Dexter鞋业：4.33亿买+用伯克希尔股票支付→归零，那些股票现在值57亿
+6. Waumbec纺织：1975年买下，又一个"便宜"的灾难
+
+## 原文引用
+> "I've had 48 years to think about that question, and I've yet to come up with a good answer. I simply made a colossal mistake."
+>
+> "If BPL had been the purchaser, my partners and I would have owned 100% of a fine business... eventually diverting $100 billion or so from BPL partners to a collection of strangers."
+
+## 来源
+Fortune, Sep 2014: "Berkshire – Past, Present and Future"
+
+## 相关主题
+- 资本配置
+- Dexter Shoe

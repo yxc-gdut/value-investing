@@ -1,0 +1,105 @@
+fraction of a Falcon 2000, which she uses for trips to Hawaii, but – exhibiting the Buffett gene – she
+interchanges to a more economical Citation Excel for short trips in the U.S.)
+The roster of NetJets users confirms the advantages we offer major businesses. Take General
+Electric, for example. It has a large fleet of its own but also has an unsurpassed knowledge of how
+to utilize aircraft effectively and economically. And it is our largest customer.
+
+•
+
+Our finance and financial products line covers a variety of operations, among them certain activities
+in high-grade fixed-income securities that proved highly profitable in 2002. Earnings in this arena
+will probably continue for a while, but are certain to decrease – and perhaps disappear – in time.
+
+12
+
+This category also includes a highly satisfactory – but rapidly diminishing – income stream from our
+Berkadia investment in Finova (described in last year’s report). Our partner, Leucadia National
+Corp., has managed this operation with great skill, willingly doing far more than its share of the
+heavy lifting. I like this division of labor and hope to join with Leucadia in future transactions.
+On the minus side, the Finance line also includes the operations of General Re Securities, a
+derivatives and trading business. This entity lost $173 million pre-tax last year, a result that, in part,
+is a belated acknowledgment of faulty, albeit standard, accounting it used in earlier periods.
+Derivatives, in fact, deserve an extensive look, both in respect to the accounting their users employ
+and to the problems they may pose for both individual companies and our economy.
+Derivatives
+Charlie and I are of one mind in how we feel about derivatives and the trading activities that go with
+them: We view them as time bombs, both for the parties that deal in them and the economic system.
+Having delivered that thought, which I’ll get back to, let me retreat to explaining derivatives, though
+the explanation must be general because the word covers an extraordinarily wide range of financial contracts.
+Essentially, these instruments call for money to change hands at some future date, with the amount to be
+determined by one or more reference items, such as interest rates, stock prices or currency values. If, for
+example, you are either long or short an S&P 500 futures contract, you are a party to a very simple derivatives
+transaction – with your gain or loss derived from movements in the index. Derivatives contracts are of
+varying duration (running sometimes to 20 or more years) and their value is often tied to several variables.
+Unless derivatives contracts are collateralized or guaranteed, their ultimate value also depends on the
+creditworthiness of the counterparties to them. In the meantime, though, before a contract is settled, the
+counterparties record profits and losses – often huge in amount – in their current earnings statements without
+so much as a penny changing hands.
+The range of derivatives contracts is limited only by the imagination of man (or sometimes, so it
+seems, madmen). At Enron, for example, newsprint and broadband derivatives, due to be settled many years
+in the future, were put on the books. Or say you want to write a contract speculating on the number of twins
+to be born in Nebraska in 2020. No problem – at a price, you will easily find an obliging counterparty.
+When we purchased Gen Re, it came with General Re Securities, a derivatives dealer that Charlie
+and I didn’t want, judging it to be dangerous. We failed in our attempts to sell the operation, however, and
+are now terminating it.
+But closing down a derivatives business is easier said than done. It will be a great many years before
+we are totally out of this operation (though we reduce our exposure daily). In fact, the reinsurance and
+derivatives businesses are similar: Like Hell, both are easy to enter and almost impossible to exit. In either
+industry, once you write a contract – which may require a large payment decades later – you are usually stuck
+with it. True, there are methods by which the risk can be laid off with others. But most strategies of that kind
+leave you with residual liability.
+Another commonality of reinsurance and derivatives is that both generate reported earnings that are
+often wildly overstated. That’s true because today’s earnings are in a significant way based on estimates
+whose inaccuracy may not be exposed for many years.
+Errors will usually be honest, reflecting only the human tendency to take an optimistic view of one’s
+commitments. But the parties to derivatives also have enormous incentives to cheat in accounting for them.
+Those who trade derivatives are usually paid (in whole or part) on “earnings” calculated by mark-to-market
+accounting. But often there is no real market (think about our contract involving twins) and “mark-to-model”
+is utilized. This substitution can bring on large-scale mischief. As a general rule, contracts involving
+multiple reference items and distant settlement dates increase the opportunities for counterparties to use
+fanciful assumptions. In the twins scenario, for example, the two parties to the contract might well use
+differing models allowing both to show substantial profits for many years. In extreme cases, mark-to-model
+degenerates into what I would call mark-to-myth.
+Of course, both internal and outside auditors review the numbers, but that’s no easy job. For
+example, General Re Securities at yearend (after ten months of winding down its operation) had 14,384
+
+13
+
+contracts outstanding, involving 672 counterparties around the world. Each contract had a plus or minus
+value derived from one or more reference items, including some of mind-boggling complexity. Valuing a
+portfolio like that, expert auditors could easily and honestly have widely varying opinions.
+The valuation problem is far from academic: In recent years, some huge-scale frauds and near-frauds
+have been facilitated by derivatives trades. In the energy and electric utility sectors, for example, companies
+used derivatives and trading activities to report great “earnings” – until the roof fell in when they actually
+tried to convert the derivatives-related receivables on their balance sheets into cash. “Mark-to-market” then
+turned out to be truly “mark-to-myth.”
+I can assure you that the marking errors in the derivatives business have not been symmetrical.
+Almost invariably, they have favored either the trader who was eyeing a multi-million dollar bonus or the
+CEO who wanted to report impressive “earnings” (or both). The bonuses were paid, and the CEO profited
+from his options. Only much later did shareholders learn that the reported earnings were a sham.
+Another problem about derivatives is that they can exacerbate trouble that a corporation has run into
+for completely unrelated reasons. This pile-on effect occurs because many derivatives contracts require that a
+company suffering a credit downgrade immediately supply collateral to counterparties. Imagine, then, that a
+company is downgraded because of general adversity and that its derivatives instantly kick in with their
+requirement, imposing an unexpected and enormous demand for cash collateral on the company. The need to
+meet this demand can then throw the company into a liquidity crisis that may, in some cases, trigger still more
+downgrades. It all becomes a spiral that can lead to a corporate meltdown.
+Derivatives also create a daisy-chain risk that is akin to the risk run by insurers or reinsurers that lay
+off much of their business with others. In both cases, huge receivables from many counterparties tend to
+build up over time. (At Gen Re Securities, we still have $6.5 billion of receivables, though we’ve been in a
+liquidation mode for nearly a year.) A participant may see himself as prudent, believing his large credit
+exposures to be diversified and therefore not dangerous. Under certain circumstances, though, an exogenous
+event that causes the receivable from Company A to go bad will also affect those from Companies B through
+Z. History teaches us that a crisis often causes problems to correlate in a manner undreamed of in more
+tranquil times.
+In banking, the recognition of a “linkage” problem was one of the reasons for the formation of the
+Federal Reserve System. Before the Fed was established, the failure of weak banks would sometimes put
+sudden and unanticipated liquidity demands on previously-strong banks, causing them to fail in turn. The
+Fed now insulates the strong from the troubles of the weak. But there is no central bank assigned to the job of
+preventing the dominoes toppling in insurance or derivatives. In these industries, firms that are
+fundamentally solid can become troubled simply because of the travails of other firms further down the chain.
+When a “chain reaction” threat exists within an industry, it pays to minimize links of any kind. That’s how
+we conduct our reinsurance business, and it’s one reason we are exiting derivatives.
+Many people argue that derivatives reduce systemic problems, in that participants who can’t bear
+certain risks are able to transfer them to stronger hands. These people believe that derivatives act to stabilize
+the economy, facilitate trade, and eliminate bumps for individual participants. And, on a micro level, what

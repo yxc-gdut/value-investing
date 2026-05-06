@@ -1,0 +1,168 @@
+original issue price plus 5.5% compounded semi-annually) and on 
+two specified days, September 28 of 1994 and 1999, the 
+bondholders can require Berkshire to buy the securities at their 
+accreted value.
+
+     For tax purposes, Berkshire is entitled to deduct the 5.5% 
+interest accrual each year, even though we make no payments to 
+the bondholders. Thus the net effect to us, resulting from the 
+reduced taxes, is positive cash flow. That is a very significant 
+benefit. Some unknowable variables prevent us from calculating 
+our exact effective rate of interest, but under all circumstances 
+it will be well below 5.5%. There is meanwhile a symmetry to the 
+tax law: Any taxable holder of the bonds must pay tax each year 
+on the 5.5% interest, even though he receives no cash.
+
+     Neither our bonds nor those of certain other companies that 
+issued similar bonds last year (notably Loews and Motorola) 
+resemble the great bulk of zero-coupon bonds that have been 
+issued in recent years. Of these, Charlie and I have been, and 
+will continue to be, outspoken critics. As I will later explain, 
+such bonds have often been used in the most deceptive of ways and 
+with deadly consequences to investors. But before we tackle that 
+subject, let's travel back to Eden, to a time when the apple had 
+not yet been bitten.
+
+     If you're my age you bought your first zero-coupon bonds 
+during World War II, by purchasing the famous Series E U. S. 
+Savings Bond, the most widely-sold bond issue in history. (After 
+the war, these bonds were held by one out of two U. S. 
+households.) Nobody, of course, called the Series E a zero-coupon 
+bond, a term in fact that I doubt had been invented. But that's 
+precisely what the Series E was.
+
+     These bonds came in denominations as small as $18.75. That 
+amount purchased a $25 obligation of the United States government 
+due in 10 years, terms that gave the buyer a compounded annual 
+return of 2.9%. At the time, this was an attractive offer: the 
+2.9% rate was higher than that generally available on Government 
+bonds and the holder faced no market-fluctuation risk, since he 
+could at any time cash in his bonds with only a minor reduction 
+in interest.
+
+     A second form of zero-coupon U. S. Treasury issue, also 
+benign and useful, surfaced in the last decade. One problem with 
+a normal bond is that even though it pays a given interest rate - 
+say 10% - the holder cannot be assured that a compounded 10% 
+return will be realized. For that rate to materialize, each semi-
+annual coupon must be reinvested at 10% as it is received. If 
+current interest rates are, say, only 6% or 7% when these coupons 
+come due, the holder will be unable to compound his money over 
+the life of the bond at the advertised rate. For pension funds or 
+other investors with long-term liabilities, "reinvestment risk" 
+of this type can be a serious problem. Savings Bonds might have 
+solved it, except that they are issued only to individuals and 
+are unavailable in large denominations. What big buyers needed 
+was huge quantities of "Savings Bond Equivalents."
+
+     Enter some ingenious and, in this case, highly useful 
+investment bankers (led, I'm happy to say, by Salomon Brothers). 
+They created the instrument desired by "stripping" the semi-
+annual coupons from standard Government issues. Each coupon, once 
+detached, takes on the essential character of a Savings Bond 
+since it represents a single sum due sometime in the future. For 
+example, if you strip the 40 semi-annual coupons from a U. S. 
+Government Bond due in the year 2010, you will have 40 zero-
+coupon bonds, with maturities from six months to 20 years, each 
+of which can then be bundled with other coupons of like maturity 
+and marketed. If current interest rates are, say, 10% for all 
+maturities, the six-month issue will sell for 95.24% of maturity 
+value and the 20-year issue will sell for 14.20%. The purchaser 
+of any given maturity is thus guaranteed a compounded rate of 10% 
+for his entire holding period. Stripping of government bonds has 
+occurred on a large scale in recent years, as long-term 
+investors, ranging from pension funds to individual IRA accounts, 
+recognized these high-grade, zero-coupon issues to be well suited 
+to their needs.
+
+     But as happens in Wall Street all too often, what the wise 
+do in the beginning, fools do in the end. In the last few years 
+zero-coupon bonds (and their functional equivalent, pay-in-kind 
+bonds, which distribute additional PIK bonds semi-annually as 
+interest instead of paying cash) have been issued in enormous 
+quantities by ever-junkier credits. To these issuers, zero (or 
+PIK) bonds offer one overwhelming advantage:  It is impossible to 
+default on a promise to pay nothing. Indeed, if LDC governments 
+had issued no debt in the 1970's other than long-term zero-coupon 
+obligations, they would now have a spotless record as debtors.
+
+     This principle at work - that you need not default for a 
+long time if you solemnly promise to pay nothing for a long time 
+- has not been lost on promoters and investment bankers seeking 
+to finance ever-shakier deals. But its acceptance by lenders took 
+a while: When the leveraged buy-out craze began some years back, 
+purchasers could borrow only on a reasonably sound basis, in 
+which conservatively-estimated
+free
+cash flow - that is, 
+operating earnings plus depreciation and amortization less 
+normalized capital expenditures - was adequate to cover both 
+interest and modest reductions in debt.
+
+     Later, as the adrenalin of deal-makers surged, businesses 
+began to be purchased at prices so high that all free cash flow 
+necessarily had to be allocated to the payment of interest. That 
+left nothing for the paydown of debt. In effect, a Scarlett 
+O'Hara "I'll think about it tomorrow" position in respect to 
+principal payments was taken by borrowers and accepted by a new 
+breed of lender, the buyer of original-issue junk bonds. Debt now 
+became something to be refinanced rather than repaid. The change 
+brings to mind a
+New Yorker
+cartoon in which the grateful 
+borrower rises to shake the hand of the bank's lending officer 
+and gushes: "I don't know how I'll ever repay you."
+
+     Soon borrowers found even the new, lax standards intolerably 
+binding. To induce lenders to finance even sillier transactions, 
+they introduced an abomination, EBDIT - Earnings Before 
+Depreciation, Interest and Taxes - as the test of a company's 
+ability to pay interest. Using this sawed-off yardstick, the 
+borrower ignored depreciation as an expense on the theory that it 
+did not require a current cash outlay. 
+
+     Such an attitude is clearly delusional. At 95% of American 
+businesses, capital expenditures that over time roughly 
+approximate depreciation are a necessity and are every bit as 
+real an expense as labor or utility costs. Even a high school 
+dropout knows that to finance a car he must have income that 
+covers not only interest and operating expenses, but also 
+realistically-calculated depreciation. He would be laughed out of 
+the bank if he started talking about EBDIT. 
+
+     Capital outlays at a business can be skipped, of course, in 
+any given month, just as a human can skip a day or even a week of 
+eating. But if the skipping becomes routine and is not made up, 
+the body weakens and eventually dies. Furthermore, a start-and-
+stop feeding policy will over time produce a less healthy 
+organism, human or corporate, than that produced by a steady 
+diet. As businessmen, Charlie and I relish having competitors who 
+are unable to fund capital expenditures.
+
+     You might think that waving away a major expense such as 
+depreciation in an attempt to make a terrible deal look like a 
+good one hits the limits of Wall Street's ingenuity. If so, you 
+haven't been paying attention during the past few years. 
+Promoters needed to find a way to justify even pricier 
+acquisitions. Otherwise, they risked - heaven forbid! - losing 
+deals to other promoters with more "imagination."
+
+     So, stepping through the Looking Glass, promoters and their 
+investment bankers proclaimed that EBDIT should now be measured 
+against cash interest only, which meant that interest accruing on 
+zero-coupon or PIK bonds could be ignored when the financial 
+feasibility of a transaction was being assessed. This approach 
+not only relegated depreciation expense to the let's-ignore-it 
+corner, but gave similar treatment to what was usually a 
+significant portion of interest expense. To their shame, many 
+professional investment managers went along with this nonsense, 
+though they usually were careful to do so only with clients' 
+money, not their own. (Calling these managers "professionals" is 
+actually too kind; they should be designated "promotees.")
+
+     Under this new standard, a business earning, say, $100 
+million pre-tax and having debt on which $90 million of interest 
+must be paid currently, might use a zero-coupon or PIK issue to 
+incur another $60 million of annual interest that would accrue 
+and compound but not come due for some years. The rate on these 
+issues would typically be very high, which means that the 

@@ -1,0 +1,30 @@
+---
+topic: Edgar Lawrence Smith与留存收益的力量
+category: 投资原则
+source: 2001年巴菲特太阳谷演讲/Fortune文章
+related: 时间是好企业的朋友
+year: 2001
+---
+# Edgar Lawrence Smith与留存收益的力量
+
+## 摘要
+巴菲特讲述1924年Edgar Lawrence Smith的发现——企业留存收益产生的复利效应是股票长期跑赢债券的根本原因。这个发现点燃了1920年代牛市，但也导致了1929年崩盘。
+
+## 核心观点
+1. Smith开始的研究目标是验证"通胀时股票好、通缩时债券好"，结果发现假设被推翻
+2. 真正的发现：企业不分配全部利润，留存部分产生复利增长
+3. Keynes评价："经营良好的工业企业通常不会分配全部利润给股东，留存的部分再投资产生更多利润——这就是复利"
+4. 这个发现是"简单到不是新闻的事实"，但没人想过它的含义
+5. 点燃了1920年代牛市，但也导致了1929年崩盘——"少数人因正确原因买入，多数人因错误原因买入"
+6. Darwin的教训：遇到矛盾事实必须在30分钟内记录，否则大脑会自动排斥
+
+## 原文引用
+> "These studies are the record of a failure--the failure of facts to sustain a preconceived theory." (Edgar Lawrence Smith)
+>
+> Keynes: "Well-managed industrial companies do not, as a rule, distribute to shareholders the whole of their earned profits... Thus there is an element of compound interest operating in favor of a sound industrial investment."
+
+## 来源
+Fortune Magazine, Dec 10, 2001: "Warren Buffett on the Stock Market"
+
+## 相关主题
+- 时间是好企业的朋友

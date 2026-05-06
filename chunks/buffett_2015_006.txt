@@ -1,0 +1,208 @@
+
+3,350
+499
+481
+
+3,138
+427
+616
+
+2,102
+296
+170
+
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 2,370
+
+$ 2,095
+
+$ 1,636
+
+Earnings applicable to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 2,132
+
+$ 1,882
+
+$ 1,470
+
+BNSF
+
+Earnings (in millions)
+2015
+2014
+2013
+
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 21,967
+14,264
+
+$ 23,239
+16,237
+
+$ 22,014
+15,357
+
+Operating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7,703
+928
+2,527
+
+7,002
+833
+2,300
+
+6,657
+729
+2,135
+
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 4,248
+
+$ 3,869
+
+$ 3,793
+
+I currently expect increased after-tax earnings at BHE in 2016, but lower earnings at BNSF.
+
+14
+
+Manufacturing, Service and Retailing Operations
+Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet
+and earnings statement for the entire group.
+Balance Sheet 12/31/15 (in millions)
+Assets
+Cash and equivalents . . . . . . . . . . . . . . . . . .
+Accounts and notes receivable . . . . . . . . . . .
+
+Liabilities and Equity
+$
+
+6,807
+8,886
+
+Notes payable . . . . . . . . . . . . . . . . . . . . . .
+Other current liabilities . . . . . . . . . . . . . . .
+
+Inventory . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other current assets . . . . . . . . . . . . . . . . . . .
+
+11,916
+970
+
+Total current liabilities . . . . . . . . . . . . . . .
+
+12,700
+
+Total current assets . . . . . . . . . . . . . . . . . . . .
+
+28,579
+
+Goodwill and other intangibles . . . . . . . . . .
+Fixed assets . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other assets . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+30,289
+15,161
+4,445
+
+Deferred taxes . . . . . . . . . . . . . . . . . . . . . .
+Term debt and other liabilities . . . . . . . . .
+Non-controlling interests . . . . . . . . . . . . .
+Berkshire equity . . . . . . . . . . . . . . . . . . . .
+
+3,649
+4,767
+521
+56,837
+
+$ 78,474
+
+$
+
+2,135
+10,565
+
+$ 78,474
+
+Earnings Statement (in millions)
+2015
+
+2014
+
+2013*
+
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$107,825
+100,607
+103
+
+$ 97,689
+90,788
+109
+
+$ 93,472
+87,208
+104
+
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and non-controlling interests . . . . . . . . . . . . . . . . . . . .
+
+7,115
+2,432
+
+6,792
+2,324
+
+6,160
+2,283
+
+4,683
+
+$ 4,468
+
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$
+
+$
+
+3,877
+
+* Earnings for 2013 have been restated to exclude Marmon’s leasing operations, which are now included in the
+Finance and Financial Products results.
+Our income and expense data conforming to GAAP is on page 38. In contrast, the operating expense
+figures above are non-GAAP because they exclude some purchase-accounting items (primarily the amortization of
+certain intangible assets). We present the data in this manner because Charlie and I believe the adjusted numbers
+more accurately reflect the true economic expenses and profits of the businesses aggregated in the table than do
+GAAP figures.
+I won’t explain all of the adjustments – some are tiny and arcane – but serious investors should understand
+the disparate nature of intangible assets. Some truly deplete in value over time, while others in no way lose value.
+For software, as a big example, amortization charges are very real expenses. Conversely, the concept of recording
+charges against other intangibles, such as customer relationships, arises from purchase-accounting rules and clearly
+does not reflect economic reality. GAAP accounting draws no distinction between the two types of charges. Both,
+that is, are recorded as expenses when earnings are calculated – even though, from an investor’s viewpoint, they
+could not differ more.
+
+15
+
+In the GAAP-compliant figures we show on page 38, amortization charges of $1.1 billion have been
+deducted as expenses. We would call about 20% of these “real,” the rest not. The “non-real” charges, once nonexistent at Berkshire, have become significant because of the many acquisitions we have made. Non-real
+amortization charges are likely to climb further as we acquire more companies.
+The table on page 55 gives you the current status of our intangible assets as calculated by GAAP. We now
+have $6.8 billion left of amortizable intangibles, of which $4.1 billion will be expensed over the next five years.
+Eventually, of course, every dollar of these “assets” will be charged off. When that happens, reported earnings
+increase even if true earnings are flat. (My gift to my successor.)
+I suggest that you ignore a portion of GAAP amortization costs. But it is with some trepidation that I do
+that, knowing that it has become common for managers to tell their owners to ignore certain expense items that are
+all too real. “Stock-based compensation” is the most egregious example. The very name says it all: “compensation.”

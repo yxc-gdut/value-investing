@@ -1,0 +1,201 @@
+  Fechheimer ...................    14,260     13,442      7,107      6,931 
+  Finance Businesses ...........    21,568     22,695     14,293     14,161 
+  Kirby ........................    42,349     39,147     27,719     25,056 
+  Nebraska Furniture Mart ......    17,356     21,540      8,652     10,398 
+  Scott Fetzer Manufacturing Group  39,435     38,196     24,909     23,809 	 	
+  See's Candies ................    47,539     41,150     28,247     24,367 
+  Shoe Group ...................    85,503     44,025*    55,750     28,829 
+  World Book ...................    24,662     19,915     17,275     13,537 
+  Purchase-Price Premium Charges   (22,595)   (17,033)   (19,355)   (13,996)
+  Interest Expense** ...........   (60,111)   (56,545)   (37,264)   (35,614)
+  Shareholder-Designated 
+     Contributions .............   (10,419)    (9,448)    (6,668)    (5,994)		
+  Other ........................    36,232     28,428     22,576     15,094 
+                                  --------   --------   --------   -------- 
+Operating Earnings .............   839,365    643,296    606,239    477,751 
+Sales of Securities ............    91,332    546,422     61,138    356,702 	
+Decline in Value of 
+     USAir Preferred Stock .....  (268,500)     ---     (172,579)     ---
+Tax Accruals Caused by 
+     New Accounting Rules ......     ---        ---        ---     (146,332)	
+                                  --------  ---------   --------   --------
+Total Earnings - All Entities ..  $662,197 $1,189,718   $494,798   $688,121 	
+                                  ========  =========   ========   ========
+* Includes Dexter's earnings only from the date it was acquired, 
+  November 7, 1993.
+
+**Excludes interest expense of Finance Businesses.
+A large amount of information about these businesses is given 
+on pages 37-48, where you will also find our segment earnings 
+reported on a GAAP basis.  In addition, on pages 53-59, we have 
+rearranged Berkshire's financial data into four segments on a non-
+GAAP basis, a presentation that corresponds to the way Charlie and 
+I think about the company.  Our intent is to supply you with the 
+financial information that we would wish you to give us if our 
+positions were reversed.
+"Look-Through" Earnings
+In past reports, we've discussed look-through earnings, which 
+we believe more accurately portray the earnings of Berkshire than 
+does our GAAP result.  As we calculate them, look-through earnings 
+consist of: (1) the operating earnings reported in the previous 
+section, plus; (2) the retained operating earnings of major 
+investees that, under GAAP accounting, are not reflected in our 
+profits, less; (3) an allowance for the tax that would be paid by 
+Berkshire if these retained earnings of investees had instead been 
+distributed to us.  The "operating earnings" of which we speak here 
+exclude capital gains, special accounting items and major 
+restructuring charges.
+
+     If our intrinsic value is to grow at our target rate of 15%, 
+our look-through earnings, over time, must also increase at about 
+that pace.  When I first explained this concept a few years back, I 
+told you that meeting this 15% goal would require us to generate 
+look-through earnings of about $1.8 billion by 2000.  Because we've 
+since issued about 3% more shares, that figure has grown to $1.85 
+billion.
+
+     We are now modestly ahead of schedule in meeting our goal, but 
+to a significant degree that is because our super-cat insurance 
+business has recently delivered earnings far above trend-line 
+expectancy (an outcome I will discuss in the next section).  Giving 
+due weight to that abnormality, we still expect to hit our target 
+but that, of course, is no sure thing.
+
+     The following table shows how we calculate look-through 
+earnings, though I warn you that the figures are necessarily very 
+rough.  (The dividends paid to us by these investees have been 
+included in the operating earnings itemized on page 12, mostly 
+under "Insurance Group:  Net Investment Income.") 
+
+                                                         Berkshire's Share
+                                                          of Undistributed
+                               Berkshire's Approximate   Operating Earnings 
+Berkshire's Major Investees	  Ownership at Yearend       (in millions) 
+---------------------------    -----------------------   ------------------
+
+                                   1994       1993         1994      1993
+                                  ------     ------       ------    ------
+American Express Company ......     5.5%       2.4%        $ 25(2)   $ 16
+Capital Cities/ABC, Inc. ......    13.0%      13.0%          85        83(2)
+The Coca-Cola Company .........     7.8%       7.2%         116(2)     94	  
+Federal Home Loan Mortgage Corp.    6.3%(1)    6.8%(1)       47(2)     41(2)	  
+Gannett Co., Inc. .............     4.9%       ---            4(2)    --- 
+GEICO Corp. ...................    50.2%      48.4%          63(3)     76(3)
+The Gillette Company ..........    10.8%      10.9%          51        44	  
+PNC Bank Corp. ................     8.3%       ---           10(2)    --- 
+The Washington Post Company ...    15.2%      14.8%          18        15	  
+Wells Fargo & Company .........    13.3%      12.2%          73        53(2)
+                                                          ------    ------
+Berkshire's share of undistributed 
+   earnings of major investees                            $ 492      $422 	
+Hypothetical tax on these undistributed 
+   investee earnings(4)                                     (68)      (59)	 
+Reported operating earnings of Berkshire                    606       478 	
+                                                         -------    ------
+     Total look-through earnings of Berkshire            $1,030     $ 841 
+
+     (1) Does not include shares allocable to the minority interest 
+         at Wesco
+     (2) Calculated on average ownership for the year
+     (3) Excludes realized capital gains, which have been both 
+         recurring and significant
+     (4) The tax rate used is 14%, which is the rate Berkshire pays 
+         on the dividends it receives
+Insurance Operations
+As we've explained in past reports, what counts in our 
+insurance business is, first, the amount of "float" we develop and, 
+second, its cost to us.  Float is money we hold but don't own.  In 
+an insurance operation, float arises because most policies require 
+that premiums be prepaid and, more importantly, because it usually 
+takes time for an insurer to hear about and resolve loss claims.
+
+     Typically, the premiums that an insurer takes in do not cover 
+the losses and expenses it must pay.  That leaves it running an 
+"underwriting loss" - and that loss is the cost of float.
+
+     An insurance business is profitable over time if its cost of 
+float is less than the cost the company would otherwise incur to 
+obtain funds.  But the business has a negative value if the cost of 
+its float is higher than market rates for money.
+
+     As the numbers in the following table show, Berkshire's 
+insurance business has been an enormous winner.  For the table, we 
+have compiled our float -  which we generate in exceptional amounts 
+relative to our premium volume - by adding loss reserves, loss 
+adjustment reserves, funds held under reinsurance assumed and unearned 
+premium reserves and then subtracting agents' balances, prepaid 
+acquisition costs, prepaid taxes and deferred charges applicable to 
+assumed reinsurance.  Our cost of float is determined by our 
+underwriting loss or profit.  In those years when we have had an 
+underwriting profit, such as the last two, our cost of float has been 
+negative, and we have determined our insurance earnings by adding 
+underwriting profit to float income.
+
+                   (1)             (2)                        Yearend Yield
+               Underwriting                    Approximate     on Long-Term
+                   Loss       Average Float   Cost of Funds    Govt. Bonds 	
+               ------------   -------------   -------------   -------------
+                     (In $ Millions)        (Ratio of 1 to 2)
+
+1967 ..........   profit         $  17.3     less than zero       5.50%
+1968 ..........   profit            19.9     less than zero       5.90%
+1969 ..........   profit            23.4     less than zero       6.79%
+1970 ..........   $ 0.37            32.4              1.14%       6.25%
+1971 ..........   profit            52.5     less than zero       5.81%
+1972 ..........   profit            69.5     less than zero       5.82%
+1973 ..........   profit            73.3     less than zero       7.27%
+1974 ..........     7.36            79.1              9.30%       8.13%
+1975 ..........    11.35            87.6             12.96%       8.03%
+1976 ..........   profit           102.6     less than zero       7.30%
+1977 ..........   profit           139.0     less than zero       7.97%
+1978 ..........   profit           190.4     less than zero       8.93%
+1979 ..........   profit           227.3     less than zero      10.08%
+1980 ..........   profit           237.0     less than zero      11.94%
+1981 ..........   profit           228.4     less than zero      13.61%
+1982 ..........    21.56           220.6              9.77%      10.64%
+1983 ..........    33.87           231.3             14.64%      11.84%
+1984 ..........    48.06           253.2             18.98%      11.58%
+1985 ..........    44.23           390.2             11.34%       9.34%
+1986 ..........    55.84           797.5              7.00%       7.60%
+1987 ..........    55.43         1,266.7              4.38%       8.95%
+1988 ..........    11.08         1,497.7              0.74%       9.00%
+1989 ..........    24.40         1,541.3              1.58%       7.97%
+1990 ..........    26.65         1,637.3              1.63%       8.24%
+1991 ..........   119.59         1,895.0              6.31%       7.40%
+1992 ..........   108.96         2,290.4              4.76%       7.39%
+1993 ..........   profit         2,624.7     less than zero       6.35%
+1994 ..........   profit         3,056.6     less than zero       7.88%
+
+     Charlie and I are delighted that our float grew in 1994 and 
+are even more pleased that it proved to be cost-free.  But our 
+message this year echoes the one we delivered in 1993:  Though we 
+have a fine insurance business, it is not as good as it currently 
+looks.
+
+     The reason we must repeat this caution is that our "super-cat" 
+business (which sells policies that insurance and reinsurance 
+companies buy to protect themselves from the effects of mega-
+catastrophes) was again highly profitable.  Since truly major 
+catastrophes occur infrequently, our super-cat business can be 
+expected to show large profits in most years but occasionally to 
+record a huge loss.  In other words, the attractiveness of our 
+super-cat business will take many years to measure.  Certainly 1994 
+should be regarded as close to a best-case.  Our only significant 
+losses arose from the California earthquake in January.  I will add 
+that we do not expect to suffer a major loss from the early-1995 
+Kobe earthquake.
+
+     Super-cat policies are small in number, large in size and non-
+standardized.  Therefore, the underwriting of this business 
+requires far more judgment than, say, the underwriting of auto 
+policies, for which a mass of data is available.  Here Berkshire 
+has a major advantage:  Ajit Jain, our super-cat manager, whose 
+underwriting skills are the finest.  His value to us is simply 
+enormous.
+
+     In addition, Berkshire has a special advantage in the super-
+cat business because of our towering financial strength, which 
+helps us in two ways.  First, a prudent insurer will want its 
+protection against true mega-catastrophes - such as a $50 billion 
+windstorm loss on Long Island or an earthquake of similar cost in 
+California - to be absolutely certain.  But that same insurer knows 

@@ -1,0 +1,130 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2015
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2015ar/2015ar.pdf
+extracted_from: line 329 - 1902
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire’s gain in net worth during 2015 was $15.4 billion, which increased the per-share book value of
+both our Class A and Class B stock by 6.4%. Over the last 51 years (that is, since present management took over),
+per-share book value has grown from $19 to $155,501, a rate of 19.2% compounded annually.*
+During the first half of those years, Berkshire’s net worth was roughly equal to the number that really
+counts: the intrinsic value of the business. The similarity of the two figures existed then because most of our
+resources were deployed in marketable securities that were regularly revalued to their quoted prices (less the tax that
+would be incurred if they were to be sold). In Wall Street parlance, our balance sheet was then in very large part
+“marked to market.”
+By the early 1990s, however, our focus had changed to the outright ownership of businesses, a shift that
+diminished the relevance of balance-sheet figures. That disconnect occurred because the accounting rules that apply
+to controlled companies are materially different from those used in valuing marketable securities. The carrying
+value of the “losers” we own is written down, but “winners” are never revalued upwards.
+We’ve had experience with both outcomes: I’ve made some dumb purchases, and the amount I paid for the
+economic goodwill of those companies was later written off, a move that reduced Berkshire’s book value. We’ve
+also had some winners – a few of them very big – but have not written those up by a penny.
+Over time, this asymmetrical accounting treatment (with which we agree) necessarily widens the gap
+between intrinsic value and book value. Today, the large – and growing – unrecorded gains at our “winners” make it
+clear that Berkshire’s intrinsic value far exceeds its book value. That’s why we would be delighted to repurchase
+our shares should they sell as low as 120% of book value. At that level, purchases would instantly and meaningfully
+increase per-share intrinsic value for Berkshire’s continuing shareholders.
+The unrecorded increase in the value of our owned businesses explains why Berkshire’s aggregate marketvalue gain – tabulated on the facing page – materially exceeds our book-value gain. The two indicators vary
+erratically over short periods. Last year, for example, book-value performance was superior. Over time, however,
+market-value gains should continue their historical tendency to exceed gains in book value.
+
+* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of
+those shown for A.
+
+3
+
+The Year at Berkshire
+Charlie Munger, Berkshire Vice Chairman and my partner, and I expect Berkshire’s normalized earning
+power to increase every year. (Actual year-to-year earnings, of course, will sometimes decline because of weakness
+in the U.S. economy or, possibly, because of insurance mega-catastrophes.) In some years the normalized gains will
+be small; at other times they will be material. Last year was a good one. Here are the highlights:
+‹
+
+The most important development at Berkshire during 2015 was not financial, though it led to better
+earnings. After a poor performance in 2014, our BNSF railroad dramatically improved its service to
+customers last year. To attain that result, we invested about $5.8 billion during the year in capital
+expenditures, a sum far and away the record for any American railroad and nearly three times our annual
+depreciation charge. It was money well spent.
+BNSF moves about 17% of America’s intercity freight (measured by revenue ton-miles), whether
+transported by rail, truck, air, water or pipeline. In that respect, we are a strong number one among the
+seven large American railroads (two of which are Canadian-based), carrying 45% more ton-miles of freight
+than our closest competitor. Consequently, our maintaining first-class service is not only vital to our
+shippers’ welfare but also important to the smooth functioning of the U.S. economy.
+For most American railroads, 2015 was a disappointing year. Aggregate ton-miles fell, and earnings
+weakened as well. BNSF, however, maintained volume, and pre-tax income rose to a record $6.8 billion*
+(a gain of $606 million from 2014). Matt Rose and Carl Ice, the managers of BNSF, have my thanks and
+deserve yours.
+
+‹
+
+BNSF is the largest of our “Powerhouse Five,” a group that also includes Berkshire Hathaway Energy,
+Marmon, Lubrizol and IMC. Combined, these companies – our five most profitable non-insurance
+businesses – earned $13.1 billion in 2015, an increase of $650 million over 2014.
+Of the five, only Berkshire Hathaway Energy, then earning $393 million, was owned by us in 2003.
+Subsequently, we purchased three of the other four on an all-cash basis. In acquiring BNSF, however, we
+paid about 70% of the cost in cash and, for the remainder, issued Berkshire shares that increased the
+number outstanding by 6.1%. In other words, the $12.7 billion gain in annual earnings delivered Berkshire
+by the five companies over the twelve-year span has been accompanied by only minor dilution. That
+satisfies our goal of not simply increasing earnings, but making sure we also increase per-share results.
+
+‹
+
+Next year, I will be discussing the “Powerhouse Six.” The newcomer will be Precision Castparts Corp.
+(“PCC”), a business that we purchased a month ago for more than $32 billion of cash. PCC fits perfectly
+into the Berkshire model and will substantially increase our normalized per-share earning power.
+Under CEO Mark Donegan, PCC has become the world’s premier supplier of aerospace components (most
+of them destined to be original equipment, though spares are important to the company as well). Mark’s
+accomplishments remind me of the magic regularly performed by Jacob Harpaz at IMC, our remarkable
+Israeli manufacturer of cutting tools. The two men transform very ordinary raw materials into extraordinary
+products that are used by major manufacturers worldwide. Each is the da Vinci of his craft.
+PCC’s products, often delivered under multi-year contracts, are key components in most large aircraft.
+Other industries are served as well by the company’s 30,466 employees, who work out of 162 plants in 13
+countries. In building his business, Mark has made many acquisitions and will make more. We look
+forward to having him deploy Berkshire’s capital.
+
+* Throughout this letter, all earnings are stated on a pre-tax basis unless otherwise designated.
+4
+
+A personal thank-you: The PCC acquisition would not have happened without the input and assistance of
+our own Todd Combs, who brought the company to my attention a few years ago and went on to educate
+me about both the business and Mark. Though Todd and Ted Weschler are primarily investment managers
+– they each handle about $9 billion for us – both of them cheerfully and ably add major value to Berkshire
+in other ways as well. Hiring these two was one of my best moves.
+‹
+
+With the PCC acquisition, Berkshire will own 10 1⁄ 4 companies that would populate the Fortune 500 if they
+were stand-alone businesses. (Our 27% holding of Kraft Heinz is the 1⁄ 4.) That leaves just under 98% of
+America’s business giants that have yet to call us. Operators are standing by.
+
+‹
+
+Our many dozens of smaller non-insurance businesses earned $5.7 billion last year, up from $5.1 billion in
+2014. Within this group, we have one company that last year earned more than $700 million, two that
+earned between $400 million and $700 million, seven that earned between $250 million and $400 million,
+six that earned between $100 million and $250 million, and eleven that earned between $50 million and
+$100 million. We love them all: This collection of businesses will expand both in number and earnings as
+the years go by.
+
+‹
+
+When you hear talk about America’s crumbling infrastructure, rest assured that they’re not talking about
+Berkshire. We invested $16 billion in property, plant and equipment last year, a full 86% of it deployed in
+the United States.
+I told you earlier about BNSF’s record capital expenditures in 2015. At the end of every year, our railroad’s
+physical facilities will be improved from those existing twelve months earlier.
+Berkshire Hathaway Energy (“BHE”) is a similar story. That company has invested $16 billion in
+renewables and now owns 7% of the country’s wind generation and 6% of its solar generation. Indeed, the
+4,423 megawatts of wind generation owned and operated by our regulated utilities is six times the
+generation of the runner-up utility.
+We’re not done. Last year, BHE made major commitments to the future development of renewables in
+support of the Paris Climate Change Conference. Our fulfilling those promises will make great sense, both
+for the environment and for Berkshire’s economics.
+
+‹
+
+Berkshire’s huge and growing insurance operation again operated at an underwriting profit in 2015 – that
+makes 13 years in a row – and increased its float. During those years, our float – money that doesn’t belong
+to us but that we can invest for Berkshire’s benefit – grew from $41 billion to $88 billion. Though neither

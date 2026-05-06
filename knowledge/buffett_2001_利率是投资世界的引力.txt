@@ -1,0 +1,29 @@
+---
+topic: 利率是投资世界的引力
+category: 宏观经济
+source: 2001年巴菲特太阳谷演讲/Fortune文章
+related: 不做经济预测投资决策, 日本投资与货币贬值
+year: 2001
+---
+# 利率是投资世界的引力
+
+## 摘要
+巴菲特在太阳谷演讲中说：利率在经济中的作用就像物理世界的引力。利率的微小变化会改变所有金融资产的价值，从债券到农田到股票无一例外。
+
+## 核心观点
+1. "利率在经济中的作用就像物理世界的引力"
+2. 利率从4.2%升到13.65%（1964-1981）→ 股市17年停滞
+3. 利率从13.65%降到5.09%（1981-1998）→ 大牛市
+4. GNP在第一个时期增长更快（373% vs 177%），但股市反而停滞
+5. 企业利润率+利率两个变量决定了股市走向
+6. 投资的定义："今天投出钱，明天收回更多的钱"
+
+## 原文引用
+> "In economics, interest rates act as gravity behaves in the physical world. At all times, in all markets, in all parts of the world, the tiniest change in rates changes the value of every financial asset."
+
+## 来源
+Fortune Magazine, Dec 10, 2001: "Warren Buffett on the Stock Market"
+
+## 相关主题
+- 不做经济预测投资决策
+- 日本投资与货币贬值

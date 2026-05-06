@@ -1,0 +1,49 @@
+
+
+62
+The disparity can go in either direction. For example, in 1964 we could state with certitude that Berkshire's
+per-share book value was $19.46. However, that figure considerably overstated the company's intrinsic value, since
+all of the company's resources were tied up in a sub-profitable textile business. Our textile assets had neither going-
+concern nor liquidation values equal to their carrying values. Today, however, Berkshire's situation is reversed:  Now,
+our book value far understates Berkshire's intrinsic value, a point true because many of the businesses we control are
+worth much more than their carrying value.
+Inadequate though they are in telling the story, we give you Berkshire's book-value figures because they today
+serve as a rough, albeit significantly understated, tracking measure for Berkshire's intrinsic value. In other words,
+the percentage change in book value in any given year is likely to be reasonably close to that year's change in intrinsic
+value.
+You can gain some insight into the differences between book value and intrinsic value by looking at one form
+of investment, a college education. Think of the education's cost as its "book value."  If this cost is to be accurate,
+it should include the earnings that were foregone by the student because he chose college rather than a job.
+For this exercise, we will ignore the important non-economic benefits of an education and focus strictly on
+its economic value. First, we must estimate the earnings that the graduate will receive over his lifetime and subtract
+from that figure an estimate of what he would have earned had he lacked his education. That gives us an excess
+earnings figure, which must then be discounted, at an appropriate interest rate, back to graduation day. The dollar
+result equals the intrinsic economic value of the education.
+Some graduates will find that the book value of their education exceeds its intrinsic value, which means that
+whoever paid for the education didn't get his money's worth. In other cases, the intrinsic value of an education will
+far exceed its book value, a result that proves capital was wisely deployed. In all cases, what is clear is that book value
+is meaningless as an indicator of intrinsic value.
+PURCHASE-ACCOUNTING ADJUSTMENTS
+Next: spinach time. I know that a discussion of accounting technicalities turns off many readers, so let me
+assure you that a full and happy life can still be yours if you decide to skip this section.
+Our 1996 acquisition of GEICO, however, means that purchase-accounting adjustments of about $40 million
+are charged against our annual earnings as recorded under generally accepted accounting principles (GAAP).  Our
+General Re acquisition will produce an annual charge many times this number, but we don’t have final figures at this
+time.  So the magnitude of these charges makes them a subject of importance to Berkshire. In our annual reports,
+therefore, we will sometimes talk of earnings that we will describe as "before purchase-accounting adjustments."  The
+discussion that follows will tell you why we think earnings of that description have far more economic meaning than
+the earnings produced by GAAP.
+When Berkshire buys a business for a premium over the GAAP net worth of the acquiree — as will usually
+be the case, since most companies we'd want to buy don't come at a discount — that premium has to be entered on
+the asset side of our balance sheet. There are loads of rules about just how a company should record the premium.
+But to simplify this discussion, we will focus on "Goodwill," the asset item to which almost all of Berkshire's
+acquisition premiums have been allocated. For example, when we acquired in 1996 the half of GEICO we didn't
+previously own, we recorded goodwill of about $1.6 billion.
+GAAP requires goodwill to be amortized — that is, written off — over a period no longer than 40 years.
+Therefore, to extinguish our $1.6 billion in GEICO goodwill, we will take annual charges of about $40 million until
+2036. This amount is not deductible for tax purposes, so it reduces both our pre-tax and after-tax earnings by $40
+million.
+In an accounting sense, consequently, our GEICO goodwill will disappear gradually in even-sized bites. But
+the one thing I can guarantee you is that the economic goodwill we have purchased at GEICO will not decline in the
+same measured way. In fact, my best guess is that the economic goodwill assignable to GEICO has dramatically
+increased since our purchase and will likely continue to increase — quite probably in a very substantial way.

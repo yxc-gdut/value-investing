@@ -1,0 +1,252 @@
+needs of insurance clients. Yet one of the contracts we liquidated in 2005 had a term of 100 years! It’s
+difficult to imagine what “need” such a contract could fulfill except, perhaps, the need of a compensationconscious trader to have a long-dated contract on his books. Long contracts, or alternatively those with
+multiple variables, are the most difficult to mark to market (the standard procedure used in accounting for
+derivatives) and provide the most opportunity for “imagination” when traders are estimating their value.
+Small wonder that traders promote them.
+A business in which huge amounts of compensation flow from assumed numbers is obviously
+fraught with danger. When two traders execute a transaction that has several, sometimes esoteric, variables
+and a far-off settlement date, their respective firms must subsequently value these contracts whenever they
+calculate their earnings. A given contract may be valued at one price by Firm A and at another by Firm B.
+You can bet that the valuation differences – and I’m personally familiar with several that were huge – tend
+to be tilted in a direction favoring higher earnings at each firm. It’s a strange world in which two parties
+can carry out a paper transaction that each can promptly report as profitable.
+I dwell on our experience in derivatives each year for two reasons. One is personal and
+unpleasant. The hard fact is that I have cost you a lot of money by not moving immediately to close down
+
+10
+
+Gen Re’s trading operation. Both Charlie and I knew at the time of the Gen Re purchase that it was a
+problem and told its management that we wanted to exit the business. It was my responsibility to make
+sure that happened. Rather than address the situation head on, however, I wasted several years while we
+attempted to sell the operation. That was a doomed endeavor because no realistic solution could have
+extricated us from the maze of liabilities that was going to exist for decades. Our obligations were
+particularly worrisome because their potential to explode could not be measured. Moreover, if severe
+trouble occurred, we knew it was likely to correlate with problems elsewhere in financial markets.
+So I failed in my attempt to exit painlessly, and in the meantime more trades were put on the
+books. Fault me for dithering. (Charlie calls it thumb-sucking.) When a problem exists, whether in
+personnel or in business operations, the time to act is now.
+The second reason I regularly describe our problems in this area lies in the hope that our
+experiences may prove instructive for managers, auditors and regulators. In a sense, we are a canary in this
+business coal mine and should sing a song of warning as we expire. The number and value of derivative
+contracts outstanding in the world continues to mushroom and is now a multiple of what existed in 1998,
+the last time that financial chaos erupted.
+Our experience should be particularly sobering because we were a better-than-average candidate
+to exit gracefully. Gen Re was a relatively minor operator in the derivatives field. It has had the good
+fortune to unwind its supposedly liquid positions in a benign market, all the while free of financial or other
+pressures that might have forced it to conduct the liquidation in a less-than-efficient manner. Our
+accounting in the past was conventional and actually thought to be conservative. Additionally, we know of
+no bad behavior by anyone involved.
+It could be a different story for others in the future. Imagine, if you will, one or more firms
+(troubles often spread) with positions that are many multiples of ours attempting to liquidate in chaotic
+markets and under extreme, and well-publicized, pressures. This is a scenario to which much attention
+should be given now rather than after the fact. The time to have considered – and improved – the reliability
+of New Orleans’ levees was before Katrina.
+When we finally wind up Gen Re Securities, my feelings about its departure will be akin to those
+expressed in a country song, “My wife ran away with my best friend, and I sure miss him a lot.”
+************
+Below are the results of our various finance and financial products activities:
+
+Trading – ordinary income ............................
+Gen Re Securities (loss) .................................
+Life and annuity operation .............................
+Value Capital (loss) .......................................
+Leasing operations .........................................
+Manufactured-housing finance (Clayton).......
+Other...............................................................
+Income before capital gains............................
+Trading – capital gains (losses) .....................
+Total ..............................................................
+
+(in $ millions)
+Pre-Tax Earnings
+Interest-Bearing Liabilities
+2004
+2005
+2004
+2005
+$ 200
+$ 264
+$1,061
+$5,751
+(104)
+(44)
+2,617*
+5,437*
+11
+(57)
+2,461
+2,467
+(33)
+30
+N/A
+N/A
+173
+92
+370
+391
+416
+192
+9,299
+3,636
+107
+N/A
+N/A
+159
+822
+584
+(234)
+1,750
+$ 588
+$2,334
+
+*Includes all liabilities
+
+11
+
+Manufacturing, Service and Retailing Operations
+Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary
+balance sheet and earnings statement for the entire group.
+Balance Sheet 12/31/05 (in $ millions)
+Assets
+Cash and equivalents ..............................
+Accounts and notes receivable ...............
+Inventory ................................................
+Other current assets ................................
+Total current assets .................................
+Goodwill and other intangibles...............
+Fixed assets.............................................
+Other assets.............................................
+
+$ 1,004
+3,287
+4,143
+342
+8,776
+9,260
+7,148
+1,021
+$26,205
+
+Liabilities and Equity
+Notes payable ............................
+Other current liabilities..............
+Total current liabilities ..............
+
+Deferred taxes............................
+Term debt and other liabilities...
+Equity ........................................
+
+Earnings Statement (in $ millions)
+2005
+Revenues .................................................................................... $46,896
+Operating expenses (including depreciation of $699 in 2005,
+$676 in 2004 and $605 in 2003).......................................... 44,190
+83
+Interest expense (net)..................................................................
+Pre-tax earnings..........................................................................
+2,623
+Income taxes...............................................................................
+977
+Net income ................................................................................. $ 1,646
+
+$ 1,469
+5,371
+6,840
+
+338
+2,188
+16,839
+$26,205
+
+2004
+$44,142
+
+2003
+$32,106
+
+41,604
+57
+2,481
+941
+$ 1,540
+
+29,885
+64
+2,157
+813
+$ 1,344
+
+This eclectic collection, which sells products ranging from Dilly Bars to fractional interests in
+Boeing 737s, earned a very respectable 22.2% on average tangible net worth last year. It’s noteworthy also
+that these operations used only minor financial leverage in achieving that return. Clearly, we own some
+terrific businesses. We purchased many of them, however, at substantial premiums to net worth – a point
+reflected in the goodwill item shown on the balance sheet – and that fact reduces the earnings on our
+average carrying value to 10.1%.
+Here are the pre-tax earnings for the larger categories or units.
+
+Building Products ....................................................................................................
+Shaw Industries .......................................................................................................
+Apparel & Footwear ................................................................................................
+Retailing of Jewelry, Home Furnishings and Candy ...............................................
+Flight Services.........................................................................................................
+McLane....................................................................................................................
+Other businesses ......................................................................................................
+
+12
+
+Pre-Tax Earnings
+(in $ millions)
+2005
+2004
+$ 751
+$ 643
+485
+466
+348
+325
+257
+215
+120
+191
+217
+228
+445
+413
+$2,623
+$2,481
+
+•
+
+In both our building-products companies and at Shaw, we continue to be hit by rising costs for raw
+materials and energy. Most of these operations are significant users of oil (or more specifically,
+petrochemicals) and natural gas. And prices for these commodities have soared.
+We, likewise, have raised prices on many products, but there are often lags before increases become effective. Nevertheless, both our building-products operations and Shaw delivered respectable results in 2005, a fact attributable to their strong business franchises and able managements.
+
+•
+
+In apparel, our largest unit, Fruit of the Loom, again increased earnings and market-share. You
+know, of course, of our leadership position in men’s and boys’ underwear, in which we account
+for about 48.7% of the sales recorded by mass-marketers (Wal-Mart, Target, etc.). That’s up from
+44.2% in 2002, when we acquired the company. Operating from a smaller base, we have made
+still greater gains in intimate apparel for women and girls that is sold by the mass-marketers,
+climbing from 13.7% of their sales in 2002 to 24.7% in 2005. A gain like that in a major category
+doesn’t come easy. Thank John Holland, Fruit’s extraordinary CEO, for making this happen.
+
+•
+
+I told you last year that Ben Bridge (jewelry) and R. C. Willey (home furnishings) had same-store
+sales gains far above the average of their industries. You might think that blow-out figures in one
+year would make comparisons difficult in the following year. But Ed and Jon Bridge at their
+operation and Scott Hymas at R. C. Willey were more than up to this challenge. Ben Bridge had a
+6.6% same-store gain in 2005, and R. C. Willey came in at 9.9%.
+Our never-on-Sunday approach at R. C. Willey continues to overwhelm seven-day competitors as
+we roll out stores in new markets. The Boise store, about which I was such a skeptic a few years
+back, had a 21% gain in 2005, coming off a 10% gain in 2004. Our new Reno store, opened in
+November, broke out of the gate fast with sales that exceeded Boise’s early pace, and we will
+begin business in Sacramento in June. If this store succeeds as I expect it to, Californians will see
+many more R. C. Willey stores in the years to come.
+
+•
+
+In flight services, earnings improved at FlightSafety as corporate aviation continued its rebound.
+To support growth, we invest heavily in new simulators. Our most recent expansion, bringing us

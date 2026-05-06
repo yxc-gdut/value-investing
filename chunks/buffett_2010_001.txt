@@ -1,0 +1,109 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2010
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2010ar/2010ar.pdf
+extracted_from: line 332 - 1782
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+The per-share book value of both our Class A and Class B stock increased by 13% in 2010. Over the
+last 46 years (that is, since present management took over), book value has grown from $19 to $95,453, a rate of
+20.2% compounded annually.*
+The highlight of 2010 was our acquisition of Burlington Northern Santa Fe, a purchase that’s working
+out even better than I expected. It now appears that owning this railroad will increase Berkshire’s “normal”
+earning power by nearly 40% pre-tax and by well over 30% after-tax. Making this purchase increased our share
+count by 6% and used $22 billion of cash. Since we’ve quickly replenished the cash, the economics of this
+transaction have turned out very well.
+A “normal year,” of course, is not something that either Charlie Munger, Vice Chairman of Berkshire
+and my partner, or I can define with anything like precision. But for the purpose of estimating our current earning
+power, we are envisioning a year free of a mega-catastrophe in insurance and possessing a general business
+climate somewhat better than that of 2010 but weaker than that of 2005 or 2006. Using these assumptions, and
+several others that I will explain in the “Investment” section, I can estimate that the normal earning power of the
+assets we currently own is about $17 billion pre-tax and $12 billion after-tax, excluding any capital gains or
+losses. Every day Charlie and I think about how we can build on this base.
+Both of us are enthusiastic about BNSF’s future because railroads have major cost and environmental
+advantages over trucking, their main competitor. Last year BNSF moved each ton of freight it carried a record
+500 miles on a single gallon of diesel fuel. That’s three times more fuel-efficient than trucking is, which means
+our railroad owns an important advantage in operating costs. Concurrently, our country gains because of reduced
+greenhouse emissions and a much smaller need for imported oil. When traffic travels by rail, society benefits.
+Over time, the movement of goods in the United States will increase, and BNSF should get its full
+share of the gain. The railroad will need to invest massively to bring about this growth, but no one is better
+situated than Berkshire to supply the funds required. However slow the economy, or chaotic the markets, our
+checks will clear.
+Last year – in the face of widespread pessimism about our economy – we demonstrated our enthusiasm
+for capital investment at Berkshire by spending $6 billion on property and equipment. Of this amount,
+$5.4 billion – or 90% of the total – was spent in the United States. Certainly our businesses will expand abroad in
+the future, but an overwhelming part of their future investments will be at home. In 2011, we will set a new
+record for capital spending – $8 billion – and spend all of the $2 billion increase in the United States.
+Money will always flow toward opportunity, and there is an abundance of that in America.
+Commentators today often talk of “great uncertainty.” But think back, for example, to December 6,
+1941, October 18, 1987 and September 10, 2001. No matter how serene today may be, tomorrow is always
+uncertain.
+* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are
+1/1500th of those shown for A.
+3
+
+Don’t let that reality spook you. Throughout my lifetime, politicians and pundits have constantly
+moaned about terrifying problems facing America. Yet our citizens now live an astonishing six times better than
+when I was born. The prophets of doom have overlooked the all-important factor that is certain: Human potential
+is far from exhausted, and the American system for unleashing that potential – a system that has worked wonders
+for over two centuries despite frequent interruptions for recessions and even a Civil War – remains alive and
+effective.
+We are not natively smarter than we were when our country was founded nor do we work harder. But
+look around you and see a world beyond the dreams of any colonial citizen. Now, as in 1776, 1861, 1932 and
+1941, America’s best days lie ahead.
+Performance
+Charlie and I believe that those entrusted with handling the funds of others should establish
+performance goals at the onset of their stewardship. Lacking such standards, managements are tempted to shoot
+the arrow of performance and then paint the bull’s-eye around wherever it lands.
+In Berkshire’s case, we long ago told you that our job is to increase per-share intrinsic value at a rate
+greater than the increase (including dividends) of the S&P 500. In some years we succeed; in others we fail. But,
+if we are unable over time to reach that goal, we have done nothing for our investors, who by themselves could
+have realized an equal or better result by owning an index fund.
+The challenge, of course, is the calculation of intrinsic value. Present that task to Charlie and me
+separately, and you will get two different answers. Precision just isn’t possible.
+To eliminate subjectivity, we therefore use an understated proxy for intrinsic-value – book value –
+when measuring our performance. To be sure, some of our businesses are worth far more than their carrying
+value on our books. (Later in this report, we’ll present a case study.) But since that premium seldom swings
+wildly from year to year, book value can serve as a reasonable device for tracking how we are doing.
+The table on page 2 shows our 46-year record against the S&P, a performance quite good in the earlier
+years and now only satisfactory. The bountiful years, we want to emphasize, will never return. The huge sums of
+capital we currently manage eliminate any chance of exceptional performance. We will strive, however, for
+better-than-average results and feel it fair for you to hold us to that standard.
+Yearly figures, it should be noted, are neither to be ignored nor viewed as all-important. The pace of
+the earth’s movement around the sun is not synchronized with the time required for either investment ideas or
+operating decisions to bear fruit. At GEICO, for example, we enthusiastically spent $900 million last year on
+advertising to obtain policyholders who deliver us no immediate profits. If we could spend twice that amount
+productively, we would happily do so though short-term results would be further penalized. Many large
+investments at our railroad and utility operations are also made with an eye to payoffs well down the road.
+To provide you a longer-term perspective on performance, we present on the facing page the yearly
+figures from page 2 recast into a series of five-year periods. Overall, there are 42 of these periods, and they tell
+an interesting story. On a comparative basis, our best years ended in the early 1980s. The market’s golden period,
+however, came in the 17 following years, with Berkshire achieving stellar absolute returns even as our relative
+advantage narrowed.
+After 1999, the market stalled (or have you already noticed that?). Consequently, the satisfactory
+performance relative to the S&P that Berkshire has achieved since then has delivered only moderate absolute
+results.
+Looking forward, we hope to average several points better than the S&P – though that result is, of
+course, far from a sure thing. If we succeed in that aim, we will almost certainly produce better relative results in
+bad years for the stock market and suffer poorer results in strong markets.
+4
+
+Berkshire’s Corporate Performance vs. the S&P 500 by Five-Year Periods
+Annual Percentage Change
+in Per-Share
+in S&P 500
+Book Value of
+with Dividends
+Berkshire
+Included
+(1)
+(2)
+
+Five-Year Period
+1965-1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1966-1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1967-1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1968-1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1969-1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

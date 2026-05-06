@@ -1,0 +1,189 @@
+earnings, although I warn you that the figures are necessarily very 
+rough. (The dividends paid to us by these investees have been 
+included in the operating earnings itemized on page 6, mostly 
+under "Insurance Group: Net Investment Income.")
+
+                                                          Berkshire's Share 
+                                                           of Undistributed
+                                Berkshire's Approximate   Operating Earnings 
+Berkshire's Major Investees      Ownership at Yearend       (in millions)
+---------------------------     -----------------------   ------------------  
+
+                                    1991       1990         1991      1990
+                                   ------     ------      --------  --------
+Capital Cities/ABC Inc. ........    18.1%      17.9%       $ 61      $ 85
+The Coca-Cola Company ..........     7.0%       7.0%         69        58
+Federal Home Loan Mortgage Corp.     3.4%(1)    3.2%(1)      15        10
+The Gillette Company ...........    11.0%       ---          23(2)    --- 
+GEICO Corp. ....................    48.2%      46.1%         69        76
+The Washington Post Company ....    14.6%      14.6%         10        18
+Wells Fargo & Company ..........     9.6%       9.7%        (17)       19(3)
+                                                          --------  --------
+Berkshire's share of 
+   undistributed earnings of major investees               $230      $266
+Hypothetical tax on these undistributed investee earnings   (30)      (35)
+Reported operating earnings of Berkshire                    316       371 
+                                                          --------  --------
+      Total look-through earnings of Berkshire             $516      $602 
+                                                          ========  ========
+
+     (1) Net of minority interest at Wesco
+     (2) For the nine months after Berkshire converted its 
+         preferred on April 1
+     (3) Calculated on average ownership for the year
+
+                    * * * * * * * * * * * *
+
+     We also believe that investors can benefit by focusing on 
+their own look-through earnings. To calculate these, they should 
+determine the underlying earnings attributable to the shares they 
+hold in their portfolio and total these. The goal of each investor 
+should be to create a portfolio (in effect, a "company") that will 
+deliver him or her the highest possible look-through earnings a 
+decade or so from now.  
+
+     An approach of this kind will force the investor to think 
+about long-term business prospects rather than short-term stock 
+market prospects, a perspective likely to improve results. It's 
+true, of course, that, in the long run, the scoreboard for 
+investment decisions is market price. But prices will be determined 
+by future earnings. In investing, just as in baseball, to put runs 
+on the scoreboard one must watch the playing field, not the 
+scoreboard.
+A Change in Media Economics and Some Valuation Math
+In last year's report, I stated my opinion that the decline in 
+the profitability of media companies reflected secular as well as 
+cyclical factors. The events of 1991 have fortified that case: The 
+economic strength of once-mighty media enterprises continues to 
+erode as retailing patterns change and advertising and 
+entertainment choices proliferate. In the business world, 
+unfortunately, the rear-view mirror is always clearer than the 
+windshield: A few years back no one linked to the media business - 
+neither lenders, owners nor financial analysts - saw the economic 
+deterioration that was in store for the industry. (But give me a 
+few years and I'll probably convince myself that I did.)
+
+     The fact is that newspaper, television, and magazine 
+properties have begun to resemble
+businesses
+more than
+franchises
+in their economic behavior. Let's take a quick look at the 
+characteristics separating these two classes of enterprise, keeping 
+in mind, however, that many operations fall in some middle ground 
+and can best be described as weak franchises or strong businesses.
+
+     An economic franchise arises from a product or service that: 
+(1) is needed or desired; (2) is thought by its customers to have 
+no close substitute and; (3) is not subject to price regulation. 
+The existence of all three conditions will be demonstrated by a 
+company's ability to regularly price its product or service 
+aggressively and thereby to earn high rates of return on capital. 
+Moreover, franchises can tolerate mis-management. Inept managers 
+may diminish a franchise's profitability, but they cannot inflict 
+mortal damage.
+
+     In contrast, "a business" earns exceptional profits only if it 
+is the low-cost operator or if supply of its product or service is 
+tight. Tightness in supply usually does not last long. With 
+superior management, a company may maintain its status as a low-
+cost operator for a much longer time, but even then unceasingly 
+faces the possibility of competitive attack. And a business, unlike 
+a franchise, can be killed by poor management.
+
+     Until recently, media properties possessed the three 
+characteristics of a franchise and consequently could both price 
+aggressively and be managed loosely. Now, however, consumers 
+looking for information and entertainment (their primary interest 
+being the latter) enjoy greatly broadened choices as to where to 
+find them. Unfortunately, demand can't expand in response to this 
+new supply: 500 million American eyeballs and a 24-hour day are all 
+that's available. The result is that competition has intensified, 
+markets have fragmented, and the media industry has lost some - 
+though far from all - of its franchise strength.
+
+                    * * * * * * * * * * * *
+
+     The industry's weakened franchise has an impact on its value 
+that goes far beyond the immediate effect on earnings. For an 
+understanding of this phenomenon, let's look at some much over-
+simplified, but relevant, math.
+
+     A few years ago the conventional wisdom held that a newspaper, 
+television or magazine property would forever increase its earnings 
+at 6% or so annually and would do so
+without the employment of 
+additional capital
+, for the reason that depreciation charges would 
+roughly match capital expenditures and working capital requirements 
+would be minor. Therefore, reported earnings (before amortization 
+of intangibles) were also freely-distributable earnings, which 
+meant that ownership of a media property could be construed as akin 
+to owning a perpetual annuity set to grow at 6% a year. Say, next, 
+that a discount rate of 10% was used to determine the present value 
+of that earnings stream. One could then calculate that it was 
+appropriate to pay a whopping $25 million for a property with 
+current after-tax earnings of $1 million. (This after-tax multiplier 
+of 25 translates to a multiplier on pre-tax earnings of about 16.)
+
+     Now change the assumption and posit that the $1 million 
+represents "normal earning power" and that earnings will bob around 
+this figure cyclically. A "bob-around" pattern is indeed the lot of 
+most businesses, whose income stream grows only if their owners are 
+willing to commit more capital (usually in the form of retained 
+earnings). Under our revised assumption, $1 million of earnings, 
+discounted by the same 10%, translates to a $10 million valuation. 
+Thus a seemingly modest shift in assumptions reduces the property's 
+valuation to 10 times after-tax earnings (or about 6 1/2 times 
+pre-tax earnings).
+
+     Dollars are dollars whether they are derived from the 
+operation of media properties or of steel mills. What in the past 
+caused buyers to value a dollar of earnings from media far higher 
+than a dollar from steel was that the earnings of a media property 
+were expected to constantly grow (without the business requiring 
+much additional capital), whereas steel earnings clearly fell in 
+the bob-around category. Now, however, expectations for media have 
+moved toward the bob-around model. And, as our simplified example 
+illustrates, valuations must change dramatically when expectations 
+are revised.
+
+     We have a significant investment in media - both through our 
+direct ownership of Buffalo News and our shareholdings in The 
+Washington Post Company and Capital Cities/ABC - and the intrinsic 
+value of this investment has declined materially because of the 
+secular transformation that the industry is experiencing. (Cyclical 
+factors have also hurt our current look-through earnings, but these 
+factors do not reduce intrinsic value.) However, as our Business 
+Principles on page 2-3 note, one of the rules by which we run 
+Berkshire is that we do not sell businesses - or investee holdings 
+that we have classified as permanent - simply because we see ways 
+to use the money more advantageously elsewhere. (We did sell 
+certain other media holdings sometime back, but these were 
+relatively small.)
+
+     The intrinsic value losses that we have suffered have been 
+moderated because the Buffalo News, under Stan Lipsey's leadership, 
+has done far better than most newspapers and because both Cap 
+Cities and Washington Post are exceptionally well-managed. In 
+particular, these companies stayed on the sidelines during the late 
+1980's period in which purchasers of media properties regularly 
+paid irrational prices. Also, the debt of both Cap Cities and 
+Washington Post is small and roughly offset by cash that they hold. 
+As a result, the shrinkage in the value of their assets has not 
+been accentuated by the effects of leverage. Among publicly-owned 
+media companies, our two investees are about the only ones 
+essentially free of debt. Most of the other companies, through a 
+combination of the aggressive acquisition policies they pursued and 
+shrinking earnings, find themselves with debt equal to five or more 
+times their current net income.
+
+     The strong balance sheets and strong managements of Cap Cities 
+and Washington Post leave us more comfortable with these 
+investments than we would be with holdings in any other media 
+companies. Moreover, most media properties continue to have far 
+better economic characteristics than those possessed by the average 
+American business. But gone are the days of bullet-proof franchises 
+and cornucopian economics.
+Twenty Years in a Candy Store
+We've just passed a milestone: Twenty years ago, on January 3, 

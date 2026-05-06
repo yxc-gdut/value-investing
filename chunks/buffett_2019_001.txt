@@ -1,0 +1,166 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2019
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2019ar/2019ar.pdf
+extracted_from: line 246 - 901
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire earned $81.4 billion in 2019 according to generally accepted accounting principles (commonly
+called “GAAP”). The components of that figure are $24 billion of operating earnings, $3.7 billion of realized capital
+gains and a $53.7 billion gain from an increase in the amount of net unrealized capital gains that exist in the stocks
+we hold. Each of those components of earnings is stated on an after-tax basis.
+That $53.7 billion gain requires comment. It resulted from a new GAAP rule, imposed in 2018, that requires
+a company holding equity securities to include in earnings the net change in the unrealized gains and losses of those
+securities. As we stated in last year’s letter, neither Charlie Munger, my partner in managing Berkshire, nor I agree
+with that rule.
+The adoption of the rule by the accounting profession, in fact, was a monumental shift in its own thinking.
+Before 2018, GAAP insisted – with an exception for companies whose business was to trade securities – that
+unrealized gains within a portfolio of stocks were never to be included in earnings and unrealized losses were to be
+included only if they were deemed “other than temporary.” Now, Berkshire must enshrine in each quarter’s bottom
+line – a key item of news for many investors, analysts and commentators – every up and down movement of the stocks
+it owns, however capricious those fluctuations may be.
+Berkshire’s 2018 and 2019 years glaringly illustrate the argument we have with the new rule. In 2018, a down
+year for the stock market, our net unrealized gains decreased by $20.6 billion, and we therefore reported GAAP
+earnings of only $4 billion. In 2019, rising stock prices increased net unrealized gains by the aforementioned $53.7
+billion, pushing GAAP earnings to the $81.4 billion reported at the beginning of this letter. Those market gyrations
+led to a crazy 1,900% increase in GAAP earnings!
+Meanwhile, in what we might call the real world, as opposed to accounting-land, Berkshire’s equity holdings
+averaged about $200 billion during the two years, and the intrinsic value of the stocks we own grew steadily and
+substantially throughout the period.
+Charlie and I urge you to focus on operating earnings – which were little changed in 2019 – and to ignore
+both quarterly and annual gains or losses from investments, whether these are realized or unrealized.
+Our advising that in no way diminishes the importance of these investments to Berkshire. Over time, Charlie
+and I expect our equity holdings – as a group – to deliver major gains, albeit in an unpredictable and highly irregular
+manner. To see why we are optimistic, move on to the next discussion.
+The Power of Retained Earnings
+In 1924, Edgar Lawrence Smith, an obscure economist and financial advisor, wrote Common Stocks as Long
+Term Investments, a slim book that changed the investment world. Indeed, writing the book changed Smith himself,
+forcing him to reassess his own investment beliefs.
+Going in, he planned to argue that stocks would perform better than bonds during inflationary periods and
+that bonds would deliver superior returns during deflationary times. That seemed sensible enough. But Smith was in
+for a shock.
+
+3
+
+His book began, therefore, with a confession: “These studies are the record of a failure – the failure of facts
+to sustain a preconceived theory.” Luckily for investors, that failure led Smith to think more deeply about how stocks
+should be evaluated.
+For the crux of Smith’s insight, I will quote an early reviewer of his book, none other than John Maynard
+Keynes: “I have kept until last what is perhaps Mr. Smith’s most important, and is certainly his most novel, point.
+Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits.
+In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus there is
+an element of compound interest (Keynes’ italics) operating in favour of a sound industrial investment. Over a period
+of years, the real value of the property of a sound industrial is increasing at compound interest, quite apart from the
+dividends paid out to the shareholders.”
+And with that sprinkling of holy water, Smith was no longer obscure.
+It’s difficult to understand why retained earnings were unappreciated by investors before Smith’s book was
+published. After all, it was no secret that mind-boggling wealth had earlier been amassed by such titans as Carnegie,
+Rockefeller and Ford, all of whom had retained a huge portion of their business earnings to fund growth and produce
+ever-greater profits. Throughout America, also, there had long been small-time capitalists who became rich following
+the same playbook.
+Nevertheless, when business ownership was sliced into small pieces – “stocks” – buyers in the pre-Smith
+years usually thought of their shares as a short-term gamble on market movements. Even at their best, stocks were
+considered speculations. Gentlemen preferred bonds.
+Though investors were slow to wise up, the math of retaining and reinvesting earnings is now well
+understood. Today, school children learn what Keynes termed “novel”: combining savings with compound interest
+works wonders.
+************
+At Berkshire, Charlie and I have long focused on using retained earnings advantageously. Sometimes this
+job has been easy – at other times, more than difficult, particularly when we began working with huge and evergrowing sums of money.
+In our deployment of the funds we retain, we first seek to invest in the many and diverse businesses we
+already own. During the past decade, Berkshire’s depreciation charges have aggregated $65 billion whereas the
+company’s internal investments in property, plant and equipment have totaled $121 billion. Reinvestment in
+productive operational assets will forever remain our top priority.
+In addition, we constantly seek to buy new businesses that meet three criteria. First, they must earn good
+returns on the net tangible capital required in their operation. Second, they must be run by able and honest managers.
+Finally, they must be available at a sensible price.
+When we spot such businesses, our preference would be to buy 100% of them. But the opportunities to make
+major acquisitions possessing our required attributes are rare. Far more often, a fickle stock market serves up
+opportunities for us to buy large, but non-controlling, positions in publicly-traded companies that meet our standards.
+Whichever way we go – controlled companies or only a major stake by way of the stock market – Berkshire’s
+financial results from the commitment will in large part be determined by the future earnings of the business we have
+purchased. Nonetheless, there is between the two investment approaches a hugely important accounting difference,
+essential for you to understand.
+
+4
+
+In our controlled companies, (defined as those in which Berkshire owns more than 50% of the shares), the
+earnings of each business flow directly into the operating earnings that we report to you. What you see is what you
+get.
+In the non-controlled companies, in which we own marketable stocks, only the dividends that Berkshire
+receives are recorded in the operating earnings we report. The retained earnings? They’re working hard and creating
+much added value, but not in a way that deposits those gains directly into Berkshire’s reported earnings.
+At almost all major companies other than Berkshire, investors would not find what we’ll call this “nonrecognition of earnings” important. For us, however, it is a standout omission, of a magnitude that we lay out for you
+below.
+Here, we list our 10 largest stock-market holdings of businesses. The list distinguishes between their earnings
+that are reported to you under GAAP accounting – these are the dividends Berkshire receives from those 10 investees
+– and our share, so to speak, of the earnings the investees retain and put to work. Normally, those companies use
+retained earnings to expand their business and increase its efficiency. Or sometimes they use those funds to repurchase
+significant portions of their own stock, an act that enlarges Berkshire’s share of the company’s future earnings.
+
+Company
+American Express
+Apple
+Bank of America
+Bank of New York Mellon
+Coca-Cola
+Delta Airlines
+J.P. Morgan Chase
+Moody’s
+U.S. Bancorp
+Wells Fargo
+
+Yearend
+Ownership
+
+Berkshire’s Share (in millions)
+Dividends(1)
+Retained Earnings(2)
+
+18.7%
+5.7%
+10.7%
+9.0%
+9.3%
+11.0%
+1.9%
+13.1%
+9.7%
+8.4%
+
+Total
+
+$ 261
+773
+682
+101
+640
+114
+216
+55
+251
+705
+
+$ 998
+2,519
+2,167
+288
+194
+416
+476
+137
+407
+730
+
+$3,798
+
+$8,332
+
+(1) Based on current annual rate.
+(2) Based on 2019 earnings minus common and preferred dividends paid.
+Obviously, the realized gains we will eventually record from partially owning each of these companies will
+not neatly correspond to “our” share of their retained earnings. Sometimes, alas, retentions produce nothing. But both
+logic and our past experience indicate that from the group we will realize capital gains at least equal to – and probably
+better than – the earnings of ours that they retained. (When we sell shares and realize gains, we will pay income tax on

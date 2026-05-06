@@ -1,0 +1,208 @@
+in the early 1970s because for several years it severely underreserved, and therefore believed its product (insurance
+protection) was costing considerably less than was truly the case. Consequently, the company sailed blissfully
+along, underpricing its product and selling more and more policies at ever-larger losses.
+When it becomes evident that reserves at past reporting dates understated the liability that truly existed at
+the time, companies speak of “loss development.” In the year discovered, these shortfalls penalize reported
+earnings because the “catch-up” costs from prior years must be added to current-year costs when results are
+calculated. This is what happened at General Re in 2001: a staggering $800 million of loss costs that actually
+occurred in earlier years, but that were not then recorded, were belatedly recognized last year and charged against
+current earnings. The mistake was an honest one, I can assure you of that. Nevertheless, for several years, this
+underreserving caused us to believe that our costs were much lower than they truly were, an error that contributed to
+woefully inadequate pricing. Additionally, the overstated profit figures led us to pay substantial incentive
+compensation that we should not have and to incur income taxes far earlier than was necessary.
+We recommend scrapping the term “loss development” and its equally ugly twin, “reserve strengthening.”
+(Can you imagine an insurer, upon finding its reserves excessive, describing the reduction that follows as “reserve
+weakening”?) “Loss development” suggests to investors that some natural, uncontrollable event has occurred in the
+current year, and “reserve strengthening” implies that adequate amounts have been further buttressed. The truth,
+however, is that management made an error in estimation that in turn produced an error in the earnings previously
+reported. The losses didn’t “develop” – they were there all along. What developed was management’s
+understanding of the losses (or, in the instances of chicanery, management’s willingness to finally fess up).
+A more forthright label for the phenomenon at issue would be “loss costs we failed to recognize when they
+occurred” (or maybe just “oops”). Underreserving, it should be noted, is a common – and serious – problem
+throughout the property/casualty insurance industry. At Berkshire we told you of our own problems with
+underestimation in 1984 and 1986. Generally, however, our reserving has been conservative.
+Major underreserving is common in cases of companies struggling for survival. In effect, insurance
+accounting is a self-graded exam, in that the insurer gives some figures to its auditing firm and generally doesn’t get
+an argument. (What the auditor gets, however, is a letter from management that is designed to take his firm off the
+hook if the numbers later look silly.) A company experiencing financial difficulties – of a kind that, if truly faced,
+could put it out of business – seldom proves to be a tough grader. Who, after all, wants to prepare his own
+execution papers?
+Even when companies have the best of intentions, it’s not easy to reserve properly. I’ve told the story in
+the past about the fellow traveling abroad whose sister called to tell him that their dad had died. The brother replied
+that it was impossible for him to get home for the funeral; he volunteered, however, to shoulder its cost. Upon
+returning, the brother received a bill from the mortuary for $4,500, which he promptly paid. A month later, and a
+month after that also, he paid $10 pursuant to an add-on invoice. When a third $10 invoice came, he called his
+sister for an explanation. “Oh,” she replied, “I forgot to tell you. We buried dad in a rented suit.”
+There are a lot of “rented suits” buried in the past operations of insurance companies. Sometimes the
+problems they signify lie dormant for decades, as was the case with asbestos liability, before virulently manifesting
+themselves. Difficult as the job may be, it’s management’s responsibility to adequately account for all possibilities.
+Conservatism is essential. When a claims manager walks into the CEO’s office and says “Guess what just
+happened,” his boss, if a veteran, does not expect to hear it’s good news. Surprises in the insurance world have
+been far from symmetrical in their effect on earnings.
+
+11
+
+Because of this one-sided experience, it is folly to suggest, as some are doing, that all property/casualty
+insurance reserves be discounted, an approach reflecting the fact that they will be paid in the future and that
+therefore their present value is less than the stated liability for them. Discounting might be acceptable if reserves
+could be precisely established. They can’t, however, because a myriad of forces – judicial broadening of policy
+language and medical inflation, to name just two chronic problems – are constantly working to make reserves
+inadequate. Discounting would exacerbate this already-serious situation and, additionally, would provide a new
+tool for the companies that are inclined to fudge.
+I’d say that the effects from telling a profit-challenged insurance CEO to lower reserves through
+discounting would be comparable to those that would ensue if a father told his 16-year-old son to have a normal sex
+life. Neither party needs that kind of push.
+Sources of Reported Earnings
+The table that follows shows the main sources of Berkshire's reported earnings. In this presentation,
+purchase-accounting adjustments (primarily relating to “goodwill”) are not assigned to the specific businesses to
+which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of
+our businesses as they would have been reported had we not purchased them. In recent years, our “expense” for
+goodwill amortization has been large. Going forward, generally accepted accounting principles (“GAAP”) will no
+longer require amortization of goodwill. This change will increase our reported earnings (though not our true
+economic earnings) and simplify this section of the report.
+(in millions)
+Berkshire’s Share
+of Net Earnings
+(after taxes and
+Minority interests)
+Pre-Tax Earnings
+2001
+2000
+2001
+2000
+Operating Earnings:
+Insurance Group:
+Underwriting – Reinsurance...................................
+Underwriting – GEICO ..........................................
+Underwriting – Other Primary ...............................
+Net Investment Income ..........................................
+Building Products(1) ...................................................
+Finance and Financial Products Business .................
+Flight Services...........................................................
+MidAmerican Energy (76% owned) .........................
+Retail Operations.......................................................
+Scott Fetzer (excluding finance operation) ...............
+Shaw Industries(2) ......................................................
+Other Businesses .......................................................
+Purchase-Accounting Adjustments ...........................
+Corporate Interest Expense .......................................
+Shareholder-Designated Contributions .....................
+Other .........................................................................
+Operating Earnings ......................................................
+Capital Gains from Investments...................................
+Total Earnings – All Entities........................................
+(1)
+
+(2)
+
+$(4,318)
+221
+30
+2,824
+461
+519
+186
+600
+175
+129
+292
+179
+(726)
+(92)
+(17)
+25
+488
+1,320
+$1,808
+
+$(1,416)
+(224)
+25
+2,773
+34
+530
+213
+197
+175
+122
+-221
+(881)
+(92)
+(17)
+39
+1,699
+3,955
+$5,654
+
+$(2,824)
+144
+18
+1,968
+287
+336
+105
+230
+101
+83
+156
+103
+(699)
+(60)
+(11)
+16
+(47)
+842
+$ 795
+
+$(911)
+(146)
+16
+1,946
+21
+343
+126
+109
+104
+80
+-133
+(843)
+(61)
+(11)
+30
+936
+2,392
+$3,328
+
+Includes Acme Brick from August 1, 2000; Benjamin Moore from December 18, 2000; Johns Manville from February 27,
+2001; and MiTek from July 31, 2001.
+From date of acquisition, January 8, 2001.
+
+12
+
+Here are some highlights (and lowlights) from 2001 relating to our non-insurance activities:
+•
+
+Our shoe operations (included in “other businesses”) lost $46.2 million pre-tax, with profits at H.H. Brown
+and Justin swamped by losses at Dexter.
+I’ve made three decisions relating to Dexter that have hurt you in a major way: (1) buying it in the first place;
+(2) paying for it with stock and (3) procrastinating when the need for changes in its operations was obvious. I
+would like to lay these mistakes on Charlie (or anyone else, for that matter) but they were mine. Dexter, prior
+to our purchase – and indeed for a few years after – prospered despite low-cost foreign competition that was
+brutal. I concluded that Dexter could continue to cope with that problem, and I was wrong.
+We have now placed the Dexter operation – which is still substantial in size – under the management of Frank
+Rooney and Jim Issler at H.H. Brown. These men have performed outstandingly for Berkshire, skillfully
+contending with the extraordinary changes that have bedeviled the footwear industry. During part of 2002,
+Dexter will be hurt by unprofitable sales commitments it made last year. After that, we believe our shoe
+business will be reasonably profitable.
+
+•
+
+MidAmerican Energy, of which we own 76% on a fully-diluted basis, had a good year in 2001. Its reported
+earnings should also increase considerably in 2002 given that the company has been shouldering a large
+charge for the amortization of goodwill and that this “cost” will disappear under the new GAAP rules.
+Last year MidAmerican swapped some properties in England, adding Yorkshire Electric, with its 2.1 million
+customers. We are now serving 3.6 million customers in the U.K. and are its 2nd largest electric utility. We
+have an equally important operation in Iowa as well as major generating facilities in California and the
+Philippines.
+At MidAmerican – this may surprise you – we also own the second-largest residential real estate brokerage
+business in the country. We are market-share leaders in a number of large cities, primarily in the Midwest, and

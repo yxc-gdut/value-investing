@@ -1,0 +1,167 @@
+worth.  The impact could well be substantial.  Nevertheless, what 
+is important in the end is the tax rate at the time we sell 
+securities, when unrealized appreciation becomes realized.
+
+     Another major accounting change, whose implementation is 
+required by January 1, 1993, mandates that businesses recognize 
+their present-value liability for post-retirement health benefits. 
+Though GAAP has previously required recognition of pensions to be 
+paid in the future, it has illogically ignored the costs that 
+companies will then have to bear for health benefits.  The new rule 
+will force many companies to record a huge balance-sheet liability 
+(and a consequent reduction in net worth) and also henceforth to 
+recognize substantially higher costs when they are calculating 
+annual profits.
+
+     In making acquisitions, Charlie and I have tended to avoid 
+companies with significant post-retirement liabilities.  As a 
+result, Berkshire's present liability and future costs for post-
+retirement health benefits - though we now have 22,000 employees - 
+are inconsequential.  I need to admit, though, that we had a near 
+miss:  In 1982 I made a huge mistake in committing to buy a company 
+burdened by extraordinary post-retirement health obligations.  
+Luckily, though, the transaction fell through for reasons beyond 
+our control.  Reporting on this episode in the 1982 annual report, 
+I said:  "If we were to introduce graphics to this report, 
+illustrating favorable business developments of the past year, two 
+blank pages depicting this blown deal would be the appropriate 
+centerfold."  Even so, I wasn't expecting things to get as bad as 
+they did.  Another buyer appeared, the business soon went bankrupt 
+and was shut down, and thousands of workers found those bountiful 
+health-care promises to be largely worthless.
+
+     In recent decades, no CEO would have dreamed of going to his 
+board with the proposition that his company become an insurer of 
+uncapped post-retirement health benefits that other corporations 
+chose to install.  A CEO didn't need to be a medical expert to know 
+that lengthening life expectancies and soaring health costs would 
+guarantee an insurer a financial battering from such a business.  
+Nevertheless, many a manager blithely committed his own company to 
+a self-insurance plan embodying precisely the same promises - and 
+thereby doomed his shareholders to suffer the inevitable 
+consequences.  In health-care, open-ended promises have created 
+open-ended liabilities that in a few cases loom so large as to 
+threaten the global competitiveness of major American industries.
+
+     I believe part of the reason for this reckless behavior was 
+that accounting rules did not, for so long, require the booking of 
+post-retirement health costs as they were incurred.  Instead, the 
+rules allowed cash-basis accounting, which vastly understated the 
+liabilities that were building up.  In effect, the attitude of both 
+managements and their accountants toward these liabilities was 
+"out-of-sight, out-of-mind."  Ironically, some of these same 
+managers would be quick to criticize Congress for employing "cash-
+basis" thinking in respect to Social Security promises or other 
+programs creating future liabilities of size.
+
+     Managers thinking about accounting issues should never forget 
+one of Abraham Lincoln's favorite riddles:  "How many legs does a 
+dog have if you call his tail a leg?"  The answer:  "Four, because 
+calling a tail a leg does not make it a leg."  It behooves managers 
+to remember that Abe's right even if an auditor is willing to 
+certify that the tail is a leg.
+
+                   * * * * * * * * * * * *
+
+     The most egregious case of let's-not-face-up-to-reality 
+behavior by executives and accountants has occurred in the world of 
+stock options.  In Berkshire's 1985 annual report, I laid out my 
+opinions about the use and misuse of options.  But even when 
+options are structured properly, they are accounted for in ways 
+that make no sense.  The lack of logic is not accidental:  For 
+decades, much of the business world has waged war against 
+accounting rulemakers, trying to keep the costs of stock options 
+from being reflected in the profits of the corporations that issue 
+them.
+
+     Typically, executives have argued that options are hard to 
+value and that therefore their costs should be ignored.  At other 
+times managers have said that assigning a cost to options would 
+injure small start-up businesses.  Sometimes they have even 
+solemnly declared that "out-of-the-money" options (those with an 
+exercise price equal to or above the current market price) have no 
+value when they are issued.
+
+     Oddly, the Council of Institutional Investors has chimed in 
+with a variation on that theme, opining that options should not be 
+viewed as a cost because they "aren't dollars out of a company's 
+coffers."  I see this line of reasoning as offering exciting 
+possibilities to American corporations for instantly improving 
+their reported profits.  For example, they could eliminate the cost 
+of insurance by paying for it with options.  So if you're a CEO and 
+subscribe to this "no cash-no cost" theory of accounting, I'll make 
+you an offer you can't refuse:  Give us a call at Berkshire and we 
+will happily sell you insurance in exchange for a bundle of long-
+term options on your company's stock.
+
+     Shareholders should understand that companies incur costs when 
+they deliver something of value to another party and not just when 
+cash changes hands.  Moreover, it is both silly and cynical to say 
+that an important item of cost should not be recognized simply 
+because it can't be quantified with pinpoint precision.  Right now, 
+accounting abounds with imprecision.  After all, no manager or 
+auditor knows how long a 747 is going to last, which means he also 
+does not know what the yearly depreciation charge for the plane 
+should be.  No one knows with any certainty what a bank's annual 
+loan loss charge ought to be.  And the estimates of losses that 
+property-casualty companies make are notoriously inaccurate.
+
+     Does this mean that these important items of cost should be 
+ignored simply because they can't be quantified with absolute 
+accuracy?  Of course not.  Rather, these costs should be estimated 
+by honest and experienced people and then recorded.  When you get 
+right down to it, what other item of major but hard-to-precisely-
+calculate cost - other, that is, than stock options - does the 
+accounting profession say should be ignored in the calculation of 
+earnings?
+
+     Moreover, options are just not that difficult to value.  
+Admittedly, the difficulty is increased by the fact that the 
+options given to executives are restricted in various ways.  These 
+restrictions affect value.  They do not, however, eliminate it.  In 
+fact, since I'm in the mood for offers, I'll make one to any 
+executive who is granted a restricted option, even though it may be 
+out of the money:  On the day of issue, Berkshire will pay him or 
+her a substantial sum for the right to any future gain he or she 
+realizes on the option.  So if you find a CEO who says his newly-
+issued options have little or no value, tell him to try us out.  In 
+truth, we have far more confidence in our ability to determine an 
+appropriate price to pay for an option than we have in our ability 
+to determine the proper depreciation rate for our corporate jet.
+
+     It seems to me that the realities of stock options can be 
+summarized quite simply:  If options aren't a form of compensation, 
+what are they?  If compensation isn't an expense, what is it?  And, 
+if expenses shouldn't go into the calculation of earnings, where in 
+the world should they go?
+
+     The accounting profession and the SEC should be shamed by the 
+fact that they have long let themselves be muscled by business 
+executives on the option-accounting issue.  Additionally, the 
+lobbying that executives engage in may have an unfortunate by-
+product:  In my opinion, the business elite risks losing its 
+credibility on issues of significance to society - about which it 
+may have much of value to say - when it advocates the incredible on 
+issues of significance to itself.
+Miscellaneous
+We have two pieces of regrettable news this year.  First, 
+Gladys Kaiser, my friend and assistant for twenty-five years, will 
+give up the latter post after the 1993 annual meeting, though she 
+will certainly remain my friend forever.  Gladys and I have been a 
+team, and though I knew her retirement was coming, it is still a 
+jolt.
+
+     Secondly, in September, Verne McKenzie relinquished his role 
+as Chief Financial Officer after a 30-year association with me that 
+began when he was the outside auditor of Buffett Partnership, Ltd. 
+Verne is staying on as a consultant, and though that job 
+description is often a euphemism, in this case it has real meaning. 
+I expect Verne to continue to fill an important role at Berkshire 
+but to do so at his own pace.  Marc Hamburg, Verne's understudy for 
+five years, has succeeded him as Chief Financial Officer.
+
+     I recall that one woman, upon being asked to describe the 
+perfect spouse, specified an archeologist: "The older I get," she 
+said, "the more he'll be interested in me."  She would have liked 
+my tastes:  I treasure those extraordinary Berkshire managers who 
+are working well past normal retirement age and who concomitantly 

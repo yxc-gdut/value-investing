@@ -1,0 +1,111 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2017
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2017ar/2017ar.pdf
+extracted_from: line 325 - 1175
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire’s gain in net worth during 2017 was $65.3 billion, which increased the per-share book value of
+both our Class A and Class B stock by 23%. Over the last 53 years (that is, since present management took over), pershare book value has grown from $19 to $211,750, a rate of 19.1% compounded annually.*
+The format of that opening paragraph has been standard for 30 years. But 2017 was far from standard: A
+large portion of our gain did not come from anything we accomplished at Berkshire.
+The $65 billion gain is nonetheless real – rest assured of that. But only $36 billion came from Berkshire’s
+operations. The remaining $29 billion was delivered to us in December when Congress rewrote the U.S. Tax Code.
+(Details of Berkshire’s tax-related gain appear on page K-32 and pages K-89 – K-90.)
+After stating those fiscal facts, I would prefer to turn immediately to discussing Berkshire’s operations. But,
+in still another interruption, I must first tell you about a new accounting rule – a generally accepted accounting
+principle (GAAP) – that in future quarterly and annual reports will severely distort Berkshire’s net income figures and
+very often mislead commentators and investors.
+The new rule says that the net change in unrealized investment gains and losses in stocks we hold must be
+included in all net income figures we report to you. That requirement will produce some truly wild and capricious
+swings in our GAAP bottom-line. Berkshire owns $170 billion of marketable stocks (not including our shares of Kraft
+Heinz), and the value of these holdings can easily swing by $10 billion or more within a quarterly reporting period.
+Including gyrations of that magnitude in reported net income will swamp the truly important numbers that describe our
+operating performance. For analytical purposes, Berkshire’s “bottom-line” will be useless.
+The new rule compounds the communication problems we have long had in dealing with the realized gains
+(or losses) that accounting rules compel us to include in our net income. In past quarterly and annual press releases,
+we have regularly warned you not to pay attention to these realized gains, because they – just like our unrealized gains
+– fluctuate randomly.
+That’s largely because we sell securities when that seems the intelligent thing to do, not because we are trying
+to influence earnings in any way. As a result, we sometimes have reported substantial realized gains for a period when
+our portfolio, overall, performed poorly (or the converse).
+
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of those
+shown for the A shares.
+
+3
+
+With the new rule about unrealized gains exacerbating the distortion caused by the existing rules applying to
+realized gains, we will take pains every quarter to explain the adjustments you need in order to make sense of our
+numbers. But televised commentary on earnings releases is often instantaneous with their receipt, and newspaper
+headlines almost always focus on the year-over-year change in GAAP net income. Consequently, media reports
+sometimes highlight figures that unnecessarily frighten or encourage many readers or viewers.
+We will attempt to alleviate this problem by continuing our practice of publishing financial reports late on
+Friday, well after the markets close, or early on Saturday morning. That will allow you maximum time for analysis
+and give investment professionals the opportunity to deliver informed commentary before markets open on Monday.
+Nevertheless, I expect considerable confusion among shareholders for whom accounting is a foreign language.
+At Berkshire what counts most are increases in our normalized per-share earning power. That metric is what
+Charlie Munger, my long-time partner, and I focus on – and we hope that you do, too. Our scorecard for 2017 follows.
+Acquisitions
+There are four building blocks that add value to Berkshire: (1) sizable stand-alone acquisitions; (2) bolt-on
+acquisitions that fit with businesses we already own; (3) internal sales growth and margin improvement at our many
+and varied businesses; and (4) investment earnings from our huge portfolio of stocks and bonds. In this section, we
+will review 2017 acquisition activity.
+In our search for new stand-alone businesses, the key qualities we seek are durable competitive strengths;
+able and high-grade management; good returns on the net tangible assets required to operate the business;
+opportunities for internal growth at attractive returns; and, finally, a sensible purchase price.
+That last requirement proved a barrier to virtually all deals we reviewed in 2017, as prices for decent, but far
+from spectacular, businesses hit an all-time high. Indeed, price seemed almost irrelevant to an army of optimistic
+purchasers.
+Why the purchasing frenzy? In part, it’s because the CEO job self-selects for “can-do” types. If Wall Street
+analysts or board members urge that brand of CEO to consider possible acquisitions, it’s a bit like telling your ripening
+teenager to be sure to have a normal sex life.
+Once a CEO hungers for a deal, he or she will never lack for forecasts that justify the purchase. Subordinates
+will be cheering, envisioning enlarged domains and the compensation levels that typically increase with corporate
+size. Investment bankers, smelling huge fees, will be applauding as well. (Don’t ask the barber whether you need a
+haircut.) If the historical performance of the target falls short of validating its acquisition, large “synergies” will be
+forecast. Spreadsheets never disappoint.
+The ample availability of extraordinarily cheap debt in 2017 further fueled purchase activity. After all, even
+a high-priced deal will usually boost per-share earnings if it is debt-financed. At Berkshire, in contrast, we evaluate
+acquisitions on an all-equity basis, knowing that our taste for overall debt is very low and that to assign a large portion
+of our debt to any individual business would generally be fallacious (leaving aside certain exceptions, such as debt
+dedicated to Clayton’s lending portfolio or to the fixed-asset commitments at our regulated utilities). We also never
+factor in, nor do we often find, synergies.
+Our aversion to leverage has dampened our returns over the years. But Charlie and I sleep well. Both of us
+believe it is insane to risk what you have and need in order to obtain what you don’t need. We held this view 50 years
+ago when we each ran an investment partnership, funded by a few friends and relatives who trusted us. We also hold
+it today after a million or so “partners” have joined us at Berkshire.
+
+4
+
+Despite our recent drought of acquisitions, Charlie and I believe that from time to time Berkshire will have
+opportunities to make very large purchases. In the meantime, we will stick with our simple guideline: The less the
+prudence with which others conduct their affairs, the greater the prudence with which we must conduct our own.
+************
+We were able to make one sensible stand-alone purchase last year, a 38.6% partnership interest in Pilot Flying
+J (“PFJ”). With about $20 billion in annual volume, the company is far and away the nation’s leading travel-center
+operator.
+PFJ has been run from the get-go by the remarkable Haslam family. “Big Jim” Haslam began with a dream
+and a gas station 60 years ago. Now his son, Jimmy, manages 27,000 associates at about 750 locations throughout
+North America. Berkshire has a contractual agreement to increase its partnership interest in PFJ to 80% in 2023;
+Haslam family members will then own the remaining 20%. Berkshire is delighted to be their partner.
+When driving on the Interstate, drop in. PFJ sells gasoline as well as diesel fuel, and the food is good. If it’s
+been a long day, remember, too, that our properties have 5,200 showers.
+************
+Let’s move now to bolt-on acquisitions. Some of these were small transactions that I will not detail. Here is
+an account, however, of a few larger purchases whose closings stretched between late 2016 and early 2018.
+Clayton Homes acquired two builders of conventional homes during 2017, a move that more than doubled
+our presence in a field we entered only three years ago. With these additions – Oakwood Homes in Colorado and
+Harris Doyle in Birmingham – I expect our 2018 site built volume will exceed $1 billion.
+Š
+
+Clayton’s emphasis, nonetheless, remains manufactured homes, both their construction and their financing.
+In 2017 Clayton sold 19,168 units through its own retail operation and wholesaled another 26,706 units to independent
+retailers. All told, Clayton accounted for 49% of the manufactured-home market last year. That industry-leading share
+– about three times what our nearest competitor did – is a far cry from the 13% Clayton achieved in 2003, the year it
+joined Berkshire.
+Both Clayton Homes and PFJ are based in Knoxville, where the Clayton and Haslam families have long been
+friends. Kevin Clayton’s comments to the Haslams about the advantages of a Berkshire affiliation, and his admiring
+comments about the Haslam family to me, helped cement the PFJ deal.

@@ -1,0 +1,188 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2016
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2016ar/2016ar.pdf
+extracted_from: line 334 - 2028
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire’s gain in net worth during 2016 was $27.5 billion, which increased the per-share book value
+of both our Class A and Class B stock by 10.7%. Over the last 52 years (that is, since present management took
+over), per-share book value has grown from $19 to $172,108, a rate of 19% compounded annually.*
+During the first half of those years, Berkshire’s net worth was roughly equal to the number that really
+counts: the intrinsic value of the business. The similarity of the two figures existed then because most of our
+resources were deployed in marketable securities that were regularly revalued to their quoted prices (less the tax
+that would be incurred if they were to be sold). In Wall Street parlance, our balance sheet was then in very large
+part “marked to market.”
+By the early 1990s, however, our focus was changing to the outright ownership of businesses, a shift
+that materially diminished the relevance of balance sheet figures. That disconnect occurred because the
+accounting rules (commonly referred to as “GAAP”) that apply to companies we control differ in important ways
+from those used to value marketable securities. Specifically, the accounting for businesses we own requires that
+the carrying value of “losers” be written down when their failures become apparent. “Winners,” conversely, are
+never revalued upwards.
+We’ve experienced both outcomes: As is the case in marriage, business acquisitions often deliver
+surprises after the “I do’s.” I’ve made some dumb purchases, paying far too much for the economic goodwill of
+companies we acquired. That later led to goodwill write-offs and to consequent reductions in Berkshire’s book
+value. We’ve also had some winners among the businesses we’ve purchased – a few of the winners very big –
+but have not written those up by a penny.
+We have no quarrel with the asymmetrical accounting that applies here. But, over time, it necessarily
+widens the gap between Berkshire’s intrinsic value and its book value. Today, the large – and growing –
+unrecorded gains at our winners produce an intrinsic value for Berkshire’s shares that far exceeds their book
+value. The overage is truly huge in our property/casualty insurance business and significant also in many other
+operations.
+Over time, stock prices gravitate toward intrinsic value. That’s what has happened at Berkshire, a fact
+explaining why the company’s 52-year market-price gain – shown on the facing page – materially exceeds its
+book-value gain.
+
+* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of
+those shown for A.
+3
+
+What We Hope to Accomplish
+Charlie Munger, Berkshire’s Vice Chairman and my partner, and I expect Berkshire’s normalized
+earning power per share to increase every year. Actual earnings, of course, will sometimes decline because of
+periodic weakness in the U.S. economy. In addition, insurance mega-catastrophes or other industry-specific
+events may occasionally reduce earnings at Berkshire, even when most American businesses are doing well.
+It’s our job, though, to over time deliver significant growth, bumpy or not. After all, as stewards of your
+capital, Berkshire directors have opted to retain all earnings. Indeed, in both 2015 and 2016 Berkshire ranked
+first among American businesses in the dollar volume of earnings retained, in each year reinvesting many
+billions of dollars more than did the runner-up. Those reinvested dollars must earn their keep.
+Some years, the gains in underlying earning power we achieve will be minor; very occasionally, the
+cash register will ring loud. Charlie and I have no magic plan to add earnings except to dream big and to be
+prepared mentally and financially to act fast when opportunities present themselves. Every decade or so, dark
+clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it’s
+imperative that we rush outdoors carrying washtubs, not teaspoons. And that we will do.
+I earlier described our gradual shift from a company obtaining most of its gains from investment
+activities to one that grows in value by owning businesses. Launching that transition, we took baby steps –
+making small acquisitions whose impact on Berkshire’s profits was dwarfed by our gains from marketable
+securities. Despite that cautious approach, I made one particularly egregious error, acquiring Dexter Shoe for
+$434 million in 1993. Dexter’s value promptly went to zero. The story gets worse: I used stock for the purchase,
+giving the sellers 25,203 shares of Berkshire that at yearend 2016 were worth more than $6 billion.
+That wreck was followed by three key happenings – two positive, one negative – that set us firmly on
+our present course. At the beginning of 1996, we acquired the half of GEICO we didn’t already own, a cash
+transaction that changed our holding from a portfolio investment into a wholly-owned operating business.
+GEICO, with its almost unlimited potential, quickly became the centerpiece around which we built what I believe
+is now the world’s premier property/casualty business.
+Unfortunately, I followed the GEICO purchase by foolishly using Berkshire stock – a boatload of
+stock – to buy General Reinsurance in late 1998. After some early problems, General Re has become a fine
+insurance operation that we prize. It was, nevertheless, a terrible mistake on my part to issue 272,200 shares of
+Berkshire in buying General Re, an act that increased our outstanding shares by a whopping 21.8%. My error
+caused Berkshire shareholders to give far more than they received (a practice that – despite the Biblical
+endorsement – is far from blessed when you are buying businesses).
+Early in 2000, I atoned for that folly by buying 76% (since grown to 90%) of MidAmerican Energy, a
+brilliantly-managed utility business that has delivered us many large opportunities to make profitable and
+socially-useful investments. The MidAmerican cash purchase – I was learning – firmly launched us on our
+present course of (1) continuing to build our insurance operation; (2) energetically acquiring large and diversified
+non-insurance businesses and (3) largely making our deals from internally-generated cash. (Today, I would rather
+prep for a colonoscopy than issue Berkshire shares.)
+Our portfolio of bonds and stocks, de-emphasized though it is, has continued in the post-1998 period to
+grow and to deliver us hefty capital gains, interest, and dividends. Those portfolio earnings have provided us
+major help in financing the purchase of businesses. Though unconventional, Berkshire’s two-pronged approach
+to capital allocation gives us a real edge.
+
+4
+
+Here’s our financial record since 1999, when the redirection of our business began in earnest. During
+the 18-year period covered, Berkshire’s outstanding shares grew by only 8.3%, with most of the increase
+occurring when we purchased BNSF. That, I’m happy to say, was one issuance of stock that made good sense.
+After-Tax Earnings
+(in billions of dollars)
+
+Year
+
+Operations (1)
+
+Capital
+Gains (2)
+
+Year
+
+Operations (1)
+
+Capital
+Gains (2)
+
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+
+0.67
+0.94
+(0.13)
+3.72
+5.42
+5.05
+5.00
+9.31
+9.63
+
+0.89
+2.39
+0.92
+0.57
+2.73
+2.26
+3.53
+1.71
+3.58
+
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+
+9.64
+7.57
+11.09
+10.78
+12.60
+15.14
+16.55
+17.36
+17.57
+
+(4.65)
+0.49
+1.87
+(0.52)
+2.23
+4.34
+3.32
+6.73
+6.50
+
+(1) Including interest and dividends from investments, but excluding capital gains or losses.
+(2) In very large part, this tabulation includes only realized capital gains or losses. Unrealized gains and
+losses are also included, however, when GAAP requires that treatment.
+Our expectation is that investment gains will continue to be substantial – though totally random as to
+timing – and that these will supply significant funds for business purchases. Concurrently, Berkshire’s superb
+corps of operating CEOs will focus on increasing earnings at the individual businesses they manage, sometimes
+helping them to grow by making bolt-on acquisitions. By our avoiding the issuance of Berkshire stock, any
+improvement in earnings will translate into equivalent per-share gains.
+************
+Our efforts to materially increase the normalized earnings of Berkshire will be aided – as they have been
+throughout our managerial tenure – by America’s economic dynamism. One word sums up our country’s
+achievements: miraculous. From a standing start 240 years ago – a span of time less than triple my days on
+earth – Americans have combined human ingenuity, a market system, a tide of talented and ambitious
+immigrants, and the rule of law to deliver abundance beyond any dreams of our forefathers.
+You need not be an economist to understand how well our system has worked. Just look around you.
+See the 75 million owner-occupied homes, the bountiful farmland, the 260 million vehicles, the hyper-productive
+factories, the great medical centers, the talent-filled universities, you name it – they all represent a net gain for
+Americans from the barren lands, primitive structures and meager output of 1776. Starting from scratch, America
+has amassed wealth totaling $90 trillion.
+
+5
+
+It’s true, of course, that American owners of homes, autos and other assets have often borrowed heavily

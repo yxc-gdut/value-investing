@@ -1,0 +1,167 @@
+
+7,002
+833
+2,300
+
+6,657
+729
+2,135
+
+6,000
+623
+2,005
+
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 3,869
+
+$ 3,793
+
+$ 3,372
+
+13
+
+Manufacturing, Service and Retailing Operations
+Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet
+and earnings statement for the entire group.
+Balance Sheet 12/31/14 (in millions)
+Assets
+
+Liabilities and Equity
+
+Cash and equivalents . . . . . . . . . . . . . . . . . . . . . .
+Accounts and notes receivable . . . . . . . . . . . . .
+
+$ 5,765
+8,264
+
+Notes payable . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other current liabilities . . . . . . . . . . . . . . . . .
+
+Inventory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other current assets . . . . . . . . . . . . . . . . . . . . . . .
+
+10,236
+1,117
+
+Total current liabilities . . . . . . . . . . . . . . . . . .
+
+10,699
+
+Total current assets . . . . . . . . . . . . . . . . . . . . . . . .
+
+25,382
+
+Goodwill and other intangibles . . . . . . . . . . . .
+Fixed assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+28,107
+13,806
+3,793
+
+Deferred taxes . . . . . . . . . . . . . . . . . . . . . . . . . .
+Term debt and other liabilities . . . . . . . . . . .
+Non-controlling interests . . . . . . . . . . . . . . . .
+Berkshire equity . . . . . . . . . . . . . . . . . . . . . . . .
+
+3,801
+4,269
+492
+51,827
+
+$71,088
+
+$
+
+965
+9,734
+
+$71,088
+
+Earnings Statement (in millions)
+2014
+
+2013*
+
+2012*
+
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$97,689
+90,788
+109
+
+$93,472
+87,208
+104
+
+$81,432
+75,734
+112
+
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and non-controlling interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6,792
+2,324
+
+6,160
+2,283
+
+5,586
+2,229
+
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 4,468
+
+$ 3,877
+
+$ 3,357
+
+*Earnings for 2012 and 2013 have been restated to exclude Marmon’s leasing operations, which are now included in
+the Finance and Financial Products section.
+Our income and expense data conforming to GAAP is on page 49. In contrast, the operating expense
+figures above are non-GAAP and exclude some purchase-accounting items (primarily the amortization of certain
+intangible assets). We present the data in this manner because Charlie and I believe the adjusted numbers more
+accurately reflect the true economic expenses and profits of the businesses aggregated in the table than do GAAP
+figures.
+I won’t explain all of the adjustments – some are tiny and arcane – but serious investors should understand
+the disparate nature of intangible assets. Some truly deplete over time, while others in no way lose value. For
+software, as a big example, amortization charges are very real expenses. The concept of making charges against
+other intangibles, such as the amortization of customer relationships, however, arises through purchase-accounting
+rules and clearly does not reflect reality. GAAP accounting draws no distinction between the two types of charges.
+Both, that is, are recorded as expenses when earnings are calculated – even though from an investor’s viewpoint
+they could not be more different.
+
+14
+
+In the GAAP-compliant figures we show on page 49, amortization charges of $1.15 billion have been
+deducted as expenses. We would call about 20% of these “real,” the rest not. The “non-real” charges, once nonexistent at Berkshire, have become significant because of the many acquisitions we have made. Non-real
+amortization charges will almost certainly rise further as we acquire more companies.
+The GAAP-compliant table on page 67 gives you the current status of our intangible assets. We now have
+$7.4 billion left to amortize, of which $4.1 billion will be charged over the next five years. Eventually, of course,
+every dollar of non-real costs becomes entirely charged off. When that happens, reported earnings increase even if
+true earnings are flat.
+Depreciation charges, we want to emphasize, are different: Every dime of depreciation expense we report
+is a real cost. That’s true, moreover, at most other companies. When CEOs tout EBITDA as a valuation guide, wire
+them up for a polygraph test.
+Our public reports of earnings will, of course, continue to conform to GAAP. To embrace reality, however,
+you should remember to add back most of the amortization charges we report.
+************
+To get back to our many manufacturing, service and retailing operations, they sell products ranging from
+lollipops to jet airplanes. Some of this sector’s businesses, measured by earnings on unleveraged net tangible assets,
+enjoy terrific economics, producing profits that run from 25% after-tax to far more than 100%. Others generate good
+returns in the area of 12% to 20%. A few, however, have very poor returns, the result of some serious mistakes I
+made in my job of capital allocation. I was not misled: I simply was wrong in my evaluation of the economic
+dynamics of the company or the industry in which it operates.
+Fortunately, my blunders normally involved relatively small acquisitions. Our large buys have generally
+worked out well and, in a few cases, more than well. I have not, nonetheless, made my last mistake in purchasing
+either businesses or stocks. Not everything works out as planned.
+Viewed as a single entity, the companies in this group are an excellent business. They employed an average
+of $24 billion of net tangible assets during 2014 and, despite their holding large quantities of excess cash and using
+little leverage, earned 18.7% after-tax on that capital.
+Of course, a business with terrific economics can be a bad investment if it is bought for too high a price. We

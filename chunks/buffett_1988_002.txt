@@ -1,0 +1,189 @@
+attempt to lump major business activities in ways that aid 
+analysis but do not swamp you with detail.  Our goal is to give 
+you important information in a form that we would wish to get it 
+if our roles were reversed.
+
+     On pages 41-47 we show separate combined balance sheets and 
+earnings statements for: (1) our subsidiaries engaged in finance-
+type operations, which are Mutual Savings and Scott Fetzer 
+Financial; (2) our insurance operations, with their major 
+investment positions itemized; (3) our manufacturing, publishing 
+and retailing businesses, leaving aside certain non-operating 
+assets and purchase-price accounting adjustments; and (4) an all-
+other category that includes the non-operating assets (primarily 
+marketable securities) held by the companies in (3) as well as 
+various assets and debts of the Wesco and Berkshire parent 
+companies.
+
+     If you combine the earnings and the net worths of these four 
+segments, you will derive totals matching those shown on our GAAP 
+statements.  However, we want to emphasize that our new 
+presentation does not fall within the purview of our auditors, 
+who in no way bless it. (In fact, they may be horrified; I dont 
+want to ask.)
+
+     I referred earlier to a major change in GAAP that is 
+expected in 1990.  This change relates to the calculation of 
+deferred taxes, and is both complicated and controversial - so 
+much so that its imposition, originally scheduled for 1989, was 
+postponed for a year.
+
+     When implemented, the new rule will affect us in various 
+ways.  Most important, we will be required to change the way we 
+calculate our liability for deferred taxes on the unrealized 
+appreciation of stocks held by our insurance companies.
+
+     Right now, our liability is layered.  For the unrealized 
+appreciation that dates back to 1986 and earlier years, $1.2 
+billion, we have booked a 28% tax liability.  For the unrealized 
+appreciation built up since, $600 million, the tax liability has 
+been booked at 34%.  The difference reflects the increase in tax 
+rates that went into effect in 1987.
+
+     It now appears, however, that the new accounting rule will 
+require us to establish the entire liability at 34% in 1990, 
+taking the charge against our earnings.  Assuming no change in 
+tax rates by 1990, this step will reduce our earnings in that 
+year (and thereby our reported net worth) by $71 million.  The 
+proposed rule will also affect other items on our balance sheet, 
+but these changes will have only a minor impact on earnings and 
+net worth.
+
+     We have no strong views about the desirability of this 
+change in calculation of deferred taxes.  We should point out, 
+however, that neither a 28% nor a 34% tax liability precisely 
+depicts economic reality at Berkshire since we have no plans to 
+sell the stocks in which we have the great bulk of our gains.
+
+     To those of you who are uninterested in accounting, I 
+apologize for this dissertation.  I realize that many of you do 
+not pore over our figures, but instead hold Berkshire primarily 
+because you know that: (1) Charlie and I have the bulk of our 
+money in Berkshire; (2) we intend to run things so that your 
+gains or losses are in direct proportion to ours; and (3) the 
+record has so far been satisfactory.  There is nothing 
+necessarily wrong with this kind of faith approach to 
+investing.  Other shareholders, however, prefer an analysis 
+approach and we want to supply the information they need.  In our 
+own investing, we search for situations in which both approaches 
+give us the same answer.
+Sources of Reported Earnings
+In addition to supplying you with our new four-sector 
+accounting material, we will continue to list the major sources 
+of Berkshires reported earnings just as we have in the past.
+
+     In the following table, amortization of Goodwill and other 
+major purchase-price accounting adjustments are not charged 
+against the specific businesses to which they apply but are 
+instead aggregated and shown separately.  This procedure lets you 
+view the earnings of our businesses as they would have been 
+reported had we not purchased them.  Ive explained in past 
+reports why this form of presentation seems to us to be more 
+useful to investors and managers than the standard GAAP 
+presentation, which makes purchase-price adjustments on a 
+business-by-business basis.  The total net earnings we show in 
+the table are, of course, identical to the GAAP total in our 
+audited financial statements.
+
+     Further information about these businesses is given in the 
+Business Segment section on pages 32-34, and in the Managements 
+Discussion section on pages 36-40.  In these sections you also 
+will find our segment earnings reported on a GAAP basis.  For 
+information on Wescos businesses, I urge you to read Charlie 
+Mungers letter, which starts on page 52.  It contains the best 
+description I have seen of the events that produced the present 
+savings-and-loan crisis.  Also, take special note of Dave 
+Hillstroms performance at Precision Steel Warehouse, a Wesco 
+subsidiary.  Precision operates in an extremely competitive 
+industry, yet Dave consistently achieves good returns on invested 
+capital.  Though data is lacking to prove the point, I think it 
+is likely that his performance, both in 1988 and years past, 
+would rank him number one among his peers.
+(000s omitted) 
+                                 ------------------------------------------
+                                                         Berkshire's Share 
+                                                          of Net Earnings 
+                                                         (after taxes and 
+                                   Pre-Tax Earnings     minority interests)
+                                 -------------------    -------------------
+                                   1988       1987        1988       1987
+--------   --------    --------   --------
+Operating Earnings:
+  Insurance Group:
+    Underwriting ............... $(11,081)  $(55,429)   $ (1,045)  $(20,696)
+    Net Investment Income ......  231,250    152,483     197,779    136,658
+  Buffalo News .................   42,429     39,410      25,462     21,304
+  Fechheimer ...................   14,152     13,332       7,720      6,580
+  Kirby ........................   26,891     22,408      17,842     12,891
+  Nebraska Furniture Mart ......   18,439     16,837       9,099      7,554
+  Scott Fetzer 
+     Manufacturing Group .......   28,542     30,591      17,640     17,555
+  Sees Candies ................   32,473     31,693      19,671     17,363
+  Wesco - other than Insurance     16,133      6,209      10,650      4,978
+  World Book ...................   27,890     25,745      18,021     15,136
+  Amortization of Goodwill .....   (2,806)    (2,862)     (2,806)    (2,862)
+  Other Purchase-Price 
+     Accounting Charges ........   (6,342)    (5,546)     (7,340)    (6,544)
+  Interest on Debt* ............  (35,613)   (11,474)    (23,212)    (5,905)
+  Shareholder-Designated 
+     Contributions .............   (4,966)    (4,938)     (3,217)    (2,963)
+  Other ........................   41,059     23,217      27,177     13,697
+                                 --------   --------    --------   --------
+Operating Earnings .............  418,450    281,676     313,441    214,746
+Sales of Securities ............  131,671     28,838      85,829     19,806
+                                 --------   --------    --------   --------
+Total Earnings - All Entities .. $550,121   $310,514    $399,270   $234,552
+*Excludes interest expense of Scott Fetzer Financial Group.
+The earnings achieved by our operating businesses are 
+superb, whether measured on an absolute basis or against those of 
+their competitors.  For that we thank our operating managers: You 
+and I are fortunate to be associated with them.
+
+     At Berkshire, associations like these last a long time.  We 
+do not remove superstars from our lineup merely because they have 
+attained a specified age - whether the traditional 65, or the 95 
+reached by Mrs. B on the eve of Hanukkah in 1988.  Superb 
+managers are too scarce a resource to be discarded simply because 
+a cake gets crowded with candles.  Moreover, our experience with 
+newly-minted MBAs has not been that great.  Their academic 
+records always look terrific and the candidates always know just 
+what to say; but too often they are short on personal commitment 
+to the company and general business savvy.  Its difficult to 
+teach a new dog old tricks.
+
+     Heres an update on our major non-insurance operations:
+o
+At Nebraska Furniture Mart, Mrs. B (Rose Blumkin) and her 
+cart roll on and on.  Shes been the boss for 51 years, having 
+started the business at 44 with $500. (Think what she would have 
+done with $1,000!) With Mrs. B, old age will always be ten years 
+away.
+
+     The Mart, long the largest home furnishings store in the 
+country, continues to grow.  In the fall, the store opened a 
+detached 20,000 square foot Clearance Center, which expands our 
+ability to offer bargains in all price ranges.
+
+     Recently Dillards, one of the most successful department 
+store operations in the country, entered the Omaha market.  In 
+many of its stores, Dillards runs a full furniture department, 
+undoubtedly doing well in this line.  Shortly before opening in 
+Omaha, however, William Dillard, chairman of the company, 
+announced that his new store would not sell furniture.  Said he, 
+referring to NFM: We dont want to compete with them.  We think 
+they are about the best there is.
+
+     At the Buffalo News we extol the value of advertising, and 
+our policies at NFM prove that we practice what we preach.  Over 
+the past three years NFM has been the largest ROP advertiser in 
+the Omaha World-Herald. (ROP advertising is the kind printed in 
+the paper, as contrasted to the preprinted-insert kind.) In no 
+other major market, to my knowledge, is a home furnishings 
+operation the leading customer of the newspaper.  At times, we 
+also run large ads in papers as far away as Des Moines, Sioux 
+City and Kansas City - always with good results.  It truly does 
+pay to advertise, as long as you have something worthwhile to 
+offer.
+
+     Mrs. Bs son, Louie, and his boys, Ron and Irv, complete the 
+winning Blumkin team.  Its a joy to work with this family.  All 

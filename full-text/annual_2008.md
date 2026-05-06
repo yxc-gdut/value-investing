@@ -1,0 +1,7055 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2008
+type: full
+url: https://www.berkshirehathaway.com/2008ar/2008ar.html
+---
+
+BERKSHIRE HATHAWAY INC.
+2008
+ANNUAL REPORT
+Business Activities
+Berkshire Hathaway Inc. is a holding company owning subsidiaries that engage in a number of diverse
+business activities including property and casualty insurance and reinsurance, utilities and energy, finance,
+manufacturing, services and retailing. Included in the group of subsidiaries that underwrite property and casualty
+insurance and reinsurance is GEICO, the third largest auto insurer in the United States and two of the largest
+reinsurers in the world, General Re and the Berkshire Hathaway Reinsurance Group. Other subsidiaries that
+underwrite property and casualty insurance include National Indemnity Company, Medical Protective Company,
+Applied Underwriters, U.S. Liability Insurance Company, Central States Indemnity Company, Kansas Bankers
+Surety, Cypress Insurance Company, BoatU.S. and several other subsidiaries referred to as the
+“Homestate Companies.”
+MidAmerican Energy Holdings Company (“MidAmerican”) is an international energy holding company
+owning a wide variety of operating companies engaged in the generation, transmission and distribution of energy.
+Among MidAmerican’s operating energy companies are Northern Electric and Yorkshire Electricity;
+MidAmerican Energy Company; Pacific Power and Rocky Mountain Power; and Kern River Gas Transmission
+Company and Northern Natural Gas. In addition, MidAmerican owns HomeServices of America, a real estate
+brokerage firm. Berkshire’s finance and financial products businesses primarily engage in proprietary investing
+strategies (BH Finance), commercial and consumer lending (Berkshire Hathaway Credit Corporation and
+Clayton Homes) and transportation equipment and furniture leasing (XTRA and CORT). McLane Company is a
+wholesale distributor of groceries and nonfood items to convenience stores, wholesale clubs, mass
+merchandisers, quick service restaurants and others. The Marmon Group is an international association of
+approximately 130 manufacturing and service businesses that operate independently within diverse business
+sectors. Shaw Industries is the world’s largest manufacturer of tufted broadloom carpet.
+Numerous business activities are conducted through Berkshire’s other manufacturing, services and retailing
+subsidiaries. Benjamin Moore is a formulator, manufacturer and retailer of architectural and industrial coatings.
+Johns Manville is a leading manufacturer of insulation and building products. Acme Building Brands is a
+manufacturer of face brick and concrete masonry products. MiTek Inc. produces steel connector products and
+engineering software for the building components market. Fruit of the Loom, Russell, Vanity Fair, Garan,
+Fechheimer, H.H. Brown Shoe Group and Justin Brands manufacture, license and distribute apparel and
+footwear under a variety of brand names. FlightSafety International provides training to aircraft and ship
+operators. NetJets provides fractional ownership programs for general aviation aircraft. Nebraska Furniture
+Mart, R.C. Willey Home Furnishings, Star Furniture and Jordan’s Furniture are retailers of home furnishings.
+Borsheims, Helzberg Diamond Shops and Ben Bridge Jeweler are retailers of fine jewelry.
+In addition, other manufacturing, service and retail businesses include: Buffalo News, a publisher of a daily
+and Sunday newspaper; See’s Candies, a manufacturer and seller of boxed chocolates and other confectionery
+products; Scott Fetzer, a diversified manufacturer and distributor of commercial and industrial products; Albecca,
+a designer, manufacturer and distributor of high-quality picture framing products; CTB International, a
+manufacturer of equipment for the livestock and agricultural industries; International Dairy Queen, a licensor
+and service provider to about 5,700 stores that offer prepared dairy treats and food; The Pampered Chef, the
+premier direct seller of kitchen tools in the U.S.; Forest River, a leading manufacturer of leisure vehicles in the
+U.S.; Business Wire, the leading global distributor of corporate news, multimedia and regulatory filings; Iscar
+Metalworking Companies, an industry leader in the metal cutting tools business; TTI, Inc., a leading distributor of
+electronic components and Richline Group, a leading jewelry manufacturer.
+Operating decisions for the various Berkshire businesses are made by managers of the business units.
+Investment decisions and all other capital allocation decisions are made for Berkshire and its subsidiaries by
+Warren E. Buffett, in consultation with Charles T. Munger. Mr. Buffett is Chairman and Mr. Munger is Vice
+Chairman of Berkshire’s Board of Directors.
+************
+BERKSHIRE HATHAWAY INC.
+2008 ANNUAL REPORT
+TABLE OF CONTENTS
+Business Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Inside Front Cover
+Corporate Performance vs. the S&P 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+Chairman’s Letter* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+Acquisition Criteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Management’s Report on Internal Control Over Financial Reporting . . . . . . . . . . . . . 24
+Report of Independent Registered Public Accounting Firm . . . . . . . . . . . . . . . . . . . . . 25
+Selected Financial Data For The Past Five Years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Management’s Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Owner’s Manual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+Common Stock Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
+Operating Companies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+Directors and Officers of the Company . . . . . . . . . . . . . . . . . . . . . . . Inside Back Cover
+*Copyright © 2009 By Warren E. Buffett
+All Rights Reserved
+Berkshire’s Corporate Performance vs. the S&P 500
+Year
+1965 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1966 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1967 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1974 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1976 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1977 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1981 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1982 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1983 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1984 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1985 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1991 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1993 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Compounded Annual Gain – 1965-2008 . . . . . . . . . . . . . . . . . . . . . . .
+Overall Gain – 1964-2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Annual Percentage Change
+in Per-Share
+in S&P 500
+Book Value of
+with Dividends
+Berkshire
+Included
+(1)
+(2)
+23.8
+10.0
+20.3
+(11.7)
+11.0
+30.9
+19.0
+11.0
+16.2
+(8.4)
+12.0
+3.9
+16.4
+14.6
+21.7
+18.9
+4.7
+(14.8)
+5.5
+(26.4)
+21.9
+37.2
+59.3
+23.6
+31.9
+(7.4)
+24.0
+6.4
+35.7
+18.2
+19.3
+32.3
+31.4
+(5.0)
+40.0
+21.4
+32.3
+22.4
+13.6
+6.1
+48.2
+31.6
+26.1
+18.6
+19.5
+5.1
+20.1
+16.6
+44.4
+31.7
+7.4
+(3.1)
+39.6
+30.5
+20.3
+7.6
+14.3
+10.1
+13.9
+1.3
+43.1
+37.6
+31.8
+23.0
+34.1
+33.4
+48.3
+28.6
+.5
+21.0
+6.5
+(9.1)
+(6.2)
+(11.9)
+10.0
+(22.1)
+21.0
+28.7
+10.5
+10.9
+6.4
+4.9
+18.4
+15.8
+11.0
+5.5
+(9.6)
+(37.0)
+20.3%
+362,319%
+8.9%
+4,276%
+Relative
+Results
+(1)-(2)
+13.8
+32.0
+(19.9)
+8.0
+24.6
+8.1
+1.8
+2.8
+19.5
+31.9
+(15.3)
+35.7
+39.3
+17.6
+17.5
+(13.0)
+36.4
+18.6
+9.9
+7.5
+16.6
+7.5
+14.4
+3.5
+12.7
+10.5
+9.1
+12.7
+4.2
+12.6
+5.5
+8.8
+.7
+19.7
+(20.5)
+15.6
+5.7
+32.1
+(7.7)
+(.4)
+1.5
+2.6
+5.5
+27.4
+11.4
+Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended
+12/31.
+Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market
+rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results
+through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using
+the numbers originally reported.
+The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire
+were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500
+in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index
+showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
+2
+BERKSHIRE HATHAWAY INC.
+To the Shareholders of Berkshire Hathaway Inc.:
+Our decrease in net worth during 2008 was $11.5 billion, which reduced the per-share book value of
+both our Class A and Class B stock by 9.6%. Over the last 44 years (that is, since present management took over)
+book value has grown from $19 to $70,530, a rate of 20.3% compounded annually.*
+The table on the preceding page, recording both the 44-year performance of Berkshire’s book value
+and the S&P 500 index, shows that 2008 was the worst year for each. The period was devastating as well for
+corporate and municipal bonds, real estate and commodities. By yearend, investors of all stripes were bloodied
+and confused, much as if they were small birds that had strayed into a badminton game.
+As the year progressed, a series of life-threatening problems within many of the world’s great financial
+institutions was unveiled. This led to a dysfunctional credit market that in important respects soon turned
+non-functional. The watchword throughout the country became the creed I saw on restaurant walls when I was
+young: “In God we trust; all others pay cash.”
+By the fourth quarter, the credit crisis, coupled with tumbling home and stock prices, had produced a
+paralyzing fear that engulfed the country. A freefall in business activity ensued, accelerating at a pace that I have
+never before witnessed. The U.S. – and much of the world – became trapped in a vicious negative-feedback
+cycle. Fear led to business contraction, and that in turn led to even greater fear.
+This debilitating spiral has spurred our government to take massive action. In poker terms, the Treasury
+and the Fed have gone “all in.” Economic medicine that was previously meted out by the cupful has recently
+been dispensed by the barrel. These once-unthinkable dosages will almost certainly bring on unwelcome
+aftereffects. Their precise nature is anyone’s guess, though one likely consequence is an onslaught of inflation.
+Moreover, major industries have become dependent on Federal assistance, and they will be followed by cities
+and states bearing mind-boggling requests. Weaning these entities from the public teat will be a political
+challenge. They won’t leave willingly.
+Whatever the downsides may be, strong and immediate action by government was essential last year if
+the financial system was to avoid a total breakdown. Had one occurred, the consequences for every area of our
+economy would have been cataclysmic. Like it or not, the inhabitants of Wall Street, Main Street and the various
+Side Streets of America were all in the same boat.
+Amid this bad news, however, never forget that our country has faced far worse travails in the past. In
+the 20th Century alone, we dealt with two great wars (one of which we initially appeared to be losing); a dozen or
+so panics and recessions; virulent inflation that led to a 21 1⁄ 2% prime rate in 1980; and the Great Depression of
+the 1930s, when unemployment ranged between 15% and 25% for many years. America has had no shortage of
+challenges.
+Without fail, however, we’ve overcome them. In the face of those obstacles – and many others – the
+real standard of living for Americans improved nearly seven-fold during the 1900s, while the Dow Jones
+Industrials rose from 66 to 11,497. Compare the record of this period with the dozens of centuries during which
+humans secured only tiny gains, if any, in how they lived. Though the path has not been smooth, our economic
+system has worked extraordinarily well over time. It has unleashed human potential as no other system has, and it
+will continue to do so. America’s best days lie ahead.
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are
+1/30th of those shown for A.
+3
+Take a look again at the 44-year table on page 2. In 75% of those years, the S&P stocks recorded a
+gain. I would guess that a roughly similar percentage of years will be positive in the next 44. But neither Charlie
+Munger, my partner in running Berkshire, nor I can predict the winning and losing years in advance. (In our
+usual opinionated view, we don’t think anyone else can either.) We’re certain, for example, that the economy will
+be in shambles throughout 2009 – and, for that matter, probably well beyond – but that conclusion does not tell
+us whether the stock market will rise or fall.
+In good years and bad, Charlie and I simply focus on four goals:
+(1)
+maintaining Berkshire’s Gibraltar-like financial position, which features huge amounts of
+excess liquidity, near-term obligations that are modest, and dozens of sources of earnings
+and cash;
+(2)
+widening the “moats” around our operating businesses that give them durable competitive
+advantages;
+(3)
+acquiring and developing new and varied streams of earnings;
+(4)
+expanding and nurturing the cadre of outstanding operating managers who, over the years,
+have delivered Berkshire exceptional results.
+Berkshire in 2008
+Most of the Berkshire businesses whose results are significantly affected by the economy earned below
+their potential last year, and that will be true in 2009 as well. Our retailers were hit particularly hard, as were our
+operations tied to residential construction. In aggregate, however, our manufacturing, service and retail
+businesses earned substantial sums and most of them – particularly the larger ones – continue to strengthen their
+competitive positions. Moreover, we are fortunate that Berkshire’s two most important businesses – our
+insurance and utility groups – produce earnings that are not correlated to those of the general economy. Both
+businesses delivered outstanding results in 2008 and have excellent prospects.
+As predicted in last year’s report, the exceptional underwriting profits that our insurance businesses
+realized in 2007 were not repeated in 2008. Nevertheless, the insurance group delivered an underwriting gain for
+the sixth consecutive year. This means that our $58.5 billion of insurance “float” – money that doesn’t belong to
+us but that we hold and invest for our own benefit – cost us less than zero. In fact, we were paid $2.8 billion to
+hold our float during 2008. Charlie and I find this enjoyable.
+Over time, most insurers experience a substantial underwriting loss, which makes their economics far
+different from ours. Of course, we too will experience underwriting losses in some years. But we have the best
+group of managers in the insurance business, and in most cases they oversee entrenched and valuable franchises.
+Considering these strengths, I believe that we will earn an underwriting profit over the years and that our float
+will therefore cost us nothing. Our insurance operation, the core business of Berkshire, is an economic
+powerhouse.
+Charlie and I are equally enthusiastic about our utility business, which had record earnings last year
+and is poised for future gains. Dave Sokol and Greg Abel, the managers of this operation, have achieved results
+unmatched elsewhere in the utility industry. I love it when they come up with new projects because in this
+capital-intensive business these ventures are often large. Such projects offer Berkshire the opportunity to put out
+substantial sums at decent returns.
+4
+Things also went well on the capital-allocation front last year. Berkshire is always a buyer of both
+businesses and securities, and the disarray in markets gave us a tailwind in our purchases. When investing,
+pessimism is your friend, euphoria the enemy.
+In our insurance portfolios, we made three large investments on terms that would be unavailable in
+normal markets. These should add about $1 1⁄ 2 billion pre-tax to Berkshire’s annual earnings and offer
+possibilities for capital gains as well. We also closed on our Marmon acquisition (we own 64% of the company
+now and will purchase its remaining stock over the next six years). Additionally, certain of our subsidiaries made
+“tuck-in” acquisitions that will strengthen their competitive positions and earnings.
+That’s the good news. But there’s another less pleasant reality: During 2008 I did some dumb things in
+investments. I made at least one major mistake of commission and several lesser ones that also hurt. I will tell
+you more about these later. Furthermore, I made some errors of omission, sucking my thumb when new facts
+came in that should have caused me to re-examine my thinking and promptly take action.
+Additionally, the market value of the bonds and stocks that we continue to hold suffered a significant
+decline along with the general market. This does not bother Charlie and me. Indeed, we enjoy such price declines
+if we have funds available to increase our positions. Long ago, Ben Graham taught me that “Price is what you
+pay; value is what you get.” Whether we’re talking about socks or stocks, I like buying quality merchandise
+when it is marked down.
+Yardsticks
+Berkshire has two major areas of value. The first is our investments: stocks, bonds and cash
+equivalents. At yearend those totaled $122 billion (not counting the investments held by our finance and utility
+operations, which we assign to our second bucket of value). About $58.5 billion of that total is funded by our
+insurance float.
+Berkshire’s second component of value is earnings that come from sources other than investments and
+insurance. These earnings are delivered by our 67 non-insurance companies, itemized on page 96. We exclude
+our insurance earnings from this calculation because the value of our insurance operation comes from the
+investable funds it generates, and we have already included this factor in our first bucket.
+In 2008, our investments fell from $90,343 per share of Berkshire (after minority interest) to $77,793, a
+decrease that was caused by a decline in market prices, not by net sales of stocks or bonds. Our second segment
+of value fell from pre-tax earnings of $4,093 per Berkshire share to $3,921 (again after minority interest).
+Both of these performances are unsatisfactory. Over time, we need to make decent gains in each area if
+we are to increase Berkshire’s intrinsic value at an acceptable rate. Going forward, however, our focus will be on
+the earnings segment, just as it has been for several decades. We like buying underpriced securities, but we like
+buying fairly-priced operating businesses even more.
+Now, let’s take a look at the four major operating sectors of Berkshire. Each of these has vastly
+different balance sheet and income account characteristics. Therefore, lumping them together, as is done in
+standard financial statements, impedes analysis. So we’ll present them as four separate businesses, which is how
+Charlie and I view them.
+5
+Regulated Utility Business
+Berkshire has an 87.4% (diluted) interest in MidAmerican Energy Holdings, which owns a wide
+variety of utility operations. The largest of these are (1) Yorkshire Electricity and Northern Electric, whose
+3.8 million end users make it the U.K.’s third largest distributor of electricity; (2) MidAmerican Energy, which
+serves 723,000 electric customers, primarily in Iowa; (3) Pacific Power and Rocky Mountain Power, serving
+about 1.7 million electric customers in six western states; and (4) Kern River and Northern Natural pipelines,
+which carry about 9% of the natural gas consumed in the U.S.
+Our partners in ownership of MidAmerican are its two terrific managers, Dave Sokol and Greg Abel,
+and my long-time friend, Walter Scott. It’s unimportant how many votes each party has; we make major moves
+only when we are unanimous in thinking them wise. Nine years of working with Dave, Greg and Walter have
+reinforced my original belief: Berkshire couldn’t have better partners.
+Somewhat incongruously, MidAmerican also owns the second largest real estate brokerage firm in the
+U.S., HomeServices of America. This company operates through 21 locally-branded firms that have 16,000
+agents. Last year was a terrible year for home sales, and 2009 looks no better. We will continue, however, to
+acquire quality brokerage operations when they are available at sensible prices.
+Here are some key figures on MidAmerican’s operations:
+Earnings (in millions)
+2008
+2007
+U.K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Iowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Western utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+HomeServices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+339
+425
+703
+595
+(45)
+186
+$
+337
+412
+692
+473
+42
+130
+Operating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Constellation Energy* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest, other than to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest on Berkshire junior debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,203
+1,092
+(332)
+(111)
+(1,002)
+2,086
+–
+(312)
+(108)
+(477)
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 1,850
+$ 1,189
+Earnings applicable to Berkshire** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Debt owed to others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Debt owed to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 1,704
+19,145
+1,087
+$ 1,114
+19,002
+821
+*Consists of a breakup fee of $175 million and a profit on our investment of $917 million.
+**Includes interest earned by Berkshire (net of related income taxes) of $72 in 2008 and $70 in 2007.
+MidAmerican’s record in operating its regulated electric utilities and natural gas pipelines is truly
+outstanding. Here’s some backup for that claim.
+Our two pipelines, Kern River and Northern Natural, were both acquired in 2002. A firm called Mastio
+regularly ranks pipelines for customer satisfaction. Among the 44 rated, Kern River came in 9th when we
+purchased it and Northern Natural ranked 39th. There was work to do.
+In Mastio’s 2009 report, Kern River ranked 1st and Northern Natural 3rd. Charlie and I couldn’t be more
+proud of this performance. It came about because hundreds of people at each operation committed themselves to
+a new culture and then delivered on their commitment.
+Achievements at our electric utilities have been equally impressive. In 1995, MidAmerican became the
+major provider of electricity in Iowa. By judicious planning and a zeal for efficiency, the company has kept
+electric prices unchanged since our purchase and has promised to hold them steady through 2013.
+6
+MidAmerican has maintained this extraordinary price stability while making Iowa number one among
+all states in the percentage of its generation capacity that comes from wind. Since our purchase, MidAmerican’s
+wind-based facilities have grown from zero to almost 20% of total capacity.
+Similarly, when we purchased PacifiCorp in 2006, we moved aggressively to expand wind generation.
+Wind capacity was then 33 megawatts. It’s now 794, with more coming. (Arriving at PacifiCorp, we found
+“wind” of a different sort: The company had 98 committees that met frequently. Now there are 28. Meanwhile,
+we generate and deliver considerably more electricity, doing so with 2% fewer employees.)
+In 2008 alone, MidAmerican spent $1.8 billion on wind generation at our two operations, and today the
+company is number one in the nation among regulated utilities in ownership of wind capacity. By the way,
+compare that $1.8 billion to the $1.1 billion of pre-tax earnings of PacifiCorp (shown in the table as “Western”)
+and Iowa. In our utility business, we spend all we earn, and then some, in order to fulfill the needs of our service
+areas. Indeed, MidAmerican has not paid a dividend since Berkshire bought into the company in early 2000. Its
+earnings have instead been reinvested to develop the utility systems our customers require and deserve. In
+exchange, we have been allowed to earn a fair return on the huge sums we have invested. It’s a great partnership
+for all concerned.
+************
+Our long-avowed goal is to be the “buyer of choice” for businesses – particularly those built and owned
+by families. The way to achieve this goal is to deserve it. That means we must keep our promises; avoid
+leveraging up acquired businesses; grant unusual autonomy to our managers; and hold the purchased companies
+through thick and thin (though we prefer thick and thicker).
+Our record matches our rhetoric. Most buyers competing against us, however, follow a different path.
+For them, acquisitions are “merchandise.” Before the ink dries on their purchase contracts, these operators are
+contemplating “exit strategies.” We have a decided advantage, therefore, when we encounter sellers who truly
+care about the future of their businesses.
+Some years back our competitors were known as “leveraged-buyout operators.” But LBO became a
+bad name. So in Orwellian fashion, the buyout firms decided to change their moniker. What they did not change,
+though, were the essential ingredients of their previous operations, including their cherished fee structures and
+love of leverage.
+Their new label became “private equity,” a name that turns the facts upside-down: A purchase of a
+business by these firms almost invariably results in dramatic reductions in the equity portion of the acquiree’s
+capital structure compared to that previously existing. A number of these acquirees, purchased only two to three
+years ago, are now in mortal danger because of the debt piled on them by their private-equity buyers. Much of
+the bank debt is selling below 70¢ on the dollar, and the public debt has taken a far greater beating. The privateequity firms, it should be noted, are not rushing in to inject the equity their wards now desperately need. Instead,
+they’re keeping their remaining funds very private.
+In the regulated utility field there are no large family-owned businesses. Here, Berkshire hopes to be
+the “buyer of choice” of regulators. It is they, rather than selling shareholders, who judge the fitness of
+purchasers when transactions are proposed.
+There is no hiding your history when you stand before these regulators. They can – and do – call their
+counterparts in other states where you operate and ask how you have behaved in respect to all aspects of the
+business, including a willingness to commit adequate equity capital.
+7
+When MidAmerican proposed its purchase of PacifiCorp in 2005, regulators in the six new states we
+would be serving immediately checked our record in Iowa. They also carefully evaluated our financing plans and
+capabilities. We passed this examination, just as we expect to pass future ones.
+There are two reasons for our confidence. First, Dave Sokol and Greg Abel are going to run any
+businesses with which they are associated in a first-class manner. They don’t know of any other way to operate.
+Beyond that is the fact that we hope to buy more regulated utilities in the future – and we know that our business
+behavior in jurisdictions where we are operating today will determine how we are welcomed by new jurisdictions
+tomorrow.
+Insurance
+Our insurance group has propelled Berkshire’s growth since we first entered the business in 1967. This
+happy result has not been due to general prosperity in the industry. During the 25 years ending in 2007, return on
+net worth for insurers averaged 8.5% versus 14.0% for the Fortune 500. Clearly our insurance CEOs have not
+had the wind at their back. Yet these managers have excelled to a degree Charlie and I never dreamed possible in
+the early days. Why do I love them? Let me count the ways.
+At GEICO, Tony Nicely – now in his 48th year at the company after joining it when he was 18 –
+continues to gobble up market share while maintaining disciplined underwriting. When Tony became CEO in
+1993, GEICO had 2.0% of the auto insurance market, a level at which the company had long been stuck. Now we
+have a 7.7% share, up from 7.2% in 2007.
+The combination of new business gains and an improvement in the renewal rate on existing business
+has moved GEICO into the number three position among auto insurers. In 1995, when Berkshire purchased
+control, GEICO was number seven. Now we trail only State Farm and Allstate.
+GEICO grows because it saves money for motorists. No one likes to buy auto insurance. But virtually
+everyone likes to drive. So, sensibly, drivers look for the lowest-cost insurance consistent with first-class service.
+Efficiency is the key to low cost, and efficiency is Tony’s specialty. Five years ago the number of policies per
+employee was 299. In 2008, the number was 439, a huge increase in productivity.
+As we view GEICO’s current opportunities, Tony and I feel like two hungry mosquitoes in a nudist
+camp. Juicy targets are everywhere. First, and most important, our new business in auto insurance is now
+exploding. Americans are focused on saving money as never before, and they are flocking to GEICO. In January
+2009, we set a monthly record – by a wide margin – for growth in policyholders. That record will last exactly 28
+days: As we go to press, it’s clear February’s gain will be even better.
+Beyond this, we are gaining ground in allied lines. Last year, our motorcycle policies increased by
+23.4%, which raised our market share from about 6% to more than 7%. Our RV and ATV businesses are also
+growing rapidly, albeit from a small base. And, finally, we recently began insuring commercial autos, a big
+market that offers real promise.
+GEICO is now saving money for millions of Americans. Go to GEICO.com or call 1-800-847-7536
+and see if we can save you money as well.
+General Re, our large international reinsurer, also had an outstanding year in 2008. Some time back,
+the company had serious problems (which I totally failed to detect when we purchased it in late 1998). By 2001,
+when Joe Brandon took over as CEO, assisted by his partner, Tad Montross, General Re’s culture had further
+deteriorated, exhibiting a loss of discipline in underwriting, reserving and expenses. After Joe and Tad took
+charge, these problems were decisively and successfully addressed. Today General Re has regained its luster.
+Last spring Joe stepped down, and Tad became CEO. Charlie and I are grateful to Joe for righting the ship and
+are certain that, with Tad, General Re’s future is in the best of hands.
+8
+Reinsurance is a business of long-term promises, sometimes extending for fifty years or more. This
+past year has retaught clients a crucial principle: A promise is no better than the person or institution making it.
+That’s where General Re excels: It is the only reinsurer that is backed by an AAA corporation. Ben Franklin once
+said, “It’s difficult for an empty sack to stand upright.” That’s no worry for General Re clients.
+Our third major insurance operation is Ajit Jain’s reinsurance division, headquartered in Stamford and
+staffed by only 31 employees. This may be one of the most remarkable businesses in the world, hard to
+characterize but easy to admire.
+From year to year, Ajit’s business is never the same. It features very large transactions, incredible
+speed of execution and a willingness to quote on policies that leave others scratching their heads. When there is a
+huge and unusual risk to be insured, Ajit is almost certain to be called.
+Ajit came to Berkshire in 1986. Very quickly, I realized that we had acquired an extraordinary talent.
+So I did the logical thing: I wrote his parents in New Delhi and asked if they had another one like him at home.
+Of course, I knew the answer before writing. There isn’t anyone like Ajit.
+Our smaller insurers are just as outstanding in their own way as the “big three,” regularly delivering
+valuable float to us at a negative cost. We aggregate their results below under “Other Primary.” For space
+reasons, we don’t discuss these insurers individually. But be assured that Charlie and I appreciate the
+contribution of each.
+Here is the record for the four legs to our insurance stool. The underwriting profits signify that all four
+provided funds to Berkshire last year without cost, just as they did in 2007. And in both years our underwriting
+profitability was considerably better than that achieved by the industry. Of course, we ourselves will periodically
+have a terrible year in insurance. But, overall, I expect us to average an underwriting profit. If so, we will be
+using free funds of large size for the indefinite future.
+Insurance Operations
+Underwriting Profit
+Yearend Float
+(in millions)
+2008
+2007
+2008
+2007
+General Re . . . . . . . . . . . . . . . . . . . . . .
+BH Reinsurance . . . . . . . . . . . . . . . . . .
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . .
+Other Primary . . . . . . . . . . . . . . . . . . .
+$ 342
+1,324
+916
+210
+$ 555
+1,427
+1,113
+279
+$21,074
+24,221
+8,454
+4,739
+$23,009
+23,692
+7,768
+4,229
+$2,792
+$3,374
+$58,488
+$58,698
+Manufacturing, Service and Retailing Operations
+Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet
+and earnings statement for the entire group.
+Balance Sheet 12/31/08 (in millions)
+Assets
+Cash and equivalents . . . . . . . . . . . . . . . . .
+Accounts and notes receivable . . . . . . . . . .
+Inventory . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other current assets . . . . . . . . . . . . . . . . . .
+$ 2,497
+5,047
+7,500
+752
+Total current assets . . . . . . . . . . . . . . . . . . .
+15,796
+Goodwill and other intangibles . . . . . . . . .
+Fixed assets . . . . . . . . . . . . . . . . . . . . . . . .
+Other assets . . . . . . . . . . . . . . . . . . . . . . . .
+16,515
+16,338
+1,248
+Liabilities and Equity
+Notes payable . . . . . . . . . . . . . . . . . . . . . . .
+Other current liabilities . . . . . . . . . . . . . . .
+$ 2,212
+8,087
+Total current liabilities . . . . . . . . . . . . . . . .
+10,299
+Deferred taxes . . . . . . . . . . . . . . . . . . . . . .
+Term debt and other liabilities . . . . . . . . . .
+Equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,786
+6,033
+30,779
+$49,897
+$49,897
+9
+Earnings Statement (in millions)
+2008
+2007
+2006
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $66,099 $59,100 $52,660
+Operating expenses (including depreciation of $1,280 in 2008, $955 in 2007 and
+$823 in 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61,937
+55,026
+49,002
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+139
+127
+132
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,023*
+1,740
+3,947*
+1,594
+3,526*
+1,395
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 2,283
+$ 2,353
+$ 2,131
+*Does not include purchase-accounting adjustments.
+This motley group, which sells products ranging from lollipops to motor homes, earned an impressive
+17.9% on average tangible net worth last year. It’s also noteworthy that these operations used only minor
+financial leverage in achieving that return. Clearly we own some terrific businesses. We purchased many of
+them, however, at large premiums to net worth – a point reflected in the goodwill item shown on our balance
+sheet – and that fact reduces the earnings on our average carrying value to 8.1%.
+Though the full-year result was satisfactory, earnings of many of the businesses in this group hit the
+skids in last year’s fourth quarter. Prospects for 2009 look worse. Nevertheless, the group retains strong earning
+power even under today’s conditions and will continue to deliver significant cash to the parent company. Overall,
+these companies improved their competitive positions last year, partly because our financial strength let us make
+advantageous tuck-in acquisitions. In contrast, many competitors were treading water (or sinking).
+The most noteworthy of these acquisitions was Iscar’s late-November purchase of Tungaloy, a leading
+Japanese producer of small tools. Charlie and I continue to look with astonishment – and appreciation! – at the
+accomplishments of Iscar’s management. To secure one manager like Eitan Wertheimer, Jacob Harpaz or Danny
+Goldman when we acquire a company is a blessing. Getting three is like winning the Triple Crown. Iscar’s
+growth since our purchase has exceeded our expectations – which were high – and the addition of Tungaloy will
+move performance to the next level.
+MiTek, Benjamin Moore, Acme Brick, Forest River, Marmon and CTB also made one or more
+acquisitions during the year. CTB, which operates worldwide in the agriculture equipment field, has now picked
+up six small firms since we purchased it in 2002. At that time, we paid $140 million for the company. Last year
+its pre-tax earnings were $89 million. Vic Mancinelli, its CEO, followed Berkshire-like operating principles long
+before our arrival. He focuses on blocking and tackling, day by day doing the little things right and never getting
+off course. Ten years from now, Vic will be running a much larger operation and, more important, will be
+earning excellent returns on invested capital.
+Finance and Financial Products
+I will write here at some length about the mortgage operation of Clayton Homes and skip any financial
+commentary, which is summarized in the table at the end of this section. I do this because Clayton’s recent
+experience may be useful in the public-policy debate about housing and mortgages. But first a little background.
+Clayton is the largest company in the manufactured home industry, delivering 27,499 units last year.
+This came to about 34% of the industry’s 81,889 total. Our share will likely grow in 2009, partly because much
+of the rest of the industry is in acute distress. Industrywide, units sold have steadily declined since they hit a peak
+of 372,843 in 1998.
+10
+At that time, much of the industry employed sales practices that were atrocious. Writing about the
+period somewhat later, I described it as involving “borrowers who shouldn’t have borrowed being financed by
+lenders who shouldn’t have lent.”
+To begin with, the need for meaningful down payments was frequently ignored. Sometimes fakery was
+involved. (“That certainly looks like a $2,000 cat to me” says the salesman who will receive a $3,000
+commission if the loan goes through.) Moreover, impossible-to-meet monthly payments were being agreed to by
+borrowers who signed up because they had nothing to lose. The resulting mortgages were usually packaged
+(“securitized”) and sold by Wall Street firms to unsuspecting investors. This chain of folly had to end badly, and
+it did.
+Clayton, it should be emphasized, followed far more sensible practices in its own lending throughout
+that time. Indeed, no purchaser of the mortgages it originated and then securitized has ever lost a dime of
+principal or interest. But Clayton was the exception; industry losses were staggering. And the hangover continues
+to this day.
+This 1997-2000 fiasco should have served as a canary-in-the-coal-mine warning for the far-larger
+conventional housing market. But investors, government and rating agencies learned exactly nothing from the
+manufactured-home debacle. Instead, in an eerie rerun of that disaster, the same mistakes were repeated with
+conventional homes in the 2004-07 period: Lenders happily made loans that borrowers couldn’t repay out of their
+incomes, and borrowers just as happily signed up to meet those payments. Both parties counted on “house-price
+appreciation” to make this otherwise impossible arrangement work. It was Scarlett O’Hara all over again: “I’ll
+think about it tomorrow.” The consequences of this behavior are now reverberating through every corner of our
+economy.
+Clayton’s 198,888 borrowers, however, have continued to pay normally throughout the housing crash,
+handing us no unexpected losses. This is not because these borrowers are unusually creditworthy, a point proved
+by FICO scores (a standard measure of credit risk). Their median FICO score is 644, compared to a national
+median of 723, and about 35% are below 620, the segment usually designated “sub-prime.” Many disastrous
+pools of mortgages on conventional homes are populated by borrowers with far better credit, as measured by
+FICO scores.
+Yet at yearend, our delinquency rate on loans we have originated was 3.6%, up only modestly from
+2.9% in 2006 and 2.9% in 2004. (In addition to our originated loans, we’ve also bought bulk portfolios of various
+types from other financial institutions.) Clayton’s foreclosures during 2008 were 3.0% of originated loans
+compared to 3.8% in 2006 and 5.3% in 2004.
+Why are our borrowers – characteristically people with modest incomes and far-from-great credit
+scores – performing so well? The answer is elementary, going right back to Lending 101. Our borrowers simply
+looked at how full-bore mortgage payments would compare with their actual – not hoped-for – income and then
+decided whether they could live with that commitment. Simply put, they took out a mortgage with the intention
+of paying it off, whatever the course of home prices.
+Just as important is what our borrowers did not do. They did not count on making their loan payments
+by means of refinancing. They did not sign up for “teaser” rates that upon reset were outsized relative to their
+income. And they did not assume that they could always sell their home at a profit if their mortgage payments
+became onerous. Jimmy Stewart would have loved these folks.
+Of course, a number of our borrowers will run into trouble. They generally have no more than minor
+savings to tide them over if adversity hits. The major cause of delinquency or foreclosure is the loss of a job, but
+death, divorce and medical expenses all cause problems. If unemployment rates rise – as they surely will in
+2009 – more of Clayton’s borrowers will have troubles, and we will have larger, though still manageable, losses.
+But our problems will not be driven to any extent by the trend of home prices.
+11
+Commentary about the current housing crisis often ignores the crucial fact that most foreclosures do
+not occur because a house is worth less than its mortgage (so-called “upside-down” loans). Rather, foreclosures
+take place because borrowers can’t pay the monthly payment that they agreed to pay. Homeowners who have
+made a meaningful down-payment – derived from savings and not from other borrowing – seldom walk away
+from a primary residence simply because its value today is less than the mortgage. Instead, they walk when they
+can’t make the monthly payments.
+Home ownership is a wonderful thing. My family and I have enjoyed my present home for 50 years,
+with more to come. But enjoyment and utility should be the primary motives for purchase, not profit or refi
+possibilities. And the home purchased ought to fit the income of the purchaser.
+The present housing debacle should teach home buyers, lenders, brokers and government some simple
+lessons that will ensure stability in the future. Home purchases should involve an honest-to-God down payment
+of at least 10% and monthly payments that can be comfortably handled by the borrower’s income. That income
+should be carefully verified.
+Putting people into homes, though a desirable goal, shouldn’t be our country’s primary objective.
+Keeping them in their homes should be the ambition.
+************
+Clayton’s lending operation, though not damaged by the performance of its borrowers, is nevertheless
+threatened by an element of the credit crisis. Funders that have access to any sort of government guarantee –
+banks with FDIC-insured deposits, large entities with commercial paper now backed by the Federal Reserve, and
+others who are using imaginative methods (or lobbying skills) to come under the government’s umbrella – have
+money costs that are minimal. Conversely, highly-rated companies, such as Berkshire, are experiencing
+borrowing costs that, in relation to Treasury rates, are at record levels. Moreover, funds are abundant for the
+government-guaranteed borrower but often scarce for others, no matter how creditworthy they may be.
+This unprecedented “spread” in the cost of money makes it unprofitable for any lender who doesn’t
+enjoy government-guaranteed funds to go up against those with a favored status. Government is determining the
+“haves” and “have-nots.” That is why companies are rushing to convert to bank holding companies, not a course
+feasible for Berkshire.
+Though Berkshire’s credit is pristine – we are one of only seven AAA corporations in the country – our
+cost of borrowing is now far higher than competitors with shaky balance sheets but government backing. At the
+moment, it is much better to be a financial cripple with a government guarantee than a Gibraltar without one.
+Today’s extreme conditions may soon end. At worst, we believe we will find at least a partial solution
+that will allow us to continue much of Clayton’s lending. Clayton’s earnings, however, will surely suffer if we
+are forced to compete for long against government-favored lenders.
+Pre-Tax Earnings
+(in millions)
+2008
+2007
+Net investment income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Life and annuity operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Leasing operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Manufactured-housing finance (Clayton) . . . . . . . . . . . . . . . . . . . . . . . .
+Other* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$330
+23
+87
+206
+141
+$ 272
+(60)
+111
+526
+157
+Income before investment and derivatives gains or losses . . . . . . . . . . .
+$787
+$1,006
+*Includes $92 million in 2008 and $85 million in 2007 of fees that Berkshire charges Clayton for the
+use of Berkshire’s credit.
+12
+Tax-Exempt Bond Insurance
+Early in 2008, we activated Berkshire Hathaway Assurance Company (“BHAC”) as an insurer of the
+tax-exempt bonds issued by states, cities and other local entities. BHAC insures these securities for issuers both
+at the time their bonds are sold to the public (primary transactions) and later, when the bonds are already owned
+by investors (secondary transactions).
+By yearend 2007, the half dozen or so companies that had been the major players in this business had
+all fallen into big trouble. The cause of their problems was captured long ago by Mae West: “I was Snow White,
+but I drifted.”
+The monolines (as the bond insurers are called) initially insured only tax-exempt bonds that were
+low-risk. But over the years competition for this business intensified, and rates fell. Faced with the prospect of
+stagnating or declining earnings, the monoline managers turned to ever-riskier propositions. Some of these
+involved the insuring of residential mortgage obligations. When housing prices plummeted, the monoline
+industry quickly became a basket case.
+Early in the year, Berkshire offered to assume all of the insurance issued on tax-exempts that was on
+the books of the three largest monolines. These companies were all in life-threatening trouble (though they said
+otherwise.) We would have charged a 1 1⁄ 2% rate to take over the guarantees on about $822 billion of bonds. If
+our offer had been accepted, we would have been required to pay any losses suffered by investors who owned
+these bonds – a guarantee stretching for 40 years in some cases. Ours was not a frivolous proposal: For reasons
+we will come to later, it involved substantial risk for Berkshire.
+The monolines summarily rejected our offer, in some cases appending an insult or two. In the end,
+though, the turndowns proved to be very good news for us, because it became apparent that I had severely
+underpriced our offer.
+Thereafter, we wrote about $15.6 billion of insurance in the secondary market. And here’s the punch
+line: About 77% of this business was on bonds that were already insured, largely by the three aforementioned
+monolines. In these agreements, we have to pay for defaults only if the original insurer is financially unable to do
+so.
+We wrote this “second-to-pay” insurance for rates averaging 3.3%. That’s right; we have been paid far
+more for becoming the second to pay than the 1.5% we would have earlier charged to be the first to pay. In one
+extreme case, we actually agreed to be fourth to pay, nonetheless receiving about three times the 1% premium
+charged by the monoline that remains first to pay. In other words, three other monolines have to first go broke
+before we need to write a check.
+Two of the three monolines to which we made our initial bulk offer later raised substantial capital.
+This, of course, directly helps us, since it makes it less likely that we will have to pay, at least in the near term,
+any claims on our second-to-pay insurance because these two monolines fail. In addition to our book of
+secondary business, we have also written $3.7 billion of primary business for a premium of $96 million. In
+primary business, of course, we are first to pay if the issuer gets in trouble.
+We have a great many more multiples of capital behind the insurance we write than does any other
+monoline. Consequently, our guarantee is far more valuable than theirs. This explains why many sophisticated
+investors have bought second-to-pay insurance from us even though they were already insured by another
+monoline. BHAC has become not only the insurer of preference, but in many cases the sole insurer acceptable to
+bondholders.
+Nevertheless, we remain very cautious about the business we write and regard it as far from a sure
+thing that this insurance will ultimately be profitable for us. The reason is simple, though I have never seen even
+a passing reference to it by any financial analyst, rating agency or monoline CEO.
+13
+The rationale behind very low premium rates for insuring tax-exempts has been that defaults have
+historically been few. But that record largely reflects the experience of entities that issued uninsured bonds.
+Insurance of tax-exempt bonds didn’t exist before 1971, and even after that most bonds remained uninsured.
+A universe of tax-exempts fully covered by insurance would be certain to have a somewhat different
+loss experience from a group of uninsured, but otherwise similar bonds, the only question being how different.
+To understand why, let’s go back to 1975 when New York City was on the edge of bankruptcy. At the time its
+bonds – virtually all uninsured – were heavily held by the city’s wealthier residents as well as by New York
+banks and other institutions. These local bondholders deeply desired to solve the city’s fiscal problems. So before
+long, concessions and cooperation from a host of involved constituencies produced a solution. Without one, it
+was apparent to all that New York’s citizens and businesses would have experienced widespread and severe
+financial losses from their bond holdings.
+Now, imagine that all of the city’s bonds had instead been insured by Berkshire. Would similar belttightening, tax increases, labor concessions, etc. have been forthcoming? Of course not. At a minimum, Berkshire
+would have been asked to “share” in the required sacrifices. And, considering our deep pockets, the required
+contribution would most certainly have been substantial.
+Local governments are going to face far tougher fiscal problems in the future than they have to date.
+The pension liabilities I talked about in last year’s report will be a huge contributor to these woes. Many cities
+and states were surely horrified when they inspected the status of their funding at yearend 2008. The gap between
+assets and a realistic actuarial valuation of present liabilities is simply staggering.
+When faced with large revenue shortfalls, communities that have all of their bonds insured will be
+more prone to develop “solutions” less favorable to bondholders than those communities that have uninsured
+bonds held by local banks and residents. Losses in the tax-exempt arena, when they come, are also likely to be
+highly correlated among issuers. If a few communities stiff their creditors and get away with it, the chance that
+others will follow in their footsteps will grow. What mayor or city council is going to choose pain to local
+citizens in the form of major tax increases over pain to a far-away bond insurer?
+Insuring tax-exempts, therefore, has the look today of a dangerous business – one with similarities, in
+fact, to the insuring of natural catastrophes. In both cases, a string of loss-free years can be followed by a
+devastating experience that more than wipes out all earlier profits. We will try, therefore, to proceed carefully in
+this business, eschewing many classes of bonds that other monolines regularly embrace.
+************
+The type of fallacy involved in projecting loss experience from a universe of non-insured bonds onto a
+deceptively-similar universe in which many bonds are insured pops up in other areas of finance. “Back-tested”
+models of many kinds are susceptible to this sort of error. Nevertheless, they are frequently touted in financial
+markets as guides to future action. (If merely looking up past financial data would tell you what the future holds,
+the Forbes 400 would consist of librarians.)
+Indeed, the stupefying losses in mortgage-related securities came in large part because of flawed,
+history-based models used by salesmen, rating agencies and investors. These parties looked at loss experience
+over periods when home prices rose only moderately and speculation in houses was negligible. They then made
+this experience a yardstick for evaluating future losses. They blissfully ignored the fact that house prices had
+recently skyrocketed, loan practices had deteriorated and many buyers had opted for houses they couldn’t afford.
+In short, universe “past” and universe “current” had very different characteristics. But lenders, government and
+media largely failed to recognize this all-important fact.
+14
+Investors should be skeptical of history-based models. Constructed by a nerdy-sounding priesthood
+using esoteric terms such as beta, gamma, sigma and the like, these models tend to look impressive. Too often,
+though, investors forget to examine the assumptions behind the symbols. Our advice: Beware of geeks bearing
+formulas.
+************
+A final post-script on BHAC: Who, you may wonder, runs this operation? While I help set policy, all
+of the heavy lifting is done by Ajit and his crew. Sure, they were already generating $24 billion of float along
+with hundreds of millions of underwriting profit annually. But how busy can that keep a 31-person group?
+Charlie and I decided it was high time for them to start doing a full day’s work.
+Investments
+Because of accounting rules, we divide our large holdings of common stocks this year into two
+categories. The table below, presenting the first category, itemizes investments that are carried on our balance
+sheet at market value and that had a yearend value of more than $500 million.
+12/31/08
+Percentage of
+Company
+Owned
+Shares
+Company
+151,610,700
+200,000,000
+84,896,273
+30,009,591
+130,272,500
+3,947,554
+91,941,010
+22,111,966
+11,262,000
+227,307,000
+75,145,426
+19,944,300
+1,727,765
+304,392,068
+American Express Company . . . . . . . . . . . . . . . . . . . .
+The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . . . .
+ConocoPhillips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Johnson & Johnson . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kraft Foods Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+POSCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Procter & Gamble Company . . . . . . . . . . . . . . . . .
+Sanofi-Aventis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Swiss Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+U.S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Washington Post Company . . . . . . . . . . . . . . . . . .
+Wells Fargo & Company . . . . . . . . . . . . . . . . . . . . . . .
+Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Total Common Stocks Carried at Market . . . . . . . . . .
+13.1
+8.6
+5.7
+1.1
+8.9
+5.2
+3.1
+1.7
+3.2
+2.9
+4.3
+0.5
+18.4
+7.2
+Cost*
+Market
+(in millions)
+$ 1,287
+$ 2,812
+1,299
+9,054
+7,008
+4,398
+1,847
+1,795
+4,330
+3,498
+768
+1,191
+643
+5,684
+1,827
+1,404
+773
+530
+1,326
+1,193
+2,337
+1,879
+942
+1,118
+11
+674
+6,702
+8,973
+6,035
+4,870
+$37,135
+$49,073
+*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of
+write-ups or write-downs that have been required.
+In addition, we have holdings in Moody’s and Burlington Northern Santa Fe that we now carry at
+“equity value” – our cost plus retained earnings since our purchase, minus the tax that would be paid if those
+earnings were paid to us as dividends. This accounting treatment is usually required when ownership of an
+investee company reaches 20%.
+We purchased 15% of Moody’s some years ago and have not since bought a share. Moody’s, though,
+has repurchased its own shares and, by late 2008, those repurchases reduced its outstanding shares to the point
+that our holdings rose above 20%. Burlington Northern has also repurchased shares, but our increase to 20%
+primarily occurred because we continued to buy this stock.
+15
+Unless facts or rules change, you will see these holdings reflected in our balance sheet at “equity
+accounting” values, whatever their market prices. You will also see our share of their earnings (less applicable
+taxes) regularly included in our quarterly and annual earnings.
+I told you in an earlier part of this report that last year I made a major mistake of commission (and
+maybe more; this one sticks out). Without urging from Charlie or anyone else, I bought a large amount of
+ConocoPhillips stock when oil and gas prices were near their peak. I in no way anticipated the dramatic fall in
+energy prices that occurred in the last half of the year. I still believe the odds are good that oil sells far higher in
+the future than the current $40-$50 price. But so far I have been dead wrong. Even if prices should rise,
+moreover, the terrible timing of my purchase has cost Berkshire several billion dollars.
+I made some other already-recognizable errors as well. They were smaller, but unfortunately not that
+small. During 2008, I spent $244 million for shares of two Irish banks that appeared cheap to me. At yearend we
+wrote these holdings down to market: $27 million, for an 89% loss. Since then, the two stocks have declined
+even further. The tennis crowd would call my mistakes “unforced errors.”
+On the plus side last year, we made purchases totaling $14.5 billion in fixed-income securities issued
+by Wrigley, Goldman Sachs and General Electric. We very much like these commitments, which carry high
+current yields that, in themselves, make the investments more than satisfactory. But in each of these three
+purchases, we also acquired a substantial equity participation as a bonus. To fund these large purchases, I had to
+sell portions of some holdings that I would have preferred to keep (primarily Johnson & Johnson, Procter &
+Gamble and ConocoPhillips). However, I have pledged – to you, the rating agencies and myself – to always run
+Berkshire with more than ample cash. We never want to count on the kindness of strangers in order to meet
+tomorrow’s obligations. When forced to choose, I will not trade even a night’s sleep for the chance of extra
+profits.
+The investment world has gone from underpricing risk to overpricing it. This change has not been
+minor; the pendulum has covered an extraordinary arc. A few years ago, it would have seemed unthinkable that
+yields like today’s could have been obtained on good-grade municipal or corporate bonds even while risk-free
+governments offered near-zero returns on short-term bonds and no better than a pittance on long-terms. When the
+financial history of this decade is written, it will surely speak of the Internet bubble of the late 1990s and the
+housing bubble of the early 2000s. But the U.S. Treasury bond bubble of late 2008 may be regarded as almost
+equally extraordinary.
+Clinging to cash equivalents or long-term government bonds at present yields is almost certainly a
+terrible policy if continued for long. Holders of these instruments, of course, have felt increasingly comfortable –
+in fact, almost smug – in following this policy as financial turmoil has mounted. They regard their judgment
+confirmed when they hear commentators proclaim “cash is king,” even though that wonderful cash is earning
+close to nothing and will surely find its purchasing power eroded over time.
+Approval, though, is not the goal of investing. In fact, approval is often counter-productive because it
+sedates the brain and makes it less receptive to new facts or a re-examination of conclusions formed earlier.
+Beware the investment activity that produces applause; the great moves are usually greeted by yawns.
+Derivatives
+Derivatives are dangerous. They have dramatically increased the leverage and risks in our financial
+system. They have made it almost impossible for investors to understand and analyze our largest commercial
+banks and investment banks. They allowed Fannie Mae and Freddie Mac to engage in massive misstatements of
+earnings for years. So indecipherable were Freddie and Fannie that their federal regulator, OFHEO, whose more
+than 100 employees had no job except the oversight of these two institutions, totally missed their cooking of the
+books.
+16
+Indeed, recent events demonstrate that certain big-name CEOs (or former CEOs) at major financial
+institutions were simply incapable of managing a business with a huge, complex book of derivatives. Include
+Charlie and me in this hapless group: When Berkshire purchased General Re in 1998, we knew we could not get
+our minds around its book of 23,218 derivatives contracts, made with 884 counterparties (many of which we had
+never heard of). So we decided to close up shop. Though we were under no pressure and were operating in
+benign markets as we exited, it took us five years and more than $400 million in losses to largely complete the
+task. Upon leaving, our feelings about the business mirrored a line in a country song: “I liked you better before I
+got to know you so well.”
+Improved “transparency” – a favorite remedy of politicians, commentators and financial regulators for
+averting future train wrecks – won’t cure the problems that derivatives pose. I know of no reporting mechanism
+that would come close to describing and measuring the risks in a huge and complex portfolio of derivatives.
+Auditors can’t audit these contracts, and regulators can’t regulate them. When I read the pages of “disclosure” in
+10-Ks of companies that are entangled with these instruments, all I end up knowing is that I don’t know what is
+going on in their portfolios (and then I reach for some aspirin).
+For a case study on regulatory effectiveness, let’s look harder at the Freddie and Fannie example.
+These giant institutions were created by Congress, which retained control over them, dictating what they could
+and could not do. To aid its oversight, Congress created OFHEO in 1992, admonishing it to make sure the two
+behemoths were behaving themselves. With that move, Fannie and Freddie became the most intensely-regulated
+companies of which I am aware, as measured by manpower assigned to the task.
+On June 15, 2003, OFHEO (whose annual reports are available on the Internet) sent its 2002 report to
+Congress – specifically to its four bosses in the Senate and House, among them none other than Messrs. Sarbanes
+and Oxley. The report’s 127 pages included a self-congratulatory cover-line: “Celebrating 10 Years of
+Excellence.” The transmittal letter and report were delivered nine days after the CEO and CFO of Freddie had
+resigned in disgrace and the COO had been fired. No mention of their departures was made in the letter, even
+while the report concluded, as it always did, that “Both Enterprises were financially sound and well managed.”
+In truth, both enterprises had engaged in massive accounting shenanigans for some time. Finally, in
+2006, OFHEO issued a 340-page scathing chronicle of the sins of Fannie that, more or less, blamed the fiasco on
+every party but – you guessed it – Congress and OFHEO.
+The Bear Stearns collapse highlights the counterparty problem embedded in derivatives transactions, a
+time bomb I first discussed in Berkshire’s 2002 report. On April 3, 2008, Tim Geithner, then the able president of
+the New York Fed, explained the need for a rescue: “The sudden discovery by Bear’s derivative counterparties
+that important financial positions they had put in place to protect themselves from financial risk were no longer
+operative would have triggered substantial further dislocation in markets. This would have precipitated a rush by
+Bear’s counterparties to liquidate the collateral they held against those positions and to attempt to replicate those
+positions in already very fragile markets.” This is Fedspeak for “We stepped in to avoid a financial chain reaction
+of unpredictable magnitude.” In my opinion, the Fed was right to do so.
+A normal stock or bond trade is completed in a few days with one party getting its cash, the other its
+securities. Counterparty risk therefore quickly disappears, which means credit problems can’t accumulate. This
+rapid settlement process is key to maintaining the integrity of markets. That, in fact, is a reason for NYSE and
+NASDAQ shortening the settlement period from five days to three days in 1995.
+Derivatives contracts, in contrast, often go unsettled for years, or even decades, with counterparties
+building up huge claims against each other. “Paper” assets and liabilities – often hard to quantify – become
+important parts of financial statements though these items will not be validated for many years. Additionally, a
+frightening web of mutual dependence develops among huge financial institutions. Receivables and payables by
+the billions become concentrated in the hands of a few large dealers who are apt to be highly-leveraged in other
+ways as well. Participants seeking to dodge troubles face the same problem as someone seeking to avoid venereal
+disease: It’s not just whom you sleep with, but also whom they are sleeping with.
+17
+Sleeping around, to continue our metaphor, can actually be useful for large derivatives dealers because
+it assures them government aid if trouble hits. In other words, only companies having problems that can infect
+the entire neighborhood – I won’t mention names – are certain to become a concern of the state (an outcome, I’m
+sad to say, that is proper). From this irritating reality comes The First Law of Corporate Survival for ambitious
+CEOs who pile on leverage and run large and unfathomable derivatives books: Modest incompetence simply
+won’t do; it’s mindboggling screw-ups that are required.
+Considering the ruin I’ve pictured, you may wonder why Berkshire is a party to 251 derivatives
+contracts (other than those used for operational purposes at MidAmerican and the few left over at Gen Re). The
+answer is simple: I believe each contract we own was mispriced at inception, sometimes dramatically so. I both
+initiated these positions and monitor them, a set of responsibilities consistent with my belief that the CEO of any
+large financial organization must be the Chief Risk Officer as well. If we lose money on our derivatives, it will be
+my fault.
+Our derivatives dealings require our counterparties to make payments to us when contracts are
+initiated. Berkshire therefore always holds the money, which leaves us assuming no meaningful counterparty
+risk. As of yearend, the payments made to us less losses we have paid – our derivatives “float,” so to speak –
+totaled $8.1 billion. This float is similar to insurance float: If we break even on an underlying transaction, we will
+have enjoyed the use of free money for a long time. Our expectation, though it is far from a sure thing, is that we
+will do better than break even and that the substantial investment income we earn on the funds will be frosting on
+the cake.
+Only a small percentage of our contracts call for any posting of collateral when the market moves
+against us. Even under the chaotic conditions existing in last year’s fourth quarter, we had to post less than 1% of
+our securities portfolio. (When we post collateral, we deposit it with third parties, meanwhile retaining the
+investment earnings on the deposited securities.) In our 2002 annual report, we warned of the lethal threat that
+posting requirements create, real-life illustrations of which we witnessed last year at a variety of financial
+institutions (and, for that matter, at Constellation Energy, which was within hours of bankruptcy when
+MidAmerican arrived to effect a rescue).
+Our contracts fall into four major categories. With apologies to those who are not fascinated by
+financial instruments, I will explain them in excruciating detail.
+•
+We have added modestly to the “equity put” portfolio I described in last year’s report. Some of our
+contracts come due in 15 years, others in 20. We must make a payment to our counterparty at
+maturity if the reference index to which the put is tied is then below what it was at the inception of
+the contract. Neither party can elect to settle early; it’s only the price on the final day that counts.
+To illustrate, we might sell a $1 billion 15-year put contract on the S&P 500 when that index is at,
+say, 1300. If the index is at 1170 – down 10% – on the day of maturity, we would pay $100 million.
+If it is above 1300, we owe nothing. For us to lose $1 billion, the index would have to go to zero. In
+the meantime, the sale of the put would have delivered us a premium – perhaps $100 million to
+$150 million – that we would be free to invest as we wish.
+Our put contracts total $37.1 billion (at current exchange rates) and are spread among four major
+indices: the S&P 500 in the U.S., the FTSE 100 in the U.K., the Euro Stoxx 50 in Europe, and the
+Nikkei 225 in Japan. Our first contract comes due on September 9, 2019 and our last on January 24,
+2028. We have received premiums of $4.9 billion, money we have invested. We, meanwhile, have
+paid nothing, since all expiration dates are far in the future. Nonetheless, we have used BlackScholes valuation methods to record a yearend liability of $10 billion, an amount that will change
+on every reporting date. The two financial items – this estimated loss of $10 billion minus the $4.9
+billion in premiums we have received – means that we have so far reported a mark-to-market loss
+of $5.1 billion from these contracts.
+18
+We endorse mark-to-market accounting. I will explain later, however, why I believe the BlackScholes formula, even though it is the standard for establishing the dollar liability for options,
+produces strange results when the long-term variety are being valued.
+One point about our contracts that is sometimes not understood: For us to lose the full $37.1 billion
+we have at risk, all stocks in all four indices would have to go to zero on their various termination
+dates. If, however – as an example – all indices fell 25% from their value at the inception of each
+contract, and foreign-exchange rates remained as they are today, we would owe about $9 billion,
+payable between 2019 and 2028. Between the inception of the contract and those dates, we would
+have held the $4.9 billion premium and earned investment income on it.
+•
+The second category we described in last year’s report concerns derivatives requiring us to pay
+when credit losses occur at companies that are included in various high-yield indices. Our standard
+contract covers a five-year period and involves 100 companies. We modestly expanded our position
+last year in this category. But, of course, the contracts on the books at the end of 2007 moved one
+year closer to their maturity. Overall, our contracts now have an average life of 2 1⁄ 3 years, with the
+first expiration due to occur on September 20, 2009 and the last on December 20, 2013.
+By yearend we had received premiums of $3.4 billion on these contracts and paid losses of $542
+million. Using mark-to-market principles, we also set up a liability for future losses that at yearend
+totaled $3.0 billion. Thus we had to that point recorded a loss of about $100 million, derived from
+our $3.5 billion total in paid and estimated future losses minus the $3.4 billion of premiums we
+received. In our quarterly reports, however, the amount of gain or loss has swung wildly from a
+profit of $327 million in the second quarter of 2008 to a loss of $693 million in the fourth quarter of
+2008.
+Surprisingly, we made payments on these contracts of only $97 million last year, far below the
+estimate I used when I decided to enter into them. This year, however, losses have accelerated
+sharply with the mushrooming of large bankruptcies. In last year’s letter, I told you I expected these
+contracts to show a profit at expiration. Now, with the recession deepening at a rapid rate, the
+possibility of an eventual loss has increased. Whatever the result, I will keep you posted.
+•
+In 2008 we began to write “credit default swaps” on individual companies. This is simply credit
+insurance, similar to what we write in BHAC, except that here we bear the credit risk of
+corporations rather than of tax-exempt issuers.
+If, say, the XYZ company goes bankrupt, and we have written a $100 million contract, we are
+obligated to pay an amount that reflects the shrinkage in value of a comparable amount of XYZ’s
+debt. (If, for example, the company’s bonds are selling for 30 after default, we would owe $70
+million.) For the typical contract, we receive quarterly payments for five years, after which our
+insurance expires.
+At yearend we had written $4 billion of contracts covering 42 corporations, for which we receive
+annual premiums of $93 million. This is the only derivatives business we write that has any
+counterparty risk; the party that buys the contract from us must be good for the quarterly premiums
+it will owe us over the five years. We are unlikely to expand this business to any extent because
+most buyers of this protection now insist that the seller post collateral, and we will not enter into
+such an arrangement.
+•
+At the request of our customers, we write a few tax-exempt bond insurance contracts that are
+similar to those written at BHAC, but that are structured as derivatives. The only meaningful
+difference between the two contracts is that mark-to-market accounting is required for derivatives
+whereas standard accrual accounting is required at BHAC.
+19
+But this difference can produce some strange results. The bonds covered – in effect, insured – by
+these derivatives are largely general obligations of states, and we feel good about them. At yearend,
+however, mark-to-market accounting required us to record a loss of $631 million on these
+derivatives contracts. Had we instead insured the same bonds at the same price in BHAC, and used
+the accrual accounting required at insurance companies, we would have recorded a small profit for
+the year. The two methods by which we insure the bonds will eventually produce the same
+accounting result. In the short term, however, the variance in reported profits can be substantial.
+We have told you before that our derivative contracts, subject as they are to mark-to-market
+accounting, will produce wild swings in the earnings we report. The ups and downs neither cheer nor bother
+Charlie and me. Indeed, the “downs” can be helpful in that they give us an opportunity to expand a position on
+favorable terms. I hope this explanation of our dealings will lead you to think similarly.
+************
+The Black-Scholes formula has approached the status of holy writ in finance, and we use it when
+valuing our equity put options for financial statement purposes. Key inputs to the calculation include a contract’s
+maturity and strike price, as well as the analyst’s expectations for volatility, interest rates and dividends.
+If the formula is applied to extended time periods, however, it can produce absurd results. In fairness,
+Black and Scholes almost certainly understood this point well. But their devoted followers may be ignoring
+whatever caveats the two men attached when they first unveiled the formula.
+It’s often useful in testing a theory to push it to extremes. So let’s postulate that we sell a 100- year $1
+billion put option on the S&P 500 at a strike price of 903 (the index’s level on 12/31/08). Using the implied
+volatility assumption for long-dated contracts that we do, and combining that with appropriate interest and
+dividend assumptions, we would find the “proper” Black-Scholes premium for this contract to be $2.5 million.
+To judge the rationality of that premium, we need to assess whether the S&P will be valued a century
+from now at less than today. Certainly the dollar will then be worth a small fraction of its present value (at only
+2% inflation it will be worth roughly 14¢). So that will be a factor pushing the stated value of the index higher.
+Far more important, however, is that one hundred years of retained earnings will hugely increase the value of
+most of the companies in the index. In the 20th Century, the Dow-Jones Industrial Average increased by about
+175-fold, mainly because of this retained-earnings factor.
+Considering everything, I believe the probability of a decline in the index over a one-hundred-year
+period to be far less than 1%. But let’s use that figure and also assume that the most likely decline – should one
+occur – is 50%. Under these assumptions, the mathematical expectation of loss on our contract would be $5
+million ($1 billion X 1% X 50%).
+But if we had received our theoretical premium of $2.5 million up front, we would have only had to
+invest it at 0.7% compounded annually to cover this loss expectancy. Everything earned above that would have
+been profit. Would you like to borrow money for 100 years at a 0.7% rate?
+Let’s look at my example from a worst-case standpoint. Remember that 99% of the time we would pay
+nothing if my assumptions are correct. But even in the worst case among the remaining 1% of possibilities – that
+is, one assuming a total loss of $1 billion – our borrowing cost would come to only 6.2%. Clearly, either my
+assumptions are crazy or the formula is inappropriate.
+20
+The ridiculous premium that Black-Scholes dictates in my extreme example is caused by the inclusion
+of volatility in the formula and by the fact that volatility is determined by how much stocks have moved around
+in some past period of days, months or years. This metric is simply irrelevant in estimating the probabilityweighted range of values of American business 100 years from now. (Imagine, if you will, getting a quote every
+day on a farm from a manic-depressive neighbor and then using the volatility calculated from these changing
+quotes as an important ingredient in an equation that predicts a probability-weighted range of values for the farm
+a century from now.)
+Though historical volatility is a useful – but far from foolproof – concept in valuing short-term options,
+its utility diminishes rapidly as the duration of the option lengthens. In my opinion, the valuations that the BlackScholes formula now place on our long-term put options overstate our liability, though the overstatement will
+diminish as the contracts approach maturity.
+Even so, we will continue to use Black-Scholes when we are estimating our financial-statement
+liability for long-term equity puts. The formula represents conventional wisdom and any substitute that I might
+offer would engender extreme skepticism. That would be perfectly understandable: CEOs who have concocted
+their own valuations for esoteric financial instruments have seldom erred on the side of conservatism. That club
+of optimists is one that Charlie and I have no desire to join.
+The Annual Meeting
+Our meeting this year will be held on Saturday, May 2nd. As always, the doors will open at the Qwest
+Center at 7 a.m., and a new Berkshire movie will be shown at 8:30. At 9:30 we will go directly to the
+question-and-answer period, which (with a break for lunch at the Qwest’s stands) will last until 3:00. Then, after
+a short recess, Charlie and I will convene the annual meeting at 3:15. If you decide to leave during the day’s
+question periods, please do so while Charlie is talking.
+The best reason to exit, of course, is to shop. We will help you do that by filling the 194,300-squarefoot hall that adjoins the meeting area with the products of Berkshire subsidiaries. Last year, the 31,000 people
+who came to the meeting did their part, and almost every location racked up record sales. But you can do better.
+(A friendly warning: If I find sales are lagging, I lock the exits.)
+This year Clayton will showcase its new i-house that includes Shaw flooring, Johns Manville insulation
+and MiTek fasteners. This innovative “green” home, featuring solar panels and numerous other energy-saving
+products, is truly a home of the future. Estimated costs for electricity and heating total only about $1 per day
+when the home is sited in an area like Omaha. After purchasing the i-house, you should next consider the Forest
+River RV and pontoon boat on display nearby. Make your neighbors jealous.
+GEICO will have a booth staffed by a number of its top counselors from around the country, all of
+them ready to supply you with auto insurance quotes. In most cases, GEICO will be able to give you a
+shareholder discount (usually 8%). This special offer is permitted by 44 of the 50 jurisdictions in which we
+operate. (One supplemental point: The discount is not additive if you qualify for another, such as that given
+certain groups.) Bring the details of your existing insurance and check out whether we can save you money. For
+at least 50% of you, I believe we can.
+On Saturday, at the Omaha airport, we will have the usual array of NetJets aircraft available for your
+inspection. Stop by the NetJets booth at the Qwest to learn about viewing these planes. Come to Omaha by bus;
+leave in your new plane. And take along – with no fear of a strip search – the Ginsu knives that you’ve purchased
+at the exhibit of our Quikut subsidiary.
+Next, if you have any money left, visit the Bookworm, which will be selling about 30 books and
+DVDs. A shipping service will be available for those whose thirst for knowledge exceeds their carrying capacity.
+21
+Finally, we will have three fascinating cars on the exhibition floor, including one from the past and one
+of the future. Paul Andrews, CEO of our subsidiary, TTI, will bring his 1935 Duesenberg, a car that once
+belonged to Mrs. Forrest Mars, Sr., parent and grandparent of our new partners in the Wrigley purchase. The
+future will be represented by a new plug-in electric car developed by BYD, an amazing Chinese company in
+which we have a 10% interest.
+An attachment to the proxy material that is enclosed with this report explains how you can obtain the
+credential you will need for admission to the meeting and other events. As for plane, hotel and car reservations,
+we have again signed up American Express (800-799-6634) to give you special help. Carol Pedersen, who
+handles these matters, does a terrific job for us each year, and I thank her for it. Hotel rooms can be hard to find,
+but work with Carol and you will get one.
+At Nebraska Furniture Mart, located on a 77-acre site on 72nd Street between Dodge and Pacific, we
+will again be having “Berkshire Weekend” discount pricing. We initiated this special event at NFM twelve years
+ago, and sales during the “Weekend” grew from $5.3 million in 1997 to a record $33.3 million in 2008. On
+Saturday of that weekend, we also set a single day record of $7.2 million. Ask any retailer what he thinks of such
+volume.
+To obtain the Berkshire discount, you must make your purchases between Thursday, April 30th and
+Monday, May 4th inclusive, and also present your meeting credential. The period’s special pricing will even
+apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting
+but which, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their
+cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday.
+On Saturday this year, from 5:30 p.m. to 8 p.m., NFM is having a western cookout to which you are all invited.
+At Borsheims, we will again have two shareholder-only events. The first will be a cocktail reception
+from 6 p.m. to 10 p.m. on Friday, May 1st. The second, the main gala, will be held on Sunday, May 3rd, from 9
+a.m. to 4 p.m. On Saturday, we will be open until 6 p.m.
+We will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore,
+shareholder prices will be available from Monday, April 27th through Saturday, May 9th. During that period,
+please identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that
+shows you are a Berkshire holder.
+On Sunday, in the mall outside of Borsheims, a blindfolded Patrick Wolff, twice U.S. chess champion,
+will take on all comers – who will have their eyes wide open – in groups of six. Nearby, Norman Beck, a
+remarkable magician from Dallas, will bewilder onlookers. Additionally, we will have Bob Hamman and Sharon
+Osberg, two of the world’s top bridge experts, available to play bridge with our shareholders on Sunday
+afternoon.
+Gorat’s will again be open exclusively for Berkshire shareholders on Sunday, May 3rd, and will be
+serving from 1 p.m. until 10 p.m. Last year Gorat’s, which seats 240, served 975 dinners on Shareholder Sunday.
+The three-day total was 2,448 including 702 T-bone steaks, the entrée preferred by the cognoscenti. Please don’t
+embarrass me by ordering foie gras. Remember: To come to Gorat’s on that day, you must have a reservation. To
+make one, call 402-551-3733 on April 1st (but not before).
+We will again have a reception at 4 p.m. on Saturday afternoon for shareholders who have come from
+outside North America. Every year our meeting draws many people from around the globe, and Charlie and I
+want to be sure we personally greet those who have come so far. Last year we enjoyed meeting more than 700 of
+you from many dozens of countries. Any shareholder who comes from outside the U.S. or Canada will be given a
+special credential and instructions for attending this function.
+************
+22
+This year we will be making important changes in how we handle the meeting’s question periods. In
+recent years, we have received only a handful of questions directly related to Berkshire and its operations. Last
+year there were practically none. So we need to steer the discussion back to Berkshire’s businesses.
+In a related problem, there has been a mad rush when the doors open at 7 a.m., led by people who wish
+to be first in line at the 12 microphones available for questioners. This is not desirable from a safety standpoint,
+nor do we believe that sprinting ability should be the determinant of who gets to pose questions. (At age 78, I’ve
+concluded that speed afoot is a ridiculously overrated talent.) Again, a new procedure is desirable.
+In our first change, several financial journalists from organizations representing newspapers,
+magazines and television will participate in the question-and-answer period, asking Charlie and me questions that
+shareholders have submitted by e-mail. The journalists and their e-mail addresses are: Carol Loomis, of Fortune,
+who may be emailed at cloomis@fortunemail.com; Becky Quick, of CNBC, at BerkshireQuestions@cnbc.com,
+and Andrew Ross Sorkin, of The New York Times, at arsorkin@nytimes.com. From the questions submitted,
+each journalist will choose the dozen or so he or she decides are the most interesting and important. (In your
+e-mail, let the journalist know if you would like your name mentioned if your question is selected.)
+Neither Charlie nor I will get so much as a clue about the questions to be asked. We know the
+journalists will pick some tough ones and that’s the way we like it.
+In our second change, we will have a drawing at 8:15 at each microphone for those shareholders
+hoping to ask questions themselves. At the meeting, I will alternate the questions asked by the journalists with
+those from the winning shareholders. At least half the questions – those selected by the panel from your
+submissions – are therefore certain to be Berkshire-related. We will meanwhile continue to get some good – and
+perhaps entertaining – questions from the audience as well.
+So join us at our Woodstock for Capitalists and let us know how you like the new format. Charlie and I
+look forward to seeing you.
+February 27, 2009
+Warren E. Buffett
+Chairman of the Board
+23
+BERKSHIRE HATHAWAY INC.
+ACQUISITION CRITERIA
+We are eager to hear from principals or their representatives about businesses that meet all of the following criteria:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Large purchases (at least $75 million of pre-tax earnings unless the business will fit into one of our existing units),
+Demonstrated consistent earning power (future projections are of no interest to us, nor are “turnaround” situations),
+Businesses earning good returns on equity while employing little or no debt,
+Management in place (we can’t supply it),
+Simple businesses (if there’s lots of technology, we won’t understand it),
+An offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a
+transaction when price is unknown).
+The larger the company, the greater will be our interest: We would like to make an acquisition in the $5-20 billion range.
+We are not interested, however, in receiving suggestions about purchases we might make in the general stock market.
+We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer —customarily
+within five minutes — as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we
+receive as much in intrinsic business value as we give. We don’t participate in auctions.
+Charlie and I frequently get approached about acquisitions that don’t come close to meeting our tests: We’ve found that
+if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. A line from a
+country song expresses our feeling about new ventures, turnarounds, or auction-like sales: “When the phone don’t ring,
+you’ll know it’s me.”
+NEW YORK STOCK EXCHANGE CORPORATE GOVERNANCE MATTERS
+As a listed Company with the New York Stock Exchange (“NYSE”), Berkshire is subject to certain Corporate Governance
+standards as required by the NYSE and/or the Securities and Exchange Commission (“SEC”). Among other requirements,
+Berkshire’s CEO, as required by Section 303A.12(a) of the NYSE Listing Company Manual, must certify to the NYSE each
+year whether or not he is aware of any violations by the Company of NYSE Corporate Governance listing standards as of the
+date of the certification. On May 14, 2007, Berkshire’s CEO Warren E. Buffett, submitted such a certification to the NYSE
+which stated that he was not aware of any violation by Berkshire of the NYSE Corporate Governance listing standards.
+On February 29, 2008, Berkshire filed its 2007 Form 10-K with the SEC. The Form 10-K included as Exhibits 31.1 and
+31.2 the required CEO and CFO Sarbanes-Oxley Act Section 302 certifications.
+MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+Management of Berkshire Hathaway Inc. is responsible for establishing and maintaining adequate internal control over
+financial reporting, as such term is defined in the Securities Exchange Act of 1934 Rule 13a-15(f). Under the supervision and
+with the participation of our management, including our principal executive officer and principal financial officer, we conducted
+an evaluation of the effectiveness of the Company’s internal control over financial reporting as of December 31, 2008 as
+required by the Securities Exchange Act of 1934 Rule 13a-15(c). In making this assessment, we used the criteria set forth in the
+framework in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission. Based on our evaluation under the framework in Internal Control — Integrated Framework, our management
+concluded that our internal control over financial reporting was effective as of December 31, 2008.
+The effectiveness of our internal control over financial reporting as of December 31, 2008 has been audited by Deloitte &
+Touche LLP, an independent registered public accounting firm, as stated in their report which appears on the following page.
+Berkshire Hathaway Inc.
+February 27, 2009
+24
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Shareholders of
+Berkshire Hathaway Inc.
+We have audited the accompanying consolidated balance sheets of Berkshire Hathaway Inc. and subsidiaries (the
+“Company”) as of December 31, 2008 and 2007, and the related consolidated statements of earnings, cash flows and changes in
+shareholders’ equity and comprehensive income for each of the three years in the period ended December 31, 2008. We also
+have audited the Company’s internal control over financial reporting as of December 31, 2008, based on criteria established in
+Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+The Company’s management is responsible for these financial statements, for maintaining effective internal control over
+financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the
+accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion
+on these financial statements and an opinion on the Company’s internal control over financial reporting based on our audits.
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement and whether effective internal control over financial reporting was maintained in all
+material respects. Our audits of the financial statements included examining, on a test basis, evidence supporting the amounts
+and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. Our audit of internal control over financial reporting
+included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness
+exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our
+audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our
+audits provide a reasonable basis for our opinions.
+A company’s internal control over financial reporting is a process designed by, or under the supervision of, the company’s
+principal executive and principal financial officers, or persons performing similar functions, and effected by the company’s
+board of directors, management, and other personnel to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the
+maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of
+the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable
+assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that
+could have a material effect on the financial statements.
+Because of the inherent limitations of internal control over financial reporting, including the possibility of collusion or
+improper management override of controls, material misstatements due to error or fraud may not be prevented or detected on a
+timely basis. Also, projections of any evaluation of the effectiveness of the internal control over financial reporting to future
+periods are subject to the risk that the controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial
+position of Berkshire Hathaway Inc. and subsidiaries as of December 31, 2008 and 2007, and the results of their operations and
+their cash flows for each of the three years in the period ended December 31, 2008, in conformity with accounting principles
+generally accepted in the United States of America. Also, in our opinion, the Company maintained, in all material respects,
+effective internal control over financial reporting as of December 31, 2008, based on the criteria established in Internal Control
+— Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+DELOITTE & TOUCHE LLP
+Omaha, Nebraska
+February 27, 2009
+25
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+Selected Financial Data for the Past Five Years
+(dollars in millions except per share data)
+2008
+2007
+2006
+2005
+2004
+$ 25,525
+65,854
+13,971
+4,966
+$ 31,783
+58,243
+12,628
+4,979
+$ 23,964
+51,803
+10,644
+4,382
+$ 21,997
+46,138
+—
+3,487
+$ 21,085
+43,222
+—
+2,816
+4,931
+(7,461)
+5,103
+5,509
+5,111
+2,635
+4,633
+5,408
+3,788
+3,471
+$107,786
+$118,245
+$ 98,539
+$ 81,663
+$ 74,382
+Earnings:
+Net earnings (3) ( 4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+4,994
+$ 13,213
+$ 11,015
+$
+8,528
+$
+7,308
+Net earnings per share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+3,224
+$
+$
+$
+5,538
+$
+4,753
+Revenues:
+Insurance premiums earned (1) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Sales and service revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Revenues of utilities and energy businesses (2) . . . . . . . . . . . . . .
+Interest, dividend and other investment income . . . . . . . . . . . . .
+Interest and other revenues of finance and financial products
+businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investment and derivative gains/losses (3) . . . . . . . . . . . . . . . . . .
+Total revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8,548
+7,144
+Year-end data:
+Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $267,399 $273,160 $248,437 $198,325 $188,874
+Notes payable and other borrowings:
+Insurance and other non-finance businesses . . . . . . . . . . . .
+4,349
+2,680
+3,698
+3,583
+3,450
+Utilities and energy businesses (2) . . . . . . . . . . . . . . . . . . . .
+19,145
+19,002
+16,946
+—
+—
+Finance and financial products businesses . . . . . . . . . . . . . .
+13,388
+12,144
+11,961
+10,868
+5,387
+Shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+109,267
+120,733
+108,419
+91,484
+85,900
+Class A equivalent common shares outstanding, in thousands . .
+1,549
+1,548
+1,543
+1,541
+1,539
+Shareholders’ equity per outstanding Class A equivalent
+common share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 70,530 $ 78,008 $ 70,281 $ 59,377 $ 55,824
+(1)
+Insurance premiums earned in 2007 included $7.1 billion from a single reinsurance transaction with Equitas.
+(2)
+On February 9, 2006, Berkshire Hathaway converted its non-voting preferred stock of MidAmerican Energy Holdings
+Company (“MidAmerican”) to common stock and upon conversion, owned approximately 83.4% (80.5% diluted) of the
+voting common stock interests. Accordingly, the Consolidated Financial Statements for each of the last three years reflect
+the consolidation of the accounts of MidAmerican. Berkshire’s investment in MidAmerican was accounted for pursuant to
+the equity method in 2004 and 2005.
+(3)
+The amount of investment and derivative gains and losses for any given period has no predictive value, and variations in
+amount from period to period have no practical analytical value. After-tax investment and derivative gains/losses were
+$(4.65) billion in 2008, $3.58 billion in 2007, $1.71 billion in 2006, $3.53 billion in 2005 and $2.26 billion in 2004.
+Investment and derivative gains/losses in 2008 include non-cash pre-tax losses of $5.0 billion ($3.25 billion after-tax)
+relating to long duration equity index put option contracts and $1.8 billion ($1.2 billion after-tax) relating to other-thantemporary impairments of certain investment securities. Investment and derivative gains/losses in 2005 include a non-cash
+pre-tax gain of $5.0 billion ($3.25 billion after-tax) relating to the exchange of Gillette stock for Procter & Gamble stock.
+(4)
+Net earnings for the year ended December 31, 2005 includes a pre-tax underwriting loss of $3.4 billion in connection with
+Hurricanes Katrina, Rita and Wilma that struck the Gulf coast and Southeast regions of the United States. Such loss
+reduced net earnings by approximately $2.2 billion.
+26
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED BALANCE SHEETS
+(dollars in millions except per share amounts)
+December 31,
+2008
+2007
+ASSETS
+Insurance and Other:
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investments:
+Fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Loans and receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Property, plant, equipment and assets held for lease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deferred charges reinsurance assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and Energy:
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and Financial Products:
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Insurance and Other:
+Losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Unearned premiums . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Life and health insurance benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other policyholder liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accounts payable, accruals and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and Energy:
+Accounts payable, accruals and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and Financial Products:
+Accounts payable, accruals and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative contract liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes, principally deferred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Minority shareholders’ interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shareholders’ equity:
+Common stock: Class A, $5 par value; Class B, $0.1667 par value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Capital in excess of par value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accumulated other comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Total shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+See accompanying Notes to Consolidated Financial Statements
+27
+$ 24,302
+$ 37,703
+27,115
+49,073
+21,535
+14,925
+7,500
+16,703
+27,477
+3,923
+9,334
+201,887
+28,515
+74,999
+—
+13,157
+5,793
+9,969
+26,306
+3,987
+7,797
+208,226
+280
+28,454
+5,280
+7,556
+41,570
+1,178
+26,221
+5,543
+6,246
+39,188
+957
+4,517
+13,942
+1,024
+3,502
+23,942
+$267,399
+5,448
+3,056
+12,359
+1,013
+3,870
+25,746
+$273,160
+$ 56,620
+7,861
+3,619
+3,243
+11,744
+4,349
+87,436
+$ 56,002
+6,680
+3,804
+4,089
+10,672
+2,680
+83,927
+6,303
+19,145
+25,448
+6,043
+19,002
+25,045
+2,656
+14,612
+13,388
+30,656
+10,280
+153,820
+4,312
+2,931
+6,887
+12,144
+21,962
+18,825
+149,759
+2,668
+8
+27,133
+3,954
+78,172
+109,267
+$267,399
+8
+26,952
+21,620
+72,153
+120,733
+$273,160
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF EARNINGS
+(dollars in millions except per share amounts)
+2008
+Revenues:
+Insurance and Other:
+Insurance premiums earned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $
+Sales and service revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest, dividend and other investment income . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investment gains/losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and Energy:
+Operating revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and Financial Products:
+Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investment gains/losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative gains/losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Costs and expenses:
+Insurance and Other:
+Insurance losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Life and health insurance benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Insurance underwriting expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cost of sales and services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Selling, general and administrative expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and Energy:
+Cost of sales and operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Year Ended December 31,
+2007
+2006
+25,525 $ 31,783 $
+65,854
+58,243
+4,966
+4,979
+(647)
+5,405
+95,698
+100,410
+23,964
+51,803
+4,382
+1,697
+81,846
+12,668
+1,303
+13,971
+12,376
+252
+12,628
+10,301
+343
+10,644
+1,790
+7
+(6,821)
+3,141
+(1,883)
+107,786
+1,717
+193
+(89)
+3,386
+5,207
+118,245
+1,610
+114
+824
+3,501
+6,049
+98,539
+16,259
+1,840
+4,634
+54,103
+8,052
+156
+85,044
+21,010
+1,786
+5,613
+47,477
+7,098
+164
+83,148
+13,068
+1,618
+5,440
+42,416
+5,932
+195
+68,669
+9,840
+1,168
+11,008
+9,696
+1,158
+10,854
+8,189
+979
+9,168
+588
+3,494
+4,082
+98,084
+20,161
+6,594
+354
+13,213 $
+550
+3,374
+3,924
+81,761
+16,778
+5,505
+258
+11,015
+Finance and Financial Products:
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+639
+3,521
+4,160
+100,212
+Earnings before income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . .
+7,574
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,978
+Minority shareholders’ interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+602
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $
+4,994 $
+Average common shares outstanding * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net earnings per common share * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,548,960
+3,224
+$
+$
+1,545,751
+1,541,807
+8,548 $
+7,144
+* Average shares outstanding include average Class A common shares and average Class B common shares determined on an
+equivalent Class A common stock basis. Net earnings per common share shown above represents net earnings per equivalent
+Class A common share. Net earnings per Class B common share is equal to one-thirtieth (1/30) of such amount or $107 per
+share for 2008, $285 per share for 2007 and $238 per share for 2006.
+See accompanying Notes to Consolidated Financial Statements
+28
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in millions)
+Year Ended December 31,
+2008
+2007
+2006
+Cash flows from operating activities:
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 4,994 $ 13,213 $ 11,015
+Adjustments to reconcile net earnings to operating cash flows:
+Investment (gains) losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+640
+(5,598)
+(1,811)
+Depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,810
+2,407
+2,066
+Minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+602
+354
+258
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1,248)
+(268)
+(627)
+Changes in operating assets and liabilities before business acquisitions:
+Losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,466
+(1,164)
+(2,704)
+Deferred charges reinsurance assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+196
+424
+Unearned premiums . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,311
+(713)
+637
+Receivables and originated loans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2,222)
+(977)
+(59)
+Derivative contract assets and liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,827
+2,938
+(563)
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2,057)
+553
+303
+Other assets and liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2,935)
+1,609
+1,256
+Net cash flows from operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11,252
+12,550
+10,195
+Cash flows from investing activities:
+Purchases of fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(35,615) (13,394)
+(7,747)
+Purchases of equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (10,140) (19,111)
+(9,173)
+Purchases of other investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (14,452)
+—
+—
+Sales of fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14,796
+7,821
+1,818
+Redemptions and maturities of fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18,550
+9,158
+10,313
+Sales of equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,840
+8,054
+3,778
+Purchases of loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1,446)
+(1,008)
+(365)
+Principal collections on loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+740
+1,229
+985
+Acquisitions of businesses, net of cash acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6,050)
+(1,602) (10,132)
+Purchases of property, plant and equipment and assets held for lease . . . . . . . . . . . . . . . .
+(6,138)
+(5,373)
+(4,571)
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+849
+798
+1,017
+Net cash flows from investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(32,066) (13,428) (14,077)
+Cash flows from financing activities:
+Proceeds from borrowings of finance businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,195
+1,153
+1,280
+Proceeds from borrowings of utilities and energy businesses . . . . . . . . . . . . . . . . . . . . . . .
+2,147
+3,538
+2,417
+Proceeds from other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+134
+121
+215
+Repayments of borrowings of finance businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3,861)
+(1,093)
+(244)
+Repayments of borrowings of utilities and energy businesses . . . . . . . . . . . . . . . . . . . . . . .
+(2,147)
+(1,149)
+(516)
+Repayments of other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(233)
+(995)
+(991)
+Changes in short term borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,183
+(596)
+245
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(132)
+387
+84
+Net cash flows from financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,286
+1,366
+2,490
+Effects of foreign currency exchange rate changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(262)
+98
+117
+Increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18,790)
+586
+(1,275)
+Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44,329
+43,743
+45,018
+Cash and cash equivalents at end of year * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 25,539 $ 44,329 $ 43,743
+* Cash and cash equivalents at end of year are comprised of the following:
+Insurance and Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 24,302
+Utilities and Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+280
+Finance and Financial Products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+957
+$ 25,539
+See accompanying Notes to Consolidated Financial Statements
+29
+$ 37,703
+1,178
+5,448
+$ 44,329
+$ 37,977
+343
+5,423
+$ 43,743
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+AND COMPREHENSIVE INCOME
+(dollars in millions)
+Year Ended December 31,
+2008
+2007
+2006
+Class A & B Common Stock
+Balance at beginning and end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+Capital in Excess of Par Value
+Balance at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Issuance of Class A and B shares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 26,952 $26,522
+181
+430
+$26,399
+123
+$ 27,133
+$26,952
+$26,522
+$ 72,153 $58,912
+—
+28
+4,994
+13,213
+$47,717
+180
+11,015
+Balance at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Retained Earnings
+Balance at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Adoption of new accounting pronouncements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+$
+8
+$
+8
+Adoption of equity method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+77,147
+1,025
+72,153
+—
+58,912
+—
+Balance at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 78,172
+$72,153
+$58,912
+Accumulated Other Comprehensive Income
+Unrealized appreciation of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $(23,342) $ 2,523 $ 9,278
+Applicable income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8,257
+(872) (3,246)
+Reclassification adjustment of investment appreciation included in net earnings . . . . . . . . .
+895
+(5,494) (1,646)
+Applicable income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(313)
+1,923
+576
+Foreign currency translation adjustments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2,140)
+456
+603
+Applicable income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+118
+(26)
+1
+Prior service cost and actuarial gains/losses of defined benefit plans . . . . . . . . . . . . . . . . . .
+(1,071)
+257
+563
+Applicable income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+389
+(102)
+(196)
+Other, including minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(60)
+(22)
+(13)
+Other comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accumulated other comprehensive income at beginning of year . . . . . . . . . . . . . . . . . . . . . .
+Adoption of equity method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Adoption of SFAS 158 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17,267)
+21,620
+(399)
+—
+(1,357)
+22,977
+—
+—
+5,920
+17,360
+—
+(303)
+Accumulated other comprehensive income at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 3,954
+$21,620
+$22,977
+Comprehensive Income
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 4,994 $13,213 $11,015
+Other comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17,267) (1,357)
+5,920
+Total comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+See accompanying Notes to Consolidated Financial Statements
+30
+$(12,273) $11,856
+$16,935
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2008
+(1) Significant accounting policies and practices
+(a) Nature of operations and basis of consolidation
+Berkshire Hathaway Inc. (“Berkshire” or “Company”) is a holding company owning subsidiaries engaged in a number
+of diverse business activities, including property and casualty insurance and reinsurance, utilities and energy, finance,
+manufacturing, service and retailing. Further information regarding these businesses and Berkshire’s reportable
+business segments is contained in Note 21. Berkshire consummated a number of business acquisitions over the past
+three years which are discussed in Note 2.
+The accompanying Consolidated Financial Statements include the accounts of Berkshire consolidated with the
+accounts of all of its subsidiaries and affiliates in which Berkshire holds a controlling financial interest as of the
+financial statement date. Normally a controlling financial interest reflects ownership of a majority of the voting
+interests. Other factors considered in determining whether a controlling financial interest is held include whether
+Berkshire possesses the authority to purchase or sell assets or make other operating decisions that significantly affect
+the entity’s results of operations and whether Berkshire bears a majority of the financial risks of the entity.
+Intercompany accounts and transactions have been eliminated. Certain amounts in prior year presentations have been
+reclassified to conform with the current year presentation.
+(b) Use of estimates in preparation of financial statements
+The preparation of the Consolidated Financial Statements in conformity with accounting principles generally accepted
+in the United States of America (“GAAP”) requires management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenues
+and expenses during the period. In particular, estimates of unpaid losses and loss adjustment expenses and related
+recoverables under reinsurance for property and casualty insurance are subject to considerable estimation error due to
+the inherent uncertainty in projecting ultimate claim amounts that will be settled over many years. In addition,
+estimates and assumptions associated with the amortization of deferred charges reinsurance assumed, determinations
+of fair value of certain financial instruments and the determinations of goodwill impairments require considerable
+judgment by management. Actual results may differ from the estimates used in preparing the Consolidated Financial
+Statements.
+(c) Cash and cash equivalents
+Cash equivalents consist of funds invested in U.S. Treasury Bills, money market accounts and in other investments
+with a maturity of three months or less when purchased. Cash and cash equivalents exclude amounts where
+availability is restricted by loan agreements or other contractual provisions. Restricted amounts are included in other
+assets.
+(d) Investments
+Berkshire’s management determines the appropriate classifications of investments in fixed maturity and equity
+securities at the acquisition date and re-evaluates the classifications at each balance sheet date. Held-to-maturity
+investments are carried at amortized cost, reflecting the ability and intent to hold the securities to maturity. Trading
+investments are carried at fair value and include securities acquired with the intent to sell in the near term. All other
+securities are classified as available-for-sale and are carried at fair value with net unrealized gains or losses reported
+as a component of accumulated other comprehensive income.
+Investment gains and losses arise when investments are sold (as determined on a specific identification basis) or are
+other-than-temporarily impaired. If in management’s judgment a decline in the value of an investment below cost is
+other than temporary, the cost of the investment is written down to fair value with a corresponding charge to earnings.
+Factors considered in judging whether an impairment is other than temporary include: the financial condition,
+business prospects and creditworthiness of the issuer, the length of time that fair value has been less than cost, the
+relative amount of the decline and Berkshire’s ability and intent to hold the investment until the fair value recovers.
+Berkshire utilizes the equity method of accounting with respect to investments when it has the ability to exercise
+significant influence, but not control, over the operating and financial policies of the investee. The ability to exercise
+31
+Notes to Consolidated Financial Statements (Continued)
+(1) Significant accounting policies and practices (Continued)
+(d) Investments (Continued)
+significant influence is presumed when an investor possesses more than 20% of the voting interests of the investee.
+This presumption may be overcome based on specific facts and circumstances that demonstrate that the ability to
+exercise significant influence is restricted. Berkshire applies the equity method to investments in common stock and to
+other investments when such other investments possess substantially identical subordinated interests to common
+stock. In applying the equity method with respect to investments previously accounted for at cost or fair value, the
+carrying value of the investment is adjusted on a step-by-step basis as if the equity method had been applied from the
+time the investment was first acquired.
+In applying the equity method, Berkshire records the investment at cost and subsequently increases or decreases the
+investment by its proportionate share of the net earnings or losses and other comprehensive income of the investee.
+Dividends or other equity distributions are recorded as reductions in the carrying value of the investment. In the event
+that net losses of the investee have reduced the equity method investment to zero, additional net losses may be
+recorded if other investments in the investee are at-risk, even if Berkshire has not committed to provide financial
+support to the investee. Such additional equity method losses, if any, are based upon the change in Berkshire’s claim
+on the investee’s book value.
+(e) Loans and finance receivables
+Loans and finance receivables consist of commercial and consumer loans originated or purchased. Loans and finance
+receivables are stated at amortized cost less allowances for uncollectible accounts based on Berkshire’s ability and
+intent to hold such loans and receivables to maturity. Amortized cost represents acquisition cost, plus or minus
+origination and commitment costs paid or fees received, which together with acquisition premiums or discounts are
+deferred and amortized as yield adjustments over the life of the loan.
+Allowances for estimated losses from uncollectible loans are recorded when it is probable that the counterparty will be
+unable to pay all amounts due according to the terms of the loan. Allowances are provided on aggregations of
+consumer loans with similar characteristics and terms based upon historical loss and recovery experience, delinquency
+rates and current economic conditions. Provisions for loan losses are included in the Consolidated Statements of
+Earnings.
+(f)
+Derivatives
+Derivative contracts are carried at estimated fair value and are classified as assets or liabilities in the accompanying
+Consolidated Balance Sheets. Such balances reflect reductions permitted under master netting agreements with
+counterparties. The changes in fair value of derivative contracts that do not qualify as hedging instruments for
+financial reporting purposes are included in the Consolidated Statements of Earnings as derivative gains/losses.
+Cash collateral received from or paid to counterparties to secure derivative contract assets or liabilities is included in
+other liabilities or assets of finance and financial products businesses in the Consolidated Balance Sheets. Securities
+received from counterparties as collateral are not recorded as assets and securities delivered to counterparties as
+collateral continue to be reflected as assets in the Consolidated Balance Sheets.
+(g) Fair value measurements
+As defined under SFAS No. 157, “Fair Value Measurements” (“SFAS 157”), fair value is the price that would be
+received to sell an asset or paid to transfer a liability between market participants in the principal market or in the
+most advantageous market when no principal market exists. Market participants are assumed to be independent,
+knowledgeable, able and willing to transact an exchange and not under duress. Nonperformance or credit risk is
+considered when determining the fair value of liabilities. Considerable judgment may be required in interpreting
+market data used to develop the estimates of fair value. Accordingly, estimates of fair value presented herein are not
+necessarily indicative of the amounts that could be realized in a current or future market exchange.
+(h) Inventories
+Inventories consist of manufactured goods and purchased goods acquired for resale. Manufactured inventory costs
+include raw materials, direct and indirect labor and factory overhead. Inventories are stated at the lower of cost or
+32
+Notes to Consolidated Financial Statements (Continued)
+(1) Significant accounting policies and practices (Continued)
+(h) Inventories (Continued)
+market. As of December 31, 2008, approximately 40% of the total inventory cost was determined using the
+last-in-first-out (“LIFO”) method, 35% using the first-in-first-out (“FIFO”) method, with the remainder using the
+specific identification method and average cost methods. With respect to inventories carried at LIFO cost, the
+aggregate difference in value between LIFO cost and cost determined under FIFO methods was $607 million and
+$331 million as of December 31, 2008 and 2007, respectively.
+(i)
+Property, plant and equipment and assets held for lease
+Additions to property, plant and equipment and assets held for lease are recorded at cost. The cost of major additions
+and betterments are capitalized, while replacements, maintenance and repairs that do not improve or extend the useful
+lives of the related assets are expensed as incurred. Interest over the construction period is capitalized as a component
+of cost of constructed assets. In addition, the cost of constructed assets of certain domestic regulated utility and energy
+subsidiaries that are subject to SFAS No. 71, “Accounting for the Effects of Certain Types of Regulation” (“SFAS
+71”) includes the capitalization of the estimated cost of capital incurred during the construction period. Also see
+Note 1(o).
+Depreciation is provided principally on the straight-line method over estimated useful lives. Depreciation of assets of
+certain regulated utility and energy subsidiaries is provided over recovery periods based on composite asset class lives
+as agreed to by regulators.
+Property, plant and equipment and assets held for lease are evaluated for impairment when events or changes in
+circumstances indicate that the carrying value of such assets may not be recoverable or the assets meet the criteria of
+held for sale. Upon the occurrence of a triggering event, the asset is reviewed to assess whether the estimated
+undiscounted cash flows expected from the use of the asset plus residual value from the ultimate disposal exceeds the
+carrying value of the asset. If the carrying value exceeds the estimated recoverable amounts, the asset is written down
+to the estimated discounted present value of the expected future cash flows from using the asset. Impairment losses
+are reflected in the Consolidated Statements of Earnings, except with respect to impairments of assets of certain
+domestic regulated utility and energy subsidiaries where losses are offset by the establishment of a regulatory asset to
+the extent recovery in future rates is probable.
+(j)
+Goodwill
+Goodwill represents the excess of the purchase price over the fair value of identifiable net assets acquired in business
+acquisitions. Goodwill is evaluated for impairment at least annually. Evaluating goodwill for impairment involves a
+two-step process. The first step is to estimate the fair value of the reporting unit. If the carrying amount of a reporting
+unit, including goodwill, exceeds the estimated fair value, a second step is performed. Under the second step, the
+identifiable assets, including identifiable intangible assets, and liabilities of the reporting unit are estimated at fair
+value as of the current testing date. The excess of the estimated fair value of the reporting unit over the estimated fair
+value of net assets establishes the implied value of goodwill. The excess of the recorded goodwill over the implied
+value is charged to earnings as an impairment loss. A significant amount of judgment is required in estimating the fair
+value of the reporting unit and performing goodwill impairment tests.
+(k) Revenue recognition
+Insurance premiums for prospective property/casualty insurance and reinsurance and health reinsurance policies are
+earned in proportion to the level of protection provided. In most cases, premiums are recognized as revenues ratably
+over the term of the contract with unearned premiums computed on a monthly or daily pro rata basis. Premiums for
+retroactive reinsurance property/casualty policies are earned at the inception of the contracts. Premiums for life
+reinsurance contracts are earned when due. Premiums earned are stated net of amounts ceded to reinsurers. Premiums
+are estimated with respect to certain reinsurance contracts where reports from ceding companies for the period are not
+contractually due until after the balance sheet date. For contracts containing experience rating provisions, premiums
+are based upon estimated loss experience under the contract.
+Sales revenues derive from the sales of manufactured products and goods acquired for resale. Revenues from sales are
+recognized upon passage of title to the customer, which generally coincides with customer pickup, product delivery or
+acceptance, depending on terms of the sales arrangement.
+33
+Notes to Consolidated Financial Statements (Continued)
+(1) Significant accounting policies and practices (Continued)
+(k) Revenue recognition (Continued)
+Service revenues derive primarily from pilot training and flight operations and flight management activities. Service
+revenues are recognized as the services are performed. Services provided pursuant to a contract are either recognized
+over the contract period or upon completion of the elements specified in the contract depending on the terms of the
+contract. Revenues related to the sales of fractional ownership interests in aircraft are recognized ratably over the term
+of the related management services agreement as the transfer of ownership interest in the aircraft is inseparable from
+the management services agreement.
+Interest income from investments in bonds and loans is earned under the constant yield method and includes accrual
+of interest due under terms of the bond or loan agreement as well as amortization of acquisition premiums and
+accruable discounts. In determining the constant yield for mortgage-backed securities, anticipated counterparty
+prepayments are estimated and evaluated periodically. Dividends from equity securities are earned on the ex-dividend
+date.
+Operating revenue of utilities and energy businesses resulting from the distribution and sale of natural gas and
+electricity to customers is recognized when the service is rendered or the energy is delivered. Amounts recognized
+include unbilled as well as billed amounts. Rates charged are generally subject to Federal and state regulation or
+established under contractual arrangements. When preliminary rates are permitted to be billed prior to final approval
+by the applicable regulator, certain revenue collected may be subject to refund and a liability for estimated refunds is
+accrued.
+(l)
+Losses and loss adjustment expenses
+Liabilities for unpaid losses and loss adjustment expenses represent estimated claim and claim settlement costs of
+property/casualty insurance and reinsurance contracts with respect to losses that have occurred as of the balance sheet
+date. The liabilities for losses and loss adjustment expenses are recorded at the estimated ultimate payment amounts,
+except that amounts arising from certain workers’ compensation reinsurance business are discounted as discussed
+below. Estimated ultimate payment amounts are based upon (1) individual case estimates, (2) reports of losses from
+policyholders and (3) estimates of incurred but not reported losses.
+Provisions for losses and loss adjustment expenses are reported in the accompanying Consolidated Statements of
+Earnings after deducting amounts recovered and estimates of amounts recoverable under reinsurance contracts.
+Reinsurance contracts do not relieve the ceding company of its obligations to indemnify policyholders with respect to
+the underlying insurance and reinsurance contracts.
+The estimated liabilities of workers’ compensation claims assumed under certain reinsurance contracts are carried in
+the Consolidated Balance Sheets at discounted amounts. Discounted amounts are based upon an annual discount rate
+of 4.5% for claims arising prior to 2003 and 1% for claims arising after 2002, consistent with discount rates used
+under statutory accounting principles. The periodic discount accretion is included in the Consolidated Statements of
+Earnings as a component of losses and loss adjustment expenses.
+(m) Deferred charges reinsurance assumed
+The excess of estimated liabilities for claims and claim costs over the consideration received with respect to
+retroactive property and casualty reinsurance contracts that provide for indemnification of insurance risk is established
+as deferred charges at inception of such contracts. The deferred charges are subsequently amortized using the interest
+method over the expected claim settlement periods. Changes to the estimated timing or amount of loss payments
+produce changes in periodic amortization. Such changes in estimates are determined retrospectively and are included
+in insurance losses and loss adjustment expenses in the period of the change.
+(n) Insurance premium acquisition costs
+Costs that vary with and are related to the issuance of insurance policies are deferred, subject to ultimate recoverability,
+and are charged to underwriting expenses as the related premiums are earned. Acquisition costs consist of commissions,
+premium taxes, advertising and other underwriting costs. The recoverability of premium acquisition costs generally
+reflects anticipation of investment income. The unamortized balances of deferred premium acquisition costs are included
+in other assets and were $1,698 million and $1,519 million at December 31, 2008 and 2007, respectively.
+34
+Notes to Consolidated Financial Statements (Continued)
+(1) Significant accounting policies and practices (Continued)
+(o) Regulated utilities and energy businesses
+Certain domestic energy subsidiaries prepare their financial statements in accordance with SFAS 71, reflecting the
+economic effects from the ability to recover certain costs from customers and the requirement to return revenues to
+customers in the future through the regulated rate-setting process. Accordingly, certain costs are deferred as regulatory
+assets and obligations are accrued as regulatory liabilities which will be amortized over various future periods. At
+December 31, 2008, the Consolidated Balance Sheet includes $2,156 million in regulatory assets and $1,506 million
+in regulatory liabilities. At December 31, 2007, the Consolidated Balance Sheet includes $1,503 million in regulatory
+assets and $1,629 million in regulatory liabilities. Regulatory assets and liabilities are components of other assets and
+other liabilities of utilities and energy businesses.
+Management continually assesses whether the regulatory assets are probable of future recovery by considering factors
+such as applicable regulatory changes, recent rate orders received by other regulated entities and the status of any
+pending or potential legislation. If future recovery of costs ceases to be probable, the amount no longer probable of
+recovery is charged to earnings.
+(p) Foreign currency
+The accounts of foreign-based subsidiaries are measured in most instances using the local currency of the subsidiary
+as the functional currency. Revenues and expenses of these businesses are generally translated into U.S. Dollars at the
+average exchange rate for the period. Assets and liabilities are translated at the exchange rate as of the end of the
+reporting period. Gains or losses from translating the financial statements of foreign-based operations are included in
+shareholders’ equity as a component of accumulated other comprehensive income. Gains and losses arising from
+transactions denominated in a currency other than the functional currency of Berkshire or the applicable subsidiary of
+Berkshire are included in the Consolidated Statements of Earnings except that gains or losses associated with
+available-for-sale securities are included as a component of other comprehensive income.
+(q) Income taxes
+Berkshire and eligible subsidiaries file a consolidated Federal income tax return in the United States. In addition,
+Berkshire and subsidiaries also file income tax returns in state, local and foreign jurisdictions as applicable. Provisions
+for current income tax liabilities are calculated and accrued on income and expense amounts expected to be included
+in the income tax returns for the current year.
+Deferred income taxes are calculated under the liability method. Deferred income tax assets and liabilities are based
+on differences between the financial statement and tax bases of assets and liabilities at the current enacted tax rates.
+Changes in deferred income tax assets and liabilities that are associated with components of other comprehensive
+income are charged or credited directly to other comprehensive income. Otherwise, changes in deferred income tax
+assets and liabilities are included as a component of income tax expense. Changes in deferred income tax assets and
+liabilities attributable to changes in enacted tax rates are charged or credited to income tax expense in the period of
+enactment. Valuation allowances are established for certain deferred tax assets where realization is not likely.
+Assets and liabilities are established for uncertain tax positions taken or positions expected to be taken in income tax
+returns when such positions are judged to not meet the “more-likely-than-not” threshold based on the technical merits
+of the positions. Estimated interest and penalties related to uncertain tax positions are included as a component of
+income tax expense.
+(r) Accounting pronouncements adopted in 2008 and 2007
+Effective January 1, 2008, Berkshire adopted the provisions of SFAS 157 with respect to fair value measurements of
+financial assets and liabilities. In October 2008, the FASB issued FSP No. 157-3, “Determining the Fair Value of a
+Financial Asset When the Market for That Asset Is Not Active” (“FSP FAS 157-3”), which was effective upon issuance.
+FSP FAS 157-3 clarifies the application of SFAS 157 in a market that is not active. The effect of adopting SFAS 157 was
+not material to Berkshire’s Consolidated Financial Statements.
+Effective January 1, 2008, Berkshire adopted the provisions of SFAS No. 159, “The Fair Value Option for Financial
+Assets and Financial Liabilities — Including an amendment of FASB Statement No. 115” (“SFAS 159”). SFAS 159
+permits entities to elect to measure financial instruments and certain other items at fair value. Upon adoption of SFAS
+35
+Notes to Consolidated Financial Statements (Continued)
+(1) Significant accounting policies and practices (Continued)
+(r) Accounting pronouncements adopted in 2008 and 2007 (Continued)
+159, an entity may elect the fair value option for eligible items that existed at the adoption date. Berkshire did not
+elect the fair value option for any eligible items.
+In September 2008, the FASB issued FSP FAS 133-1 and FIN 45-4 “Disclosures about Derivatives and Certain
+Guarantees” (“FSP FAS 133-1”), which requires sellers of credit derivatives to disclose additional information about
+credit derivatives and is effective for periods ending after November 15, 2008. The adoption of FSP FAS 133-1 had
+no material impact on Berkshire’s Consolidated Financial Statements.
+Effective January 1, 2007, Berkshire adopted FASB Interpretation No. 48 “Accounting for Uncertainty in Income
+Taxes-an interpretation of FASB Statement No. 109” (“FIN 48”). Under FIN 48, a tax position taken is recognized if
+it is determined that the position will “more-likely-than-not” be sustained upon examination by a taxing authority. FIN
+48 also establishes measurement guidance with respect to positions that have met the recognition threshold. The
+cumulative effect of adoption of FIN 48 was a decrease of $24 million in retained earnings.
+Effective January 1, 2007, Berkshire adopted FASB Staff Position No. AUG AIR-1 “Accounting for Planned Major
+Maintenance Activities” (“AUG AIR-1”). AUG AIR-1 prohibits the accrual of liabilities in periods before the maintenance
+is performed. Berkshire elected to use the direct expense method where maintenance costs are expensed as incurred.
+Previously, certain maintenance costs related to the fractional aircraft ownership business were accrued in advance. The
+cumulative effect of this accounting change of $52 million was recorded as an increase in retained earnings.
+(s) Accounting pronouncements to be adopted in the future
+In December 2007, the FASB issued SFAS No. 141 (revised 2007), “Business Combinations” (“SFAS 141R”). SFAS
+141R changes the accounting model for business combinations from a cost allocation standard to a standard that
+provides, with limited exceptions, for the recognition at fair value of all identifiable assets and liabilities (including
+contingent assets and liabilities) of the business acquired, regardless of whether 100% or a lesser controlling interest
+of the business is acquired. SFAS 141R defines the acquisition date of a business acquisition as the date on which
+control is achieved (generally the closing date of the acquisition). SFAS 141R also provides that acquisition costs are
+expensed when incurred and expands disclosures. SFAS 141R is effective for Berkshire with respect to business
+acquisitions completed after December 31, 2008.
+In December 2007, the FASB issued SFAS No. 160, “Noncontrolling Interests in Consolidated Financial Statements
+an amendment of ARB No. 51” (“SFAS 160”). SFAS 160 establishes accounting and reporting standards for
+non-controlling interests in consolidated subsidiaries (formerly “minority interests”). SFAS 160 also amends certain
+consolidation procedures for consistency with SFAS 141R. Under SFAS 160, non-controlling interests are reported in
+the consolidated balance sheet as a separate component of shareholders’ equity. Changes in ownership interests where
+the parent retains a controlling interest are to be reported as transactions affecting shareholders’ equity. Prior to the
+effective date of SFAS 160, such transactions were reported as additional investment purchases (potentially resulting
+in recognition of additional assets) or as sales (potentially resulting in realized gains or losses). SFAS 160 is effective
+for Berkshire as of January 1, 2009. When adopted, SFAS 160 is applied prospectively except that the presentation
+and disclosure requirements are applied retrospectively for all periods presented.
+In March 2008, the FASB issued SFAS No. 161, “Disclosures about Derivative Instruments and Hedging Activities
+— an amendment of FASB Statement No. 133” (“SFAS 161”). SFAS 161 requires enhanced disclosures about
+(a) how and why derivative instruments are used, (b) how derivative instruments and related hedged items are
+accounted for and (c) how derivative instruments and related hedged items affect an entity’s financial position,
+financial performance and cash flows. SFAS 161 is effective for financial statements issued for fiscal years and
+interim periods beginning after November 15, 2008.
+In May 2008, the FASB issued SFAS No. 163, “Accounting for Financial Guarantee Insurance Contracts” (“SFAS
+163”). SFAS 163 clarifies accounting standards applicable to financial guarantee insurance contracts and specifies
+certain disclosures. SFAS 163 is effective for financial statements issued for fiscal years beginning after December 15,
+2008, except certain disclosures were effective for periods beginning after June 30, 2008.
+Berkshire is continuing to evaluate the impact that these new accounting standards will have on its consolidated
+financial statements but currently does not anticipate that the adoption of these accounting pronouncements will have
+a material effect on its consolidated financial position.
+36
+Notes to Consolidated Financial Statements (Continued)
+(2) Significant business acquisitions
+Berkshire’s long-held acquisition strategy is to purchase businesses with consistent earning power, good returns on equity
+and able and honest management at sensible prices. During the last three years, Berkshire acquired several businesses which are
+described in the following paragraphs.
+On February 28, 2006, Berkshire acquired Business Wire, a leading global distributor of corporate news, multimedia and
+regulatory filings. On March 21, 2006, PacifiCorp, a regulated electric utility providing service to customers in six Western
+states, was acquired for approximately $5.1 billion in cash. In conjunction with the acquisition of PacifiCorp, Berkshire
+acquired additional common stock of MidAmerican for $3.4 billion, which increased its ownership interest in MidAmerican
+from approximately 83% to approximately 88%. On May 19, 2006, Berkshire acquired 85% of Applied Underwriters, an
+industry leader in integrated workers’ compensation solutions. On July 5, 2006, Berkshire acquired 80% of the Iscar
+Metalworking Companies (“IMC”) for cash in a transaction that valued IMC at $5 billion. IMC, headquartered in Israel, is an
+industry leader in the metal cutting tools business. IMC provides a comprehensive range of tools for the full scope of
+metalworking applications. IMC’s products are manufactured through a global network of world-class, technologically
+advanced manufacturing facilities and are sold worldwide. On August 2, 2006, Berkshire acquired Russell Corporation, a
+leading branded athletic apparel and sporting goods company. Consideration paid for all businesses acquired in 2006 was
+approximately $10.1 billion.
+On March 30, 2007, Berkshire acquired TTI, Inc., a privately held electronic components distributor headquartered in Fort
+Worth, Texas. TTI, Inc. is a leading distributor specialist of passive, interconnect and electromechanical components. Effective
+April 1, 2007, Berkshire acquired the intimate apparel business of VF Corporation. Berkshire also acquired several other
+relatively smaller businesses during 2007. Consideration paid for all businesses acquired in 2007 was approximately $1.6
+billion.
+On March 18, 2008, Berkshire acquired 60% of Marmon Holdings, Inc. (“Marmon”), a private company owned by trusts
+for the benefit of members of the Pritzker Family of Chicago, for $4.5 billion. In the second quarter of 2008, Berkshire acquired
+additional shares and currently owns 63.6% of Marmon. Under the terms of the purchase agreement, Berkshire will acquire the
+remaining minority interests in Marmon between 2011 and 2014 for consideration to be based on the future earnings of
+Marmon. Berkshire also acquired several other relatively small businesses during 2008. Consideration paid for all businesses
+acquired in 2008 was approximately $6.1 billion.
+Marmon consists of approximately 130 manufacturing and service businesses that operate independently within eleven
+diverse business sectors. These sectors are: Engineered Wire & Cable, serving energy related markets, residential and
+non-residential construction and other industries; Building Wire, producing copper electrical wiring for residential, commercial
+and industrial buildings; Transportation Services & Engineered Products, including railroad tank cars and intermodal tank
+containers; Highway Technologies, primarily serving the heavy-duty highway transportation industry; Distribution Services for
+specialty pipe and steel tubing; Flow Products, producing a variety of metal products and materials for the plumbing, HVAC/R,
+construction and industrial markets; Industrial Products, including metal fasteners, safety products and metal fabrication;
+Construction Services, providing the leasing and operation of mobile cranes primarily to the energy, mining and petrochemical
+markets; Water Treatment equipment for residential, commercial and industrial applications; Retail Store Fixtures, providing
+store fixtures and accessories for major retailers worldwide; and Food Service Equipment, providing food preparation
+equipment and shopping carts for restaurants and retailers worldwide. Marmon operates more than 250 manufacturing,
+distribution and service facilities, primarily in North America, Europe and China. The Marmon purchase price allocation is
+summarized below (in millions).
+Assets:
+Liabilities and net assets acquired:
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . $ 217
+Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . .
+970
+Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+855
+Property, plant and equipment and leased assets . . . . 6,280
+Other, primarily goodwill and intangible assets . . . . 1,875
+Accounts payable and other liabilities . . . . . . . . . . $ 1,040
+Notes payable and other borrowings . . . . . . . . . . .
+1,071
+Income taxes, principally deferred . . . . . . . . . . . .
+1,733
+Minority shareholders’ interest . . . . . . . . . . . . . . .
+1,568
+Net assets acquired . . . . . . . . . . . . . . . . . . . . . . . .
+4,785
+$10,197
+$10,197
+37
+Notes to Consolidated Financial Statements (Continued)
+(2) Significant business acquisitions (Continued)
+The results of operations for each of these businesses are included in Berkshire’s consolidated results from the effective
+date of each acquisition. The following table sets forth certain unaudited pro forma consolidated earnings data for 2008 and
+2007, as if each acquisition occurring during 2008 and 2007 was consummated on the same terms at the beginning of each year.
+Amounts are in millions, except earnings per share.
+Total revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Earnings per equivalent Class A common share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+2007
+$109,180
+5,098
+3,291
+$125,904
+13,326
+8,621
+(3) Investments in fixed maturity securities
+Investments in securities with fixed maturities as of December 31, 2008 and 2007 are shown below (in millions).
+2008
+Insurance and other:
+U.S. Treasury, U.S. government corporations and agencies . . . . . . . . . . . . . . . . . . .
+States, municipalities and political subdivisions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign governments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Corporate bonds and redeemable preferred stocks . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mortgage-backed securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products:
+U.S. Treasury, U.S. government corporations and agencies . . . . . . . . . . . . . . . . . . .
+States, municipalities and political subdivisions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Corporate bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mortgage-backed securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+Insurance and other:
+U.S. Treasury, U.S. government corporations and agencies . . . . . . . . . . . . . . . . . . .
+States, municipalities and political subdivisions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign governments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Corporate bonds and redeemable preferred stocks . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mortgage-backed securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products:
+Corporate bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mortgage-backed securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Amortized
+Cost
+Unrealized
+Gains
+Unrealized
+Losses *
+$ 2,100
+3,192
+9,106
+10,230
+2,990
+$ 123
+242
+343
+373
+70
+$
+$27,618
+$1,151
+$(1,654) $27,115
+$
+7
+1,312
+568
+2,410
+$ —
+—
+21
+268
+$
+—
+$
+7
+—
+1,312
+(68)
+521
+(1)
+2,677
+$ 4,297
+$ 289
+$
+(69) $ 4,517
+$ 3,487
+2,120
+9,529
+8,400
+3,597
+$
+59
+107
+76
+1,187
+62
+$
+—
+$ 3,546
+(3)
+2,224
+(47)
+9,558
+(48)
+9,539
+(11)
+3,648
+$27,133
+$1,491
+$ (109) $28,515
+$
+$
+63
+228
+$
+—
+$ 483
+(1)
+2,748
+$ 291
+$
+(1) $ 3,231
+420
+2,521
+$ 2,941
+Fair
+Value
+(2) $ 2,221
+(5)
+3,429
+(59)
+9,390
+(1,500)
+9,103
+(88)
+2,972
+* Includes gross unrealized losses of $176 million at December 31, 2008 and $60 million at December 31, 2007 related to
+securities that have been in an unrealized loss position for 12 months or more.
+As of December 31, 2008, fixed maturity investments included approximately $2.7 billion (Insurance and other — $1.4
+billion and Finance and financial products — $1.3 billion) of investment grade auction rate bonds and variable rate demand
+notes issued by various municipalities and political subdivisions. The interest rates are periodically reset at up to 35 day
+intervals. While substantially all of these securities are insured by third parties, acquisitions were limited to securities where
+Berkshire concluded that the underlying credit of the issuers was good without the benefit of an insurer’s guarantee.
+38
+Notes to Consolidated Financial Statements (Continued)
+(3) Investments in fixed maturity securities (Continued)
+Approximately 65% of these securities were rated A or higher without the benefit of an insurer guarantee (and approximately
+54% of the remaining securities were not rated on an underlying basis). Berkshire held no investments in these securities as of
+December 31, 2007.
+The amortized cost and estimated fair values of securities with fixed maturities at December 31, 2008 are summarized
+below by contractual maturity dates. Actual maturities will differ from contractual maturities because issuers of certain of the
+securities retain early call or prepayment rights. Amounts are in millions.
+Amortized cost . . . . . . . . . . . . . . . . . . . . .
+Fair value . . . . . . . . . . . . . . . . . . . . . . . . .
+Due 2009
+Due 2010 – 2013
+Due 2014 – 2018
+Due after 2018
+Mortgage-backed
+securities
+Total
+$4,027
+4,091
+$13,239
+13,373
+$4,808
+3,822
+$4,441
+4,697
+$5,400
+5,649
+$31,915
+31,632
+(4) Investments in equity securities
+Investments in equity securities are summarized below (in millions).
+2008
+2007
+Cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gross unrealized gains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gross unrealized losses * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$40,140 $44,695
+14,782
+31,289
+(5,849)
+(985)
+Fair value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$49,073
+$74,999
+* Substantially all of the gross unrealized losses pertain to security positions that have been held for less than 12 months.
+(5) Other Investments
+A summary of other investments as of December 31, 2008 follows (in millions).
+Other fixed maturity and equity investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity method investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cost
+Unrealized
+Gain
+Fair
+Value
+Carrying
+Value
+$14,452
+5,919
+$ 36
+352
+$14,488
+6,271
+$14,675
+6,860
+$20,371
+$388
+$20,759
+$21,535
+During 2008, Berkshire acquired newly issued equity and debt instruments issued by Wm. Wrigley Jr. Company
+(“Wrigley”), The Goldman Sachs Group, Inc. (“GS”) and The General Electric Company (“GE”). These securities are reflected
+in other fixed maturity and equity investments in the preceding table. In addition, Berkshire adopted the equity method with
+respect to its investments in Burlington Northern Santa Fe Corporation (“BNSF”) and Moody’s Corporation (“Moody’s”).
+On October 6, 2008, Berkshire acquired $4.4 billion par amount of 11.45% subordinated notes due 2018 of Wrigley
+(“Wrigley Notes”) and $2.1 billion of preferred stock of Wrigley (“Wrigley Preferred”). The Wrigley Notes and Wrigley
+Preferred were acquired in connection with Mars, Incorporated’s acquisition of Wrigley. Berkshire may not transfer, sell or
+assign the Wrigley Notes or Wrigley Preferred to third parties. Berkshire has classified the Wrigley Notes as “held-to-maturity”
+and accordingly is carrying the Wrigley Notes at cost. Dividends are payable on the Wrigley Preferred at a rate of 5% per
+annum. The Wrigley Preferred is subject to certain put and call arrangements in 2016 and annually beginning in 2021. The
+redemption amount of the Wrigley Preferred is based upon the future earnings of Wrigley.
+On October 1, 2008, Berkshire acquired 50,000 shares of 10% Cumulative Perpetual Preferred Stock of GS (“GS
+Preferred”) and Warrants to purchase 43,478,260 shares of common stock of GS (“GS Warrants”) for an aggregate cost of $5
+billion. The GS Preferred may be redeemed at any time by GS at a price of $110,000 per share ($5.5 billion in aggregate). The
+GS Warrants expire in 2013 and can be exercised for an aggregate cost of $5 billion ($115/share).
+39
+Notes to Consolidated Financial Statements (Continued)
+(5) Other Investments (Continued)
+On October 16, 2008, Berkshire acquired 30,000 shares of 10% Cumulative Perpetual Preferred Stock of GE (“GE
+Preferred”) and Warrants to purchase 134,831,460 shares of common stock of GE (“GE Warrants”) for an aggregate cost of $3
+billion. The GE Preferred may be redeemed beginning in October 2011 by GE at a price of $110,000 per share ($3.3 billion in
+aggregate). The GE Warrants expire in 2013 and can be exercised for an aggregate cost of $3 billion ($22.25/share).
+Berkshire began acquiring common shares of BNSF in 2006 and prior to December 31, 2008 accounted for this investment
+as an available-for-sale equity security recorded in the financial statements at fair value. During the fourth quarter of 2008,
+Berkshire acquired additional shares of BNSF common stock and increased its economic and voting interest to 20.7% (70.1
+million shares) as of December 31, 2008. Accordingly, as of December 31, 2008, Berkshire adopted the equity method of
+accounting with respect to this investment.
+Berkshire has owned 48 million shares of Moody’s common stock since 2000. Prior to December 31, 2008, this investment
+was accounted for as an available-for-sale equity security recorded in the financial statements at fair value. Over the last several
+years, Berkshire’s voting and economic interest has steadily increased due to share repurchases by Moody’s and as of
+December 31, 2008, Berkshire’s voting and economic interest was 20.4%. Accordingly, as of December 31, 2008, Berkshire
+adopted the equity method of accounting with respect to this investment.
+The cumulative effect of adopting the equity method with respect to the investments in Moody’s and BNSF was recorded
+in the financial statements as of December 31, 2008 and prior years’ financial statements have not been restated. As a result of
+adopting the equity method, Berkshire’s shareholders’ equity increased by $626 million as compared to the amount that would
+have been recorded had these investments continued to be recorded at fair value.
+As of December 31, 2008, Berkshire’s equity in net assets of BNSF and Moody’s was $2,106 million and the excess of
+Berkshire’s carrying value over its equity in net assets of BNSF and Moody’s was $4,754 million. BNSF is engaged primarily in
+the freight rail transportation business and operates one of the largest North American rail networks with about 32,000 route
+miles in 28 states and two Canadian provinces. BNSF transports coal and a wide range of consumer, industrial and agricultural
+products. Moody’s is a provider of credit ratings and related research, data and analytical tools, quantitative credit risk
+measures, risk scoring software and credit portfolio management solutions. Berkshire does not engage in significant business
+transactions with BNSF or Moody’s. However, Berkshire has periodically engaged Moody’s to provide credit ratings in
+connection with debt issuances by Berkshire and certain subsidiaries.
+(6) Investment gains/losses
+Investment gains/losses are summarized below (in millions).
+2008
+Fixed maturity securities —
+Gross gains from sales and other disposals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gross losses from sales and other disposals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity securities —
+Gross gains from sales and other disposals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gross losses from sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Losses from other-than-temporary impairments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+2007
+2006
+212 $ 657 $ 279
+(20)
+(35)
+(9)
+1,256
+(530)
+(1,813)
+255
+4,880
+(7)
+—
+103
+1,562
+(44)
+(142)
+165
+$ (640) $5,598
+$1,811
+$(647) $ 5,405
+7
+193
+$ 1,697
+114
+$(640) $ 5,598
+$ 1,811
+Net investment gains/losses are reflected in the Consolidated Statements of Earnings as follows.
+Insurance and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+Notes to Consolidated Financial Statements (Continued)
+(7) Loans and receivables
+Loans and receivables of insurance and other businesses are comprised of the following (in millions).
+2008
+Insurance premiums receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Reinsurance recoverables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Trade and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Allowances for uncollectible accounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+$ 4,961 $ 4,215
+3,235
+3,171
+7,141
+6,179
+(412)
+(408)
+$14,925
+$13,157
+Loans and finance receivables of finance and financial products businesses are comprised of the following (in millions).
+2008
+Consumer installment loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Commercial loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Allowances for uncollectible loans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+$13,190 $11,506
+1,050
+1,003
+(298)
+(150)
+$13,942
+$12,359
+Allowances for uncollectible loans primarily relate to consumer installment loans. Provisions for consumer loan losses
+were $305 million in 2008 and $176 million in 2007. Loan charge-offs were $215 million in 2008 and $197 million in 2007.
+Consumer loan amounts are net of acquisition discounts of $684 million at December 31, 2008 and $452 million at
+December 31, 2007.
+(8) Inventories
+Inventories are comprised of the following (in millions).
+Raw materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Work in process and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finished manufactured goods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Purchased goods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+2007
+$1,161
+607
+2,580
+3,152
+$ 897
+479
+1,781
+2,636
+$7,500
+$5,793
+(9) Goodwill
+A reconciliation of the change in the carrying value of goodwill for 2008 and 2007 is as follows (in millions).
+2008
+2007
+Balance at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Acquisitions of businesses and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$32,862
+919
+$32,238
+624
+Balance at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$33,781
+$32,862
+41
+Notes to Consolidated Financial Statements (Continued)
+(10) Property, plant, equipment and assets held for lease
+Property, plant, equipment and assets held for lease of insurance and other businesses is comprised of the following (in
+millions).
+Ranges of
+estimated useful life
+Land . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Buildings and improvements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Machinery and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Furniture, fixtures and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Assets held for lease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+3 – 40 years
+3 – 25 years
+3 – 20 years
+12 – 30 years
+Accumulated depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+$
+2007
+751
+4,351
+11,009
+1,856
+5,311
+$
+607
+3,611
+9,507
+1,670
+—
+23,278
+(6,575)
+15,395
+(5,426)
+$16,703
+$ 9,969
+Assets held for lease consist primarily of railroad tank cars, intermodal tank containers and other equipment in the
+transportation and equipment services businesses of Marmon, which were acquired by Berkshire in March 2008. As of
+December 31, 2008, the minimum future lease rentals to be received on the equipment lease fleet (including rail cars leased from
+others) were as follows (in millions): 2009 – $660; 2010 – $528; 2011 – $392; 2012 – $281; 2013 – $181; and thereafter – $384.
+Property, plant and equipment of utilities and energy businesses is comprised of the following (in millions).
+Utility generation, distribution and transmission system . . . . . . . . . . . . . . . . . . . . . . . .
+Interstate pipeline assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Independent power plants and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Construction in progress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accumulated depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ranges of
+estimated useful life
+2008
+2007
+5 – 85 years
+3 – 67 years
+3 – 30 years
+—
+$ 32,795
+5,649
+1,228
+1,668
+$ 30,369
+5,484
+1,330
+1,745
+41,340
+(12,886)
+38,928
+(12,707)
+$ 28,454
+$ 26,221
+The utility generation, distribution and transmission system and interstate pipeline assets are the regulated assets of public
+utility and natural gas pipeline subsidiaries. At December 31, 2008 and December 31, 2007, accumulated depreciation and
+amortization related to regulated assets was $12.5 billion and $12.3 billion, respectively. Substantially all of the construction in
+progress at December 31, 2008 and 2007 related to the construction of regulated assets.
+42
+Notes to Consolidated Financial Statements (Continued)
+(11) Derivatives
+Derivative contracts of Berkshire’s finance and financial products businesses, with limited exceptions, are not designated
+as hedges for financial reporting purposes. Changes in the fair values of such contracts that do not qualify as hedges are reported
+in the Consolidated Statements of Earnings as derivative gains/losses. A summary of these contracts as of December 31, 2008
+and 2007 follows (in millions).
+2008
+Equity index put options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Credit default obligations:
+High yield indexes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Individual corporate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+States/municipalities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Counterparty netting and funds held as collateral . . . . . . . . . . . . . .
+2007
+Assets (4)
+Liabilities
+Notional
+Value (1)
+Liabilities
+Notional
+Value (1)
+$—
+$10,022
+$37,134(2) $—
+$4,610
+$35,043(2)
+—
+—
+—
+503
+(295)
+3,031
+105
+958
+528
+(32)
+7,892(3)
+3,900(3)
+18,364(3)
+—
+—
+—
+749
+(50)
+1,838
+—
+—
+489
+(50)
+4,660(3)
+—
+—
+$ 208
+$14,612
+$699
+$6,887
+Assets (4)
+(1)
+Not discounted for time value.
+(2)
+Represents the aggregate undiscounted amount payable at the contract expiration dates assuming that the value of each
+index is zero at the contract expiration date.
+(3)
+Represents the maximum undiscounted future value of losses payable under the contracts, assuming a sufficient number of
+credit defaults occur. The number of losses required to exhaust contract limits under substantially all of the contracts is
+dependent on the loss recovery rate related to the specific obligor at the time of the default.
+(4)
+Included in other assets of finance and financial products businesses.
+As of December 31, 2008, Berkshire has written equity index put option contracts on four major equity indexes, including
+three indexes outside of the United States. These contracts are European style options (exercisable only at the expiration date)
+and at inception had durations of 15 to 20 years. At December 31, 2008, the weighted average remaining life of these contracts
+was approximately 13.5 years with expiration dates between September 2019 and January 2028. Substantially all of these
+contracts were written on an at-the-money basis (i.e. strike price equaled market price when contract was written). Future
+payments, if any, under these contracts will be based on the decline in the underlying index value below the strike price at the
+contract expiration date. Premiums on these contracts were received at the contract inception dates and therefore Berkshire has
+no counterparty credit risk.
+At December 31, 2008, the intrinsic value of the equity index put option contracts was $10.8 billion. The intrinsic value
+represents Berkshire’s undiscounted liability at December 31, 2008, assuming these contracts are settled on their future
+expiration dates based on the December 31, 2008 index values. However, these contracts generally may not be terminated or
+fully settled before the expiration dates and therefore the ultimate amount of cash basis gains or losses on these contracts will
+not be known for years.
+Berkshire has written credit default contracts on various “high-yield indexes,” state/municipal debt issuers and individual
+corporations. These contracts cover the loss in value of specified debt obligations of the issuers arising from default events
+which are usually for non-payment or bankruptcy. Loss amounts are subject to contract limits.
+High yield indexes are comprised of specified corporate issuers (usually 100 in number) in North America whose
+obligations are rated below investment grade. These contracts generally cover the loss in value of a referenced obligation upon a
+default by an issuer over the contract period (usually 5 years). The weighted average contract duration at December 31, 2008
+was approximately 2 1⁄ 3 years. Payments by Berkshire under these contracts are limited to specified amounts per issuer as well
+as aggregate limits.
+In 2008, Berkshire also wrote a small number of contracts providing for payments upon defaults on debt issued by several
+states and municipalities. The weighted average contract duration at December 31, 2008 was approximately 12 years.
+43
+Notes to Consolidated Financial Statements (Continued)
+(11) Derivatives (Continued)
+Premiums on the high yield index and state/municipality contracts were received at the inception dates of the contracts and
+as a result Berkshire has no counterparty credit risk. Berkshire’s payment obligations under certain of these contracts are on a
+first loss basis. Several other contracts are subject to an aggregate loss deductible that must be satisfied before Berkshire has any
+payment obligations or contain provisions that otherwise delay payment obligations arising from defaults.
+During 2008, Berkshire also wrote credit default contracts on individual issuers in North America whose obligations are
+primarily rated as investment grade and where installment premiums are due from counterparties over the terms of the contracts.
+In most instances, premiums are due from counterparties on a quarterly basis. Most individual issuer contracts had a five year
+term when written.
+The equity index put option contracts and credit default contracts were entered into with the expectation that amounts
+ultimately paid to counterparties will be less than the premiums received. Berkshire views these contracts as economically
+similar to insurance contracts, notwithstanding the “fair value” accounting requirements for derivatives contracts.
+Most of Berkshire’s equity index put option and credit default contracts contain no collateral posting requirements with
+respect to changes in either the fair value or intrinsic value of the contracts and/or a downgrade of Berkshire’s credit rating.
+Under certain conditions, a few contracts require that Berkshire post collateral. At December 31, 2008, Berkshire had posted
+collateral of approximately $550 million with counterparties, related to these contracts.
+Berkshire is also exposed to variations in the market prices in the purchases and sales of natural gas and electricity and in
+commodity fuel costs with respect to its regulated utility operations. Derivative instruments, including forward purchases and
+sales, futures, swaps and options are used to manage these commodity price risks. Unrealized gains and losses under these
+contracts are either probable of recovery through rates and therefore are recorded as a regulatory net asset or liability or are
+accounted for as cash flow hedges and therefore are recorded as accumulated other comprehensive income or loss. Derivative
+contract assets included in other assets of utilities and energy businesses were $324 million and $397 million as of
+December 31, 2008 and 2007, respectively. Derivative contract liabilities included in accounts payable, accruals and other
+liabilities of utilities and energy businesses were $729 million and $765 million as of December 31, 2008 and 2007,
+respectively.
+(12) Supplemental cash flow information
+A summary of supplemental cash flow information for each of the three years ending December 31, 2008 is presented in
+the following table (in millions).
+2008
+2007
+2006
+Cash paid during the year for:
+Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $3,530 $5,895 $ 4,959
+Interest of finance and financial products businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+537
+569
+514
+Interest of utilities and energy businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,172
+1,118
+937
+Interest of insurance and other businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+182
+182
+195
+Non-cash investing and financing activities:
+Investments received in connection with the Equitas reinsurance transaction . . . . . . . . . . . . . .
+Liabilities assumed in connection with acquisitions of businesses . . . . . . . . . . . . . . . . . . . . . . .
+Fixed maturity securities sold or redeemed offset by decrease in directly related repurchase
+agreements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity/fixed maturity securities exchanged for other securities/investments . . . . . . . . . . . . . . .
+44
+—
+4,763
+6,529
+612
+—
+12,727
+—
+2,329
+599
+258
+460
+—
+Notes to Consolidated Financial Statements (Continued)
+(13) Unpaid losses and loss adjustment expenses
+The balances of unpaid losses and loss adjustment expenses are based upon estimates of the ultimate claim costs associated
+with property and casualty claim occurrences as of the balance sheet dates including estimates for incurred but not reported
+(“IBNR”) claims. Considerable judgment is required to evaluate claims and establish estimated claim liabilities.
+Supplemental data with respect to unpaid losses and loss adjustment expenses of property/casualty insurance subsidiaries is
+as follows (in millions).
+2008
+Unpaid losses and loss adjustment expenses:
+Gross liabilities at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ceded losses and deferred charges at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+2006
+$ 56,002 $ 47,612 $ 48,034
+(7,126)
+(4,833)
+(5,200)
+Net balance at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48,876
+42,779
+42,834
+Incurred losses recorded during the year:
+Current accident year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prior accident years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17,399
+(1,140)
+22,488
+(1,478)
+13,680
+(612)
+Total incurred losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16,259
+21,010
+13,068
+Payments during the year with respect to:
+Current accident year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prior accident years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6,905)
+(8,486)
+(6,594)
+(8,865)
+(5,510)
+(9,345)
+Total payments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15,391)
+(15,459)
+(14,855)
+Unpaid losses and loss adjustment expenses:
+Net balance at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ceded losses and deferred charges at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign currency translation adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Acquisitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49,744
+7,133
+(616)
+359
+48,330
+7,126
+534
+12
+41,047
+4,833
+608
+1,124
+Gross liabilities at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 56,620
+$ 56,002
+$ 47,612
+Incurred losses “prior accident years” reflects the amount of estimation error charged or credited to earnings in each
+calendar year with respect to the liabilities established as of the beginning of that year. The beginning of the year net losses and
+loss adjustment expenses liability was reduced by $1,690 million in 2008, $1,793 million in 2007 and $1,071 million in 2006. In
+each year, the reductions in loss estimates for occurrences in prior years were primarily due to lower than expected severities
+and frequencies on reported and settled claims in primary private passenger and commercial auto lines and lower than expected
+reported reinsurance losses in both property and casualty lines. Accident year loss estimates are regularly adjusted to consider
+emerging loss development patterns of prior years’ losses, whether favorable or unfavorable.
+Prior accident years incurred losses also include amortization of deferred charges related to retroactive reinsurance
+contracts incepting prior to the beginning of the year. Amortization charges included in prior accident years’ losses were $451
+million in 2008, $213 million in 2007 and $358 million in 2006. Certain workers’ compensation loss reserves are discounted.
+Net discounted liabilities at December 31, 2008 and 2007 were $2,403 million and $2,436 million, respectively, reflecting net
+discounts of $2,616 million and $2,732 million, respectively. Periodic accretions of these discounts are also a component of
+incurred prior accident years’ losses. The accretion of discounted liabilities related to prior years’ losses was approximately $99
+million in 2008, $102 million in 2007 and $101 million in 2006.
+Berkshire’s insurance subsidiaries are exposed to environmental, asbestos and other latent injury claims arising from
+insurance and reinsurance contracts. Loss reserve estimates for environmental and asbestos exposures include case basis
+reserves and also reflect reserves for legal and other loss adjustment expenses and IBNR reserves. IBNR reserves are
+determined based upon Berkshire’s historic general liability exposure base and policy language, previous environmental loss
+experience and the assessment of current trends of environmental law, environmental cleanup costs, asbestos liability law and
+judgmental settlements of asbestos liabilities.
+45
+Notes to Consolidated Financial Statements (Continued)
+(13) Unpaid losses and loss adjustment expenses (Continued)
+The liabilities for environmental, asbestos and latent injury claims and claims expenses net of reinsurance recoverables
+were approximately $10.7 billion at December 31, 2008 and $11.2 billion at December 31, 2007. These liabilities included
+approximately $9.2 billion at December 31, 2008 and $9.7 billion at December 31, 2007 of liabilities assumed under retroactive
+reinsurance contracts. Liabilities arising from retroactive contracts with exposure to claims of this nature are generally subject to
+aggregate policy limits. Thus, Berkshire’s exposure to environmental and latent injury claims under these contracts is, likewise,
+limited. Berkshire monitors evolving case law and its effect on environmental and latent injury claims. Changing government
+regulations, newly identified toxins, newly reported claims, new theories of liability, new contract interpretations and other
+factors could result in significant increases in these liabilities. Such development could be material to Berkshire’s results of
+operations. It is not possible to reliably estimate the amount of additional net loss or the range of net loss that is reasonably
+possible.
+In November 2006, the Berkshire Hathaway Reinsurance Group’s lead insurance entity, National Indemnity Company
+(“NICO”) and Equitas, a London based entity established to reinsure and manage the 1992 and prior years’ non-life insurance
+and reinsurance liabilities of the Names or Underwriters at Lloyd’s of London, entered into an agreement for NICO to initially
+provide up to $5.7 billion and potentially provide up to an additional $1.3 billion of reinsurance to Equitas in excess of its
+undiscounted loss and allocated loss adjustment expense reserves as of March 31, 2006. The transaction became effective on
+March 30, 2007. The agreement requires that NICO pay all claims and related costs that arise from the underlying insurance and
+reinsurance contracts of Equitas, subject to the aforementioned excess limit of indemnification. On the effective date, the
+aggregate limit of indemnification, which does not include unallocated loss adjustment expenses, was $13.8 billion. A
+significant amount of loss exposure associated with Equitas is related to asbestos, environmental and latent injury claims.
+NICO received substantially all of Equitas’ assets as consideration under the arrangement. The fair value of such
+consideration was $7.1 billion and included approximately $540 million in cash and miscellaneous receivables plus a
+combination of fixed maturity and equity securities which were delivered in April 2007. The cash and miscellaneous receivables
+received are included in the accompanying Consolidated Statement of Cash Flows for 2007 as components of operating cash
+flows. The investment securities received are reported as a non-cash investing activity.
+The Equitas agreement was accounted for as reinsurance in accordance with SFAS No. 113 “Accounting and Reporting for
+Reinsurance of Short-Duration and Long-Duration Contracts.” Accordingly, premiums earned of $7.1 billion and losses
+incurred of $7.1 billion are reflected in the Consolidated Statement of Earnings. Losses incurred consisted of an estimated
+liability for unpaid losses and loss adjustment expenses of $9.3 billion less an asset for unamortized deferred charges
+reinsurance assumed of $2.2 billion. The deferred charge asset is being amortized over the expected remaining loss settlement
+period using the interest method and the periodic amortization is being charged to earnings as a component of losses and loss
+adjustment expenses incurred.
+(14) Notes payable and other borrowings
+Notes payable and other borrowings of Berkshire and its subsidiaries are summarized below (in millions).
+2008
+Insurance and other:
+Issued or guaranteed by Berkshire due 2009-2035 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Issued by subsidiaries and not guaranteed by Berkshire due 2009-2041 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+$2,275 $1,682
+2,074*
+998
+$4,349
+$2,680
+2008
+2007
+$ 5,121
+13,573
+451
+$ 5,471
+13,227
+304
+$19,145
+$19,002
+* Includes $1.1 billion of debt of subsidiaries acquired in 2008.
+Utilities and energy:
+Issued by MidAmerican Energy Holdings Company (“MidAmerican”) and its subsidiaries and not
+guaranteed by Berkshire:
+MidAmerican senior unsecured debt due 2009-2037 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Subsidiary debt due 2009-2038 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+Notes to Consolidated Financial Statements (Continued)
+(14) Notes payable and other borrowings (Continued)
+Subsidiary debt of utilities and energy businesses represents amounts issued by subsidiaries of MidAmerican pursuant to
+separate financing agreements. All or substantially all of the assets of certain utility subsidiaries are or may be pledged or
+encumbered to support or otherwise secure the debt. These borrowing arrangements generally contain various covenants
+including, but not limited to, leverage ratios, interest coverage ratios and debt service coverage ratios. As of December 31, 2008,
+MidAmerican and its subsidiaries were in compliance with all applicable covenants. During 2008, MidAmerican and its
+subsidiaries issued $2.15 billion of notes with maturities ranging from 2012 to 2038.
+Finance and financial products:
+Issued by Berkshire Hathaway Finance Corporation (“BHFC”) and guaranteed by Berkshire . . . . . . . .
+Issued by other subsidiaries and guaranteed by Berkshire due 2009-2027 . . . . . . . . . . . . . . . . . . . . . . .
+Issued by other subsidiaries and not guaranteed by Berkshire 2009-2030 . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+2007
+$10,778
+706
+1,904
+$ 8,886
+804
+2,454
+$13,388
+$12,144
+Debt issued by BHFC matures between 2010 and 2018. During 2008, BHFC issued $5.0 billion of senior notes, and repaid
+$3.1 billion of maturing notes. Borrowings by BHFC are used to provide financing for consumer installment loans.
+Berkshire subsidiaries in the aggregate have approximately $3.8 billion of available unused lines of credit and commercial
+paper capacity to support their short-term borrowing programs and provide additional liquidity. Generally, Berkshire’s
+guarantee of a subsidiary’s debt obligation is an absolute, unconditional and irrevocable guarantee for the full and prompt
+payment when due of all present and future payment obligations of the issuer.
+Principal payments expected during the next five years are as follows (in millions).
+2009
+2010
+2011
+2012
+2013
+Insurance and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $2,365 $ 240 $ 110 $ 98 $ 101
+Utilities and energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,258
+121
+1,134
+1,457
+633
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+301
+2,150
+1,632
+1,633
+3,557
+$3,924
+$2,511
+$2,876
+$3,188
+$4,291
+(15) Income taxes
+The liability for income taxes as of December 31, 2008 and 2007 as reflected in the accompanying Consolidated Balance
+Sheets is as follows (in millions).
+Payable currently . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deferred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+2008
+2007
+161
+9,316
+803
+$ (182)
+18,156
+851
+$10,280
+$18,825
+$
+Notes to Consolidated Financial Statements (Continued)
+(15) Income taxes (Continued)
+The tax effects of temporary differences that give rise to significant portions of deferred tax assets and deferred tax
+liabilities at December 31, 2008 and 2007 are shown below (in millions).
+Deferred tax liabilities:
+Investments – unrealized appreciation and cost basis differences . . . . . . . . . . . . . . . . . . . . . .
+Deferred charges reinsurance assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Property, plant and equipment and assets held for lease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deferred tax assets:
+Unpaid losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Unearned premiums . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative contract liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net deferred tax liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+2007
+$ 4,805
+1,373
+7,004
+4,024
+$13,501
+1,395
+4,890
+2,743
+17,206
+22,529
+(896)
+(495)
+(1,698)
+(2,144)
+(2,657)
+(756)
+(425)
+(1,259)
+—
+(1,933)
+(7,890)
+(4,373)
+$ 9,316
+$18,156
+Deferred income taxes have not been established with respect to undistributed earnings of certain foreign subsidiaries.
+Earnings expected to remain reinvested indefinitely were approximately $3,430 million as of December 31, 2008. Upon
+distribution as dividends or otherwise, such amounts would be subject to taxation in the United States as well as foreign
+countries. However, U.S. income tax liabilities could be offset, in whole or in part, by tax credits allowable from taxes paid to
+foreign jurisdictions. Determination of the potential net tax due is impracticable due to the complexities of hypothetical
+calculations involving uncertain timing and amounts of taxable income and the effects of multiple taxing jurisdictions.
+The Consolidated Statements of Earnings reflect charges for income taxes as shown below (in millions).
+2008
+Federal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Deferred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48
+2007
+2006
+915
+249
+814
+$5,740
+234
+620
+$4,752
+153
+600
+$ 1,978
+$6,594
+$5,505
+$ 3,811
+(1,833)
+$5,708
+886
+$5,030
+475
+$ 1,978
+$6,594
+$5,505
+$
+Notes to Consolidated Financial Statements (Continued)
+(15) Income taxes (Continued)
+Charges for income taxes are reconciled to hypothetical amounts computed at the U.S. Federal statutory rate in the table
+shown below (in millions).
+Earnings before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+2007
+2006
+$7,574
+$20,161
+$16,778
+Hypothetical amounts applicable to above computed at the Federal statutory rate . . . . . . . . . . . . . . $2,651 $ 7,056 $ 5,872
+Tax-exempt interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(88)
+(33)
+(44)
+Dividends received deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(415)
+(306)
+(224)
+State income taxes, less Federal income tax benefit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+162
+152
+99
+Foreign tax rate differences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(59)
+(36)
+(45)
+Effect of income tax rate changes on deferred income taxes * . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+(90)
+—
+Non-taxable exchange of investment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(154)
+—
+—
+Other differences, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(119)
+(149)
+(153)
+Total income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,978
+$ 6,594
+$ 5,505
+* Relates to adjustments made to deferred income tax assets and liabilities in 2007 upon the enactment of reductions to
+corporate income tax rates in the United Kingdom and Germany.
+Berkshire or its subsidiaries file income tax returns in the U.S. federal jurisdiction and in many state, local and foreign
+jurisdictions. Berkshire subsidiaries are under examination in many of these jurisdictions. With few exceptions, Berkshire and
+its subsidiaries have settled tax return liabilities with U.S. federal, state, local, or foreign tax authorities for years before 1999.
+During 2008, Berkshire and the U.S. Internal Revenue Service (“IRS”) have tentatively resolved all proposed adjustments for
+the 1999 through 2001 tax years at the IRS Appeals level. The IRS has completed the examination of the consolidated U.S.
+federal income tax returns for the 2002 through 2004 tax years. The proposed adjustments, predominantly related to timing of
+deductions for insurance subsidiaries, are currently being reviewed in the IRS appeals process. The IRS is currently auditing our
+consolidated U.S. federal income tax returns for the 2005 and 2006 tax years. While it is reasonably possible that certain of the
+income tax examinations will be settled within the next twelve months, management believes that there are no jurisdictions in
+which the outcome of unresolved issues or claims is likely to be material to the Consolidated Financial Statements.
+At December 31, 2008 and 2007 net unrecognized tax benefits were $803 million and $851 million, respectively. Included
+in the balance at December 31, 2008, are approximately $650 million of tax positions that, if recognized, would impact the
+effective tax rate. The remaining balance in net unrecognized tax benefits principally relates to tax positions for which the
+ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility. Because of the
+impact of deferred tax accounting, other than interest and penalties, the disallowance of the shorter deductibility period would
+not affect the annual effective tax rate but would accelerate the payment of cash to the taxing authority to an earlier period. As
+of December 31, 2008, management does not expect any material changes to the estimated amount of unrecognized tax benefits
+in the next twelve months.
+(16) Dividend restrictions – Insurance subsidiaries
+Payments of dividends by insurance subsidiaries are restricted by insurance statutes and regulations. Without prior regulatory
+approval, insurance subsidiaries may declare up to approximately $9 billion as ordinary dividends before the end of 2009.
+Combined shareholders’ equity of U.S. based property/casualty insurance subsidiaries determined pursuant to statutory
+accounting rules (Statutory Surplus as Regards Policyholders) was approximately $51 billion at December 31, 2008 and $62
+billion at December 31, 2007. The decline in statutory surplus in 2008 was primarily due to declines in market values of equity
+securities.
+Statutory surplus differs from the corresponding amount determined on the basis of GAAP. The major differences between
+statutory basis accounting and GAAP are that deferred charges reinsurance assumed, deferred policy acquisition costs,
+unrealized gains and losses on investments in fixed maturity securities and related deferred income taxes are recognized under
+GAAP but not for statutory reporting purposes. In addition, statutory accounting for goodwill of acquired businesses requires
+amortization of goodwill over 10 years, whereas under GAAP, goodwill is not amortized and is subject to periodic tests for
+impairment.
+49
+Notes to Consolidated Financial Statements (Continued)
+(17) Fair value measurements
+The estimated fair values of Berkshire’s financial instruments as of December 31, 2008 and 2007 are shown in the
+following table (in millions). The carrying values of cash and cash equivalents, accounts receivable and accounts payable,
+accruals and other liabilities are deemed to be reasonable estimates of their fair values.
+Carrying Value
+2008
+2007
+Insurance and other:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investments in equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative contract assets (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Loans and finance receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative contract liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and energy:
+Derivative contract assets (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Derivative contract liabilities (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)
+Included in Other assets
+(2)
+Included in Accounts payable, accruals and other liabilities
+Fair Value
+2008
+2007
+$27,115
+49,073
+21,535
+4,349
+$28,515
+74,999
+—
+2,680
+$27,115
+49,073
+20,759
+4,300
+$28,515
+74,999
+—
+2,709
+4,517
+208
+13,942
+13,388
+14,612
+3,056
+699
+12,359
+12,144
+6,887
+4,517
+208
+14,016
+13,820
+14,612
+3,231
+699
+12,612
+12,317
+6,887
+324
+19,145
+729
+397
+19,002
+765
+324
+19,144
+729
+397
+19,834
+765
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants as of the measurement date. Fair value measurements assume the asset or liability is exchanged in an orderly
+manner; the exchange is in the principal market for that asset or liability (or in the most advantageous market when no principal
+market exists); and the market participants are independent, knowledgeable, able and willing to transact an exchange.
+Nonperformance risk (credit risk) is considered in valuing liabilities.
+Fair values for substantially all of Berkshire’s financial instruments were measured using market or income approaches.
+Considerable judgment may be required in interpreting market data used to develop the estimates of fair value. Accordingly, the
+estimates presented herein are not necessarily indicative of the amounts that could be realized in an actual current market
+exchange. The use of different market assumptions and/or estimation methodologies may have a material effect on the estimated
+fair value.
+SFAS 157 establishes a framework for measuring fair value by creating a hierarchy for observable independent market inputs and
+unobservable market assumptions. The hierarchy consists of three levels, ranging from the category the FASB deems to be most
+reliable to a category where fair value is measured using significant unobservable inputs because of the lack of observable market
+prices for the instrument, or Levels 1 through 3, respectively. A further description of the inputs used in the valuation of assets and
+liabilities under the three levels are as follows.
+Level 1 – Inputs represent unadjusted quoted prices for identical assets or liabilities exchanged in active markets.
+Substantially all of Berkshire’s equity investments are traded on an exchange in active markets and fair value is based on
+the closing price as of the balance sheet date.
+Level 2 – Inputs include directly or indirectly observable inputs other than Level 1 inputs such as quoted prices for similar
+assets or liabilities exchanged in active or inactive markets; quoted prices for identical assets or liabilities exchanged in
+inactive markets; other inputs that are considered in fair value determinations of the assets or liabilities, such as interest
+rates and yield curves that are observable at commonly quoted intervals, volatilities, prepayment speeds, loss severities,
+credit risks and default rates; and inputs that are derived principally from or corroborated by observable market data by
+correlation or other means. Fair values for Berkshire’s investments in fixed maturity securities are primarily based on
+market prices and market data available for instruments with similar characteristics since active markets are not common
+for many instruments. Pricing evaluations are based on yield curves for instruments with similar characteristics, such as
+credit rating, estimated duration, and yields for other instruments of the issuer or entities in the same industry sector.
+50
+Notes to Consolidated Financial Statements (Continued)
+(17) Fair value measurements (Continued)
+Level 3 – Inputs include unobservable inputs used in the measurement of assets and liabilities. Management is required to
+use its own assumptions regarding unobservable inputs because there is little, if any, market activity in the assets or
+liabilities or related observable inputs that can be corroborated at the measurement date. Measurements of non-exchange
+traded derivative contracts and certain other investments carried at fair value are based primarily on valuation models,
+discounted cash flow models or other valuation techniques that are believed to be used by market participants.
+Unobservable inputs require management to make certain projections and assumptions about the information that would be
+used by market participants in pricing assets or liabilities. Berkshire values its equity index put option contracts based on
+the Black-Scholes option valuation model which Berkshire believes is used widely by market participants. Credit default
+contracts are primarily valued based on indications of bid or offer data as of the balance sheet date. These contracts are not
+exchange traded and certain of the terms of Berkshire’s contracts are not standard in derivatives markets. In particular,
+Berkshire is not required to post collateral under most of its contracts. For these reasons, Berkshire has classified these
+contracts as Level 3.
+Financial assets and liabilities measured at fair value in the financial statements as of December 31, 2008 are summarized
+in the following table by the type of inputs applicable to the fair value measurements (in millions).
+Insurance and other:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . .
+Investments in equity securities . . . . . . . . . . . . . . . . . . . . . . . . .
+Other investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . .
+Net derivative contract liabilities . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and energy:
+Net derivative contract liabilities . . . . . . . . . . . . . . . . . . . . . . . .
+Total
+Fair Value
+Quoted
+Prices
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable Inputs
+(Level 3)
+$27,115
+49,073
+8,223
+$ 4,961
+48,666
+—
+$21,650
+79
+—
+4,517
+14,404
+—
+—
+4,382
+288
+135
+14,116
+405
+—
+2
+403
+$
+504
+328
+8,223
+A reconciliation of assets and liabilities measured at fair value on a recurring basis with the use of significant unobservable
+inputs (Level 3) from January 1, 2008 to December 31, 2008 follows (in millions).
+Investments
+in fixed
+maturity
+securities
+Investments
+in equity
+securities
+Other
+investments
+Net
+derivative
+contract
+liabilities
+Balance at January 1, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gains (losses) included in:
+Earnings * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Regulatory assets and liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Purchases, sales, issuances and settlements . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Transfers into (out of) Level 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$393
+$356
+$ —
+$ (6,784)
+3
+(16)
+—
+259
+—
+—
+(29)
+—
+—
+1
+—
+223
+—
+8,000
+—
+(6,765)
+1
+(110)
+(874)
+13
+Balance at December 31, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$639
+$328
+$8,223
+$(14,519)
+* Gains and losses related to changes in valuations are included in the Consolidated Statements of Earnings as a component of
+investment gains/losses, derivative gains/losses or other revenues as appropriate. Substantially all of the losses included in
+earnings were unrealized losses related to liabilities outstanding as of December 31, 2008.
+51
+Notes to Consolidated Financial Statements (Continued)
+(18) Common stock
+Changes in issued and outstanding Berkshire common stock during the three years ended December 31, 2008 are shown in
+the table below.
+Class A, $5 Par Value
+(1,650,000 shares authorized)
+Shares Issued and Outstanding
+Class B, $0.1667 Par Value
+(55,000,000 shares authorized)
+Shares Issued and Outstanding
+Balance December 31, 2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conversions of Class A common stock to Class B common stock and
+other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,260,920
+8,394,083
+(143,352)
+4,358,348
+Balance December 31, 2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conversions of Class A common stock to Class B common stock and
+other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,117,568
+12,752,431
+(36,544)
+1,247,649
+Balance December 31, 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conversions of Class A common stock to Class B common stock and
+other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,081,024
+14,000,080
+(22,023)
+706,916
+Balance December 31, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,059,001
+14,706,996
+Each share of Class B common stock has dividend and distribution rights equal to one-thirtieth (1/30) of such rights of a
+Class A share. Accordingly, on an equivalent Class A common stock basis there are 1,549,234 shares outstanding as of
+December 31, 2008 and 1,547,693 shares as of December 31, 2007.
+Each share of Class A common stock is convertible, at the option of the holder, into thirty shares of Class B common stock.
+Class B common stock is not convertible into Class A common stock. On July 6, 2006, Berkshire’s Chairman and CEO, Warren
+E. Buffett converted 124,998 shares of Class A common stock into 3,749,940 shares of Class B common stock. Each share of
+Class B common stock possesses voting rights equivalent to one-two-hundredth (1/200) of the voting rights of a share of
+Class A common stock. Class A and Class B common shares vote together as a single class.
+(19) Pension plans
+Several Berkshire subsidiaries individually sponsor defined benefit pension plans covering certain employees. Benefits
+under the plans are generally based on years of service and compensation, although benefits under certain plans are based on
+years of service and fixed benefit rates. The companies generally make contributions to the plans to meet regulatory
+requirements plus additional amounts as determined by management based on actuarial valuations.
+The components of net periodic pension expense for each of the three years ending December 31, 2008 are as follows (in
+millions).
+2008
+2007
+2006
+Service cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 176 $ 202 $ 199
+Interest cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+452
+439
+390
+Expected return on plan assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (463) (444) (393)
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+65
+67
+Net pension expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+$ 185
+$ 262
+$ 263
+Notes to Consolidated Financial Statements (Continued)
+(19) Pension plans (Continued)
+The accumulated benefit obligation is the actuarial present value of benefits earned based on service and compensation
+prior to the valuation date. As of December 31, 2008 and 2007, the accumulated benefit obligation was $6,693 million and
+$6,990 million, respectively. The projected benefit obligation is the actuarial present value of benefits earned based upon service
+and compensation prior to the valuation date and, if applicable, includes assumptions regarding future compensation levels.
+Information regarding the projected benefit obligations is shown in the table that follows (in millions).
+2008
+2007
+Projected benefit obligation, beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $7,683 $7,926
+Service cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+176
+202
+Interest cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+452
+439
+Benefits paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(455)
+(476)
+Business acquisitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+249
+—
+Actuarial (gain) or loss and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(518)
+(408)
+Projected benefit obligation, end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$7,587
+$7,683
+Benefit obligations under qualified U.S. defined benefit plans are funded through assets held in trusts and are not included
+as assets in Berkshire’s Consolidated Financial Statements. Pension obligations under certain non-U.S. plans and non-qualified
+U.S. plans are unfunded. As of December 31, 2008, projected benefit obligations of non-qualified U.S. plans and non-U.S. plans
+which are not funded through assets held in trusts were $604 million. A reconciliation of the changes in plan assets and a
+summary of plan assets held as of December 31, 2008 and 2007 is presented in the table that follows (in millions).
+2008
+2007
+2008
+2007
+Plan assets at beginning of year . . . . . . . . . . $ 7,063 $6,792 Cash and equivalents . . . . . . . . . . . . . . . . . $ 517 $ 427
+Employer contributions . . . . . . . . . . . . . . . . .
+279
+262 U.S. Government obligations . . . . . . . . . .
+121
+186
+Benefits paid . . . . . . . . . . . . . . . . . . . . . . . . .
+(455)
+(476) Mortgage-backed securities . . . . . . . . . . . .
+282
+390
+Actual return on plan assets . . . . . . . . . . . . . .
+(1,244)
+447 Corporate obligations . . . . . . . . . . . . . . . .
+942
+1,005
+Business acquisitions . . . . . . . . . . . . . . . . . . .
+188
+—
+Equity securities . . . . . . . . . . . . . . . . . . . .
+2,864
+4,169
+Other and expenses . . . . . . . . . . . . . . . . . . . .
+(509)
+38 Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+596
+886
+Plan assets at end of year . . . . . . . . . . . . . . . .
+$ 5,322
+$7,063
+$5,322
+$7,063
+Pension plan assets are generally invested with the long-term objective of earning sufficient amounts to cover expected
+benefit obligations, while assuming a prudent level of risk. There are no target investment allocation percentages with respect to
+individual or categories of investments. Allocations may change as a result of changing market conditions and investment
+opportunities. The expected rates of return on plan assets reflect Berkshire’s subjective assessment of expected invested asset
+returns over a period of several years. Berkshire generally does not give significant consideration to past investment returns
+when establishing assumptions for expected long-term rates of returns on plan assets. Actual experience will differ from the
+assumed rates.
+The defined benefit plans expect to pay benefits to participants over the next ten years, reflecting expected future service as
+appropriate, as follows (in millions): 2009 – $405; 2010 – $398; 2011 – $413; 2012 – $431; 2013 – $446; and 2014 to 2018 $2,460. Sponsoring subsidiaries expect to contribute $245 million to defined benefit pension plans in 2009.
+As of December 31, 2008 and 2007, the net funded status of the plans is summarized in the table that follows (in millions).
+2008
+Amounts recognized in the Consolidated Balance Sheets:
+Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$2,357 $ 981
+(92) (361)
+$2,265
+53
+2007
+$ 620
+Notes to Consolidated Financial Statements (Continued)
+(19) Pension plans (Continued)
+A reconciliation of amounts not yet recognized in net periodic benefit expense for the years ending December 31, 2008 and
+2007 follows (in millions).
+2008
+2007
+Net amount included in accumulated other comprehensive income, beginning of year . . . . . . . . . . . . . . . . . . . .
+Amount included in net periodic pension expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gains/losses current period . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$(164)
+10
+(699)
+$(303)
+25
+114
+Net amount included in accumulated other comprehensive income, end of year . . . . . . . . . . . . . . . . . . . . . . . . .
+$(853)* $(164)
+*
+Includes $42 million that is expected to be included in net periodic pension expense in 2009.
+Weighted average interest rate assumptions used in determining projected benefit obligations were as follows. These rates
+are substantially the same as the weighted average rates used in determining the net periodic pension expense.
+2008
+Discount rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Expected long-term rate of return on plan assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Rate of compensation increase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+6.3% 6.1%
+6.9 6.9
+4.2 4.4
+Several Berkshire subsidiaries also sponsor defined contribution retirement plans, such as 401(k) or profit sharing plans.
+Employee contributions to the plans are subject to regulatory limitations and the specific plan provisions. Several of the plans
+require that the subsidiary match these contributions up to levels specified in the plans and provide for additional discretionary
+contributions as determined by management. The total expenses related to employer contributions for these plans were $519
+million, $506 million and $498 million for the years ended December 31, 2008, 2007 and 2006, respectively.
+(20) Contingencies and Commitments
+Berkshire and its subsidiaries are parties in a variety of legal actions arising out of the normal course of business. In
+particular, such legal actions affect Berkshire’s insurance and reinsurance businesses. Such litigation generally seeks to establish
+liability directly through insurance contracts or indirectly through reinsurance contracts issued by Berkshire subsidiaries.
+Plaintiffs occasionally seek punitive or exemplary damages. Berkshire does not believe that such normal and routine litigation
+will have a material effect on its financial condition or results of operations. Berkshire and certain of its subsidiaries are also
+involved in other kinds of legal actions, some of which assert or may assert claims or seek to impose fines and penalties in
+substantial amounts.
+a)
+Governmental Investigations
+Berkshire, General Re Corporation (“General Re”) and certain of Berkshire’s insurance subsidiaries, including General
+Reinsurance Corporation (“General Reinsurance”) and National Indemnity Company (“NICO”) have been continuing to
+cooperate fully with the U.S. Securities and Exchange Commission (“SEC”), the U.S. Department of Justice, the U.S. Attorney
+for the Eastern District of Virginia and the New York State Attorney General (“NYAG”) in their ongoing investigations of
+non-traditional products. General Re originally received subpoenas from the SEC and NYAG in January 2005. Berkshire,
+General Re, General Reinsurance and NICO have been providing information to the government relating to transactions
+between General Reinsurance or NICO (or their respective subsidiaries or affiliates) and other insurers in response to the
+January 2005 subpoenas and related requests and, in the case of General Reinsurance (or its subsidiaries or affiliates), in
+response to subpoenas from other U.S. Attorneys conducting investigations relating to certain of these transactions. In
+particular, Berkshire and General Re have been responding to requests from the government for information relating to certain
+transactions that may have been accounted for incorrectly by counterparties of General Reinsurance (or its subsidiaries or
+affiliates). The government has interviewed a number of current and former officers and employees of General Re and General
+Reinsurance as well as Berkshire’s Chairman and CEO, Warren E. Buffett, in connection with these investigations.
+In one case, a transaction initially effected with American International Group (“AIG”) in late 2000 (the “AIG
+Transaction”), AIG has corrected its prior accounting for the transaction on the grounds, as stated in AIG’s 2004 10-K, that the
+transaction was done to accomplish a desired accounting result and did not entail sufficient qualifying risk transfer to support
+reinsurance accounting. General Reinsurance has been named in related civil actions brought against AIG. As part of their
+ongoing investigations, governmental authorities have also inquired about the accounting by certain of Berkshire’s insurance
+subsidiaries for certain assumed and ceded finite reinsurance transactions.
+54
+Notes to Consolidated Financial Statements (Continued)
+(20) Contingencies and Commitments (Continued)
+In June 2005, John Houldsworth, the former Chief Executive Officer of Cologne Reinsurance Company (Dublin) Limited
+(“CRD”), a subsidiary of General Re, and Richard Napier, a former Senior Vice President of General Re who had served as an
+account representative for the AIG account, each pleaded guilty to a federal criminal charge of conspiring with others to
+misstate certain AIG financial statements in connection with the AIG Transaction and entered into a partial settlement
+agreement with the SEC with respect to such matters.
+On February 25, 2008, Ronald Ferguson, General Re’s former Chief Executive Officer, Elizabeth Monrad, General Re’s
+former Chief Financial Officer, Christopher Garand, a former General Reinsurance Senior Vice President and Robert Graham, a
+former General Reinsurance Senior Vice President and Assistant General Counsel, were each convicted in a trial in the U.S.
+District Court for the District of Connecticut on charges of conspiracy, mail fraud, securities fraud and making false statements
+to the SEC in connection with the AIG Transaction. These individuals have the right to appeal their convictions. Following their
+convictions, each of these individuals agreed to a judgment of a forfeiture allegation which required them to be jointly and
+severally liable for a payment of $5 million to the U.S. Government. This $5 million amount, which represented the fee received
+by General Reinsurance in connection with the AIG Transaction, was paid by General reinsurance in April 2008. Each of these
+individuals, who had previously received a “Wells” notice in 2005 from the SEC, is also the subject of an SEC enforcement
+action for allegedly aiding and abetting AIG’s violations of the antifraud provisions and other provisions of the federal securities
+laws in connection with the AIG Transaction. The SEC case is presently stayed. Joseph Brandon, who resigned as the Chief
+Executive Officer of General Re effective on April 14, 2008, also received a “Wells” notice from the SEC in 2005.
+Berkshire understands that the government is evaluating the actions of General Re and its subsidiaries, as well as those of
+their counterparties, to determine whether General Re or its subsidiaries conspired with others to misstate counterparty financial
+statements or aided and abetted such misstatements by the counterparties. Berkshire believes that government authorities are
+continuing to evaluate possible legal actions against General Re and its subsidiaries.
+Various state insurance departments have issued subpoenas or otherwise requested that General Reinsurance, NICO and
+their affiliates provide documents and information relating to non-traditional products. The Office of the Connecticut Attorney
+General has also issued a subpoena to General Reinsurance for information relating to non-traditional products. General
+Reinsurance, NICO and their affiliates have been cooperating fully with these subpoenas and requests.
+CRD is also providing information to and cooperating fully with the Irish Financial Services Regulatory Authority in its
+inquiries regarding the activities of CRD. The Office of the Director of Corporate Enforcement in Ireland is conducting a
+preliminary evaluation in relation to CRD concerning, in particular, transactions between CRD and AIG. CRD is cooperating fully
+with this preliminary evaluation.
+Berkshire cannot at this time predict the outcome of these matters and is unable to estimate a range of possible loss and
+cannot predict whether or not the outcomes will have a material adverse effect on Berkshire’s business or results of operations
+for at least the quarterly period when these matters are completed or otherwise resolved.
+b)
+Civil Litigation
+Litigation Related to ROA
+General Reinsurance and several current and former employees, along with numerous other defendants, have been sued in
+thirteen federal lawsuits involving Reciprocal of America (“ROA”) and related entities. ROA was a Virginia-based reciprocal
+insurer and reinsurer of physician, hospital and lawyer professional liability risks. Nine are putative class actions initiated by
+doctors, hospitals and lawyers that purchased insurance through ROA or certain of its Tennessee-based risk retention groups.
+These complaints seek compensatory, treble, and punitive damages in an amount plaintiffs contend is just and reasonable.
+General Reinsurance is also subject to actions brought by the Virginia Commissioner of Insurance, as Deputy Receiver of
+ROA, the Tennessee Commissioner of Insurance, as Receiver for purposes of liquidating three Tennessee risk retention groups,
+a state lawsuit filed by a Missouri-based hospital group that was removed to federal court and another state lawsuit filed by an
+Alabama doctor that was also removed to federal court. The first of these actions was filed in March 2003 and additional actions
+were filed in April 2003 through June 2006. In the action filed by the Virginia Commissioner of Insurance, the Commissioner
+asserts in several of its claims that the alleged damages are believed to exceed $200 million in the aggregate as against all
+defendants.
+55
+Notes to Consolidated Financial Statements (Continued)
+(20) Contingencies and Commitments (Continued)
+All of these cases are collectively assigned to the U.S. District Court for the Western District of Tennessee for pretrial
+proceedings. General Reinsurance filed motions to dismiss all of the claims against it in these cases and, in June 2006, the court
+granted General Reinsurance’s motion to dismiss the complaints of the Virginia and Tennessee receivers. The court granted the
+Tennessee receiver leave to amend her complaint, and the Tennessee receiver filed her amended complaint on August 7, 2006.
+General Reinsurance has filed a motion to dismiss the amended complaint in its entirety and that motion was granted, with the
+court dismissing the claim based on an alleged violation of RICO with prejudice and dismissing the state law claims without
+prejudice. One of the other defendants filed a motion for the court to reconsider the dismissal of the state law claims, requesting
+that the court retain jurisdiction over them. That motion is pending.
+The Tennessee Receiver subsequently filed three Tennessee state court actions against General Reinsurance, essentially
+asserting the same state law claims that had been dismissed without prejudice by the Federal court. General Reinsurance
+removed those actions to Federal court, and the Judicial Panel on Multi-District Litigation ultimately transferred these actions to
+the U.S. District Court for the Western District of Tennessee.
+The Virginia receiver has moved for reconsideration of the dismissal and for leave to amend his complaint, which was
+opposed by General Reinsurance. The court affirmed its original ruling but has given the Virginia receiver leave to amend. In
+September 2006, the court also dismissed the complaint filed by the Missouri-based hospital group. The Missouri-based hospital
+group has filed a motion for reconsideration of the dismissal and for leave to file an amended complaint. General Reinsurance
+has filed its opposition to that motion and awaits a ruling by the court. The court has also not yet ruled on General Reinsurance’s
+motions to dismiss the complaints of the other plaintiffs. The parties have commenced discovery.
+General Reinsurance filed a Complaint and a motion in federal court to compel the Tennessee and Virginia receivers to
+arbitrate their claims against General Reinsurance. The receivers filed motions to dismiss the Complaint. These motions are
+pending.
+Actions related to AIG
+General Reinsurance is a defendant in In re American International Group Securities Litigation, Case No. 04-CV-8141(LTS), United States District Court, Southern District of New York, a putative class action (the “AIG Securities Litigation”)
+asserted on behalf of investors who purchased publicly-traded securities of AIG between October 1999 and March 2005. The
+complaint, originally filed in April 2005, asserts various claims against AIG and certain of its officers, directors, investment
+banks and other parties, including Messrs. Ferguson, Napier and Houldsworth (whom the Complaint defines, together with
+General Reinsurance, as the “General Re Defendants”). The Complaint alleges that the General Re Defendants violated
+Section 10(b) of the Securities Exchange Act and Rule 10b-5 in connection with the AIG Transaction. The Complaint seeks
+damages and other relief in unspecified amounts. General Reinsurance has answered the Complaint, denying liability and
+asserting various affirmative defenses. Discovery is ongoing, with a current discovery cut-off of December 1, 2009. Lead
+plaintiffs filed a motion for class certification on February 20, 2008. Various defendants, including General Reinsurance, have
+filed oppositions to class certification. The court has not yet ruled on the motion. On May 29, 2008, General Reinsurance filed a
+motion for judgment on the pleadings. Plaintiffs filed an opposition to that motion on June 30, 2008. The court has not ruled on
+that motion. The lead plaintiffs and General Reinsurance have reached agreement concerning the terms of a settlement that
+would resolve all claims against the General Re Defendants in exchange for a payment by General Reinsurance of $72 million.
+This settlement remains subject to court approval.
+A member of the putative class in the litigation described in the preceding paragraph has asserted similar claims against
+General Re and Mr. Ferguson in a separate complaint, Florida State Board of Administration v. General Re Corporation, et al.,
+Case No. 06-CV-3967, United States District Court, Southern District of New York. The claims against General Re and
+Mr. Ferguson closely resemble those asserted in the class action. The complaint does not specify the amount of damages sought.
+General Re has answered the Complaint, denying liability and asserting various affirmative defenses. No trial date has been
+established. The parties are coordinating discovery and other proceedings among this action, a similar action filed by the same
+plaintiff against AIG and others, the class action described in the preceding paragraph, and the shareholder derivative actions
+described in the next two paragraphs.
+On July 27, 2005, General Reinsurance received a Summons and a Verified and Amended Shareholder Derivative
+Complaint in In re American International Group, Inc. Derivative Litigation, Case No. 04-CV-08406, United States District
+56
+Notes to Consolidated Financial Statements (Continued)
+(20) Contingencies and Commitments (Continued)
+Court, Southern District of New York. The complaint, brought by several alleged shareholders of AIG, seeks damages,
+injunctive and declaratory relief against various officers and directors of AIG as well as a variety of individuals and entities with
+whom AIG did business, relating to a wide variety of allegedly wrongful practices by AIG. The allegations relating to General
+Reinsurance focus on the AIG Transaction, and the complaint purports to assert causes of action in connection with that
+transaction for aiding and abetting other defendants’ breaches of fiduciary duty and for unjust enrichment. The complaint does
+not specify the amount of damages or the nature of any other relief sought. Subsequently, this derivative litigation was stayed by
+stipulation between the plaintiffs and AIG. That stay remains in place.
+In August 2005, General Reinsurance received a Summons and First Amended Consolidated Shareholders’ Derivative
+Complaint in In re American International Group, Inc. Consolidated Derivative Litigation, Case No. 769-N, Delaware Chancery
+Court. In June 2007, AIG filed an Amended Complaint in the Delaware Derivative Litigation asserting claims against two of its
+former officers, but not against General Reinsurance. On September 28, 2007, AIG and the shareholder plaintiffs filed a Second
+Combined Amended Complaint, in which AIG asserted claims against certain of its former officers and the shareholder
+plaintiffs asserted claims against a number of other defendants, including General Reinsurance and General Re. The claims
+asserted in the Delaware complaint are substantially similar to those asserted in the New York derivative complaint, except that
+the Delaware complaint makes clear that the plaintiffs are asserting claims against both General Reinsurance and General Re.
+General Reinsurance and General Re filed a motion to dismiss on November 30, 2007. Various parties moved to stay discovery
+and/or all proceedings in the Delaware derivative litigation. At a hearing held on February 12, 2008, the Court ruled that
+discovery would be stayed pending the resolution of the claims asserted against AIG in the AIG Securities Litigation. The
+briefing on the motions filed by General Reinsurance and General Re was completed by September 8, 2008. The court heard
+argument on certain other defendants’ motions to dismiss on November 7, 2008 and issued a decision on February 10, 2009
+granting some defendants’ motions and denying others. The court has not yet heard oral argument on the motions filed by
+General Reinsurance and General Re and has not ruled on those motions.
+FAI/HIH Matter
+In December 2003, the Liquidators of both FAI Insurance Limited (“FAI”) and HIH Insurance Limited (“HIH”) advised
+GRA and Cologne Re that they intended to assert claims arising from insurance transactions GRA entered into with FAI in May
+and June 1998. In August 2004, the Liquidators filed claims in the Supreme Court of New South Wales in order to avoid the
+expiration of a statute of limitations for certain plaintiffs. The focus of the Liquidators’ allegations against GRA and Cologne Re
+are the 1998 transactions GRA entered into with FAI (which was acquired by HIH in 1999). The Liquidators contend, among
+other things, that GRA and Cologne Re engaged in deceptive conduct that assisted FAI in improperly accounting for such
+transactions as reinsurance, and that such deception led to HIH’s acquisition of FAI and caused various losses to FAI and HIH.
+The Liquidator of HIH served its Complaint on GRA and Cologne Re in June 2006 and discovery has been ongoing. The FAI
+Liquidator dismissed his complaint against GRA and Cologne Re. GRA and Cologne Re recently entered into a settlement in
+principle with the HIH Liquidator. The parties are still formulating a settlement deed, which will be subject to court approval.
+Berkshire has established reserves for certain of the legal proceedings discussed above where it has concluded that the
+likelihood of an unfavorable outcome is probable and the amount of the loss can be reasonably estimated. For other legal
+proceedings discussed above, either Berkshire has determined that an unfavorable outcome is reasonably possible but it is
+unable to estimate a range of possible losses or it is unable to predict the outcome of the matter. Management believes that any
+liability to the Company that may arise as a result of current pending civil litigation, including the matters discussed above, will
+not have a material effect on Berkshire’s financial condition or results of operations.
+c)
+Commitments
+Berkshire subsidiaries lease certain manufacturing, warehouse, retail and office facilities as well as certain equipment. Rent
+expense for all leases was $725 million in 2008, $648 million in 2007 and $578 million in 2006. Minimum rental payments for
+operating leases having initial or remaining non-cancelable terms in excess of one year are as follows. Amounts are in millions.
+2009
+2010
+2011
+2012
+2013
+After
+2013
+Total
+$583
+$483
+$406
+$340
+$247
+$1,056
+$3,115
+Several of Berkshire’s subsidiaries have made long-term commitments to purchase goods and services used in their
+businesses. The most significant of these relate to NetJets’ commitments to purchase up to 556 aircraft through 2018 and
+57
+Notes to Consolidated Financial Statements (Continued)
+(20) Contingencies and Commitments (Continued)
+MidAmerican’s commitments to purchase coal, electricity and natural gas. As of December 31, 2008, commitments under all
+such subsidiary arrangements were approximately $6.6 billion in 2009, $4.0 billion in 2010, $2.9 billion in 2011, $2.5 billion in
+2012, $2.1 billion in 2013 and $7.2 billion after 2013.
+Berkshire is obligated to acquire the remaining minority shareholders’ interests of Marmon (36.4%) in stages between
+2011 and 2014. Based upon the initial purchase price, the cost to Berkshire of the minority shareholders’ interest would be
+approximately $2.7 billion. However, the consideration payable for the minority shareholders’ interest is contingent upon future
+operating results of Marmon and the per share cost could be greater than or less than the initial per share price.
+Berkshire is also obligated under certain conditions to acquire minority ownership interests of certain consolidated, but not
+wholly-owned subsidiaries, pursuant to the terms of certain shareholder agreements with the minority shareholders. The
+consideration payable for such interests is generally based on the fair value of the subsidiary. If Berkshire acquired all such
+outstanding minority ownership interest holdings as of December 31, 2008, the cost to Berkshire would have been
+approximately $4 billion. However, the timing and the amount of any such future payments that might be required are
+contingent on future actions of the minority owners and future operating results of the related subsidiaries.
+(21) Business segment data
+Berkshire’s reportable business segments are organized in a manner that reflects how management views those business
+activities. Certain businesses have been grouped together for segment reporting based upon similar products or product lines,
+marketing, selling and distribution characteristics, even though those business units are operated under separate local
+management.
+The tabular information that follows shows data of reportable segments reconciled to amounts reflected in the Consolidated
+Financial Statements. Intersegment transactions are not eliminated in instances where management considers those transactions
+in assessing the results of the respective segments. Furthermore, Berkshire management does not consider investment and
+derivative gains/losses or amortization of purchase accounting adjustments in assessing the performance of reporting units.
+Collectively, these items are included in reconciliations of segment amounts to consolidated amounts.
+Business Identity
+Business Activity
+GEICO
+Underwriting private passenger automobile insurance mainly
+by direct response methods
+General Re
+Underwriting excess-of-loss, quota-share and facultative
+reinsurance worldwide
+Berkshire Hathaway Reinsurance Group
+Underwriting excess-of-loss and quota-share reinsurance for
+property and casualty insurers and reinsurers
+Berkshire Hathaway Primary Group
+Underwriting multiple lines of property and casualty
+insurance policies for primarily commercial accounts
+BH Finance, Clayton Homes, XTRA, CORT and other financial
+services (“Finance and financial products”)
+Proprietary investing, manufactured housing and related
+consumer financing, transportation equipment leasing,
+furniture leasing, life annuities and risk management
+products
+Marmon
+An association of approximately 130 manufacturing and
+service businesses that operate within 11 diverse business
+sectors
+McLane Company
+Wholesale distribution of groceries and non-food items
+MidAmerican
+Regulated electric and gas utility, including power
+generation and distribution activities in the U.S. and
+internationally; domestic real estate brokerage
+Shaw Industries
+Manufacturing and distribution of carpet and floor coverings
+under a variety of brand names
+58
+Notes to Consolidated Financial Statements (Continued)
+(21) Business segment data (Continued)
+Other businesses not specifically identified with reportable business segments consist of a large, diverse group of
+manufacturing, service and retailing businesses.
+Manufacturing
+Acme Building Brands, Benjamin Moore, H.H. Brown Shoe
+Group, CTB, Fechheimer Brothers, Forest River, Fruit of the
+Loom, Garan, IMC, Johns Manville, Justin Brands, LarsonJuhl, MiTek, Richline, Russell and Scott Fetzer
+Service
+Buffalo News, Business Wire, FlightSafety, International
+Dairy Queen, Pampered Chef, NetJets and TTI
+Retailing
+Ben Bridge Jeweler, Borsheims, Helzberg Diamond Shops,
+Jordan’s Furniture, Nebraska Furniture Mart, See’s, Star
+Furniture and R.C. Willey
+A disaggregation of Berkshire’s consolidated data for each of the three most recent years is presented in the tables which
+follow on this and the following two pages (in millions).
+2008
+Revenues
+2007
+2006
+Earnings (loss) before taxes
+and minority interests
+2008
+2007
+2006
+Operating Businesses:
+Insurance group:
+Premiums earned:
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 12,479 $ 11,806 $11,055 $ 916 $ 1,113 $ 1,314
+General Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,014
+6,076
+6,075
+342
+555
+526
+Berkshire Hathaway Reinsurance Group . . . . . . . . . . . . . .
+5,082
+11,902
+4,976
+1,324
+1,427
+1,658
+Berkshire Hathaway Primary Group . . . . . . . . . . . . . . . . . .
+1,950
+1,999
+1,858
+210
+279
+340
+Investment income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,759
+4,791
+4,347
+4,722
+4,758
+4,316
+Total insurance group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30,284
+36,574
+28,311
+7,514
+8,132
+8,154
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Marmon * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MidAmerican . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,947
+5,529
+29,852
+13,971
+5,052
+25,666
+5,119
+—
+28,079
+12,628
+5,373
+25,648
+5,124
+—
+25,693
+10,644
+5,834
+21,133
+787
+733
+276
+2,963
+205
+2,809
+1,006
+—
+232
+1,774
+436
+3,279
+1,157
+—
+229
+1,476
+594
+2,703
+115,301
+113,421
+96,739
+15,287
+14,859
+14,313
+(7,461)
+—
+(54)
+5,509
+—
+(685)
+2,635 (7,461)
+—
+(35)
+(835)
+(217)
+5,509
+(52)
+(155)
+2,635
+(76)
+(94)
+Reconciliation of segments to consolidated amount:
+Investment and derivative gains/losses . . . . . . . . . . . . . . . . . . . .
+Interest expense, not allocated to segments . . . . . . . . . . . . . . . .
+Eliminations and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$107,786 $118,245 $98,539 $ 7,574 $20,161 $16,778
+* Includes results from the acquisition date of March 18, 2008.
+59
+Notes to Consolidated Financial Statements (Continued)
+(21) Business segment data (Continued)
+Depreciation
+of tangible assets
+2008
+2007
+2006
+Capital expenditures **
+2008
+2007
+2006
+Operating Businesses:
+Insurance group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Marmon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MidAmerican . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**
+$
+72
+185
+553
+180
+3,936
+173
+1,039
+$
+52
+322
+—
+175
+3,513
+144
+1,167
+$
+65
+334
+—
+193
+2,423
+189
+1,367
+$
+70
+228
+361
+109
+1,128
+150
+764
+$
+69
+226
+—
+100
+1,157
+144
+711
+$
+64
+230
+—
+94
+949
+134
+595
+$6,138
+$5,373
+$4,571
+$2,810
+$2,407
+$2,066
+Excludes capital expenditures which were part of business acquisitions.
+Goodwill
+at year-end
+2008
+2007
+Identifiable assets
+at year-end
+2008
+2007
+Operating Businesses:
+Insurance group:
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+General Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Reinsurance and Primary Groups . . . . . . . . . . . . . . . . . . .
+$ 1,372
+13,532
+578
+$ 1,372
+13,532
+546
+$ 18,699
+28,953
+85,584
+$ 18,988
+32,571
+95,379
+Total insurance group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15,482
+15,450
+133,236
+146,938
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Marmon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MidAmerican . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,024
+682
+154
+5,280
+2,258
+8,901
+1,013
+—
+149
+5,543
+2,339
+8,368
+22,918
+9,757
+3,477
+36,290
+2,924
+21,323
+24,733
+—
+3,329
+33,645
+2,922
+20,579
+$33,781
+$32,862
+229,925
+232,146
+3,693
+33,781
+8,152
+32,862
+$267,399
+$273,160
+Reconciliation of segments to consolidated amount:
+Corporate and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Insurance premiums written by geographic region (based upon the domicile of the insured or reinsured) are summarized
+below. Dollars are in millions.
+2008
+United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Western Europe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Property/Casualty
+2007
+2006
+2008
+Life/Health
+2007
+2006
+$19,267
+4,145
+797
+$18,589
+9,641
+588
+$19,195
+2,576
+638
+$1,119
+749
+720
+$1,092
+706
+681
+$1,073
+628
+667
+$24,209
+$28,818
+$22,409
+$2,588
+$2,479
+$2,368
+Insurance premiums written and earned in 2007 included $7.1 billion from a single reinsurance transaction with Equitas. See
+Note 13 for additional information. Amounts for Western Europe were primarily in the United Kingdom, Switzerland and
+Germany. Consolidated sales and service revenues in 2008, 2007 and 2006 were $65.9 billion, $58.2 billion and $51.8 billion,
+respectively. Approximately 90% of such amounts in each year were in the United States with the remainder primarily in Canada
+and Europe. In 2008, consolidated sales and service revenues included $11.2 billion of sales to Wal-Mart Stores, Inc. which were
+primarily related to McLane’s wholesale distribution business. At December 31, 2008, over 80% of Berkshire’s net property, plant
+and equipment and assets held for lease are located in the United States with the remainder primarily in Canada and Europe.
+60
+Notes to Consolidated Financial Statements (Continued)
+(21) Business segment data (Continued)
+Premiums written and earned by the property/casualty and life/health insurance businesses are summarized below (in
+millions).
+2008
+Premiums Written:
+Direct . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ceded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Premiums Earned:
+Direct . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ceded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Property/Casualty
+2007
+2006
+2008
+Life/Health
+2007
+2006
+$16,953 $16,056 $15,729
+7,960
+13,316
+7,224 $2,690 $2,579 $2,476
+(704)
+(554)
+(544)
+(102)
+(100)
+(108)
+$24,209 $28,818 $22,409 $2,588 $2,479 $2,368
+$16,269 $16,076 $15,453
+7,332
+13,744
+6,746 $2,682 $2,564 $2,471
+(656)
+(499)
+(599)
+(102)
+(102)
+(107)
+$22,945 $29,321 $21,600 $2,580 $2,462 $2,364
+(22) Quarterly data
+A summary of revenues and earnings by quarter for each of the last two years is presented in the following table. This
+information is unaudited. Dollars are in millions, except per share amounts.
+1st
+Quarter
+2nd
+Quarter
+3rd
+Quarter
+4th
+Quarter
+2008
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $25,175 $30,093 $27,926 $24,592
+Net earnings * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+940
+2,880
+1,057
+117
+Net earnings per equivalent Class A common share . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+607
+1,859
+682
+76
+2007
+Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net earnings * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Net earnings per equivalent Class A common share . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$32,918
+2,595
+1,682
+$27,347
+3,118
+2,018
+$29,937
+4,553
+2,942
+$28,043
+2,947
+1,904
+* Includes investment gains/losses and derivative gains/losses, which, for any given period have no predictive value and
+variations in amount from period to period have no practical analytical value. Derivative gains/losses include significant
+amounts related to non-cash fair value changes in the value of long-term contracts arising from short-term changes in equity
+prices, interest rate and foreign currency rates, among other factors. After-tax investment and derivative gains/losses for the
+periods presented above are as follows (in millions):
+Investment and derivative gains/losses – 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investment and derivative gains/losses – 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+1st
+Quarter
+2nd
+Quarter
+3rd
+Quarter
+4th
+Quarter
+$(991)
+382
+$610
+608
+$(1,012) $(3,252)
+1,992
+597
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+Results of Operations
+Net earnings for each of the past three years are disaggregated in the table that follows. Amounts are after deducting
+income taxes and minority interests and are in millions.
+2008
+2007
+2006
+Insurance – underwriting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,805 $ 2,184 $ 2,485
+Insurance – investment income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,497
+3,510
+3,120
+Utilities and energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,704
+1,114
+885
+Manufacturing, service and retailing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,283
+2,353
+2,131
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+479
+632
+732
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(129)
+(159)
+(47)
+Investment and derivative gains/losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4,645)
+3,579
+1,709
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 4,994
+$13,213
+$11,015
+Berkshire’s operating businesses are managed on an unusually decentralized basis. There are essentially no centralized or
+integrated business functions (such as sales, marketing, purchasing, legal or human resources) and there is minimal involvement
+by Berkshire’s corporate headquarters in the day-to-day business activities of the operating businesses. Berkshire’s corporate
+office management participates in and is ultimately responsible for significant capital allocation decisions, investment activities
+and the selection of the Chief Executive to head each of the operating businesses. The business segment data (Note 21 to the
+Consolidated Financial Statements) should be read in conjunction with this discussion.
+During 2008, a series of crises occurred in the U.S. financial and capital markets systems, as well as in the credit and
+housing markets. These conditions accelerated into an economic recession, as evidenced by declining consumer confidence,
+lower consumer spending, bankruptcies and significant job losses. The declining economic conditions worsened over the last
+half of 2008 and in the fourth quarter in particular. Equity and debt markets have seen major declines in market prices on a
+worldwide basis as well, which have negatively impacted the fair value of Berkshire’s investments and derivative contracts.
+During 2008, the net after-tax unrealized gains in Berkshire’s equity investment portfolio declined by approximately $13.9
+billion. In addition, during 2008, after-tax investment and derivative losses of $4.6 billion were included in earnings and
+primarily related to non-cash fair value adjustments of certain derivative contract liabilities and non-cash other-than-temporary
+impairment charges with respect to certain investments offset to a degree by net realized gains from investment sales.
+Berkshire’s insurance, manufacturing, service, retailing and finance and financial products businesses were impacted by
+the recession in different ways and to varying degrees. Operating results in 2008 for most of Berkshire’s manufacturing, service
+and retailing businesses were generally lower than in 2007. It is likely that the current economic conditions will persist through
+2009 and in to 2010 before meaningful improvements become evident. Berkshire’s operating companies have taken and will
+continue to take cost reduction actions in response to the current economic situation, including curtailing production, reducing
+capital expenditures, closing facilities and reducing employment to partially compensate for the declines in demand for goods
+and services. Berkshire has historically attempted to manage its financial condition such that it can weather cyclical economic
+conditions. Management believes that the economic franchises of Berkshire’s business operations will remain intact and that
+operating results will ultimately return to more normal historical levels.
+Insurance—Underwriting
+Berkshire engages in both primary insurance and reinsurance of property and casualty risks. In primary insurance activities,
+Berkshire subsidiaries assume defined portions of the risks of loss from persons or organizations that are directly subject to the
+risks. In reinsurance activities, Berkshire subsidiaries assume defined portions of similar or dissimilar risks that other insurers or
+reinsurers have subjected themselves to in their own insuring activities. Berkshire’s principal insurance and reinsurance
+businesses are: (1) GEICO, (2) General Re, (3) Berkshire Hathaway Reinsurance Group and (4) Berkshire Hathaway Primary
+Group. Through General Re, Berkshire also reinsures life and health risks.
+Berkshire’s management views insurance businesses as possessing two distinct operations – underwriting and investing.
+Underwriting decisions are the responsibility of the unit managers; investing, with limited exceptions, is the responsibility of
+62
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+Berkshire’s Chairman and CEO, Warren E. Buffett. Accordingly, Berkshire evaluates performance of underwriting operations
+without any allocation of investment income.
+Periodic underwriting results can be affected significantly by changes in estimates for unpaid losses and loss adjustment
+expenses, including amounts established for occurrences in prior years. See the Critical Accounting Policies section of this
+discussion for information concerning the loss reserve estimation process. In addition, the timing and amount of catastrophe
+losses produce significant volatility in periodic underwriting results. Berkshire’s property and casualty reinsurance operations
+benefited from relatively minor levels of catastrophe losses in 2007 and 2006. During 2008, Berkshire’s underwriting results
+include estimated losses of approximately $900 million from Hurricanes Gustav and Ike. The impact on earnings of these losses
+was substantially offset by unrealized foreign currency transaction gains during the last half of 2008 that arose from the
+valuation of certain non-U.S. Dollar denominated reinsurance liabilities as a result of the significant strengthening of the U.S.
+Dollar.
+A key marketing strategy followed by all of the insurance businesses is the maintenance of extraordinary capital strength.
+Statutory surplus of Berkshire’s insurance businesses was approximately $51 billion at December 31, 2008. This superior capital
+strength creates opportunities, especially with respect to reinsurance activities, to negotiate and enter into insurance and reinsurance
+contracts specially designed to meet the unique needs of insurance and reinsurance buyers. Additional information regarding
+Berkshire’s insurance and reinsurance operations follows.
+A summary follows of underwriting results from Berkshire’s insurance businesses for the past three years. Amounts are in
+millions.
+2008
+2007
+2006
+Underwriting gain attributable to:
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 916 $1,113 $1,314
+General Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+342
+555
+526
+Berkshire Hathaway Reinsurance Group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,324
+1,427
+1,658
+Berkshire Hathaway Primary Group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+210
+279
+340
+Pre-tax underwriting gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,792
+987
+3,374
+1,190
+3,838
+1,353
+Net underwriting gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,805
+$2,184
+$2,485
+GEICO
+GEICO provides primarily private passenger automobile coverages to insureds in 49 states and the District of Columbia.
+GEICO policies are marketed mainly by direct response methods in which customers apply for coverage directly to the
+company via the Internet, over the telephone or through the mail. This is a significant element in GEICO’s strategy to be a
+low-cost insurer. In addition, GEICO strives to provide excellent service to customers, with the goal of establishing long-term
+customer relationships.
+GEICO’s underwriting results for the past three years are summarized below. Dollars are in millions.
+2008
+Amount
+%
+2007
+Amount
+%
+%
+Premiums written . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$12,741
+Premiums earned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$12,479
+100.0
+$11,806
+100.0
+$11,055
+100.0
+Losses and loss adjustment expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Underwriting expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9,332
+2,231
+74.8
+17.9
+8,523
+2,170
+72.2
+18.4
+7,749
+1,992
+70.1
+18.0
+Total losses and expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11,563
+92.7
+10,693
+90.6
+9,741
+88.1
+Pre-tax underwriting gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+63
+916
+$11,931
+2006
+Amount
+$ 1,113
+$11,303
+$ 1,314
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+GEICO (Continued)
+Premiums earned in 2008 increased 5.7% over 2007, reflecting an 8.2% increase in voluntary auto policies-in-force
+partially offset by lower average premiums per policy. Average premiums per policy declined during 2007 but leveled off in
+2008. The weakening economy could result in downward pressure on average premiums per policy in 2009 to the extent that
+consumers raise deductibles and reduce coverages to save money. Policies-in-force over the last twelve months increased 6.6%
+in the preferred risk auto line and increased 13.1% in the standard and nonstandard auto lines. Voluntary auto new business
+sales in 2008 increased 2.0% compared to 2007. Voluntary auto policies-in-force at December 31, 2008 were 665,000 higher
+than at December 31, 2007.
+Losses and loss adjustment expenses incurred in 2008 increased 9.5% over 2007. The loss ratio was 74.8% in 2008 versus
+72.2% in 2007. Incurred losses from catastrophe events for 2008 were $87 million compared to $34 million for 2007. Overall,
+the increase in the loss ratio reflected higher average claim severities and lower average premiums per policy, partially offset by
+lower average claims frequencies. Claims frequencies in 2008 for physical damage coverages decreased in the seven to nine
+percent range from 2007 and frequencies for injury coverages decreased in the four to six percent range. Physical damage
+severities in 2008 increased in the six to eight percent range and injury severities increased in the five to eight percent range
+over 2007.
+Underwriting expenses in 2008 increased $61 million (2.8%) over 2007. Policy acquisition expenses increased 8.5% in 2008
+to $1,508 million, primarily due to increased advertising and policy issuance costs. The increase in policy acquisition expenses was
+partially offset by lower other underwriting expenses, including lower interest on deferred compensation liabilities.
+Premiums earned in 2007 increased 6.8% over 2006, due to higher numbers of policies-in-force, partially offset by lower
+premiums per policy as a result of overall lower rates. Losses and loss adjustment expenses in 2007 increased 10.0% over 2006,
+reflecting the aforementioned decline in average premiums per policy. In 2007, claims frequencies for physical damage
+coverages increased in the two to four percent range over 2006 while frequencies for injury coverages decreased in the three to
+five percent range. Physical damage severities increased in the second half of 2007 at an annualized rate of two to four percent.
+Injury severities also increased in the latter part of 2007 at an annualized rate of three to six percent.
+General Re
+General Re conducts a reinsurance business offering property and casualty and life and health coverages to clients
+worldwide. Property and casualty reinsurance is written in North America on a direct basis through General Reinsurance
+Corporation and internationally through Cologne Re (based in Germany) and other affiliates. Property and casualty reinsurance
+is also written through brokers with respect to Faraday in London. Life and health reinsurance is written worldwide through
+Cologne Re. General Re strives to generate underwriting gains in essentially all of its product lines. Underwriting performance
+is not evaluated based upon market share and underwriters are instructed to reject inadequately priced risks. General Re’s
+underwriting results are summarized for the past three years in the following table. Amounts are in millions.
+Premiums written
+2008
+2007
+2006
+Property/casualty . . . . . . . . . . . . . . . . . . . . . . . . . .
+Life/health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Premiums earned
+2008
+2007
+2006
+Pre-tax underwriting
+gain
+2008
+2007
+2006
+$3,383
+2,588
+$3,478
+2,479
+$3,581
+2,368
+$3,434
+2,580
+$3,614
+2,462
+$3,711
+2,364
+$163
+179
+$475
+80
+$373
+153
+$5,971
+$5,957
+$5,949
+$6,014
+$6,076
+$6,075
+$342
+$555
+$526
+64
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+General Re (Continued)
+Property/casualty
+Premiums written in 2008 declined 2.7% from 2007, which declined 2.9% versus 2006. Premiums written in
+2008 included $205 million with respect to a reinsurance-to-close transaction that increased General Re’s
+economic interest in the runoff of Lloyd’s Syndicate 435’s 2000 year of account from 39% to 100%. A similar
+transaction in 2007 generated $114 million of premiums written and increased General Re’s economic interest in
+the runoff of Lloyd’s Syndicate 435’s 2001 year of account from 60% to 100%. Neither of the reinsurance-toclose transactions had any impact on net underwriting results because premiums earned were offset by
+corresponding increases to loss reserves and losses incurred. There was no similar transaction in 2006.
+Premiums earned in 2008 declined 5.0% from 2007, which declined 2.6% from 2006. Excluding the effects
+of the previously mentioned reinsurance-to-close transactions and exchange rates, premiums earned declined
+8.2% in 2008 compared to 2007 and 10.1% in 2007 compared to 2006. The overall comparative declines in
+written and earned premiums reflect continued underwriting discipline by declining to accept business where
+pricing is considered inadequate with respect to the risk. Competitive conditions currently prevailing within the
+industry could lead to continued declines in business written in 2009.
+Pre-tax underwriting results in 2008 included $275 million in underwriting gains from property business
+partially offset by $112 million in underwriting losses from casualty/workers’ compensation business. The
+property business produced underwriting losses of $120 million for the 2008 accident year, offset by $395
+million of gains from favorable run-off of prior years’ losses. The current accident year results include $174
+million of catastrophe losses from Hurricanes Gustav and Ike and $56 million of catastrophe losses from
+European storms. The timing and magnitude of catastrophe and large individual losses produce significant
+volatility in periodic underwriting results. The pre-tax underwriting losses from casualty/workers’ compensation
+business in 2008 included $117 million of workers’ compensation loss reserve discount accretion and retroactive
+reinsurance deferred charge amortization, offset in part by favorable run-off in other casualty lines. The casualty
+results were adversely impacted by legal costs incurred in connection with the ongoing regulatory investigations
+of finite reinsurance.
+Pre-tax underwriting results in 2007 included $519 million in underwriting gains from property business,
+partially offset by $44 million in underwriting losses from casualty/workers’ compensation business. The
+property business produced underwriting gains of $90 million for the 2007 accident year and $429 million from
+favorable run-off of prior years’ losses. The pre-tax underwriting losses from casualty business in 2007 included
+$120 million of loss reserve discount accretion and deferred charge amortization, as well as legal costs associated
+with the finite reinsurance investigations. These charges were largely offset by underwriting gains in other
+casualty business.
+Pre-tax underwriting results in 2006 included $708 million in underwriting gains from property business,
+partially offset by $335 million in underwriting losses from casualty/workers’ compensation business, which
+included legal and estimated settlement costs associated with the finite reinsurance regulatory investigations. The
+2006 property results benefited from a lack of catastrophe losses and favorable runoff of prior years’ claim
+reserves. The underwriting losses from casualty business in 2006 included $137 million in reserve discount
+accretion and deferred charge amortization, increases in prior years’ workers’ compensation reserves of $103
+million and increases in asbestos and environmental reserves.
+Life/health
+Premiums earned in 2008 increased 4.8% over 2007, which increased 4.1% over 2006. Adjusting for the
+effects of foreign currency exchange rates, premiums earned increased 2.2% over 2007 which were relatively
+unchanged when compared to 2006. The increase in premiums earned in 2008 was primarily from life business in
+North America. Underwriting results for the life/health operations produced pre-tax underwriting gains in each of
+the past three years driven by gains from the life business primarily as a result of lower mortality rates.
+65
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+Berkshire Hathaway Reinsurance Group
+The Berkshire Hathaway Reinsurance Group (“BHRG”) underwrites excess-of-loss reinsurance and quota-share coverages
+for insurers and reinsurers worldwide. BHRG’s business includes catastrophe excess-of-loss reinsurance and excess direct and
+facultative reinsurance for large or otherwise unusual discrete property risks referred to as individual risk. Retroactive
+reinsurance policies provide indemnification of losses and loss adjustment expenses with respect to past loss events. Other
+multi-line refers to other business written on both a quota-share and excess basis, participations in and contracts with Lloyd’s
+syndicates as well as property, aviation and workers’ compensation programs. BHRG’s underwriting results are summarized in
+the table below. Amounts are in millions.
+2008
+Premiums earned
+2007
+2006
+Pre-tax underwriting gain/loss
+2008
+2007
+2006
+Catastrophe and individual risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 955 $ 1,577 $2,196 $ 776 $1,477 $1,588
+Retroactive reinsurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+204
+7,708
+146
+(414)
+(375)
+(173)
+Other multi-line . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,923
+2,617
+2,634
+962
+325
+243
+$5,082
+$11,902
+$4,976
+$1,324
+$1,427
+$1,658
+Catastrophe and individual risk contracts may provide exceptionally large limits of indemnification, often several hundred
+million dollars and occasionally in excess of $1 billion, and cover catastrophe risks (such as hurricanes, earthquakes or other
+natural disasters) or other property risks (such as aviation and aerospace, commercial multi-peril or terrorism). The timing and
+magnitude of losses produce extraordinary volatility in periodic underwriting results of BHRG’s catastrophe and individual risk
+business. BHRG does not cede these risks to mitigate volatility as management accepts such potential volatility provided that
+the long-term prospect of achieving underwriting profits is reasonable.
+Premiums earned from catastrophe and individual risk contracts in 2008 declined 39% from 2007, which decreased 28%
+versus 2006. Catastrophe and individual risk premiums written were approximately $1.1 billion in 2008, $1.2 billion in 2007
+and $2.4 billion in 2006. The decreases in premium volume were principally attributable to increased industry capacity for
+catastrophe reinsurance, which has produced increased price competition and fewer opportunities to write business at prices
+considered adequate by BHRG management. The level of catastrophe and individual risk business written in a given period will
+vary significantly based upon market conditions and management’s assessment of the adequacy of premium rates.
+During 2008, Berkshire entered into a contract under which it received a payment of $224 million and agreed to purchase,
+under certain conditions, up to $4 billion of revenue bonds issued by the Florida Hurricane Catastrophe Fund Finance
+Corporation. Berkshire’s obligation was conditioned upon, among other things, the occurrence of a specified amount of
+hurricane losses in Florida during a period that expired on December 31, 2008. The minimum amount of hurricane losses
+required to trigger Berkshire’s acquisition of the bonds was not met and the consideration received was earned as of December
+31, 2008 and is included in the underwriting results of the catastrophe and individual risk business.
+Underwriting results in 2008 for the catastrophe and individual risk business also included approximately $270 million of
+estimated losses from Hurricanes Gustav and Ike. The underwriting results from catastrophe and individual risk business in
+2007 and 2006 reflected no significant losses from catastrophe events occurring in those years. In 2006, BHRG incurred losses
+of approximately $200 million attributable to prior years’ events, primarily Hurricane Wilma which occurred in the fourth
+quarter of 2005.
+Retroactive policies normally provide very large, but limited indemnification of unpaid losses and loss adjustment
+expenses with respect to past loss events that are expected to be paid over long periods of time. Underwriting losses from
+retroactive reinsurance include the amortization of deferred charges established on the contracts. At the inception of a contract,
+deferred charges represent the difference between the premium received and the estimated ultimate losses payable. Deferred
+charges are amortized over the estimated claims payment period using the interest method. The amortization charges are based
+on the estimated timing and amount of loss payments and are recorded as a component of losses and loss adjustment expenses.
+Premiums earned from retroactive reinsurance in 2007 included $7.1 billion from the Equitas reinsurance agreement which
+became effective on March 30, 2007. See Note 13 to the accompanying Consolidated Financial Statements. Otherwise,
+66
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+Berkshire Hathaway Reinsurance Group (Continued)
+premiums earned from retroactive contracts were relatively minor over the past three years. Unamortized deferred charges of
+BHRG’s retroactive contracts (including the Equitas contract) were $3.7 billion at December 31, 2008 and $3.8 billion at
+December 31, 2007. Gross unpaid losses under retroactive contracts were approximately $16.6 billion at December 31, 2008
+and $17.3 billion at December 31, 2007.
+Underwriting losses from retroactive reinsurance policies in each year were primarily attributable to recurring deferred
+charge amortization. Underwriting losses from retroactive policies in 2007 included deferred charge amortization of $156
+million on contracts written in 2007 (primarily the Equitas contract). Underwriting losses from retroactive reinsurance in 2006
+were net of gains of approximately $145 million which primarily derived from contracts that were commuted or amended
+during that year.
+Other multi-line premiums earned in 2008 increased $1.31 billion (50%) over 2007. Premiums earned in 2008 included
+$1.83 billion from a quota-share contract with Swiss Reinsurance Company Ltd. and its major property/casualty affiliates
+(“Swiss Re”) that became effective January 1, 2008. Under the agreement, BHRG assumes a 20% quota-share of the premiums
+and related losses and expenses on substantially all property/casualty risks of Swiss Re written over the five year period ending
+December 31, 2012. BHRG’s written premium under this agreement in 2008 was $2.65 billion. Actual premiums assumed over
+the remainder of the five year period could vary significantly depending on Swiss Re’s response to market conditions and
+opportunities that arise over the contract term. Excluding the premiums from the Swiss Re quota-share contract, other multi-line
+premiums earned in 2008 declined 20% versus 2007 principally attributable to lower premium volume from workers’
+compensation programs.
+Other multi-line business produced a pre-tax underwriting gain of $962 million in 2008. This gain included $930 million of
+foreign currency transaction gains (including approximately $615 million in the fourth quarter) arising from the conversion of
+certain reinsurance liabilities denominated and settled in foreign currencies (primarily the U.K. Pound Sterling and the Euro)
+into U.S. Dollars as of the balance sheet date. The value of these currencies versus the U.S. Dollar generally increased over the
+past several years resulting in accumulated liabilities and transaction losses. Over the last half of 2008, these currencies declined
+sharply versus the U.S. Dollar, resulting in gains that exceeded the previously recorded losses.
+Excluding the effects of the currency gains/losses, other multi-line business produced a pre-tax underwriting gain of $32
+million in 2008 compared to $435 million in 2007. Pre-tax underwriting results in 2008 included approximately $435 million of
+estimated catastrophe losses from Hurricanes Gustav and Ike. There were no significant catastrophe losses in 2007, which also
+benefited from relatively low property loss ratios and favorable loss experience on workers’ compensation business.
+Other multi-line premiums earned in 2007 were relatively unchanged from 2006, reflecting significant increases in
+property business and significant decreases in casualty excess reinsurance. In addition, as of the beginning of 2007, the
+management of certain workers’ compensation business was transferred to the Berkshire Hathaway Primary Group and the
+related underwriting results have been excluded from BHRG since that date.
+In December 2007, BHRG formed a monoline financial guarantee insurance company, Berkshire Hathaway Assurance
+Corporation (“BHAC”). BHAC commenced operations during the first quarter of 2008 and is licensed in 49 states. As of
+December 31, 2008, BHAC had approximately $1 billion in capital and has received the highest rating available from two credit
+rating agencies. BHRG is pursuing opportunities to write financial guarantee insurance on municipal bonds. In its first year of
+operation, BHAC produced $595 million of written premiums. The impact of this new business on 2008 underwriting results
+was minimal, since the coverage periods related to the insured bonds extend over 40 years into the future.
+In January 2009, BHRG agreed to cover certain Swiss Re entities for adverse loss development of its property and casualty
+loss reserves up to 5 billion Swiss Francs in excess of its December 31, 2008 loss reserves less 2 billion Swiss Francs. BHRG
+will receive a premium of 2 billion Swiss Francs for providing this coverage.
+67
+Management’s Discussion (Continued)
+Insurance—Underwriting (Continued)
+Berkshire Hathaway Primary Group
+Berkshire’s primary insurance group consists of a wide variety of independently managed insurance businesses that
+principally write liability coverages for commercial accounts. These businesses include: Medical Protective Corporation
+(“MedPro”), a provider of professional liability insurance to physicians, dentists and other healthcare providers; National
+Indemnity Company’s primary group operation (“NICO Primary Group”), a writer of commercial motor vehicle and general
+liability coverages; U.S. Investment Corporation, whose subsidiaries underwrite specialty insurance coverages; a group of
+companies referred to internally as “Homestate” operations, providers of standard commercial multi-line insurance; Central
+States Indemnity Company, a provider of credit and disability insurance to individuals nationwide through financial institutions;
+Applied Underwriters, a provider of integrated workers’ compensation solutions; and BoatU.S., (acquired in August 2007)
+which writes insurance for owners of boats and small watercraft.
+Earned premiums by the primary insurance businesses were $1,950 million in 2008, $1,999 million in 2007 and $1,858
+million in 2006. Roughly 33% of the premiums earned in each year were from MedPro. In 2008, premiums earned by the NICO
+Primary Group declined by approximately 30%, which was partially offset by increased premiums earned from the Homestate
+operations and BoatU.S. Pre-tax underwriting gains as percentages of premiums earned were approximately 11% in 2008, 14%
+in 2007 and 18% in 2006. The decline in underwriting gains in 2008 from 2007 reflected declines in underwriting gains from
+the NICO Primary Group and Homestate operations, which were primarily due to less favorable loss reserve development of
+prior years’ occurrences as well as relatively higher losses for current year occurrences.
+Insurance—Investment Income
+A summary of the net investment income of Berkshire’s insurance operations for the past three years follows. Amounts are in
+millions.
+2008
+2007
+2006
+Investment income before income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $4,722 $4,758 $4,316
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,225
+1,248
+1,196
+Investment income after income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$3,497
+$3,510
+$3,120
+Investment income consists of interest earned on cash equivalents and fixed maturity investments and dividends earned on
+equity investments. Pre-tax investment income earned in 2008 was relatively unchanged from 2007. Investment income earned
+in 2007 increased $442 million (10%) over 2006. The increase in 2007 over 2006 reflected increased invested assets, higher
+short-term interest rates in the United States and increased dividend rates on certain equity investments.
+In 2008, dividend income increased $534 million, reflecting increased investments in equity securities and increased
+dividend rates with respect to certain securities. The increase in dividends earned was offset by a decline in interest earned,
+reflecting lower levels of related fixed maturity investments and generally lower interest rates applicable to cash equivalents and
+short-term investments. In October 2008, Berkshire subsidiaries acquired the Wrigley, Goldman Sachs and General Electric
+securities for an aggregate cost of $14.5 billion. See Note 5 to the Consolidated Financial Statements. Interest and dividends
+from these securities will be approximately $1.4 billion per annum, which is substantially greater than earnings currently
+expected from short-term investments.
+68
+Management’s Discussion (Continued)
+Insurance—Investment Income (Continued)
+A summary of investments held in Berkshire’s insurance businesses follows. Amounts are in millions.
+2008
+2007
+2006
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 18,845 $ 28,257 $ 34,590
+Equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48,892
+74,681*
+61,168*
+Fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26,932
+27,922
+25,272
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21,535*
+—
+—
+$116,204
+$130,860
+$121,030
+* Other investments include the investments in Wrigley, Goldman Sachs and General Electric as well as investments in
+Burlington Northern and Moody’s, which as of December 31, 2008 are accounted for under the equity method. In 2007 and
+2006, investments in Burlington Northern and Moody’s are included in equity securities.
+Fixed maturity investments as of December 31, 2008 were as follows. Amounts are in millions.
+U.S. Treasury, government corporations and agencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+States, municipalities and political subdivisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign governments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Corporate bonds and redeemable preferred stocks, investment grade . . . . . . . . . . . . . . . . . . . .
+Corporate bonds and redeemable preferred stocks, non-investment grade . . . . . . . . . . . . . . . . .
+Mortgage-backed securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Amortized
+cost
+Unrealized
+gains/losses
+Fair
+value
+$ 2,100
+3,065
+9,066
+4,826
+5,392
+2,986
+$
+121
+237
+284
+68
+(1,195)
+(18)
+$ 2,221
+3,302
+9,350
+4,894
+4,197
+2,968
+$27,435
+$ (503)
+$26,932
+All U.S. government obligations are rated AAA by the major rating agencies and approximately 90% of all state, municipal
+and political subdivisions, foreign government obligations and mortgage-backed securities were rated AA or higher.
+Non-investment grade securities represent securities that are rated below BBB- or Baa3.
+Invested assets derive from shareholder capital and reinvested earnings as well as net liabilities under insurance contracts
+or “float.” The major components of float are unpaid losses, unearned premiums and other liabilities to policyholders less
+premiums and reinsurance receivables, deferred charges assumed under retroactive reinsurance contracts and deferred policy
+acquisition costs. Float approximated $58 billion at December 31, 2008, $59 billion at December 31, 2007 and $51 billion at
+December 31, 2006. The increase in float in 2007 was principally due to the Equitas reinsurance transaction. The cost of float,
+as represented by the ratio of underwriting gain or loss to average float, was negative for the last three years, as Berkshire’s
+insurance businesses generated underwriting gains in each year.
+69
+Management’s Discussion (Continued)
+Utilities and Energy (“MidAmerican”)
+Revenues and earnings of MidAmerican for each of the past three years are summarized below. Amounts are in millions.
+MidAmerican Energy Company . . . . . . . . . . . . . . . . . . . . . . . . . .
+PacifiCorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Natural gas pipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+U.K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Real estate brokerage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+Revenues
+2007
+2006
+$ 4,742
+4,558
+1,221
+1,001
+1,147
+1,302
+$ 4,325
+4,319
+1,088
+1,114
+1,511
+271
+$ 3,519
+2,971
+972
+961
+1,724
+497
+$13,971
+$12,628
+$10,644
+2008
+$
+Earnings
+2007
+425 $
+703
+595
+339
+(45)
+1,278
+412
+692
+473
+337
+42
+130
+Earnings before corporate interest and taxes . . . . . . . . . . . . . . . .
+Interest, other than to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest on Berkshire junior debt . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests ** . . . . . . . . . . . . . . . . . . . . .
+3,295
+(332)
+(111)
+(1,002)
+2,086
+(312)
+(108)
+(477)
+Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 1,850
+$ 1,189
+Earnings applicable to Berkshire * . . . . . . . . . . . . . . . . . . . . . . . .
+Debt owed to others at December 31 . . . . . . . . . . . . . . . . . . . . . .
+Debt owed to Berkshire at December 31 . . . . . . . . . . . . . . . . . . .
+2006
+$
+348
+356
+376
+338
+74
+245
+1,737
+(261)
+(134)
+(426)
+$
+916
+$ 1,704 $ 1,114 $ 885
+19,145
+19,002
+16,946
+1,087
+821
+1,055
+*
+Includes interest earned by Berkshire (net of related income taxes).
+**
+Net of $58 million deferred income tax benefit in 2007 as a result of the reduction in the United Kingdom corporate income
+tax rate from 30% to 28% which was enacted during the third quarter of 2007 and became effective in 2008.
+Berkshire currently owns an 88.2% (87.4% diluted) interest in MidAmerican Energy Holdings Company
+(“MidAmerican”), an international energy company. MidAmerican’s domestic regulated energy interests are comprised of two
+regulated utility companies (MidAmerican Energy Company (“MEC”) and PacifiCorp) serving over 3 million retail customers
+and two interstate natural gas pipeline companies (Northern Natural Gas and Kern River) with approximately 17,000 miles of
+pipeline in operation and design capacity of about 7.0 billion cubic feet of natural gas per day. In the United Kingdom (“U.K.”),
+electricity distribution subsidiaries serve about 3.8 million electricity end users. The rates that MidAmerican’s utilities,
+electricity distribution and natural gas pipeline businesses may charge customers for energy and other services are generally
+subject to regulatory approval. Rates are based in large part on the costs of business operations, including a return on capital. To
+the extent these operations are not allowed to include such costs in the approved rates, operating results will be adversely
+affected. In addition, MidAmerican’s other businesses include a diversified portfolio of independent power projects and the
+second-largest residential real estate brokerage firm in the United States.
+MEC’s revenues in 2008 increased $417 million (10%) over 2007. The increase reflects (1) increased regulated natural gas
+revenues from cost based price increases that are largely passed on to customers, (2) increased non-regulated gas revenues due
+primarily to higher prices and, to a lesser degree, increased volume and (3) increased wholesale regulated electricity revenues
+driven by volume increases. Earnings before corporate interest and income taxes (“EBIT”) of MEC in 2008 increased $13
+million (3%) versus 2007, resulting primarily from higher operating margins on wholesale regulated electricity and slightly
+higher margins from regulated gas sales, partially offset by increased interest expense and lower miscellaneous income.
+PacifiCorp’s revenues in 2008 increased $239 million (6%) over 2007. The increase was primarily related to higher retail
+revenues due to regulator approved rate increases as well as increased customer growth and usage. PacifiCorp’s EBIT in 2008
+increased $11 million (2%) versus 2007, as higher revenues were substantially offset by increased fuel costs and interest
+expense.
+70
+Management’s Discussion (Continued)
+Utilities and Energy (“MidAmerican”) (Continued)
+Natural gas pipelines revenues in 2008 increased $133 million (12%) over 2007. The increase reflected increased
+transportation revenue as a result of stronger market conditions in the Northern Natural Gas system, the impact of system
+expansion projects and changes related to the Kern River system current rate proceeding. EBIT in 2008 of the gas pipeline
+businesses increased $122 million (26%) over 2007. The increase in EBIT reflects the impact of increased revenues.
+U.K. utility revenues in 2008 declined $113 million (10%) versus 2007 primarily from the effect of the significant
+strengthening of the U.S. Dollar versus the U.K. Pound Sterling over the second half of 2008. EBIT in 2008 was relatively
+unchanged from 2007 as the revenue decline was offset primarily by lower operating costs and interest expense.
+Real estate brokerage revenues in 2008 declined $364 million (24%) compared to 2007 due to significant declines in
+transaction volume as well as lower average home sales prices. Real estate brokerage activities generated a loss before interest
+and taxes of $45 million in 2008 versus EBIT of $42 million in 2007. The loss in 2008 reflected the continuing weak U.S.
+housing markets.
+In the fourth quarter of 2008, EBIT from other activities included a gain of $917 million from MidAmerican’s investments
+in Constellation Energy as well as a fee of $175 million received as a result of the termination of the planned acquisition of
+Constellation Energy. EBIT from other activities in 2006 included gains of $117 million primarily from the disposal of equity
+securities. There were no significant securities gains in 2007.
+MEC’s revenues in 2007 increased $806 million (23%) over 2006. MEC’s non-regulated energy sales in 2007 exceeded
+2006 by $597 million primarily due to improved market opportunities. MEC’s regulated wholesale and retail electricity sales in
+2007 exceeded 2006 by $155 million, which reflected the impact of new generating assets and improved opportunities in
+wholesale markets as well as higher retail demand due to warmer temperatures and increases in the number of retail customers.
+EBIT of MEC in 2007 increased $64 million (18%), reflecting the margins on the increases in regulated and non-regulated
+energy sales, partially offset by higher facilities operating and maintenance costs.
+PacifiCorp’s revenues in 2007 increased $1,348 million (45%) and EBIT increased $336 million (94%) versus 2006.
+Revenues and EBIT of PacifiCorp for 2006 are included beginning as of the acquisition date (March 21, 2006). In 2007,
+PacifiCorp’s revenues and EBIT were favorably impacted by regulatory-approved rate increases and higher customer usage in
+retail markets, as well as increased margins on wholesale electricity sales, partially offset by higher fuel and purchased power
+costs.
+Revenues from natural gas pipelines in 2007 increased $116 million (12%) over 2006 due primarily to favorable market
+conditions and because revenues in 2006 reflected the impact of estimated rate case refunds to customers. EBIT in 2007 from
+natural gas pipelines increased $97 million (26%) over 2006 mainly due to comparatively higher revenue and lower
+depreciation due to expected changes in depreciation rates in connection with a current rate proceeding.
+Revenues from U.K. utilities in 2007 increased over the comparable 2006 period primarily attributable to the strengthening
+of the U.K. Pound Sterling versus the U.S. Dollar as well as higher gas production and electricity distribution revenues. EBIT
+from the U.K. utilities in 2007 was essentially unchanged compared to 2006 as higher maintenance and depreciation costs and
+the write-off of unsuccessful gas exploration costs offset the impact of higher revenues.
+Revenues and EBIT in 2007 from real estate brokerage declined 12% and 43%, respectively, compared to 2006, primarily
+due to significantly lower transaction volume as a result of the slowdown in U.S. residential real estate activity.
+71
+Management’s Discussion (Continued)
+Manufacturing, Service and Retailing
+A summary of revenues and earnings of Berkshire’s manufacturing, service and retailing businesses for each of the past
+three years follows. Amounts are in millions.
+2008
+Marmon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other manufacturing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other service * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Retailing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . .
+Revenues
+2007
+2006
+2008
+Earnings
+2007
+2006
+—
+25,693
+5,834
+11,988
+5,811
+3,334
+$ 733
+276
+205
+1,675
+971
+163
+$ —
+232
+436
+2,037
+968
+274
+$ —
+229
+594
+1,756
+658
+289
+$ 5,529
+29,852
+5,052
+14,127
+8,435
+3,104
+$
+—
+28,079
+5,373
+14,459
+7,792
+3,397
+$
+$66,099
+$59,100
+$52,660
+$4,023 $3,947 $3,526
+1,740
+1,594
+1,395
+$2,283
+$2,353
+$2,131
+* Management evaluates the results of NetJets using accounting standards for recognition of revenue and planned major
+maintenance expenses that were generally accepted when Berkshire acquired NetJets but are no longer acceptable due to
+subsequent changes adopted by the FASB. Revenues and pre-tax earnings for the other service businesses shown above
+reflect these prior revenue and expense recognition methods. Revenues shown above exceeded the amounts reported in
+Berkshire’s Consolidated Financial Statements by $130 million in 2008, $709 million in 2007 and $781 million in 2006.
+Pre-tax earnings in this table exceeded (was less than) the amounts included in the Consolidated Financial Statements by ($4
+million) in 2008, $48 million in 2007 and $79 million in 2006.
+Marmon
+Berkshire acquired a 60% interest in Marmon Holdings, Inc. (“Marmon”) on March 18, 2008. During the second quarter of
+2008, Berkshire acquired additional shares and currently has a 63.6% interest. Marmon’s operating results are included in
+Berkshire’s consolidated results and in the preceding table from the date of the initial acquisition. Marmon consists of
+approximately 130 manufacturing and service businesses that operate independently within 11 diverse business sectors. See
+Note 2 to the Consolidated Financial Statements for an additional description of Marmon’s operations. For the twelve months
+ending December 31, 2008, Marmon’s consolidated revenues and operating income were $6,960 million and $977 million,
+respectively, compared to $6,934 million and $946 million, respectively in 2007.
+McLane Company
+McLane Company, Inc., (“McLane”) is a wholesale distributor of grocery and non-food products to retailers, convenience
+stores and restaurants. McLane’s business is marked by high sales volume and very low profit margins. McLane’s revenues of
+$29,852 million in 2008 increased $1,773 million (6%) compared to 2007 which increased $2,386 million (9%) compared to
+2006. The revenue increases in both 2008 and 2007 reflected additional grocery and foodservice customers as well as
+manufacturer price increases and state excise tax increases.
+Pre-tax earnings in 2008 increased $44 million over 2007, which was relatively unchanged from 2006. The increase in
+2008 reflected the increased sales and to a lesser degree a slight increase in gross margins. The gross margin rate was 5.91% in
+2008 compared to 5.79% in 2007. The comparative increase in the gross margin rate reflected price changes related to certain
+categories of grocery products and the impact of a heavy liquids sales surcharge. Operating expenses in 2008 as a percentage of
+revenues were relatively unchanged compared to 2007. Approximately one-third of McLane’s annual revenues are from
+Wal-Mart. A curtailment of purchasing by Wal-Mart could have a material adverse impact on McLane’s earnings.
+Shaw Industries
+Shaw Industries (“Shaw”) is the world’s largest manufacturer of tufted broadloom carpets and is a full-service flooring
+company. Shaw revenues of $5,052 million in 2008 declined $321 million (6%) compared to 2007. The revenue decrease was
+primarily due to a reduction in year-to-date residential carpet sales volume, partially offset by higher average selling prices and
+72
+Management’s Discussion (Continued)
+Manufacturing, Service and Retailing (Continued)
+Shaw Industries (Continued)
+revenues from recent acquisitions. The decrease in residential carpet volume in 2008 reflected the significant downturn in
+residential real estate activity that began in 2006 and was exacerbated by the credit crises during 2007 and 2008.
+In 2008, pre-tax earnings declined $231 million (53%) to $205 million. The decline was attributable to both lower sales
+volume and higher product costs. Increases in petrochemical based raw material costs along with reduced manufacturing
+efficiencies caused the product cost increase. The gross margin rate for 2008 was approximately 3 percentage points lower as
+compared to 2007. Pre-tax earnings in 2008 also included $52 million of charges in the fourth quarter related to asset
+writedowns and plant closure costs. To offset the impact of rising raw material and production costs, Shaw instituted multiple
+sales price increases in 2008 and closed certain manufacturing facilities. Management expects residential real estate activity
+and, as a result, Shaw’s sales volume to remain weak during 2009.
+Revenues of $5,373 million in 2007 declined $461 million (8%) compared to 2006. In 2007, carpet volume decreased 10%
+versus 2006 due to lower sales in residential markets, partially offset by a modest increase in commercial market volume. In
+2007, pre-tax earnings decreased $158 million (27%) compared to 2006. The decline reflects the aforementioned lower sales
+volume and higher product costs. These factors combined to produce declines in gross margin dollars in 2007 of approximately
+17% versus 2006. Selling, general and administrative costs in 2007 declined approximately 6% compared with 2006, reflecting
+lower sales volume and expense control efforts.
+Other manufacturing
+Berkshire’s other manufacturing businesses include a wide array of businesses. Included in this group are several
+manufacturers of building products (Acme Building Brands, Benjamin Moore, Johns Manville and MiTek) and apparel (led by
+Fruit of the Loom which includes the Russell athletic apparel and sporting goods business and the Vanity Fair Brands women’s
+intimate apparel business). Also included in this group are Forest River, a leading manufacturer of leisure vehicles, CTB
+International (“CTB”), a manufacturer of equipment for the livestock and agricultural industries and ISCAR Metalworking
+Companies (“IMC”), an industry leader in the metal cutting tools business with operations worldwide. There are also numerous
+other manufacturers of consumer and commercial products in this diverse group.
+Revenues of other manufacturing businesses in 2008 of $14,127 million declined $332 million (2%) versus 2007. The most
+significant declines were from Forest River, the building products businesses and the apparel businesses. These were somewhat
+offset by increased revenues from IMC and from Richline, a jewelry manufacturer acquired during the second half of 2007.
+Pre-tax earnings of other manufacturing businesses of $1,675 million in 2008, declined $362 million (18%) versus 2007. Pre-tax
+earnings declined or were flat in nearly all of Berkshire’s other manufacturing operations with the exception of IMC. Pre-tax
+earnings from Forest River declined 56%, due to lower sales volume. Pre-tax earnings from apparel declined 34%, primarily
+due to lower sales volume and costs incurred to consolidate certain operations of Russell and Vanity Fair Brands. Pre-tax
+earnings from building products declined 28%, as a result of lower sales volumes and decreased manufacturing efficiencies as a
+consequence of the housing and credit crises.
+Revenues in 2007 from other manufacturing activities were $14,459 million, an increase of $2,471 million (21%) over
+2006. The comparative increase was primarily attributable to the businesses acquired since mid-2006 as well as a significant
+increase from CTB. Revenues from the building products businesses declined $292 million in 2007 as demand was negatively
+affected by the slowdown in housing construction activity. Pre-tax earnings were $2,037 million in 2007, an increase of $281
+million (16%) over 2006. The increases were primarily due to full-year inclusion in 2007 of IMC and increased earnings of
+CTB, partially offset by a 22% decline in earnings of the building products businesses.
+Other service
+Berkshire’s other service businesses include NetJets, the world’s leading provider of fractional ownership programs for
+general aviation aircraft, and FlightSafety, a provider of high technology training to operators of aircraft. Among the other
+businesses included in this group are: TTI, a leading electronic components distributor (acquired March 2007); Business Wire, a
+leading distributor of corporate news, multimedia and regulatory filings; The Pampered Chef, a direct seller of high quality
+kitchen tools; International Dairy Queen, a licensor and service provider to about 5,700 stores that offer prepared dairy treats
+and food; The Buffalo News, a publisher of a daily and Sunday newspaper; and businesses that provide management and other
+services to insurance companies.
+73
+Management’s Discussion (Continued)
+Manufacturing, Service and Retailing (Continued)
+Other service (Continued)
+In 2008, revenues of the group were $8,435 million, an increase of $643 million (8%) over 2007. The inclusion of twelve
+months of revenues from TTI in 2008 versus nine months in 2007 accounted for over 80% of the revenue increase. Excluding the
+impact of TTI, other service revenues in 2008 increased 2% over 2007.
+Pre-tax earnings of $971 million in 2008, were relatively unchanged from 2007. The impact from the TTI acquisition and
+increased earnings of FlightSafety was offset by lower earnings from NetJets and Pampered Chef. In the fourth quarter of 2008,
+NetJets, and to a lesser degree Pampered Chef, experienced a significant reduction in revenue as general economic conditions
+worsened. This resulted in lower customer usage and demand which negatively affected operating margins. In addition, NetJets
+incurred charges of $54 million to writedown the aircraft fleet.
+Revenues from the other service businesses in 2007 increased $1,981 million (34%) and pre-tax earnings increased $310
+million (47%) as compared to 2006. The increase in revenues and pre-tax earnings in 2007 versus 2006 was attributable to the
+impact of business acquisitions (primarily TTI and Business Wire) as well as increased revenues and pre-tax earnings from
+FlightSafety and NetJets. Both of these businesses benefited in 2007 from higher equipment (simulators and aircraft) utilization
+rates and from increased customer demand.
+Retailing
+Berkshire’s retailing operations consist of four home furnishings (Nebraska Furniture Mart, R.C. Willey, Star Furniture and
+Jordan’s) and three jewelry (Borsheims, Helzberg and Ben Bridge) retailers. See’s Candies is also included in this group. Retailing
+revenues were $3,104 million in 2008, a decrease of $293 million (9%) versus 2007. Pre-tax earnings of $163 million in 2008 declined
+$111 million (41%) compared to 2007. Seven of the eight retail operations experienced revenue declines and all eight of these
+operations had declines in earnings compared to 2007. During the first nine months of 2008, as the impact of the economic recession in
+the U.S. worsened, consumer spending declined. In the fourth quarter of 2008, the decline accelerated and conditions for most retailers
+throughout the U.S. deteriorated. Fourth quarter of 2008 revenues and pre-tax earnings of Berkshire’s retailers declined 17% and 33%,
+respectively, versus the fourth quarter of 2007.
+Finance and Financial Products
+A summary of revenues and earnings from Berkshire’s finance and financial products businesses follows. Amounts are in
+millions.
+Manufactured housing and finance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Furniture/transportation equipment leasing . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008
+Revenues
+2007
+2006
+2008
+Earnings
+2007
+2006
+$3,560
+773
+614
+$4,947
+$3,665
+810
+644
+$5,119
+$3,570
+880
+674
+$5,124
+$206
+87
+494
+$ 526
+111
+369
+$ 513
+182
+462
+787
+308
+$479
+1,006
+374
+$ 632
+1,157
+425
+$ 732
+Revenues from manufactured housing and finance activities (Clayton Homes) in 2008 decreased $105 million (3%) from
+2007. The decrease included a 9% decline from home sales, reflecting declines in units sold and average selling prices. In
+addition, revenues in 2007 included approximately $90 million from the housing communities division which was sold in the
+first quarter of 2008. Partially offsetting these declines was an increase in interest income from installment loans. The increase
+in interest income reflects higher average installment loan balances in 2008 versus 2007. Installment loan balances were
+approximately $12.6 billion as of December 31, 2008, an increase of approximately $1.5 billion since December 31, 2007. The
+increase was principally due to loan portfolio acquisitions.
+Pre-tax earnings of Clayton Homes in 2008 declined $320 million (61%) from 2007. Pre-tax earnings in 2008 included a
+$125 million increase in the provision for estimated loan losses due to changes in loan collection and recovery assumptions,
+74
+Management’s Discussion (Continued)
+Finance and Financial Products (Continued)
+$25 million of losses arising from Hurricanes Gustav and Ike and $38 million from asset writedowns and plant closure costs.
+Pre-tax earnings in 2008 also reflected the impact of lower home sales and higher interest expense from increased borrowings and
+an increase in interest rates. Partially offsetting these declines was a $22 million gain from the sale of the housing community
+division in the first quarter of 2008.
+Revenues and pre-tax earnings from furniture and transportation equipment leasing activities in 2008 declined $37 million
+(5%) and $24 million (22%), respectively, compared to 2007. The declines primarily reflected lower rental income driven by
+relatively low utilization rates for over-the-road trailer and storage units, partially offset by the impact of a small furniture rental
+business acquisition in 2008. Significant cost components of this business are fixed (depreciation and facility expenses), so
+earnings declined disproportionately to revenues. Revenues and pre-tax earnings for 2007 decreased $70 million (8%) and $71
+million (39%), respectively, as compared to 2006, primarily for the reasons previously stated.
+Earnings from other finance business activities consisted primarily of interest income earned on fixed maturity investments
+and from a small portfolio of commercial real estate loans. Pre-tax earnings in 2007 reflected a charge of approximately $67
+million from the adverse effects of changes in mortality assumptions on certain life annuity contract liabilities. In 2006, pre-tax
+earnings included income of $67 million from an equity purchase commitment fee.
+Investment and Derivative Gains/Losses
+A summary of investment and derivative gains and losses follows. Amounts are in millions.
+2008
+Investment gains/losses from Sales and other disposals of investments Insurance and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other-than-temporary impairments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007
+$
+912 $5,308
+6
+187
+(1,813)
+—
+255
+103
+2006
+$1,782
+6
+(142)
+165
+(640)
+5,598
+1,811
+(1,774)
+(5,028)
+(19)
+127
+(283)
+67
+525
+64
+235
+(6,821)
+(89)
+824
+Gains/losses before income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7,461)
+(2,816)
+5,509
+1,930
+2,635
+926
+Net gains/losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$(4,645) $3,579
+$1,709
+Derivative gains/losses from Credit default contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity index put option contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other derivative contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Investment gains or losses are recognized upon the sales of investments, recognition of non-cash other-thantemporary-impairment losses or as otherwise required under GAAP. The timing of realized gains or losses from sales can have a
+material effect on periodic earnings. However, such gains or losses usually have little, if any, impact on total shareholders’
+equity because most equity and fixed maturity investments are carried at fair value with any unrealized gain or loss included as
+a component of accumulated other comprehensive income. The other-than-temporary-impairment losses recorded in 2008 were
+primarily attributable to investments in certain equity securities. Berkshire considers several factors in determining impairment
+losses including the current and expected long-term business prospects of the issuer, the length of time and relative magnitude
+of the price decline and its ability and intent to hold the investment until the price recovers.
+Derivative gains/losses in 2008 primarily represented the non-cash changes in fair value of credit default and equity index
+put option contracts. Changes in the fair values of these contracts are reflected in earnings and can be significant, reflecting the
+volatility of equity and credit markets. Management does not view the periodic gains or losses from the changes in fair value as
+meaningful given the long-term nature of these contracts and the volatile nature of equity and credit markets over short periods
+of time. Therefore, the ultimate amount of cash basis gains or losses may not be known for years.
+75
+Management’s Discussion (Continued)
+Investment and Derivative Gains/Losses (Continued)
+Losses from credit default contracts in 2008 derived primarily from valuation increases due to significant widening of
+credit default spreads during the fourth quarter of 2008 with respect to the non-investment grade issuers included in the high
+yield index contracts and the credit default spreads of certain states and municipalities. The estimated fair value of credit default
+contracts at December 31, 2008 was $4.1 billion, an increase of $2.3 billion from December 31, 2007. The year-to-date increase
+included fair value pre-tax losses of $1.8 billion and premiums from contracts entered into in 2008 of $633 million, partially
+offset by loss payments of $152 million. In January 2009, there were defaults by six companies included in the high yield
+indexes. Estimated payments in the first quarter of 2009 related to these defaults are expected to be approximately $750 million.
+The estimated fair value of equity index put option contracts at December 31, 2008 was $10.0 billion, an increase of
+approximately $5.4 billion from December 31, 2007 and an increase of $3.3 billion from September 30, 2008. The year-to-date
+increase included pre-tax losses of $5.0 billion due to changes in fair values and premiums from new contracts. There have been
+no loss payments under equity index put option contracts. Berkshire’s losses from equity index put option contracts in 2008
+reflected index value declines of between 30% and 45% in 2008 across the four indexes. During the fourth quarter of 2008 these
+indexes declined between 10% and 22%. These contracts expire beginning in 2019 with the last expiration in 2028. Any loss
+payments under these contracts will be based on the net decline in the underlying index below the strike price in each contract as
+of the expiration date of the contract.
+Financial Condition
+Berkshire’s balance sheet continues to reflect significant liquidity. Consolidated cash and invested assets, excluding assets
+of utilities and energy and finance and financial products businesses, was approximately $122.0 billion at December 31, 2008
+(including cash and cash equivalents of $24.3 billion) and $141.2 billion at December 31, 2007 (including cash and cash
+equivalents of $37.7 billion). Berkshire’s invested assets are held predominantly in its insurance businesses. The decline in cash
+and invested assets is primarily due to a significant reduction in the carrying amount of equity securities resulting from the
+worldwide economic crisis.
+Berkshire acquired a 60% interest in Marmon Holdings, Inc. (“Marmon”) for $4.5 billion on March 18, 2008. In the second
+quarter of 2008, Berkshire acquired additional shares and currently owns 63.6% of Marmon. Berkshire has agreed to acquire the
+remaining minority shareholders’ interests in Marmon between 2011 and 2014 for consideration based on Marmon’s future
+earnings.
+During the fourth quarter of 2008, Berkshire invested $6.5 billion in subordinated notes and preferred stock of the Wm.
+Wrigley, Jr. Company in connection with Mars, Incorporated’s acquisition of that entity. In addition, Berkshire invested
+$5 billion in Goldman Sachs perpetual preferred stock and common stock warrants and $3 billion in General Electric Company
+perpetual preferred stock and common stock warrants. These investments were funded with available cash.
+Notes payable and other borrowings of the insurance and other businesses were $4.3 billion (includes about $2.3 billion issued
+or guaranteed by Berkshire Hathaway Inc.) at December 31, 2008, an increase of $1.7 billion from December 31, 2007, primarily
+due to increases in short-term borrowings (principally NetJets) and debt of businesses acquired in 2008, (principally Marmon).
+MidAmerican’s capital expenditures were $3.9 billion in 2008 and are forecasted to be approximately $3.3 billion in 2009.
+MidAmerican expects to fund these capital expenditures with cash flows from operations and debt proceeds. Certain of its
+borrowings are secured by certain assets of its regulated utility subsidiaries. Notes payable and other borrowings of
+MidAmerican maturing in 2009 are $1.26 billion with an additional $1.26 billion due before the end of 2011. Berkshire has
+committed until February 28, 2011 to provide up to $3.5 billion of additional capital to MidAmerican to permit the repayment of
+its debt obligations or to fund MidAmerican’s regulated utility subsidiaries. Berkshire has not and does not intend to guarantee
+the repayment of debt by MidAmerican or any of its subsidiaries.
+Assets of the finance and financial products businesses as of December 31, 2008 and 2007 consisted primarily of loans and
+finance receivables, fixed maturity securities and cash and cash equivalents. Liabilities were $30.7 billion as of December 31,
+2008 and $22.0 billion at December 31, 2007. The increase from 2007 primarily relates to an increase of $7.7 billion in
+derivative contract liabilities (see Note 11 to the Consolidated Financial Statements and the preceding section of Management’s
+76
+Management’s Discussion (Continued)
+Financial Condition (Continued)
+Discussion for additional information). As of December 31, 2008, notes payable and other borrowings of $13.4 billion included
+$10.8 billion of medium-term notes issued by BHFC. During 2008, BHFC issued debt of $5.0 billion and repaid $3.1 billion of
+notes. BHFC notes are guaranteed by Berkshire and mature at various dates extending through 2018. The proceeds from these
+notes were used to finance originated and acquired loans of Clayton Homes.
+During 2008, credit markets became increasingly restricted as a consequence of the ongoing worldwide credit crisis. As a
+result, the availability of credit to corporations has declined significantly and interest rates for new issues increased relative to
+government obligations, even for companies with strong credit histories and ratings. Although management believes that the
+credit crisis is temporary and that Berkshire has ample liquidity and capital to withstand these conditions, restricted access to
+credit markets over longer periods could have a significant negative impact on operations, particularly the utilities and energy
+business and certain finance and financial products operations. Management believes that it currently maintains ample liquidity
+to cover its contractual obligations and provide for contingent liquidity needs.
+During 2008, Berkshire’s consolidated shareholders’ equity declined from $120.7 billion at the end of 2007 to
+$109.3 billion at December 31, 2008. This reduction was largely due to significant price declines in Berkshire’s equity
+investments and an increase in the fair value of the liabilities arising from Berkshire’s equity index put option contracts. The
+worldwide economic crisis has continued during the first part of 2009 and prices of Berkshire’s equity investments have
+declined further and the fair values of liabilities arising from equity index put option contracts have increased further. Berkshire
+estimates that its consolidated shareholders’ equity has been reduced by approximately $8 billion since the end of 2008.
+Contractual Obligations
+Berkshire and its subsidiaries have contractual obligations which will result in cash payments to counterparties in future
+periods. Contractual obligations arise under financing and other agreements, which are reflected in the Consolidated Financial
+Statements and other long-term contracts to acquire goods or services in the future, which are not currently reflected in the
+financial statements. Such obligations, including future minimum rentals under operating leases, will be reflected in future
+periods as the goods are delivered or services provided. Amounts due as of the balance sheet date for purchases where the goods
+and services have been received and a liability incurred are not included to the extent that such amounts are due within one year
+of the balance sheet date.
+Contractual obligations for unpaid losses and loss adjustment expenses arising under property and casualty insurance
+contracts are estimates. The timing and amount of such payments are contingent upon the outcome of claim settlement activities
+that will occur over many years. The amounts presented in the following table have been estimated based upon past claim
+settlement activities and therefore are subject to significant estimation error. The factors affecting the ultimate amount of claims
+are discussed in the following section regarding Berkshire’s critical accounting policies. In addition, certain losses and loss
+adjustment expenses for property and casualty loss reserves are ceded to others under reinsurance contracts and therefore are
+recoverable. Such recoverables are not reflected in the table.
+A summary of contractual obligations as of December 31, 2008 follows. Amounts are in millions.
+Total
+Estimated payments due by period
+2009
+2010-2011 2012-2013
+After 2013
+Notes payable and other borrowings (1) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Operating leases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Purchase obligations (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Unpaid losses and loss expenses (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 59,865
+3,115
+25,282
+59,236
+32,512
+$ 5,733
+583
+6,552
+12,831
+4,473
+$ 8,590
+889
+6,885
+14,317
+3,196
+$10,131
+587
+4,673
+8,179
+2,700
+$35,411
+1,056
+7,172
+23,909
+22,143
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$180,010
+$30,172
+$33,877
+$26,270
+$89,691
+(1)
+Includes interest.
+(2)
+Principally relates to future aircraft, coal, electricity and natural gas purchases.
+(3)
+Before reserve discounts of $2,616 million.
+77
+Management’s Discussion (Continued)
+Critical Accounting Policies
+Certain accounting policies require management to make estimates and judgments concerning transactions that will be
+settled several years in the future. Amounts recognized in the financial statements from such estimates are necessarily based on
+numerous assumptions involving varying and potentially significant degrees of judgment and uncertainty. Accordingly, the
+amounts currently reflected in the financial statements will likely increase or decrease in the future as additional information
+becomes available.
+Property and casualty losses
+A summary of Berkshire’s consolidated liabilities for unpaid property and casualty losses is presented in the table below.
+Except for certain workers’ compensation reserves, liabilities for unpaid property and casualty losses (referred to in this section
+as “gross unpaid losses”) are reflected in the Consolidated Balance Sheets without discounting for time value, regardless of the
+length of the claim-tail. Amounts are in millions.
+Gross unpaid losses
+Dec. 31, 2008 Dec. 31, 2007
+Net unpaid losses *
+Dec. 31, 2008 Dec. 31, 2007
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+General Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+BHRG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Primary Group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 7,336
+18,241
+26,179
+4,864
+$ 6,642
+19,831
+24,894
+4,635
+$ 7,012
+17,235
+21,386
+4,470
+$ 6,341
+17,651
+20,223
+4,127
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$56,620
+$56,002
+$50,103
+$48,342
+* Net of reinsurance recoverable and deferred charges reinsurance assumed and before foreign currency translation effects.
+Berkshire records liabilities for unpaid losses and loss adjustment expenses under property and casualty insurance and
+reinsurance contracts based upon estimates of the ultimate amounts payable under the contracts with respect to losses occurring
+on or before the balance sheet date. The timing and amount of loss payments is subject to a great degree of variability and is
+contingent upon, among other things, the timing of claim reporting from insureds and cedants and the determination of the
+ultimate amount through the loss adjustment process. A variety of techniques are used in establishing the liabilities for unpaid
+losses. Regardless of the techniques used, significant judgments and assumptions are necessary in projecting the ultimate
+amounts payable in the future. As a result, uncertainties are imbedded in and permeate the actuarial loss reserving techniques
+and processes used.
+As of any balance sheet date, not all claims that have occurred have been reported and not all reported claims have been
+settled. Loss and loss adjustment expense reserves include provisions for reported claims (referred to as “case reserves”) and for
+claims that have not been reported (referred to as incurred but not yet reported (“IBNR”) reserves). The time period between the
+loss occurrence date and settlement payment date is referred to as the “claim-tail.” Property claims usually have fairly short
+claim-tails and, absent litigation, are reported and settled within a few years of occurrence. Casualty losses usually have very
+long claim-tails, occasionally extending for decades. Casualty claims are more susceptible to litigation and can be significantly
+affected by changing contract interpretations. The legal environment further contributes to extending claim-tails.
+Receivables are recorded with respect to losses ceded to other reinsurers and are estimated in a manner similar to liabilities
+for insurance losses. In addition to the factors cited above, reinsurance recoverables may ultimately prove to be uncollectible if
+the reinsurer is unable to perform under the contract. Reinsurance contracts do not relieve the ceding company of its obligations
+to indemnify its own policyholders.
+Berkshire’s insurance businesses utilize loss reserving techniques that are believed to best fit the particular business.
+Additional information regarding reserving processes of the significant businesses (GEICO, General Re and BHRG) follows.
+GEICO
+GEICO’s gross unpaid losses and loss adjustment expense reserves as of December 31, 2008 were $7,336 million. As of
+December 31, 2008, gross reserves included $5,265 million of reported average, case and case development reserves and $2,071
+million of IBNR reserves.
+78
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+GEICO (Continued)
+GEICO predominantly writes private passenger auto insurance which has a relatively short claim-tail. The key assumptions
+affecting GEICO’s reserves include projections of ultimate claim counts (“frequency”) and average loss per claim (“severity”),
+which includes loss adjustment expenses.
+GEICO’s reserving methodologies produce reserve estimates based upon the individual claims (or a “ground-up”
+approach), which yields an aggregate estimate of the ultimate losses and loss adjustment expenses. Ranges of loss estimates are
+not determined in the aggregate.
+Actuaries establish and evaluate unpaid loss reserves using recognized standard actuarial loss development methods and
+techniques. The significant reserve components (and percentage of gross reserves) are: (1) average reserves (20%), (2) case and
+case development reserves (55%) and (3) IBNR reserves (25%). Each component of loss reserves is affected by the expected
+frequency and average severity of claims. Such amounts are analyzed using statistical techniques on historical claims data and
+adjusted when appropriate to reflect perceived changes in loss patterns. Data is analyzed by policy coverage, rated state,
+reporting date and occurrence date, among other factors. A brief discussion of each reserve component follows.
+Average reserve amounts are established for reported auto damage claims and new liability claims prior to the development
+of an individual case reserve. The average reserves are established as a reasonable estimate for incurred claims for which claims
+adjusters have insufficient time and information to make specific claim estimates and for a large number of minor physical
+damage claims that are paid within a relatively short time after being reported. Average reserve amounts are driven by the
+estimated average severity per claim and the number of new claims opened.
+Claims adjusters generally establish individual liability claim case loss and loss adjustment expense reserve estimates as
+soon as the specific facts and merits of each claim can be evaluated. Case reserves represent the amounts that in the judgment of
+the adjusters are reasonably expected to be paid in the future to completely settle the claim, including expenses. Individual case
+reserves are revised as more information becomes known.
+For most liability coverages, case reserves alone are an insufficient measure of the ultimate cost due in part to the longer
+claim-tail, the greater chance of protracted litigation and the incompleteness of facts available at the time the case reserve is
+established. Therefore, additional case development reserve estimates are established, usually as a percentage of the case reserve.
+As of December 31, 2008, case development reserves averaged approximately 20% of total established case reserves. In general,
+case development factors are selected by a retrospective analysis of the overall adequacy of historical case reserves. Case
+development factors are reviewed and revised periodically.
+For unreported claims, IBNR reserve estimates are calculated by first projecting the ultimate number of claims expected
+(reported and unreported) for each significant coverage by using historical quarterly and monthly claim counts to develop
+age-to-age projections of the ultimate counts by accident quarter. Reported claims are subtracted from the ultimate claim
+projections to produce an estimate of the number of unreported claims. The number of unreported claims is multiplied by an
+estimate of the average cost per unreported claim to produce the IBNR reserve amount. Actuarial techniques are difficult to
+apply reliably in certain situations, such as to new legal precedents, class action suits or recent catastrophes. Consequently,
+supplemental IBNR reserves for these types of events may be established through the collaborative effort of actuarial, claims
+and other management.
+For each of its major coverages, GEICO tests the adequacy of the total loss reserves using one or more actuarial projections
+based on claim closure models, paid loss triangles and incurred loss triangles. Each type of projection analyzes loss occurrence
+data for claims occurring in a given period and projects the ultimate cost.
+Loss reserve estimates recorded at the end of 2007 developed downward by approximately $205 million when reevaluated
+at December 31, 2008 producing a corresponding increase to pre-tax earnings in 2008. These downward reserve developments
+represented approximately 2% of earned premiums in 2008 and approximately 3% of the prior year-end reserve amount.
+Reserving assumptions at December 31, 2008 were modified appropriately to reflect the most recent frequency and severity
+results. Future reserve development will depend on whether frequency and severity turn out to be more or less than anticipated.
+Within the automobile line of business the reserves with the most uncertainty are for liability coverages, due to the longer
+claim-tails. Approximately 90% of GEICO’s reserves as of December 31, 2008 were for automobile liability, of which bodily
+79
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+GEICO (Continued)
+injury (“BI”) coverage accounted for approximately 55%. Management believes it is reasonably possible that the average BI
+severity will change by at least one percentage point from the severity used. If actual BI severity changes one percentage point
+from what was used in establishing the reserves, the reserves would develop up or down by approximately $112 million
+resulting in a corresponding decrease or increase in pre-tax earnings. Many of the same economic forces that would likely cause
+BI severity to be different from expected would likely also cause severities for other injury coverages to differ in the same
+direction.
+GEICO’s exposure to highly uncertain losses is believed to be limited to certain commercial excess umbrella policies
+written during a period from 1981 to 1984. Remaining reserves associated with such exposure are currently a relatively
+insignificant component of GEICO’s total reserves (approximately 2%) and there is minimal apparent asbestos or environmental
+liability exposure. Related claim activity over the past year was insignificant.
+General Re and BHRG
+General Re’s and BHRG’s property and casualty loss reserves derive primarily from assumed reinsurance. There are
+additional uncertainties unique to loss reserving processes for reinsurance. The nature, extent, timing and perceived reliability of
+information received from ceding companies varies widely depending on the type of coverage, the contractual reporting terms
+(which are affected by market conditions and practices) and other factors. Due to the lack of standardization of contract terms
+and conditions, the wide variability of coverage needs of individual clients and the tendency for those needs to change rapidly in
+response to market conditions, the ongoing economic impact of such uncertainties, in and of themselves, cannot be reliably
+measured.
+The nature and extent of loss information provided under many facultative, per occurrence excess contracts or retroactive
+contracts may not differ significantly from the information received under a primary insurance contract. This occurs when
+company personnel either work closely with the ceding company in settling individual claims or manage the claims themselves.
+Loss information from aggregate excess-of-loss contracts, including catastrophe losses and quota-share treaties, is often less
+detailed. Occasionally loss information is reported in summary format rather than on an individual claim basis. Loss data is
+provided through periodic reports and may include the amount of ceded losses paid where reimbursement is sought as well as
+case loss reserve estimates. Ceding companies infrequently provide IBNR estimates to reinsurers.
+Each of Berkshire’s reinsurance businesses has established practices to identify and gather needed information from
+clients. These practices include, for example, comparison of expected premiums to reported premiums to help identify
+delinquent client periodic reports and claim reviews to facilitate loss reporting and identify inaccurate or incomplete claim
+reporting. These practices are periodically evaluated and changed as conditions, risk factors and unanticipated areas of
+exposures are identified.
+The timing of claim reporting to reinsurers is delayed in comparison with primary insurance. In some instances there are
+multiple reinsurers assuming and ceding parts of an underlying risk causing multiple contractual intermediaries between
+General Re or BHRG and the primary insured. In these instances, the delays in reporting can be compounded. The relative
+impact of reporting delays on the reinsurer varies depending on the type of coverage, contractual reporting terms and other
+factors. Contracts covering casualty losses on a per occurrence excess basis may experience longer delays in reporting due to the
+length of the claim-tail as regards to the underlying claim. In addition, ceding companies may not report claims to the reinsurer
+until they believe it is reasonably possible that the reinsurer will be affected, usually determined as a function of its estimate of
+the claim amount as a percentage of the reinsurance contract retention. However, the timing of reporting large per occurrence
+excess property losses or property catastrophe losses may not vary significantly from primary insurance.
+Under contracts where periodic premium and claims reports are required from ceding companies, such reports are
+generally required at quarterly intervals which in the U.S. range from 30 to 90 days after the end of the accounting period. In
+continental Europe, reinsurance reporting practices vary. Fewer clients report premiums, losses and case reserves on a quarterly
+basis. In certain countries, clients report annually, generally 90 to 180 days after the end of the annual period. The extended
+reporting lag does not result in a significant increase in risk or uncertainty as the actuarial reserving methodologies are adjusted
+to compensate for the delays.
+80
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+General Re and BHRG (Continued)
+Premium and loss data is provided through at least one intermediary (the primary insurer), so there is a risk that the loss
+data provided is incomplete, inaccurate or outside the coverage terms. Information provided by ceding companies is reviewed
+for completeness and compliance with the contract terms. Reinsurance contracts generally allow for Berkshire’s reinsurance
+subsidiaries to have access to the cedant’s books and records with respect to the subject business and provide them the ability to
+conduct audits to determine the accuracy and completeness of information. Audits are conducted when management deems it
+appropriate.
+In the normal course of business, disputes with clients arise concerning whether certain claims are covered under the
+reinsurance policies. Most coverage disputes are resolved by the company’s claims department personnel and the appropriate
+client personnel or by independent outside counsel. If disputes cannot be resolved, contracts generally specify whether
+arbitration, litigation, or alternative dispute resolution will be invoked. There are no coverage disputes at this time for which an
+adverse resolution would likely have a material impact on Berkshire’s results of operations or financial condition.
+In summary, the scope, number and potential variability of assumptions required in estimating ultimate losses from
+reinsurance contracts of General Re and BHRG are more uncertain than primary property and casualty insurers due to the
+factors previously discussed.
+General Re
+General Re’s gross and net unpaid losses and loss adjustment expenses and gross reserves by major line of business as of
+December 31, 2008 are summarized below. Amounts are in millions.
+Type
+Line of business
+Reported case reserves . . . . . . . . . . . . . . . . . . . . . . . . $ 9,959 Workers’ compensation (1) . . . . . . . . . . . . . . . . . . .
+IBNR reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8,282 Professional liability (2) . . . . . . . . . . . . . . . . . . . . . .
+$ 3,108
+1,450
+Gross reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ceded reserves and deferred charges . . . . . . . . . . . . .
+18,241 Mass tort–asbestos/environmental . . . . . . . . . . . . .
+(1,006) Auto liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,810
+2,871
+Net reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$17,235
+Other casualty (3) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,399
+Other general liability . . . . . . . . . . . . . . . . . . . . . . .
+Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,908
+2,695
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$18,241
+(1)
+(2)
+(3)
+Net of discounts of $2,616 million.
+Includes directors and officers and errors and omissions coverage.
+Includes medical malpractice and umbrella coverage.
+General Re’s process of establishing loss reserve estimates is based upon a ground-up approach, beginning with case estimates
+and supplemented by additional case reserves (“ACRs”) and IBNR reserves. Critical judgments in establishing loss reserves
+involve the establishment of ACRs by claim examiners, the expectation of ultimate loss ratios which drive IBNR reserve amounts
+and the case reserve reporting trends compared to the expected loss reporting patterns. Recorded reserve amounts are subject to
+“tail risk” where reported losses develop beyond the maximum expected loss emergence pattern time period.
+General Re does not routinely determine loss reserve ranges because it believes that the techniques necessary have not
+sufficiently developed and the myriad of assumptions required render such resulting ranges to be unreliable. In addition, counts of
+claims or average amounts per claim are not utilized because clients do not consistently provide reliable data in sufficient detail.
+Upon notification of a reinsurance claim from a ceding company, claim examiners make independent evaluations of loss
+amounts. In some cases, examiners’ estimates differ from amounts reported by ceding companies. If the examiners’ estimates
+are significantly greater than the ceding company’s estimates, the claims are further investigated. If deemed appropriate, ACRs
+are established above the amount reported by the ceding company. As of December 31, 2008, ACRs aggregated $3.1 billion
+before discounts and were concentrated in workers’ compensation reserves, and to a lesser extent in professional liability
+reserves. Examiners also periodically conduct detailed claim reviews of individual clients and case reserves are often increased
+as a result. In 2008, claim examiners conducted about 340 claim reviews.
+81
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+General Re (Continued)
+Actuaries classify all loss and premium data into segments (“reserve cells”) primarily based on product (e.g., treaty,
+facultative and program) and line of business (e.g., auto liability, property, etc.). For each reserve cell, premiums and losses are
+aggregated by accident year, policy year or underwriting year (depending on client reporting practices) and analyzed over time.
+These loss aggregations are internally called loss triangles which serve as the primary basis for IBNR reserve calculations. Over
+300 reserve cells are reviewed for North American business and approximately 900 reserve cells are reviewed with respect to
+international business.
+Loss triangles are used to determine the expected case loss emergence patterns for most coverages and, in conjunction with
+expected loss ratios by accident year, are further used to determine IBNR reserves. Additional calculations form the basis for
+estimating the expected loss emergence pattern. The determination of the expected loss emergence pattern is not strictly a
+mechanical process. In instances where the historical loss data is insufficient, estimation formulas are used along with reliance
+on other loss triangles and judgment. Factors affecting loss development triangles include but are not limited to the following:
+changes in client claims practices, changes in claim examiners’ use of ACRs or the frequency of client company claim reviews,
+changes in policy terms and coverage (such as client loss retention levels and occurrence and aggregate policy limits), changes
+in loss trends and changes in legal trends that result in unanticipated losses, as well as other sources of statistical variability.
+These factors influence the selection of the expected loss emergence patterns.
+Expected loss ratios are selected by reserve cell, by accident year, based upon reviewing forecasted losses and indicated
+ultimate loss ratios that are predicted from aggregated pricing statistics. Indicated ultimate loss ratios are calculated using the
+selected loss emergence pattern, reported losses and earned premium. If the selected emergence pattern is not accurate, then the
+indicated ultimate loss ratios will not be accurate and this can affect the selected loss ratios and hence the IBNR reserve. As
+with selected loss emergence patterns, selecting expected loss ratios is not a strictly mechanical process and judgment is used in
+the analysis of indicated ultimate loss ratios and department pricing loss ratios.
+IBNR reserves are estimated by reserve cell, by accident year, using the expected loss emergence patterns and the expected
+loss ratios. The expected loss emergence patterns and expected loss ratios are the critical IBNR reserving assumptions and are
+updated annually. Once the annual IBNR reserves are determined, actuaries calculate expected case loss emergence for the
+upcoming calendar year. This calculation does not involve new assumptions and uses the prior year-end expected loss
+emergence patterns and expected loss ratios. The expected losses are then allocated into interim estimates that are compared to
+actual reported losses in the subsequent year. This comparison provides a test of the adequacy of prior year-end IBNR reserves
+and forms the basis for possibly changing IBNR reserve assumptions during the course of the year.
+In 2008, for prior years’ workers’ compensation losses, reported claims were less than expected claims by about $93
+million. However, further analysis of the workers’ compensation reserve cells by segment indicated the need for additional
+IBNR. These developments precipitated about $116 million of a net increase in nominal IBNR reserve estimates for unreported
+occurrences. After deducting $117 million for the change in net reserve discounts during the year, workers’ compensation losses
+from prior years reduced pre-tax earnings in 2008 by $140 million. To illustrate the sensitivity of changes in expected loss
+emergence patterns and expected loss ratios for General Re’s significant excess-of-loss workers’ compensation reserve cells, an
+increase of ten points in the tail of the expected emergence pattern and an increase of ten percent in the expected loss ratios
+would produce a net increase in nominal IBNR reserves of approximately $623 million and $339 million on a discounted basis
+as of December 31, 2008. The increase in discounted reserves would produce a corresponding decrease in pre-tax earnings.
+Management believes it is reasonably possible for the tail of the expected loss emergence patterns and expected loss ratios to
+increase at these rates.
+Other casualty and general liability reported losses (excluding mass tort losses) were favorable in 2008 relative to
+expectations. Casualty losses tend to be long-tail and it should not be assumed that favorable loss experience in a year means
+that loss reserve amounts currently established will continue to develop favorably. For General Re’s significant other casualty
+and general liability reserve cells (including medical malpractice, umbrella, auto and general liability), an increase of five points
+in the tails of the expected emergence patterns and an increase of five percent in expected loss ratios (one percent for large
+international proportional reserve cells) would produce a net increase in nominal IBNR reserves and a corresponding reduction
+in pre-tax earnings of approximately $805 million. Management believes it is reasonably possible for the tail of the expected
+loss emergence patterns and expected loss ratios to increase at these rates in any of the individual aforementioned reserve cells.
+However, given the diversification in worldwide business, more likely outcomes are believed to be less than $805 million.
+82
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+General Re (Continued)
+Property losses were lower than expected in 2008 but the nature of property loss experience tends to be more volatile
+because of the effect of catastrophes and large individual property losses. In response to favorable claim developments and
+another year of information, estimated remaining World Trade Center losses were reduced by $25 million.
+In certain reserve cells within excess directors and officers and errors and omissions (“D&O and E&O”) coverages, IBNR
+reserves are based on estimated ultimate losses without consideration of expected emergence patterns. These cells often involve
+a spike in loss activity arising from recent industry developments making it difficult to select an expected loss emergence
+pattern. For General Re’s large D&O and E&O reserve cells an increase of ten points in the tail of the expected emergence
+pattern (for those cells where emergence patterns are considered) and an increase of ten percent in the expected loss ratios
+would produce a net increase in nominal IBNR reserves and a corresponding reduction in pre-tax earnings of approximately
+$250 million. Management believes it is reasonably possible for the tail of the expected loss emergence patterns and expected
+loss ratios to increase at these rates.
+Overall industry-wide loss experience data and informed judgment are used when internal loss data is of limited reliability,
+such as in setting the estimates for mass tort, asbestos and hazardous waste (collectively, “mass tort”) claims. Unpaid mass tort
+reserves at December 31, 2008 were approximately $1.8 billion gross and $1.2 billion net of reinsurance. Such reserves were
+approximately $1.8 billion gross and $1.2 billion net of reinsurance as of December 31, 2007. Mass tort net claims paid were
+about $69 million in 2008. In 2008, ultimate loss estimates for asbestos and environmental claims were increased by $45
+million. In addition to the previously described methodologies, General Re considers “survival ratios” based on net claim
+payments in recent years versus net unpaid losses as a rough guide to reserve adequacy. The three year survival ratio was
+approximately fourteen years as of December 31, 2008. The insurance industry’s comparable survival ratio for asbestos and
+pollution reserves was approximately nine years. Estimating mass tort losses is very difficult due to the changing legal
+environment. Although such reserves are believed to be adequate, significant reserve increases may be required in the future if
+new exposures or claimants are identified, new claims are reported or new theories of liability emerge.
+BHRG
+BHRG’s unpaid losses and loss adjustment expenses as of December 31, 2008 are summarized as follows. Amounts are in
+millions.
+Property
+Casualty
+Total
+Reported case reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IBNR reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Retroactive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,836
+1,821
+—
+$ 2,426
+3,466
+16,630
+$ 4,262
+5,287
+16,630
+Gross reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$3,657
+$22,522
+26,179
+Deferred charges and ceded reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4,793)
+Net reserves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$21,386
+In general, the methodologies used to establish loss reserves vary widely and encompass many of the common
+methodologies employed in the actuarial field today. Certain traditional methodologies such as paid and incurred loss
+development techniques, incurred and paid loss Bornhuetter-Ferguson techniques and frequency and severity techniques are
+utilized as well as ground-up techniques where appropriate. Additional judgments must also be employed to consider changes in
+contract conditions and terms as well as the incidence of litigation or legal and regulatory change.
+As of December 31, 2008, BHRG’s gross loss reserves related to retroactive reinsurance policies were predominantly
+casualty losses. Retroactive policies include excess-of-loss contracts, in which losses (relating to loss events occurring before a
+specified date on or before the contract date) above a contractual retention are indemnified or contracts that indemnify all losses
+paid by the counterparty after the policy effective date. Retroactive reinsurance losses and loss adjustment expenses paid in
+2008 were $1.2 billion. The classification “reported case reserves” has no practical analytical value with respect to retroactive
+policies since the amount is often derived from reports in bulk from ceding companies, who may have inconsistent definitions of
+“case reserves.” Reserves are reviewed and established in the aggregate by contract including provisions for IBNR reserves.
+83
+Management’s Discussion (Continued)
+Property and casualty losses (Continued)
+BHRG (Continued)
+In establishing retroactive reinsurance reserves, historical aggregate loss payment patterns are often analyzed and projected
+into the future under various scenarios. The claim-tail is expected to be very long for many policies and may last several
+decades. Management assigns judgmental probability factors to these aggregate loss payment scenarios and an expectancy
+outcome is determined. Management monitors claim payment activity and reviews ceding company reports and other
+information concerning the underlying losses. Since the claim-tail is expected to be very long for such contracts, management
+reassesses expected ultimate losses as significant events related to the underlying losses are reported or revealed during the
+monitoring and review process. During 2008, retroactive reserves developed upward by approximately $200 million.
+BHRG’s liabilities for environmental, asbestos, and latent injury losses and loss adjustment expenses are presently
+concentrated within retroactive reinsurance contracts. Reserves for such losses were approximately $9.2 billion at December 31,
+2008 and $9.7 billion at December 31, 2007. Losses paid in 2008 attributable to these exposures were approximately $700
+million. BHRG, as a reinsurer, does not regularly receive reliable information regarding asbestos, environmental and latent
+injury claims from all ceding companies on a consistent basis, particularly with respect to multi-line treaty or aggregate
+excess-of-loss policies. Periodically, a ground-up analysis of the underlying loss data of the reinsured is conducted to make an
+estimate of ultimate reinsured losses. When detailed loss information is unavailable, estimates can only be developed by
+applying recent industry trends and projections to aggregate client data. Judgments in these areas necessarily include the
+stability of the legal and regulatory environment under which these claims will be adjudicated. Potential legal reform and
+legislation could also have a significant impact on establishing loss reserves for mass tort claims in the future.
+The maximum losses payable by BHRG under retroactive policies are not expected to exceed approximately $24.3 billion
+as of December 31, 2008. Absent significant judicial or legislative changes affecting asbestos, environmental or latent injury
+exposures, management currently believes it unlikely that unpaid losses as of December 31, 2008 ($16.6 billion) will develop
+upward to the maximum loss payable or downward by more than 15%.
+A significant number of recent reinsurance contracts are expected to have a low frequency of claim occurrence combined
+with a potential for high severity of claims. These include property losses from catastrophes, terrorism and aviation risks under
+catastrophe and individual risk contracts. Loss reserves related to catastrophe and individual risk contracts were approximately
+$1.3 billion at December 31, 2008, and were essentially unchanged from the prior year. In 2008 and 2007, loss reserves for prior
+years’ events declined by approximately $200 million which produced corresponding increases to pre-tax earnings each year.
+Reserving techniques for catastrophe and individual risk contracts generally rely more on a per-policy assessment of the
+ultimate cost associated with the individual loss event rather than with an analysis of the historical development patterns of past
+losses. Catastrophe loss reserves are provided when it is probable that an insured loss has occurred and the amount can be
+reasonably estimated. Absent litigation affecting the interpretation of coverage terms, the expected claim-tail is relatively short
+and thus the estimation error in the initial reserve estimates usually emerges within 24 months after the loss event.
+Other reinsurance reserve amounts are generally based upon loss estimates reported by ceding companies and IBNR
+reserves that are primarily a function of reported losses from ceding companies and anticipated loss ratios established on an
+individual contract basis, supplemented by management’s judgment of the impact on each contract of major catastrophe events
+as they become known. Anticipated loss ratios are based upon management’s judgment considering the type of business
+covered, analysis of each ceding company’s loss history and evaluation of that portion of the underlying contracts underwritten
+by each ceding company, which are in turn ceded to BHRG. A range of reserve amounts as a result of changes in underlying
+assumptions is not prepared.
+Derivative contract liabilities
+Berkshire’s Consolidated Balance Sheets include significant amounts of derivative contract liabilities that are measured at
+fair value. These contracts were primarily entered into in over-the-counter markets and certain elements in the terms and
+conditions of such contracts are not standardized. Furthermore, there is no source of independent data available to the Company
+that periodically shows trading volume and actual prices. As a result, the values of these liabilities are primarily based on
+valuation models, discounted cash flow models or other valuation techniques that are believed to be used by market participants.
+Such models or other valuation techniques may use inputs that are observable in the marketplace, while others are unobservable.
+84
+Management’s Discussion (Continued)
+Derivative contract liabilities (Continued)
+Unobservable inputs require management to make certain projections and assumptions about the information that would be used
+by market participants in pricing. Considerable judgment may be required in making assumptions, including the selection of
+interest rates, default and recovery rates and volatility. Changes in assumptions may have a significant effect on values.
+In determining the fair value of most of the credit default contracts, Berkshire used bid/ask pricing data on similar contracts
+as the basis for estimating fair value. Pricing data is monitored and reviewed by management for consistency as well as
+reasonableness. Pricing data for newer credit default contracts tends to vary little among the different pricing sources, which
+management believes is an indication that trading of such contracts is relatively active. As contracts age towards their expiration
+dates, the variations in pricing data can widen, which management believes is indicative of inactive markets. However, the
+impact of such variations is partially mitigated by shorter remaining durations and by the availability of data on newer contracts,
+which is used for comparison.
+Berkshire determines the estimated fair value of equity index put option contracts based on the widely used Black-Scholes
+option valuation model. Inputs to that model include the current index value, strike price, discount or interest rate, dividend rate
+and contract expiration date. The weighted averaged discount and dividend rates used as of December 31, 2008 were each
+approximately 4%. Berkshire believes the most significant economic risks relate to changes in the index value component and to
+a lesser degree to the foreign currency component. For additional information, see Berkshire’s Market Risk Disclosures.
+The Black-Scholes model also incorporates volatility estimates that measure potential price changes over time. The
+weighted average volatility used as of December 31, 2008 was approximately 22%. The impact on fair value as of December 31,
+2008 ($10.0 billion) from changes in volatility is summarized below. The values of contracts in an actual exchange are affected
+by market conditions and perceptions of the buyers and sellers. Actual values in an exchange may differ significantly from the
+values produced by any mathematical model. Dollars are in millions.
+Hypothetical change in volatility (percentage points)
+Hypothetical fair value
+Increase 2 percentage points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Increase 4 percentage points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Decrease 2 percentage points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Decrease 4 percentage points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$10,451
+10,882
+9,598
+9,182
+Other Critical Accounting Policies
+Berkshire records deferred charges with respect to liabilities assumed under retroactive reinsurance contracts. At the
+inception of these contracts, the deferred charges represent the difference between the consideration received and the estimated
+ultimate liability for unpaid losses. Deferred charges are amortized using the interest method over an estimate of the ultimate
+claim payment period with the periodic amortization reflected in earnings as a component of losses and loss expenses. Deferred
+charge balances are adjusted periodically to reflect new projections of the amount and timing of loss payments. Adjustments to
+these assumptions are applied retrospectively from the inception of the contract. Unamortized deferred charges were $3.9 billion
+at December 31, 2008. Significant changes in the estimated amount and payment timing of unpaid losses may have a significant
+effect on unamortized deferred charges and the amount of periodic amortization.
+Berkshire’s Consolidated Balance Sheet as of December 31, 2008 includes goodwill of acquired businesses of
+approximately $33.8 billion. A significant amount of judgment is required in performing goodwill impairment tests. Such tests
+include periodically determining or reviewing the estimated fair value of Berkshire’s reporting units. There are several methods
+of estimating a reporting unit’s fair value, including market quotations, asset and liability fair values and other valuation
+techniques, such as discounted projected future net earnings or net cash flows and multiples of earnings. If the carrying amount
+of a reporting unit, including goodwill, exceeds the estimated fair value, then individual assets (including identifiable intangible
+assets) and liabilities of the reporting unit are estimated at fair value. The excess of the estimated fair value of the reporting unit
+over the estimated fair value of net assets would establish the implied value of goodwill. The excess of the recorded amount of
+goodwill over the implied value is then charged to earnings as an impairment loss.
+85
+Management’s Discussion (Continued)
+Market Risk Disclosures
+Berkshire’s Consolidated Balance Sheets include a substantial amount of assets and liabilities whose fair values are subject
+to market risks. Berkshire’s significant market risks are primarily associated with interest rates, equity prices, foreign currency
+exchange rates and commodity prices. During the fourth quarter of 2008, conditions in the public debt and equity markets
+declined significantly resulting in exceptional volatility in debt and equity prices. The impact of actions taken recently by
+governmental bodies in response to the current economic crisis is difficult to predict, particularly over the short term. Berkshire
+management believes that these extraordinary conditions are temporary and that equity prices will ultimately rise over time and
+that credit markets will normalize but cannot predict the timing or magnitude of a recovery. The fair values of Berkshire’s
+investment portfolios and its equity index put option contracts remain subject to considerable volatility, particularly over the
+short term. The following sections address the significant market risks associated with Berkshire’s business activities.
+Interest Rate Risk
+Berkshire’s regularly invests in bonds, loans or other interest rate sensitive instruments. Berkshire’s strategy is to acquire
+securities that are attractively priced in relation to the perceived credit risk. Management recognizes and accepts that losses may
+occur with respect to assets. Berkshire strives to maintain high credit ratings so that the cost of debt is minimized. Berkshire
+utilizes derivative products, such as interest rate swaps, to manage interest rate risks on a limited basis.
+The fair values of Berkshire’s fixed maturity investments and notes payable and other borrowings will fluctuate in response
+to changes in market interest rates. Increases and decreases in prevailing interest rates generally translate into decreases and
+increases in fair values of those instruments. Additionally, fair values of interest rate sensitive instruments may be affected by
+the creditworthiness of the issuer, prepayment options, relative values of alternative investments, the liquidity of the instrument
+and other general market conditions. The fair values of fixed interest rate investments may be more sensitive to interest rate
+changes than variable rate investments.
+The following table summarizes the estimated effects of hypothetical changes in interest rates on assets and liabilities that
+are subject to interest rate risk. It is assumed that the changes occur immediately and uniformly to each category of instrument
+containing interest rate risk, and that no other significant factors change that determine the value of the instrument. The
+hypothetical changes in interest rates do not reflect what could be deemed best or worst case scenarios. Variations in interest
+rates could produce significant changes in the timing of repayments due to prepayment options available. For these reasons,
+actual results might differ from those reflected in the table. Dollars are in millions.
+December 31, 2008
+Insurance and other businesses:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products businesses:
+Investments in fixed maturity securities and loans and finance
+receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and energy businesses:
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+December 31, 2007
+Insurance and other businesses:
+Investments in fixed maturity securities . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+Finance and financial products businesses:
+Investments in fixed maturity securities and loans and finance
+receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+Utilities and energy businesses:
+Notes payable and other borrowings . . . . . . . . . . . . . . . . . . . . . . . . . .
+86
+Fair Value
+Estimated Fair Value after
+Hypothetical Change in Interest Rates
+(bp=basis points)
+100 bp
+100 bp
+200 bp
+300 bp
+decrease
+increase
+increase
+increase
+$27,115
+4,300
+$27,847 $26,382 $25,685
+4,370
+4,234
+4,173
+$25,064
+4,117
+18,533
+13,869
+19,257
+14,425
+17,664
+13,356
+16,874
+12,882
+16,155
+12,441
+19,144
+20,864
+17,673
+16,415
+15,328
+$28,515
+2,709
+$29,179
+2,757
+$27,689
+2,666
+$26,967
+2,628
+$26,318
+2,593
+15,843
+12,321
+16,860
+12,725
+14,766
+11,921
+13,806
+11,563
+12,934
+11,229
+19,834
+21,640
+18,305
+17,006
+15,890
+Management’s Discussion (Continued)
+Equity Price Risk
+Historically, Berkshire has maintained large amounts of invested assets in exchange traded equity securities. Strategically,
+Berkshire strives to invest in businesses that possess excellent economics, with able and honest management and at sensible prices
+and prefers to invest a meaningful amount in each investee. Consequently, equity investments may be concentrated in relatively
+few investees. At December 31, 2008, 57% of the total fair value of equity investments was concentrated in four investees.
+Berkshire prefers to hold equity investments for very long periods of time so management is not troubled by short-term
+equity price volatility with respect to its investments provided that the underlying business, economic and management
+characteristics of the investees remain favorable. Berkshire strives to maintain above average levels of shareholder capital to
+provide a margin of safety against short-term equity price volatility.
+Market prices for equity securities are subject to fluctuation and consequently the amount realized in the subsequent sale of
+an investment may significantly differ from the reported market value. Fluctuation in the market price of a security may result
+from perceived changes in the underlying economic characteristics of the investee, the relative price of alternative investments
+and general market conditions.
+Berkshire is also subject to equity price risk with respect to its equity index put option contracts. While Berkshire’s
+ultimate potential loss with respect to these contracts is determined from the movement of the underlying stock index between
+contract inception date and expiration, the change in fair value resulting from current changes in the index values are also
+affected by changes in other factors such as interest rates, expected dividend rates and the remaining duration of the contract.
+These contracts generally expire 15 to 20 years from inception and may not be settled before their respective expiration dates.
+The following table summarizes Berkshire’s equity investments and derivative contract liabilities with equity price risk as
+of December 31, 2008 and 2007. The effects of a hypothetical 30% increase and a 30% decrease in market prices as of those
+dates is also shown. The selected 30% hypothetical change does not reflect what could be considered the best or worst case
+scenarios. Indeed, results could be far worse due both to the nature of equity markets and the aforementioned concentrations
+existing in Berkshire’s equity investment portfolio. Dollar amounts are in millions.
+Estimated
+Fair Value after
+Hypothetical
+Change in Prices
+Hypothetical
+Percentage
+Increase (Decrease) in
+Shareholders’ Equity
+$ 49,073
+30% increase
+30% decrease
+(10,022) 30% increase
+30% decrease
+$ 63,795
+34,351
+(7,952)
+(12,799)
+8.8
+(8.8)
+1.2
+(1.7)
+$ 74,999
+$ 97,499
+52,499
+(3,282)
+(6,900)
+12.1
+(12.1)
+0.7
+(1.2)
+Fair Value
+December 31, 2008
+Equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equity index put options . . . . . . . . . . . . . . . . . . . . . . . . .
+December 31, 2007
+Equity securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hypothetical
+Price Change
+30% increase
+30% decrease
+(4,610) 30% increase
+30% decrease
+Equity index put options . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign Currency Risk
+Berkshire generally does not use derivative contracts to hedge foreign currency price changes primarily because of the
+natural hedging that occurs between assets and liabilities denominated in foreign currencies in the consolidated financial
+statements. Financial statements of subsidiaries that do not use the U.S. Dollar as their functional currency are translated into
+U.S. Dollars using period-end exchange rates for assets and liabilities and weighted-average exchange rates for revenues and
+expenses. Adjustments resulting from translating the financial statements of these subsidiaries are reported in accumulated other
+comprehensive income. Foreign currency transaction gains or losses are included in earnings primarily as a result of the
+translation of foreign currency denominated assets and liabilities held by U.S. subsidiaries. In addition, Berkshire holds
+investments in major multinational companies that have significant foreign business and foreign currency risk of their own, such
+as the Coca-Cola Company.
+87
+Management’s Discussion (Continued)
+Foreign Currency Risk (Continued)
+Berkshire’s net assets subject to translation are primarily in the insurance and utilities and energy businesses, and to a
+lesser extent in the manufacturing and services businesses. The translation impact is somewhat offset by transaction gains or
+losses on net reinsurance liabilities denominated in foreign currencies of certain U.S. subsidiaries as well as the equity index put
+option liabilities of U.S. subsidiaries relating to contracts that would be settled in foreign currencies.
+Commodity Price Risk
+Berkshire, through its ownership of MidAmerican, is subject to commodity price risk. Exposures include variations in the
+price of wholesale electricity that is purchased and sold, fuel costs to generate electricity and natural gas supply for regulated
+retail gas customers. Electricity and natural gas prices are subject to wide price swings as demand responds to, among many
+other items, changing weather, limited storage, transmission and transportation constraints, and lack of alternative supplies from
+other areas. To mitigate a portion of the risk, MidAmerican uses derivative instruments, including forwards, futures, options,
+swaps and other over-the-counter agreements, to effectively secure future supply or sell future production at fixed prices. The
+settled cost of these contracts is generally recovered from customers in regulated rates. Accordingly, gains and losses associated
+with interim price movements on such contracts are recorded as regulatory assets or liabilities. Financial results may be
+negatively impacted if the costs of wholesale electricity, fuel or natural gas are higher than what is permitted to be recovered in
+rates. MidAmerican also uses futures, options and swap agreements to economically hedge gas and electric commodity prices
+for physical delivery to non-regulated customers. MidAmerican does not engage in a material amount of proprietary trading
+activities.
+The table that follows summarizes Berkshire’s commodity price risk on energy derivative contracts of MidAmerican as of
+December 31, 2008 and 2007 and shows the effects of a hypothetical 10% increase and a 10% decrease in forward market prices
+by the expected volumes for these contracts as of that date. The selected hypothetical change does not reflect what could be
+considered the best or worst case scenarios. Dollars are in millions.
+Fair Value
+net assets
+(liabilities)
+December 31, 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$(528)
+December 31, 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$(263)
+Hypothetical Price Change
+Estimated Fair Value after
+Hypothetical Change in
+Price
+10% increase
+10% decrease
+10% increase
+10% decrease
+$(474)
+(582)
+$(208)
+(318)
+FORWARD-LOOKING STATEMENTS
+Investors are cautioned that certain statements contained in this document, as well as some statements in periodic press
+releases and some oral statements of Berkshire officials during presentations about Berkshire, are “forward-looking” statements
+within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Act”). Forward-looking statements include
+statements that are predictive in nature, that depend upon or refer to future events or conditions, that include words such as
+“expects,” “anticipates,” “intends,” “plans,” “believes,” “estimates,” or similar expressions. In addition, any statements
+concerning future financial performance (including future revenues, earnings or growth rates), ongoing business strategies or
+prospects, and possible future Berkshire actions, which may be provided by management are also forward-looking statements as
+defined by the Act. Forward-looking statements are based on current expectations and projections about future events and are
+subject to risks, uncertainties, and assumptions about Berkshire, economic and market factors and the industries in which
+Berkshire does business, among other things. These statements are not guaranties of future performance and Berkshire has no
+specific intention to update these statements.
+Actual events and results may differ materially from those expressed or forecasted in forward-looking statements due to a
+number of factors. The principal important risk factors that could cause Berkshire’s actual performance and future events and
+actions to differ materially from such forward-looking statements, include, but are not limited to, changes in market prices of
+Berkshire’s investments in fixed maturity and equity securities, losses realized from derivative contracts, the occurrence of one or
+more catastrophic events, such as an earthquake, hurricane or an act of terrorism that causes losses insured by Berkshire’s insurance
+subsidiaries, changes in insurance laws or regulations, changes in Federal income tax laws, and changes in general economic and
+market factors that affect the prices of securities or the industries in which Berkshire and its affiliates do business.
+88
+In June 1996, Berkshire’s Chairman, Warren E. Buffett, issued a booklet entitled “An Owner’s Manual*” to Berkshire’s
+Class A and Class B shareholders. The purpose of the manual was to explain Berkshire’s broad economic principles of
+operation. An updated version is reproduced on this and the following pages.
+OWNER-RELATED BUSINESS PRINCIPLES
+At the time of the Blue Chip merger in 1983, I set down 13 owner-related business principles that I thought would help new
+shareholders understand our managerial approach. As is appropriate for “principles,” all 13 remain alive and well today, and they are
+stated here in italics.
+1.
+Although our form is corporate, our attitude is partnership. Charlie Munger and I think of our shareholders as owner-partners,
+and of ourselves as managing partners. (Because of the size of our shareholdings we are also, for better or worse, controlling
+partners.) We do not view the company itself as the ultimate owner of our business assets but instead view the company as a
+conduit through which our shareholders own the assets.
+Charlie and I hope that you do not think of yourself as merely owning a piece of paper whose price wiggles around daily and
+that is a candidate for sale when some economic or political event makes you nervous. We hope you instead visualize yourself
+as a part owner of a business that you expect to stay with indefinitely, much as you might if you owned a farm or apartment
+house in partnership with members of your family. For our part, we do not view Berkshire shareholders as faceless members of
+an ever-shifting crowd, but rather as co-venturers who have entrusted their funds to us for what may well turn out to be the
+remainder of their lives.
+The evidence suggests that most Berkshire shareholders have indeed embraced this long-term partnership concept. The annual
+percentage turnover in Berkshire’s shares is a small fraction of that occurring in the stocks of other major American
+corporations, even when the shares I own are excluded from the calculation.
+In effect, our shareholders behave in respect to their Berkshire stock much as Berkshire itself behaves in respect to companies
+in which it has an investment. As owners of, say, Coca-Cola or American Express shares, we think of Berkshire as being a
+non-managing partner in two extraordinary businesses, in which we measure our success by the long-term progress of the
+companies rather than by the month-to-month movements of their stocks. In fact, we would not care in the least if several years
+went by in which there was no trading, or quotation of prices, in the stocks of those companies. If we have good long-term
+expectations, short-term price changes are meaningless for us except to the extent they offer us an opportunity to increase our
+ownership at an attractive price.
+2.
+In line with Berkshire’s owner-orientation, most of our directors have a major portion of their net worth invested in the
+company. We eat our own cooking.
+Charlie’s family has 90% or more of its net worth in Berkshire shares; I have about 99%. In addition, many of my relatives—
+my sisters and cousins, for example—keep a huge portion of their net worth in Berkshire stock.
+Charlie and I feel totally comfortable with this eggs-in-one-basket situation because Berkshire itself owns a wide variety of
+truly extraordinary businesses. Indeed, we believe that Berkshire is close to being unique in the quality and diversity of the
+businesses in which it owns either a controlling interest or a minority interest of significance.
+Charlie and I cannot promise you results. But we can guarantee that your financial fortunes will move in lockstep with ours for
+whatever period of time you elect to be our partner. We have no interest in large salaries or options or other means of gaining
+an “edge” over you. We want to make money only when our partners do and in exactly the same proportion. Moreover, when I
+do something dumb, I want you to be able to derive some solace from the fact that my financial suffering is proportional to
+yours.
+3.
+Our long-term economic goal (subject to some qualifications mentioned later) is to maximize Berkshire’s average annual rate
+of gain in intrinsic business value on a per-share basis. We do not measure the economic significance or performance of
+Berkshire by its size; we measure by per-share progress. We are certain that the rate of per-share progress will diminish in the
+future—a greatly enlarged capital base will see to that. But we will be disappointed if our rate does not exceed that of the
+average large American corporation.
+4.
+Our preference would be to reach our goal by directly owning a diversified group of businesses that generate cash and
+consistently earn above-average returns on capital. Our second choice is to own parts of similar businesses, attained primarily
+* Copyright © 1996 By Warren E. Buffett
+All Rights Reserved
+89
+through purchases of marketable common stocks by our insurance subsidiaries. The price and availability of businesses and the
+need for insurance capital determine any given year’s capital allocation.
+In recent years we have made a number of acquisitions. Though there will be dry years, we expect to make many more in the
+decades to come, and our hope is that they will be large. If these purchases approach the quality of those we have made in the
+past, Berkshire will be well served.
+The challenge for us is to generate ideas as rapidly as we generate cash. In this respect, a depressed stock market is likely to
+present us with significant advantages. For one thing, it tends to reduce the prices at which entire companies become available
+for purchase. Second, a depressed market makes it easier for our insurance companies to buy small pieces of wonderful
+businesses—including additional pieces of businesses we already own—at attractive prices. And third, some of those same
+wonderful businesses, such as Coca-Cola, are consistent buyers of their own shares, which means that they, and we, gain from
+the cheaper prices at which they can buy.
+Overall, Berkshire and its long-term shareholders benefit from a sinking stock market much as a regular purchaser of food
+benefits from declining food prices. So when the market plummets—as it will from time to time—neither panic nor mourn. It’s
+good news for Berkshire.
+5.
+Because of our two-pronged approach to business ownership and because of the limitations of conventional accounting,
+consolidated reported earnings may reveal relatively little about our true economic performance. Charlie and I, both as owners
+and managers, virtually ignore such consolidated numbers. However, we will also report to you the earnings of each major
+business we control, numbers we consider of great importance. These figures, along with other information we will supply
+about the individual businesses, should generally aid you in making judgments about them.
+To state things simply, we try to give you in the annual report the numbers and other information that really matter. Charlie and
+I pay a great deal of attention to how well our businesses are doing, and we also work to understand the environment in which
+each business is operating. For example, is one of our businesses enjoying an industry tailwind or is it facing a headwind?
+Charlie and I need to know exactly which situation prevails and to adjust our expectations accordingly. We will also pass along
+our conclusions to you.
+Over time, the large majority of our businesses have exceeded our expectations. But sometimes we have disappointments, and
+we will try to be as candid in informing you about those as we are in describing the happier experiences. When we use
+unconventional measures to chart our progress—for instance, you will be reading in our annual reports about insurance
+“float”—we will try to explain these concepts and why we regard them as important. In other words, we believe in telling you
+how we think so that you can evaluate not only Berkshire’s businesses but also assess our approach to management and capital
+allocation.
+6.
+Accounting consequences do not influence our operating or capital-allocation decisions. When acquisition costs are similar, we
+much prefer to purchase $2 of earnings that is not reportable by us under standard accounting principles than to purchase $1
+of earnings that is reportable. This is precisely the choice that often faces us since entire businesses (whose earnings will be
+fully reportable) frequently sell for double the pro-rata price of small portions (whose earnings will be largely unreportable). In
+aggregate and over time, we expect the unreported earnings to be fully reflected in our intrinsic business value through
+capital gains.
+We have found over time that the undistributed earnings of our investees, in aggregate, have been fully as beneficial to
+Berkshire as if they had been distributed to us (and therefore had been included in the earnings we officially report). This
+pleasant result has occurred because most of our investees are engaged in truly outstanding businesses that can often employ
+incremental capital to great advantage, either by putting it to work in their businesses or by repurchasing their shares.
+Obviously, every capital decision that our investees have made has not benefitted us as shareholders, but overall we have
+garnered far more than a dollar of value for each dollar they have retained. We consequently regard look-through earnings as
+realistically portraying our yearly gain from operations.
+7.
+We use debt sparingly and, when we do borrow, we attempt to structure our loans on a long-term fixed-rate basis. We will
+reject interesting opportunities rather than over-leverage our balance sheet. This conservatism has penalized our results but it
+is the only behavior that leaves us comfortable, considering our fiduciary obligations to policyholders, lenders and the many
+equity holders who have committed unusually large portions of their net worth to our care. (As one of the Indianapolis “500”
+winners said: “To finish first, you must first finish.”)
+The financial calculus that Charlie and I employ would never permit our trading a good night’s sleep for a shot at a few extra
+percentage points of return. I’ve never believed in risking what my family and friends have and need in order to pursue what they
+don’t have and don’t need.
+90
+Besides, Berkshire has access to two low-cost, non-perilous sources of leverage that allow us to safely own far more assets than
+our equity capital alone would permit: deferred taxes and “float,” the funds of others that our insurance business holds because
+it receives premiums before needing to pay out losses. Both of these funding sources have grown rapidly and now total about
+$68 billion.
+Better yet, this funding to date has often been cost-free. Deferred tax liabilities bear no interest. And as long as we can break
+even in our insurance underwriting the cost of the float developed from that operation is zero. Neither item, of course, is equity;
+these are real liabilities. But they are liabilities without covenants or due dates attached to them. In effect, they give us the
+benefit of debt—an ability to have more assets working for us—but saddle us with none of its drawbacks.
+Of course, there is no guarantee that we can obtain our float in the future at no cost. But we feel our chances of attaining that
+goal are as good as those of anyone in the insurance business. Not only have we reached the goal in the past (despite a number
+of important mistakes by your Chairman), our 1996 acquisition of GEICO, materially improved our prospects for getting there
+in the future.
+8.
+A managerial “wish list” will not be filled at shareholder expense. We will not diversify by purchasing entire businesses at
+control prices that ignore long-term economic consequences to our shareholders. We will only do with your money what we
+would do with our own, weighing fully the values you can obtain by diversifying your own portfolios through direct purchases in
+the stock market.
+Charlie and I are interested only in acquisitions that we believe will raise the per-share intrinsic value of Berkshire’s stock. The
+size of our paychecks or our offices will never be related to the size of Berkshire’s balance sheet.
+9.
+We feel noble intentions should be checked periodically against results. We test the wisdom of retaining earnings by assessing
+whether retention, over time, delivers shareholders at least $1 of market value for each $1 retained. To date, this test has been
+met. We will continue to apply it on a five-year rolling basis. As our net worth grows, it is more difficult to use retained earnings
+wisely.
+We continue to pass the test, but the challenges of doing so have grown more difficult. If we reach the point that we can’t create
+extra value by retaining earnings, we will pay them out and let our shareholders deploy the funds.
+10. We will issue common stock only when we receive as much in business value as we give. This rule applies to all forms of
+issuance—not only mergers or public stock offerings, but stock-for-debt swaps, stock options, and convertible securities as well.
+We will not sell small portions of your company—and that is what the issuance of shares amounts to—on a basis inconsistent
+with the value of the entire enterprise.
+When we sold the Class B shares in 1996, we stated that Berkshire stock was not undervalued—and some people found that
+shocking. That reaction was not well-founded. Shock should have registered instead had we issued shares when our stock was
+undervalued. Managements that say or imply during a public offering that their stock is undervalued are usually being
+economical with the truth or uneconomical with their existing shareholders’ money: Owners unfairly lose if their managers
+deliberately sell assets for 80¢ that in fact are worth $1. We didn’t commit that kind of crime in our offering of Class B shares
+and we never will. (We did not, however, say at the time of the sale that our stock was overvalued, though many media have
+reported that we did.)
+11. You should be fully aware of one attitude Charlie and I share that hurts our financial performance: Regardless of price, we have
+no interest at all in selling any good businesses that Berkshire owns. We are also very reluctant to sell sub-par businesses as long
+as we expect them to generate at least some cash and as long as we feel good about their managers and labor relations. We hope
+not to repeat the capital-allocation mistakes that led us into such sub-par businesses. And we react with great caution to
+suggestions that our poor businesses can be restored to satisfactory profitability by major capital expenditures. (The projections
+will be dazzling and the advocates sincere, but, in the end, major additional investment in a terrible industry usually is about as
+rewarding as struggling in quicksand.) Nevertheless, gin rummy managerial behavior (discard your least promising business at
+each turn) is not our style. We would rather have our overall results penalized a bit than engage in that kind of behavior.
+We continue to avoid gin rummy behavior. True, we closed our textile business in the mid-1980’s after 20 years of struggling
+with it, but only because we felt it was doomed to run never-ending operating losses. We have not, however, given thought to
+selling operations that would command very fancy prices nor have we dumped our laggards, though we focus hard on curing the
+problems that cause them to lag.
+12. We will be candid in our reporting to you, emphasizing the pluses and minuses important in appraising business value. Our
+guideline is to tell you the business facts that we would want to know if our positions were reversed. We owe you no less.
+Moreover, as a company with a major communications business, it would be inexcusable for us to apply lesser standards of
+accuracy, balance and incisiveness when reporting on ourselves than we would expect our news people to apply when reporting
+91
+on others. We also believe candor benefits us as managers: The CEO who misleads others in public may eventually mislead
+himself in private.
+At Berkshire you will find no “big bath” accounting maneuvers or restructurings nor any “smoothing” of quarterly or annual
+results. We will always tell you how many strokes we have taken on each hole and never play around with the scorecard. When
+the numbers are a very rough “guesstimate,” as they necessarily must be in insurance reserving, we will try to be both consistent
+and conservative in our approach.
+We will be communicating with you in several ways. Through the annual report, I try to give all shareholders as much valuedefining information as can be conveyed in a document kept to reasonable length. We also try to convey a liberal quantity of
+condensed but important information in the quarterly reports we post on the internet, though I don’t write those (one recital a year
+is enough). Still another important occasion for communication is our Annual Meeting, at which Charlie and I are delighted to
+spend five hours or more answering questions about Berkshire. But there is one way we can’t communicate: on a one-on-one
+basis. That isn’t feasible given Berkshire’s many thousands of owners.
+In all of our communications, we try to make sure that no single shareholder gets an edge: We do not follow the usual practice of
+giving earnings “guidance” or other information of value to analysts or large shareholders. Our goal is to have all of our owners
+updated at the same time.
+13. Despite our policy of candor, we will discuss our activities in marketable securities only to the extent legally required. Good
+investment ideas are rare, valuable and subject to competitive appropriation just as good product or business acquisition ideas
+are. Therefore we normally will not talk about our investment ideas. This ban extends even to securities we have sold (because
+we may purchase them again) and to stocks we are incorrectly rumored to be buying. If we deny those reports but say “no
+comment” on other occasions, the no-comments become confirmation.
+Though we continue to be unwilling to talk about specific stocks, we freely discuss our business and investment philosophy. I
+benefitted enormously from the intellectual generosity of Ben Graham, the greatest teacher in the history of finance, and I believe it
+appropriate to pass along what I learned from him, even if that creates new and able investment competitors for Berkshire just as
+Ben’s teachings did for him.
+TWO ADDED PRINCIPLES
+14. To the extent possible, we would like each Berkshire shareholder to record a gain or loss in market value during his period of
+ownership that is proportional to the gain or loss in per-share intrinsic value recorded by the company during that holding
+period. For this to come about, the relationship between the intrinsic value and the market price of a Berkshire share would need
+to remain constant, and by our preferences at 1-to-1. As that implies, we would rather see Berkshire’s stock price at a fair level
+than a high level. Obviously, Charlie and I can’t control Berkshire’s price. But by our policies and communications, we can
+encourage informed, rational behavior by owners that, in turn, will tend to produce a stock price that is also rational. Our
+it’s-as-bad-to-be-overvalued-as-to-be-undervalued approach may disappoint some shareholders. We believe, however, that it
+affords Berkshire the best prospect of attracting long-term investors who seek to profit from the progress of the company rather
+than from the investment mistakes of their partners.
+15. We regularly compare the gain in Berkshire’s per-share book value to the performance of the S&P 500. Over time, we hope to
+outpace this yardstick. Otherwise, why do our investors need us? The measurement, however, has certain shortcomings that are
+described in the next section. Moreover, it now is less meaningful on a year-to-year basis than was formerly the case. That is
+because our equity holdings, whose value tends to move with the S&P 500, are a far smaller portion of our net worth than they
+were in earlier years. Additionally, gains in the S&P stocks are counted in full in calculating that index, whereas gains in
+Berkshire’s equity holdings are counted at 65% because of the federal tax we incur. We, therefore, expect to outperform the S&P
+in lackluster years for the stock market and underperform when the market has a strong year.
+INTRINSIC VALUE
+Now let’s focus on a term that I mentioned earlier and that you will encounter in future annual reports.
+Intrinsic value is an all-important concept that offers the only logical approach to evaluating the relative attractiveness of
+investments and businesses. Intrinsic value can be defined simply: It is the discounted value of the cash that can be taken out of a
+business during its remaining life.
+The calculation of intrinsic value, though, is not so simple. As our definition suggests, intrinsic value is an estimate rather than a
+precise figure, and it is additionally an estimate that must be changed if interest rates move or forecasts of future cash flows are
+92
+revised. Two people looking at the same set of facts, moreover—and this would apply even to Charlie and me—will almost inevitably
+come up with at least slightly different intrinsic value figures. That is one reason we never give you our estimates of intrinsic value.
+What our annual reports do supply, though, are the facts that we ourselves use to calculate this value.
+Meanwhile, we regularly report our per-share book value, an easily calculable number, though one of limited use. The limitations
+do not arise from our holdings of marketable securities, which are carried on our books at their current prices. Rather the inadequacies
+of book value have to do with the companies we control, whose values as stated on our books may be far different from their intrinsic
+values.
+The disparity can go in either direction. For example, in 1964 we could state with certitude that Berkshire’s per-share book value
+was $19.46. However, that figure considerably overstated the company’s intrinsic value, since all of the company’s resources were
+tied up in a sub-profitable textile business. Our textile assets had neither going-concern nor liquidation values equal to their carrying
+values. Today, however, Berkshire’s situation is reversed: Now, our book value far understates Berkshire’s intrinsic value, a point true
+because many of the businesses we control are worth much more than their carrying value.
+Inadequate though they are in telling the story, we give you Berkshire’s book-value figures because they today serve as a rough,
+albeit significantly understated, tracking measure for Berkshire’s intrinsic value. In other words, the percentage change in book value
+in any given year is likely to be reasonably close to that year’s change in intrinsic value.
+You can gain some insight into the differences between book value and intrinsic value by looking at one form of investment, a
+college education. Think of the education’s cost as its “book value.” If this cost is to be accurate, it should include the earnings that
+were foregone by the student because he chose college rather than a job.
+For this exercise, we will ignore the important non-economic benefits of an education and focus strictly on its economic value.
+First, we must estimate the earnings that the graduate will receive over his lifetime and subtract from that figure an estimate of what he
+would have earned had he lacked his education. That gives us an excess earnings figure, which must then be discounted, at an
+appropriate interest rate, back to graduation day. The dollar result equals the intrinsic economic value of the education.
+Some graduates will find that the book value of their education exceeds its intrinsic value, which means that whoever paid for the
+education didn’t get his money’s worth. In other cases, the intrinsic value of an education will far exceed its book value, a result that
+proves capital was wisely deployed. In all cases, what is clear is that book value is meaningless as an indicator of intrinsic value.
+THE MANAGING OF BERKSHIRE
+I think it’s appropriate that I conclude with a discussion of Berkshire’s management, today and in the future. As our first ownerrelated principle tells you, Charlie and I are the managing partners of Berkshire. But we subcontract all of the heavy lifting in this
+business to the managers of our subsidiaries. In fact, we delegate almost to the point of abdication: Though Berkshire has about
+246,000 employees, only 19 of these are at headquarters.
+Charlie and I mainly attend to capital allocation and the care and feeding of our key managers. Most of these managers are
+happiest when they are left alone to run their businesses, and that is customarily just how we leave them. That puts them in charge of
+all operating decisions and of dispatching the excess cash they generate to headquarters. By sending it to us, they don’t get diverted by
+the various enticements that would come their way were they responsible for deploying the cash their businesses throw off.
+Furthermore, Charlie and I are exposed to a much wider range of possibilities for investing these funds than any of our managers could
+find in his or her own industry.
+Most of our managers are independently wealthy, and it’s therefore up to us to create a climate that encourages them to choose
+working with Berkshire over golfing or fishing. This leaves us needing to treat them fairly and in the manner that we would wish to be
+treated if our positions were reversed.
+As for the allocation of capital, that’s an activity both Charlie and I enjoy and in which we have acquired some useful experience.
+In a general sense, grey hair doesn’t hurt on this playing field: You don’t need good hand-eye coordination or well-toned muscles to
+push money around (thank heavens). As long as our minds continue to function effectively, Charlie and I can keep on doing our jobs
+pretty much as we have in the past.
+On my death, Berkshire’s ownership picture will change but not in a disruptive way: None of my stock will have to be sold to
+take care of the cash bequests I have made or for taxes. Other assets of mine will take care of these requirements. All Berkshire shares
+will be left to foundations that will likely receive the stock in roughly equal installments over a dozen or so years.
+93
+At my death, the Buffett family will not be involved in managing the business but, as very substantial shareholders, will help in
+picking and overseeing the managers who do. Just who those managers will be, of course, depends on the date of my death. But I can
+anticipate what the management structure will be: Essentially my job will be split into two parts. One executive will become CEO and
+responsible for operations. The responsibility for investments will be given to one or more executives. If the acquisition of new
+businesses is in prospect, these executives will cooperate in making the decisions needed, subject, of course, to board approval. We
+will continue to have an extraordinarily shareholder-minded board, one whose interests are solidly aligned with yours.
+Were we to need the management structure I have just described on an immediate basis, our directors know my recommendations
+for both posts. All candidates currently work for or are available to Berkshire and are people in whom I have total confidence.
+I will continue to keep the directors posted on the succession issue. Since Berkshire stock will make up virtually my entire estate
+and will account for a similar portion of the assets of various foundations for a considerable period after my death, you can be sure that
+the directors and I have thought through the succession question carefully and that we are well prepared. You can be equally sure that
+the principles we have employed to date in running Berkshire will continue to guide the managers who succeed me and that our
+unusually strong and well-defined culture will remain intact.
+Lest we end on a morbid note, I also want to assure you that I have never felt better. I love running Berkshire, and if enjoying life
+promotes longevity, Methuselah’s record is in jeopardy.
+Warren E. Buffett
+Chairman
+STOCK PERFORMANCE GRAPH
+The following chart compares the subsequent value of $100 invested in Berkshire common stock on December 31, 2003 with a
+similar investment in the Standard and Poor’s 500 Stock Index and in the Standard and Poor’s Property—Casualty Insurance
+Index.**
+Comparison of Five Year Cumulative Return*
+H
+E
+180
+B
+Berkshire Hathaway Inc.
+S&P 500 Index
+S&P 500 Property & Casualty Insurance Index
+H 168
+DOLLARS
+160
+B
+140
+B 127
+120
+111
+B 110
+E
+100 E
+B
+H
+100
+H
+E116
+H 105
+143
+135 E
+H
+131
+E142
+B 123
+H
+115
+90
+104
+E
+87 B
+80
+60
+2003
+2004
+2005
+2006
+2007
+2008
+*
+Cumulative return for the Standard and Poor’s indices based on reinvestment of dividends.
+**
+It would be difficult to develop a peer group of companies similar to Berkshire. The Corporation owns subsidiaries engaged in
+a number of diverse business activities of which the most important is the property and casualty insurance business and,
+accordingly, management has used the Standard and Poor’s Property—Casualty Insurance Index for comparative purposes.
+94
+BERKSHIRE HATHAWAY INC.
+COMMON STOCK
+General
+Berkshire has two classes of common stock designated Class A Common Stock and Class B Common Stock. Each share of
+Class A Common Stock is convertible, at the option of the holder, into 30 shares of Class B Common Stock. Shares of Class B
+Common Stock are not convertible into shares of Class A Common Stock.
+Stock Transfer Agent
+Wells Fargo Bank, N.A., P. O. Box 64854, St. Paul, MN 55164-0854 serves as Transfer Agent and Registrar for the
+Company’s common stock. Correspondence may be directed to Wells Fargo at the address indicated or at wellsfargo.com/
+shareownerservices. Telephone inquiries should be directed to the Shareowner Relations Department at 1-877-602-7411
+between 7:00 A.M. and 7:00 P.M. Central Time. Certificates for re-issue or transfer should be directed to the Transfer
+Department at the address indicated.
+Shareholders of record wishing to convert Class A Common Stock into Class B Common Stock may contact Wells Fargo
+in writing. Along with the underlying stock certificate, shareholders should provide Wells Fargo with specific written
+instructions regarding the number of shares to be converted and the manner in which the Class B shares are to be registered. We
+recommend that you use certified or registered mail when delivering the stock certificates and written instructions.
+If Class A shares are held in “street name,” shareholders wishing to convert all or a portion of their holding should contact
+their broker or bank nominee. It will be necessary for the nominee to make the request for conversion.
+Shareholders
+Berkshire had approximately 4,200 record holders of its Class A Common Stock and 13,900 record holders of its Class B
+Common Stock at February 15, 2009. Record owners included nominees holding at least 530,000 shares of Class A Common
+Stock and 14,500,000 shares of Class B Common Stock on behalf of beneficial-but-not-of-record owners.
+Price Range of Common Stock
+Berkshire’s Class A and Class B Common Stock are listed for trading on the New York Stock Exchange, trading symbol:
+BRK.A and BRK.B. The following table sets forth the high and low sales prices per share, as reported on the New York Stock
+Exchange Composite List during the periods indicated:
+2008
+Class A
+First Quarter . . . . . . . . . . . . . . . . . . . . . . . .
+Second Quarter . . . . . . . . . . . . . . . . . . . . . .
+Third Quarter . . . . . . . . . . . . . . . . . . . . . . . .
+Fourth Quarter . . . . . . . . . . . . . . . . . . . . . . .
+High
+Low
+$145,900
+135,500
+147,000
+140,900
+$126,100
+119,450
+111,000
+74,100
+Dividends
+Berkshire has not declared a cash dividend since 1967.
+95
+2007
+Class B
+High
+Low
+$4,858
+4,520
+4,595
+4,700
+$4,150
+3,980
+3,701
+2,451
+Class A
+High
+Low
+$110,700
+110,490
+120,800
+151,650
+$103,800
+107,200
+108,600
+118,400
+Class B
+High
+Low
+$3,690
+3,679
+4,000
+5,059
+$3,460
+3,538
+3,558
+3,949
+BERKSHIRE HATHAWAY INC.
+OPERATING COMPANIES
+INSURANCE BUSINESSES
+Company
+Employees
+Berkshire Hathaway Homestate Companies . . . . .
+627
+Berkshire Hathaway Reinsurance Group . . . . . . . .
+593
+Boat America Corporation . . . . . . . . . . . . . . . . . . . .
+377
+Central States Indemnity Co. . . . . . . . . . . . . . . . . . .
+431
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22,249
+Company
+Employees
+General Re Corporation . . . . . . . . . . . . . . . . . . . . 2,574
+Kansas Bankers Surety Company . . . . . . . . . . . .
+18
+Medical Protective Corporation . . . . . . . . . . . . .
+422
+National Indemnity Primary Group . . . . . . . . . .
+384
+United States Liability Insurance Group . . . . . .
+513
+Insurance total . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28,188
+NON-INSURANCE BUSINESSES
+Company
+Employees
+Acme Building Brands . . . . . . . . . . . . . . . . . . . . . . . 2,307
+Adalet (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+266
+Altaquip (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+310
+Applied Underwriters, Inc. . . . . . . . . . . . . . . . . . . . .
+455
+Ben Bridge Jeweler . . . . . . . . . . . . . . . . . . . . . . . . . .
+778
+Benjamin Moore . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,467
+Borsheim’s Jewelry . . . . . . . . . . . . . . . . . . . . . . . . . .
+204
+The Buffalo News . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+846
+Business Wire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+520
+CalEnergy (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+329
+Campbell Hausfeld (1) . . . . . . . . . . . . . . . . . . . . . . . .
+579
+Carefree of Colorado (1) . . . . . . . . . . . . . . . . . . . . . .
+211
+Clayton Homes, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . 11,998
+Cleveland Wood Products (1) . . . . . . . . . . . . . . . . . .
+79
+CORT Business Services . . . . . . . . . . . . . . . . . . . . . . 2,773
+CTB International . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,079
+Dairy Queen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,362
+Douglas/Quikut (1) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+Fechheimer Brothers . . . . . . . . . . . . . . . . . . . . . . . . .
+715
+FlightSafety International . . . . . . . . . . . . . . . . . . . . 4,482
+Forest River, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,461
+France (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+104
+Fruit of the Loom (3) . . . . . . . . . . . . . . . . . . . . . . . . . 34,896
+Garan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,563
+H. H. Brown Shoe Group . . . . . . . . . . . . . . . . . . . . . 1,182
+Halex (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+126
+Helzberg’s Diamond Shops . . . . . . . . . . . . . . . . . . . 2,009
+HomeServices of America (2) . . . . . . . . . . . . . . . . . . . 2,602
+Iscar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10,413
+Johns Manville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,280
+Jordan’s Furniture . . . . . . . . . . . . . . . . . . . . . . . . . . 1,165
+Justin Brands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+911
+Kern River Gas Transmission Company (2) . . . . . .
+164
+(1)
+Kingston . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+162
+(1)
+(2)
+(3)
+(4)
+Company
+A Scott Fetzer Company
+A MidAmerican Energy Holdings Company
+A Fruit of the Loom, Inc. Company
+Approximately 130 manufacturing and service businesses that operate within 11 business sectors.
+96
+Employees
+Kirby (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+648
+Larson-Juhl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,810
+The Marmon Group (4) . . . . . . . . . . . . . . . . . . . . . 18,000
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . . . 16,078
+MidAmerican Energy Company (2) . . . . . . . . . . .
+3,150
+MidAmerican Energy Holdings Company (2) . .
+654
+MiTek Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,818
+Nebraska Furniture Mart . . . . . . . . . . . . . . . . . . .
+2,712
+NetJets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,945
+Northern Natural Gas (2) . . . . . . . . . . . . . . . . . . . .
+864
+Northern and Yorkshire Electric (2) . . . . . . . . . .
+2,444
+Northland (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+107
+PacifiCorp (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,192
+Pacific Power (2) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,224
+The Pampered Chef . . . . . . . . . . . . . . . . . . . . . . . .
+814
+Precision Steel Warehouse . . . . . . . . . . . . . . . . . .
+194
+Richline Group . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,337
+Rocky Mountain Power (2) . . . . . . . . . . . . . . . . . .
+2,180
+Russell Corporation (3) . . . . . . . . . . . . . . . . . . . . .
+4,239
+Other Scott Fetzer Companies (1) . . . . . . . . . . . .
+147
+See’s Candies . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,000
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . . . 28,974
+Stahl (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+167
+Star Furniture . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+710
+TTI, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,782
+United Consumer Finance Company (1) . . . . . . .
+202
+Vanity Fair Brands, Inc. (3) . . . . . . . . . . . . . . . . . .
+4,819
+Wayne Water Systems (1) . . . . . . . . . . . . . . . . . . .
+153
+Wesco Financial Corp. . . . . . . . . . . . . . . . . . . . . .
+13
+Western Enterprises (1) . . . . . . . . . . . . . . . . . . . . .
+360
+R. C. Willey Home Furnishings . . . . . . . . . . . . . .
+2,486
+World Book (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+190
+XTRA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+595
+Non-insurance total . . . . . . . . . . . . . . . . . . . . . . . . 217,876
+Corporate Office . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+246,083
+BERKSHIRE HATHAWAY INC.
+DIRECTORS
+OFFICERS
+WARREN E. BUFFETT,
+Chairman and CEO of Berkshire
+WARREN E. BUFFETT, Chairman and CEO
+CHARLES T. MUNGER,
+Vice Chairman of Berkshire
+MARC D. HAMBURG, Senior Vice President and CFO
+HOWARD G. BUFFETT,
+President of Buffett Farms
+DANIEL J. JAKSICH, Vice President, Controller
+SUSAN L. DECKER,
+President of Yahoo! Inc., a global Internet brand.
+FORREST N. KRUTTER, Secretary
+WILLIAM H. GATES III,
+Chairman of the Board of Directors of Microsoft Corp,
+a software company.
+CHARLES T. MUNGER, Vice Chairman
+SHARON L. HECK, Vice President
+MARK D. MILLARD, Vice President
+REBECCA K. AMICK, Director of Internal Auditing
+DAVID S. GOTTESMAN,
+Senior Managing Director of First Manhattan
+Company, an investment advisory firm.
+CHARLOTTE GUYMAN,
+Vice Chairman of the Board of Directors of
+UW Medicine, an academic medical center.
+DONALD R. KEOUGH,
+Chairman of Allen and Company Incorporated, an
+investment banking firm.
+THOMAS S. MURPHY,
+Former Chairman of the Board and CEO of Capital
+Cities/ABC
+RONALD L. OLSON,
+Partner of the law firm of Munger, Tolles & Olson LLP
+WALTER SCOTT, JR.,
+Chairman of Level 3 Communications, a successor to
+certain businesses of Peter Kiewit Sons’ Inc. which
+is engaged in telecommunications and computer
+outsourcing.
+Letters from Annual Reports (1977 through 2008), quarterly reports, press releases and other information about Berkshire may
+be obtained on the Internet at www.berkshirehathaway.com.
+BERKSHIRE HATHAWAY INC.
+Executive Offices — 3555 Farnam Street, Omaha, Nebraska 68131

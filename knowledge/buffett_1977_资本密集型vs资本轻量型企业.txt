@@ -1,0 +1,30 @@
+---
+topic: 资本密集型vs资本轻量型企业——通胀下的胜负手
+category: 投资原则
+source: 1977年Fortune文章"How Inflation Swindles the Equity Investor"
+related: 资本配置, 时间是好企业的朋友
+year: 1977
+---
+# 资本密集型vs资本轻量型企业——通胀下的胜负手
+
+## 摘要
+巴菲特指出通胀环境下两类企业的命运截然不同：经济差的企业需要大量资本维持竞争力，通胀让它们举步维艰；经济好的企业几乎不需要增量资本，通胀时反而表现出色。
+
+## 核心观点
+1. 经济糟糕的企业=不断吞噬资本：为了维持竞争力，需要大量再投资，投资者什么也得不到
+2. 经济优秀的公司=几乎不需要资本：利润可以自由分配给股东
+3. 通胀让资本密集型企业的再投资需求更大，恶性循环
+4. 资本轻量型企业（如品牌消费品）在通胀中具有天然优势
+5. 五种提高ROE的方法在通胀中全部受限：周转率、杠杆、税率、利润率都无法显著改善
+6. 企业估值 = 有形资产价值 + 商誉（经济商誉），后者不受通胀侵蚀
+7. 高通胀时期，拥有强大品牌的企业（如可口可乐）成为最优投资标的
+
+## 原文引用
+> "The net result: During inflation, good businesses are able to earn more on the assets they already have, while poor businesses must add more capital to earnings they're already earning—and usually find that this additional capital brings very little."
+
+## 来源
+Fortune, May 1977: "How Inflation Swindles the Equity Investor"
+
+## 相关主题
+- 时间是好企业的朋友
+- 经济商誉与会计商誉

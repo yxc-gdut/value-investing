@@ -1,0 +1,30 @@
+---
+topic: 提高ROE的五种方法——全部受限
+category: 财务分析
+source: 1977年Fortune文章《通胀如何欺骗股票投资者》
+related: 通胀与企业绦虫, 定价权
+year: 1977
+---
+# 提高ROE的五种方法——全部受限
+
+## 摘要
+巴菲特分析了企业提高ROE仅有的五种途径，结论是：通胀环境下每条路都走不通或改善有限。
+
+## 核心观点
+1. **提高周转率**：应收账款与销售同比例增长无改善；LIFO有轻微帮助；固定资产周转率暂时提升但会消失
+2. **更便宜的杠杆**：通胀使借款更贵，且现有低息债务到期后需高息替换
+3. **更多杠杆**：权益/总资产已从63%降至59%；低利润企业借不到钱；高债务导致信用评级下降
+4. **更低的税**：通胀可能使税收占企业收入比例上升（通胀期间收入被提前征税）
+5. **更宽的营业利润率**：取决于定价权，但通胀可能压缩利润率
+6. Fortune 500周转率在十年间仅从1.18升至1.29
+7. **结论**：这五种方法都无法显著提升通胀环境下的ROE
+
+## 原文引用
+> "To raise that return on equity, corporations would need at least one of the following: (1) increase in turnover (2) cheaper leverage (3) more leverage (4) lower income taxes (5) wider operating margins. And that's it. There simply are no other ways."
+
+## 来源
+Fortune Magazine, May 1977: "How Inflation Swindles the Equity Investor"
+
+## 相关主题
+- 通胀与企业绦虫
+- 定价权

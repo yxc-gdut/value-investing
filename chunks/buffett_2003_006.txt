@@ -1,0 +1,190 @@
+we show in the table that follows.
+Though far from foolproof, these transactions involve no credit risk and are conducted in
+exceptionally liquid securities. We therefore finance the positions almost entirely with
+borrowed money. As the assets are reduced, so also are the borrowings. The smaller
+portfolio we now have means that in the near future our earnings in this category will decline
+significantly. It was fun while it lasted, and at some point we’ll get another turn at bat.
+
+•
+
+A far less pleasant unwinding operation is taking place at Gen Re Securities, the trading and
+derivatives operation we inherited when we purchased General Reinsurance.
+When we began to liquidate Gen Re Securities in early 2002, it had 23,218 outstanding tickets
+with 884 counterparties (some having names I couldn’t pronounce, much less
+creditworthiness I could evaluate). Since then, the unit’s managers have been skillful and
+diligent in unwinding positions. Yet, at yearend – nearly two years later – we still had 7,580
+tickets outstanding with 453 counterparties. (As the country song laments, “How can I miss
+you if you won’t go away?”)
+The shrinking of this business has been costly. We’ve had pre-tax losses of $173 million in
+2002 and $99 million in 2003. These losses, it should be noted, came from a portfolio of
+contracts that – in full compliance with GAAP – had been regularly marked-to-market with
+standard allowances for future credit-loss and administrative costs. Moreover, our liquidation
+has taken place both in a benign market – we’ve had no credit losses of significance – and in
+an orderly manner. This is just the opposite of what might be expected if a financial crisis
+forced a number of derivatives dealers to cease operations simultaneously.
+If our derivatives experience – and the Freddie Mac shenanigans of mind-blowing size and
+audacity that were revealed last year – makes you suspicious of accounting in this arena,
+consider yourself wised up. No matter how financially sophisticated you are, you can’t
+possibly learn from reading the disclosure documents of a derivatives-intensive company
+what risks lurk in its positions. Indeed, the more you know about derivatives, the less you
+will feel you can learn from the disclosures normally proffered you. In Darwin’s words,
+“Ignorance more frequently begets confidence than does knowledge.”
+************
+And now it’s confession time: I’m sure I could have saved you $100 million or so, pre-tax, if I
+had acted more promptly to shut down Gen Re Securities. Both Charlie and I knew at the
+time of the General Reinsurance merger that its derivatives business was unattractive.
+Reported profits struck us as illusory, and we felt that the business carried sizable risks that
+could not effectively be measured or limited. Moreover, we knew that any major problems
+the operation might experience would likely correlate with troubles in the financial or
+insurance world that would affect Berkshire elsewhere. In other words, if the derivatives
+business were ever to need shoring up, it would commandeer the capital and credit of
+Berkshire at just the time we could otherwise deploy those resources to huge advantage. (A
+historical note: We had just such an experience in 1974 when we were the victim of a major
+insurance fraud. We could not determine for some time how much the fraud would ultimately
+cost us and therefore kept more funds in cash-equivalents than we normally would have.
+
+15
+
+Absent this precaution, we would have made larger purchases of stocks that were then
+extraordinarily cheap.)
+Charlie would have moved swiftly to close down Gen Re Securities – no question about that.
+I, however, dithered. As a consequence, our shareholders are paying a far higher price than
+was necessary to exit this business.
+•
+
+Though we include Gen Re’s sizable life and health reinsurance business in the “insurance”
+sector, we show the results for Ajit Jain’s life and annuity business in this section. That’s
+because this business, in large part, involves arbitraging money. Our annuities range from a
+retail product sold directly on the Internet to structured settlements that require us to make
+payments for 70 years or more to people severely injured in accidents.
+We’ve realized some extra income in this business because of accelerated principal payments
+we received from certain fixed-income securities we had purchased at discounts. This
+phenomenon has ended, and earnings are therefore likely to be lower in this segment during
+the next few years.
+
+•
+
+We have a $604 million investment in Value Capital, a partnership run by Mark Byrne, a
+member of a family that has helped Berkshire over the years in many ways. Berkshire is a
+limited partner in, and has no say in the management of, Mark’s enterprise, which specializes
+in highly-hedged fixed-income opportunities. Mark is smart and honest and, along with his
+family, has a significant investment in Value.
+Because of accounting abuses at Enron and elsewhere, rules will soon be instituted that are
+likely to require that Value’s assets and liabilities be consolidated on Berkshire’s balance
+sheet. We regard this requirement as inappropriate, given that Value’s liabilities – which
+usually are above $20 billion – are in no way ours. Over time, other investors will join us as
+partners in Value. When enough do, the need for us to consolidate Value will disappear.
+
+•
+
+We have told you in the past about Berkadia, the partnership we formed three years ago with
+Leucadia to finance and manage the wind-down of Finova, a bankrupt lending operation. The
+plan was that we would supply most of the capital and Leucadia would supply most of the
+brains. And that’s the way it has worked. Indeed, Joe Steinberg and Ian Cumming, who
+together run Leucadia, have done such a fine job in liquidating Finova’s portfolio that the $5.6
+billion guarantee we took on in connection with the transaction has been extinguished. The
+unfortunate byproduct of this fast payoff is that our future income will be much reduced.
+Overall, Berkadia has made excellent money for us, and Joe and Ian have been terrific
+partners.
+
+•
+
+Our leasing businesses are XTRA (transportation equipment) and CORT (office furniture).
+Both operations have had poor earnings during the past two years as the recession caused
+demand to drop considerably more than was anticipated. They remain leaders in their fields,
+and I expect at least a modest improvement in their earnings this year.
+
+•
+
+Through our Clayton purchase, we acquired a significant manufactured-housing finance
+operation. Clayton, like others in this business, had traditionally securitized the loans it
+originated. The practice relieved stress on Clayton’s balance sheet, but a by-product was the
+“front-ending” of income (a result dictated by GAAP).
+We are in no hurry to record income, have enormous balance-sheet strength, and believe that
+over the long-term the economics of holding our consumer paper are superior to what we can
+now realize through securitization. So Clayton has begun to retain its loans.
+We believe it’s appropriate to finance a soundly-selected book of interest-bearing receivables
+almost entirely with debt (just as a bank would). Therefore, Berkshire will borrow money to
+finance Clayton’s portfolio and re-lend these funds to Clayton at our cost plus one percentage
+16
+
+point. This markup fairly compensates Berkshire for putting its exceptional creditworthiness
+to work, but it still delivers money to Clayton at an attractive price.
+In 2003, Berkshire did $2 billion of such borrowing and re-lending, with Clayton using much
+of this money to fund several large purchases of portfolios from lenders exiting the business.
+A portion of our loans to Clayton also provided “catch-up” funding for paper it had generated
+earlier in the year from its own operation and had found difficult to securitize.
+You may wonder why we borrow money while sitting on a mountain of cash. It’s because of
+our “every tub on its own bottom” philosophy. We believe that any subsidiary lending money
+should pay an appropriate rate for the funds needed to carry its receivables and should not be
+subsidized by its parent. Otherwise, having a rich daddy can lead to sloppy decisions.
+Meanwhile, the cash we accumulate at Berkshire is destined for business acquisitions or for
+the purchase of securities that offer opportunities for significant profit. Clayton’s loan
+portfolio will likely grow to at least $5 billion in not too many years and, with sensible credit
+standards in place, should deliver significant earnings.
+For simplicity’s sake, we include all of Clayton’s earnings in this sector, though a sizable
+portion is derived from areas other than consumer finance.
+
+Trading – Ordinary Income ...........................
+Gen Re Securities ...........................................
+Life and annuity operation..............................
+Value Capital..................................................
+Berkadia .........................................................
+Leasing operations..........................................
+Manufactured housing finance (Clayton) .......
+Other...............................................................
+Income before capital gains............................
+Trading – Capital Gains..................................
+Total ...............................................................
+*
+**
+
+(in $ millions)
+Pre-Tax Earnings
+Interest-bearing Liabilities
+2003
+2002
+2003
+2002
+$ 379
+$ 553
+$7,826
+$13,762
+(99)
+(173)
+8,041*
+10,631*
+99
+83
+2,331
+1,568
+31
+61
+18,238*
+20,359*
+101
+115
+525
+2,175
+34
+34
+482
+503
+37**
+—
+2,032
+—
+84
+102
+618
+630
+666
+775
+1,215
+578
+N.A.
+N.A.
+$1,881
+$1,353
+
+Includes all liabilities

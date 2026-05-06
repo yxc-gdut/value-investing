@@ -1,0 +1,99 @@
+risks that far exceed the appetite of even our largest competitors. Over time, insuring these jumbo risks should be
+profitable, though periodically they will bring on a terrible year.
+The bottom-line today is that we will write some coverage for terrorist-related losses, including a few noncorrelated policies with very large limits. But we will not knowingly expose Berkshire to losses beyond what we
+can comfortably handle. We will control our total exposure, no matter what the competition does.
+Insurance Operations in 2001
+Over the years, our insurance business has provided ever-growing, low-cost funds that have fueled much
+of Berkshire’s growth. Charlie and I believe this will continue to be the case. But we stumbled in a big way in
+2001, largely because of underwriting losses at General Re.
+In the past I have assured you that General Re was underwriting with discipline – and I have been proven
+wrong. Though its managers’ intentions were good, the company broke each of the three underwriting rules I set
+forth in the last section and has paid a huge price for doing so. One obvious cause for its failure is that it did not
+reserve correctly – more about this in the next section – and therefore severely miscalculated the cost of the product
+it was selling. Not knowing your costs will cause problems in any business. In long-tail reinsurance, where years
+of unawareness will promote and prolong severe underpricing, ignorance of true costs is dynamite.
+Additionally, General Re was overly-competitive in going after, and retaining, business. While all
+concerned may intend to underwrite with care, it is nonetheless difficult for able, hard-driving professionals to curb
+their urge to prevail over competitors. If “winning,” however, is equated with market share rather than profits,
+trouble awaits. “No” must be an important part of any underwriter’s vocabulary.
+At the risk of sounding Pollyannaish, I now assure you that underwriting discipline is being restored at
+General Re (and its Cologne Re subsidiary) with appropriate urgency. Joe Brandon was appointed General Re’s
+CEO in September and, along with Tad Montross, its new president, is committed to producing underwriting
+profits. Last fall, Charlie and I read Jack Welch’s terrific book, Jack, Straight from the Gut (get a copy!). In
+discussing it, we agreed that Joe has many of Jack’s characteristics: He is smart, energetic, hands-on, and expects
+much of both himself and his organization.
+When it was an independent company, General Re often shone, and now it also has the considerable
+strengths Berkshire brings to the table. With that added advantage and with underwriting discipline restored,
+General Re should be a huge asset for Berkshire. I predict that Joe and Tad will make it so.
+************
+At the National Indemnity reinsurance operation, Ajit Jain continues to add enormous value to Berkshire.
+Working with only 18 associates, Ajit manages one of the world’s largest reinsurance operations measured by
+assets, and the largest, based upon the size of individual risks assumed.
+I have known the details of almost every policy that Ajit has written since he came with us in 1986, and
+never on even a single occasion have I seen him break any of our three underwriting rules. His extraordinary
+discipline, of course, does not eliminate losses; it does, however, prevent foolish losses. And that’s the key: Just as
+is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather
+than by making brilliant ones.
+
+9
+
+Since September 11th, Ajit has been particularly busy. Among the policies we have written and retained
+entirely for our own account are (1) $578 million of property coverage for a South American refinery once a loss
+there exceeds $1 billion; (2) $1 billion of non-cancelable third-party liability coverage for losses arising from acts of
+terrorism at several large international airlines; (3) £500 million of property coverage on a large North Sea oil
+platform, covering losses from terrorism and sabotage, above £600 million that the insured retained or reinsured
+elsewhere; and (4) significant coverage on the Sears Tower, including losses caused by terrorism, above a $500
+million threshold. We have written many other jumbo risks as well, such as protection for the World Cup Soccer
+Tournament and the 2002 Winter Olympics. In all cases, however, we have attempted to avoid writing groups of
+policies from which losses might seriously aggregate. We will not, for example, write coverages on a large number
+of office and apartment towers in a single metropolis without excluding losses from both a nuclear explosion and
+the fires that would follow it.
+No one can match the speed with which Ajit can offer huge policies. After September 11th, his quickness
+to respond, always important, has become a major competitive advantage. So, too, has our unsurpassed financial
+strength. Some reinsurers – particularly those who, in turn, are accustomed to laying off much of their business on a
+second layer of reinsurers known as retrocessionaires – are in a weakened condition and would have difficulty
+surviving a second mega-cat. When a daisy chain of retrocessionaires exists, a single weak link can pose trouble for
+all. In assessing the soundness of their reinsurance protection, insurers must therefore apply a stress test to all
+participants in the chain, and must contemplate a catastrophe loss occurring during a very unfavorable economic
+environment. After all, you only find out who is swimming naked when the tide goes out. At Berkshire, we retain
+our risks and depend on no one. And whatever the world’s problems, our checks will clear.
+Ajit’s business will ebb and flow – but his underwriting principles won’t waver. It’s impossible to
+overstate his value to Berkshire.
+************
+GEICO, by far our largest primary insurer, made major progress in 2001, thanks to Tony Nicely, its CEO,
+and his associates. Quite simply, Tony is an owner’s dream.
+GEICO’s premium volume grew 6.6% last year, its float grew $308 million, and it achieved an
+underwriting profit of $221 million. This means we were actually paid that amount last year to hold the $4.25
+billion in float, which of course doesn’t belong to Berkshire but can be used by us for investment.
+The only disappointment at GEICO in 2001 – and it’s an important one – was our inability to add
+policyholders. Our preferred customers (81% of our total) grew by 1.6% but our standard and non-standard policies
+fell by 10.1%. Overall, policies in force fell .8%.
+New business has improved in recent months. Our closure rate from telephone inquiries has climbed, and
+our Internet business continues its steady growth. We, therefore, expect at least a modest gain in policy count
+during 2002. Tony and I are eager to commit much more to marketing than the $219 million we spent last year, but
+at the moment we cannot see how to do so effectively. In the meantime, our operating costs are low and far below
+those of our major competitors; our prices are attractive; and our float is cost-free and growing.
+************
+Our other primary insurers delivered their usual fine results last year. These operations, run by Rod
+Eldred, John Kizer, Tom Nerney, Michael Stearns, Don Towle and Don Wurster had combined premium volume of
+$579 million, up 40% over 2000. Their float increased 14.5% to $685 million, and they recorded an underwriting
+profit of $30 million. In aggregate, these companies are one of the finest insurance operations in the country, and
+their 2002 prospects look excellent.
+“Loss Development” and Insurance Accounting
+Bad terminology is the enemy of good thinking. When companies or investment professionals use terms
+such as “EBITDA” and “pro forma,” they want you to unthinkingly accept concepts that are dangerously flawed.
+(In golf, my score is frequently below par on a pro forma basis: I have firm plans to “restructure” my putting stroke
+and therefore only count the swings I take before reaching the green.)
+
+10
+
+In insurance reporting, “loss development” is a widely used term – and one that is seriously misleading.
+First, a definition: Loss reserves at an insurer are not funds tucked away for a rainy day, but rather a liability
+account. If properly calculated, the liability states the amount that an insurer will have to pay for all losses
+(including associated costs) that have occurred prior to the reporting date but have not yet been paid. When
+calculating the reserve, the insurer will have been notified of many of the losses it is destined to pay, but others will
+not yet have been reported to it. These losses are called IBNR, for incurred but not reported. Indeed, in some cases
+(involving, say, product liability or embezzlement) the insured itself will not yet be aware that a loss has occurred.
+It’s clearly difficult for an insurer to put a figure on the ultimate cost of all such reported and unreported
+events. But the ability to do so with reasonable accuracy is vital. Otherwise the insurer’s managers won’t know
+what its actual loss costs are and how these compare to the premiums being charged. GEICO got into huge trouble

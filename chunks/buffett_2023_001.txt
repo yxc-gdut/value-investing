@@ -1,0 +1,127 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2023
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2023ar/2023ar.pdf
+extracted_from: line 126 - 649
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire has more than three million shareholder accounts. I am charged with writing a
+letter every year that will be useful to this diverse and ever-changing group of owners, many of
+whom wish to learn more about their investment.
+Charlie Munger, for decades my partner in managing Berkshire, viewed this obligation
+identically and would expect me to communicate with you this year in the regular manner. He and
+I were of one mind regarding our responsibilities to Berkshire shareholders.
+************
+Writers find it useful to picture the reader they seek, and often they are hoping to attract a
+mass audience. At Berkshire, we have a more limited target: investors who trust Berkshire with
+their savings without any expectation of resale (resembling in attitude people who save in order to
+buy a farm or rental property rather than people who prefer using their excess funds to purchase
+lottery tickets or “hot” stocks).
+Over the years, Berkshire has attracted an unusual number of such “lifetime” shareholders
+and their heirs. We cherish their presence and believe they are entitled to hear every year both the
+good and bad news, delivered directly from their CEO and not from an investor-relations officer
+or communications consultant forever serving up optimism and syrupy mush.
+In visualizing the owners that Berkshire seeks, I am lucky to have the perfect mental model,
+my sister, Bertie. Let me introduce her.
+For openers, Bertie is smart, wise and likes to challenge my thinking. We have never,
+however, had a shouting match or anything close to a ruptured relationship. We never will.
+Furthermore, Bertie, and her three daughters as well, have a large portion of their savings
+in Berkshire shares. Their ownership spans decades, and every year Bertie will read what I have
+to say. My job is to anticipate her questions and give her honest answers.
+
+3
+
+Bertie, like most of you, understands many accounting terms, but she is not ready for a
+CPA exam. She follows business news – reading four newspapers daily – but doesn’t consider
+herself an economic expert. She is sensible – very sensible – instinctively knowing that pundits
+should always be ignored. After all, if she could reliably predict tomorrow’s winners, would she
+freely share her valuable insights and thereby increase competitive buying? That would be like
+finding gold and then handing a map to the neighbors showing its location.
+Bertie understands the power – for good or bad – of incentives, the weaknesses of humans,
+the “tells” that can be recognized when observing human behavior. She knows who is “selling”
+and who can be trusted. In short, she is nobody’s fool.
+So, what would interest Bertie this year?
+Operating Results, Fact and Fiction
+Let’s begin with the numbers. The official annual report begins on K-1 and extends for 124
+pages. It is filled with a vast amount of information – some important, some trivial.
+Among its disclosures many owners, along with financial reporters, will focus on page
+K-72. There, they will find the proverbial “bottom line” labeled “Net earnings (loss).” The
+numbers read $90 billion for 2021, ($23 billion) for 2022 and $96 billion for 2023.
+What in the world is going on?
+You seek guidance and are told that the procedures for calculating these “earnings” are
+promulgated by a sober and credentialed Financial Accounting Standards Board (“FASB”),
+mandated by a dedicated and hard-working Securities and Exchange Commission (“SEC”) and
+audited by the world-class professionals at Deloitte & Touche (“D&T”). On page K-67, D&T pulls
+no punches: “In our opinion, the financial statements . . . . . present fairly, in all material respects
+(italics mine), the financial position of the Company . . . . . and the results of its operations . . . . .
+for each of the three years in the period ended December 31, 2023 . . . . .”
+So sanctified, this worse-than-useless “net income” figure quickly gets transmitted
+throughout the world via the internet and media. All parties believe they have done their job – and,
+legally, they have.
+We, however, are left uncomfortable. At Berkshire, our view is that “earnings” should be a
+sensible concept that Bertie will find somewhat useful – but only as a starting point – in
+evaluating a business. Accordingly, Berkshire also reports to Bertie and you what we call
+“operating earnings.” Here is the story they tell: $27.6 billion for 2021; $30.9 billion for 2022 and
+$37.4 billion for 2023.
+
+4
+
+The primary difference between the mandated figures and the ones Berkshire prefers is that
+we exclude unrealized capital gains or losses that at times can exceed $5 billion a day. Ironically,
+our preference was pretty much the rule until 2018, when the “improvement” was mandated.
+Galileo’s experience, several centuries ago, should have taught us not to mess with mandates from
+on high. But, at Berkshire, we can be stubborn.
+************
+Make no mistake about the significance of capital gains: I expect them to be a very
+important component of Berkshire’s value accretion during the decades ahead. Why else would
+we commit huge dollar amounts of your money (and Bertie’s) to marketable equities just as I have
+been doing with my own funds throughout my investing lifetime?
+I can’t remember a period since March 11, 1942 – the date of my first stock purchase – that
+I have not had a majority of my net worth in equities, U.S.-based equities. And so far, so good.
+The Dow Jones Industrial Average fell below 100 on that fateful day in 1942 when I “pulled the
+trigger.” I was down about $5 by the time school was out. Soon, things turned around and now that
+index hovers around 38,000. America has been a terrific country for investors. All they have
+needed to do is sit quietly, listening to no one.
+It is more than silly, however, to make judgments about Berkshire’s investment value based
+on “earnings” that incorporate the capricious day-by-day and, yes, even year-by-year movements
+of the stock market. As Ben Graham taught me, “In the short run the market acts as a voting
+machine; in the long run it becomes a weighing machine.”
+What We Do
+Our goal at Berkshire is simple: We want to own either all or a portion of businesses that
+enjoy good economics that are fundamental and enduring. Within capitalism, some businesses will
+flourish for a very long time while others will prove to be sinkholes. It’s harder than you would
+think to predict which will be the winners and losers. And those who tell you they know the answer
+are usually either self-delusional or snake-oil salesmen.
+At Berkshire, we particularly favor the rare enterprise that can deploy additional capital at
+high returns in the future. Owning only one of these companies – and simply sitting tight – can
+deliver wealth almost beyond measure. Even heirs to such a holding can – ugh! – sometimes live
+a lifetime of leisure.
+We also hope these favored businesses are run by able and trustworthy managers, though
+that is a more difficult judgment to make, however, and Berkshire has had its share
+of disappointments.
+
+5
+
+In 1863, Hugh McCulloch, the first Comptroller of the United States, sent a letter to all
+national banks. His instructions included this warning: “Never deal with a rascal under the
+expectation that you can prevent him from cheating you.” Many bankers who thought they could
+“manage” the rascal problem have learned the wisdom of Mr. McCulloch’s advice – and I have as
+well. People are not that easy to read. Sincerity and empathy can easily be faked. That is as true
+now as it was in 1863.
+This combination of the two necessities I’ve described for acquiring businesses has for
+long been our goal in purchases and, for a while, we had an abundance of candidates to evaluate.
+If I missed one – and I missed plenty – another always came along.
+Those days are long behind us; size did us in, though increased competition for purchases
+was also a factor.
+Berkshire now has – by far – the largest GAAP net worth recorded by any American
+business. Record operating income and a strong stock market led to a yearend figure of $561
+billion. The total GAAP net worth for the other 499 S&P companies – a who’s who of American
+business – was $8.9 trillion in 2022. (The 2023 number for the S&P has not yet been tallied but is
+unlikely to materially exceed $9.5 trillion.)
+By this measure, Berkshire now occupies nearly 6% of the universe in which it operates.
+Doubling our huge base is simply not possible within, say, a five-year period, particularly because
+we are highly averse to issuing shares (an act that immediately juices net worth).
+There remain only a handful of companies in this country capable of truly moving the
+needle at Berkshire, and they have been endlessly picked over by us and by others. Some we can

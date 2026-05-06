@@ -1,0 +1,117 @@
+Let’s do the math. If IBM’s stock price averages, say, $200 during the period, the company will acquire
+250 million shares for its $50 billion. There would consequently be 910 million shares outstanding, and we
+would own about 7% of the company. If the stock conversely sells for an average of $300 during the five-year
+period, IBM will acquire only 167 million shares. That would leave about 990 million shares outstanding after
+five years, of which we would own 6.5%.
+If IBM were to earn, say, $20 billion in the fifth year, our share of those earnings would be a full $100
+million greater under the “disappointing” scenario of a lower stock price than they would have been at the higher
+price. At some later point our shares would be worth perhaps $1 1⁄ 2 billion more than if the “high-price”
+repurchase scenario had taken place.
+The logic is simple: If you are going to be a net buyer of stocks in the future, either directly with your own
+money or indirectly (through your ownership of a company that is repurchasing shares), you are hurt when stocks
+rise. You benefit when stocks swoon. Emotions, however, too often complicate the matter: Most people, including
+those who will be net buyers in the future, take comfort in seeing stock prices advance. These shareholders resemble
+a commuter who rejoices after the price of gas increases, simply because his tank contains a day’s supply.
+Charlie and I don’t expect to win many of you over to our way of thinking – we’ve observed enough
+human behavior to know the futility of that – but we do want you to be aware of our personal calculus. And here
+a confession is in order: In my early days I, too, rejoiced when the market rose. Then I read Chapter Eight of Ben
+Graham’s The Intelligent Investor, the chapter dealing with how investors should view fluctuations in stock
+prices. Immediately the scales fell from my eyes, and low prices became my friend. Picking up that book was one
+of the luckiest moments in my life.
+In the end, the success of our IBM investment will be determined primarily by its future earnings. But
+an important secondary factor will be how many shares the company purchases with the substantial sums it is
+likely to devote to this activity. And if repurchases ever reduce the IBM shares outstanding to 63.9 million, I will
+abandon my famed frugality and give Berkshire employees a paid holiday.
+************
+Now, let’s examine the four major sectors of our operations. Each has vastly different balance sheet
+and income characteristics from the others. Lumping them together therefore impedes analysis. So we’ll present
+them as four separate businesses, which is how Charlie and I view them. Because we may be repurchasing
+Berkshire shares from some of you, we will offer our thoughts in each section as to how intrinsic value compares
+to carrying value.
+
+7
+
+Insurance
+Let’s look first at insurance, Berkshire’s core operation and the engine that has propelled our expansion
+over the years.
+Property-casualty (“P/C”) insurers receive premiums upfront and pay claims later. In extreme cases,
+such as those arising from certain workers’ compensation accidents, payments can stretch over decades. This
+collect-now, pay-later model leaves us holding large sums – money we call “float” – that will eventually go to
+others. Meanwhile, we get to invest this float for Berkshire’s benefit. Though individual policies and claims
+come and go, the amount of float we hold remains remarkably stable in relation to premium volume.
+Consequently, as our business grows, so does our float. And how we have grown, as the following table shows:
+Year
+
+Float (in $ millions)
+
+1970
+1980
+1990
+2000
+2010
+2011
+
+$
+
+39
+237
+1,632
+27,871
+65,832
+70,571
+
+It’s unlikely that our float will grow much – if at all – from its current level. That’s mainly because we
+already have an outsized amount relative to our premium volume. Were there to be a decline in float, I will add,
+it would almost certainly be very gradual and therefore impose no unusual demand for funds on us.
+If our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit
+that adds to the investment income our float produces. When such a profit occurs, we enjoy the use of free
+money – and, better yet, get paid for holding it. Unfortunately, the wish of all insurers to achieve this happy
+result creates intense competition, so vigorous in most years that it causes the P/C industry as a whole to
+operate at a significant underwriting loss. For example, State Farm, by far the country’s largest insurer and a well-managed
+company besides, has incurred an underwriting loss in eight of the last eleven years. There are
+a lot of ways to lose money in insurance, and the industry is resourceful in creating new ones.
+As noted in the first section of this report, we have now operated at an underwriting profit for nine
+consecutive years, our gain for the period having totaled $17 billion. I believe it likely that we will continue to
+underwrite profitably in most – though certainly not all – future years. If we accomplish that, our float will be
+better than cost-free. We will profit just as we would if some party deposited $70.6 billion with us, paid us a fee
+for holding its money and then let us invest its funds for our own benefit.
+So how does this attractive float affect intrinsic value calculations? Our float is deducted in full as a
+liability in calculating Berkshire’s book value, just as if we had to pay it out tomorrow and were unable to
+replenish it. But that’s an incorrect way to view float, which should instead be viewed as a revolving fund. If
+float is both costless and long-enduring, the true value of this liability is far lower than the accounting liability.
+Partially offsetting this overstated liability is $15.5 billion of “goodwill” attributable to our insurance
+companies that is included in book value as an asset. In effect, this goodwill represents the price we paid for the
+float-generating capabilities of our insurance operations. The cost of the goodwill, however, has no bearing on its
+true value. If an insurance business produces large and sustained underwriting losses, any goodwill asset
+attributable to it should be deemed valueless, whatever its original cost.
+Fortunately, that’s not the case at Berkshire. Charlie and I believe the true economic value of our
+insurance goodwill – what we would pay to purchase float of similar quality – to be far in excess of its historic
+carrying value. The value of our float is one reason – a huge reason – why we believe Berkshire’s intrinsic
+business value substantially exceeds book value.
+Let me emphasize once again that cost-free float is not an outcome to be expected for the P/C industry
+as a whole: We don’t think there is much “Berkshire-quality” float existing in the insurance world. In most years,
+including 2011, the industry’s premiums have been inadequate to cover claims plus expenses. Consequently, the
+8
+
+industry’s overall return on tangible equity has for many decades fallen far short of the average return realized by
+American industry, a sorry performance almost certain to continue. Berkshire’s outstanding economics exist only
+because we have some terrific managers running some extraordinary insurance operations. Let me tell you about
+the major units.
+************
+First by float size is the Berkshire Hathaway Reinsurance Group, run by Ajit Jain. Ajit insures risks
+that no one else has the desire or the capital to take on. His operation combines capacity, speed, decisiveness and,
+most importantly, brains in a manner that is unique in the insurance business. Yet he never exposes Berkshire to
+risks that are inappropriate in relation to our resources. Indeed, we are far more conservative in that respect than
+most large insurers. For example, if the insurance industry should experience a $250 billion loss from some
+mega-catastrophe – a loss about triple anything it has ever faced – Berkshire as a whole would likely record a
+moderate profit for the year because of its many streams of earnings. Concurrently, all other major insurers and
+reinsurers would be far in the red, and some would face insolvency.
+From a standing start in 1985, Ajit has created an insurance business with float of $34 billion and
+significant underwriting profits, a feat that no CEO of any other insurer has come close to matching. By these
+accomplishments, he has added a great many billions of dollars to the value of Berkshire. Charlie would gladly
+trade me for a second Ajit. Alas, there is none.
+************
+We have another insurance powerhouse in General Re, managed by Tad Montross.
+At bottom, a sound insurance operation needs to adhere to four disciplines. It must (1) understand all
+exposures that might cause a policy to incur losses; (2) conservatively evaluate the likelihood of any exposure
+actually causing a loss and the probable cost if it does; (3) set a premium that will deliver a profit, on average,

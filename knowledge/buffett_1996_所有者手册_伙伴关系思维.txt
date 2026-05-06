@@ -1,0 +1,43 @@
+---
+topic: 所有者手册——伙伴关系思维
+category: 投资哲学
+source: 1996年伯克希尔所有者手册(Owner's Manual)
+related: 买股票就是买企业, 长期持有
+year: 1996
+---
+# 所有者手册——伙伴关系思维
+
+## 摘要
+伯克希尔所有者手册13+2条原则的核心：股东是合伙人，管理层是管家。不追求股价高，追求内在价值与股价1:1。不卖好生意，不讨论具体持股。
+
+## 核心观点
+1. "虽然形式是公司，态度是合伙"——股东是owner-partners，管理层是managing partners
+2. 不要把股票看成价格波动的纸片，要看成和你家人合伙拥有的农场或公寓
+3. 98%身家在伯克希尔（巴菲特），多数身家在伯克希尔（芒格）——"我们吃自己做的饭"
+4. 目标：每股内在价值年均增长率最大化，而非公司规模
+5. 股市大跌是好消息——"就像食品降价对常规购买者是好消息一样"
+6. 会计数字几乎不重要，关注每个业务的实际表现和look-through earnings
+7. 罕见使用债务——"从不为了多几个百分点的回报牺牲一夜好眠"
+8. 免费杠杆：递延税+保险浮存金，无到期日无约束条件
+9. 只在获得至少同等商业价值时才发行股票
+10. 不会以任何价格出售好生意，也不轻易出售差生意
+11. 坦诚报告：告诉股东"如果位置互换我们想知道的事实"
+12. 不讨论具体持股——好的投资想法稀少且有价值，不希望被竞争对手利用
+13. 更希望股价合理而非高估——"高估和低估一样糟糕"
+
+## 原文引用
+> "We eat our own cooking."
+>
+> "Berkshire and its long-term shareholders benefit from a sinking stock market much as a regular purchaser of food benefits from declining food prices."
+>
+> "I've never believed in risking what my family and friends have and need in order to pursue what they don't have and don't need."
+>
+> "When the numbers are a very rough 'guesstimate'... we will try to be both consistent and conservative. We will always tell you how many strokes we have taken on each hole and never play around with the scorecard."
+
+## 来源
+Berkshire Hathaway Owner's Manual, 1996 (Updated)
+
+## 相关主题
+- 买股票就是买企业
+- 长期持有
+- 保险浮存金

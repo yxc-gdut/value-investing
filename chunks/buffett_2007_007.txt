@@ -1,0 +1,99 @@
+rule, there remained earnings consequences if options were issued with a strike price below market value.
+No problem. To avoid that bothersome rule, a number of companies surreptitiously backdated options to
+falsely indicate that they were granted at current market prices, when in fact they were dished out at prices
+well below market.
+Decades of option-accounting nonsense have now been put to rest, but other accounting choices
+remain – important among these the investment-return assumption a company uses in calculating pension
+expense. It will come as no surprise that many companies continue to choose an assumption that allows
+them to report less-than-solid “earnings.” For the 363 companies in the S&P that have pension plans, this
+assumption in 2006 averaged 8%. Let’s look at the chances of that being achieved.
+
+18
+
+The average holdings of bonds and cash for all pension funds is about 28%, and on these assets
+returns can be expected to be no more than 5%. Higher yields, of course, are obtainable but they carry with
+them a risk of commensurate (or greater) loss.
+This means that the remaining 72% of assets – which are mostly in equities, either held directly or
+through vehicles such as hedge funds or private-equity investments – must earn 9.2% in order for the fund
+overall to achieve the postulated 8%. And that return must be delivered after all fees, which are now far
+higher than they have ever been.
+How realistic is this expectation? Let’s revisit some data I mentioned two years ago: During the
+20th Century, the Dow advanced from 66 to 11,497. This gain, though it appears huge, shrinks to 5.3%
+when compounded annually. An investor who owned the Dow throughout the century would also have
+received generous dividends for much of the period, but only about 2% or so in the final years. It was a
+wonderful century.
+Think now about this century. For investors to merely match that 5.3% market-value gain, the
+Dow – recently below 13,000 – would need to close at about 2,000,000 on December 31, 2099. We are
+now eight years into this century, and we have racked up less than 2,000 of the 1,988,000 Dow points the
+market needed to travel in this hundred years to equal the 5.3% of the last.
+It’s amusing that commentators regularly hyperventilate at the prospect of the Dow crossing an
+even number of thousands, such as 14,000 or 15,000. If they keep reacting that way, a 5.3% annual gain
+for the century will mean they experience at least 1,986 seizures during the next 92 years. While anything
+is possible, does anyone really believe this is the most likely outcome?
+Dividends continue to run about 2%. Even if stocks were to average the 5.3% annual appreciation
+of the 1900s, the equity portion of plan assets – allowing for expenses of .5% – would produce no more
+than 7% or so. And .5% may well understate costs, given the presence of layers of consultants and highpriced managers (“helpers”).
+Naturally, everyone expects to be above average. And those helpers – bless their hearts – will
+certainly encourage their clients in this belief. But, as a class, the helper-aided group must be below
+average. The reason is simple: 1) Investors, overall, will necessarily earn an average return, minus costs
+they incur; 2) Passive and index investors, through their very inactivity, will earn that average minus costs
+that are very low; 3) With that group earning average returns, so must the remaining group – the active
+investors. But this group will incur high transaction, management, and advisory costs. Therefore, the
+active investors will have their returns diminished by a far greater percentage than will their inactive
+brethren. That means that the passive group – the “know-nothings” – must win.
+I should mention that people who expect to earn 10% annually from equities during this century –
+envisioning that 2% of that will come from dividends and 8% from price appreciation – are implicitly
+forecasting a level of about 24,000,000 on the Dow by 2100. If your adviser talks to you about doubledigit returns from equities, explain this math to him – not that it will faze him. Many helpers are apparently
+direct descendants of the queen in Alice in Wonderland, who said: “Why, sometimes I’ve believed as many
+as six impossible things before breakfast.” Beware the glib helper who fills your head with fantasies while
+he fills his pockets with fees.
+Some companies have pension plans in Europe as well as in the U.S. and, in their accounting,
+almost all assume that the U.S. plans will earn more than the non-U.S. plans. This discrepancy is puzzling:
+Why should these companies not put their U.S. managers in charge of the non-U.S. pension assets and let
+them work their magic on these assets as well? I’ve never seen this puzzle explained. But the auditors and
+actuaries who are charged with vetting the return assumptions seem to have no problem with it.
+
+19
+
+What is no puzzle, however, is why CEOs opt for a high investment assumption: It lets them
+report higher earnings. And if they are wrong, as I believe they are, the chickens won’t come home to roost
+until long after they retire.
+After decades of pushing the envelope – or worse – in its attempt to report the highest number
+possible for current earnings, Corporate America should ease up. It should listen to my partner, Charlie: “If
+you’ve hit three balls out of bounds to the left, aim a little to the right on the next swing.”
+************
+Whatever pension-cost surprises are in store for shareholders down the road, these jolts will be
+surpassed many times over by those experienced by taxpayers. Public pension promises are huge and, in
+many cases, funding is woefully inadequate. Because the fuse on this time bomb is long, politicians flinch
+from inflicting tax pain, given that problems will only become apparent long after these officials have
+departed. Promises involving very early retirement – sometimes to those in their low 40s – and generous
+cost-of-living adjustments are easy for these officials to make. In a world where people are living longer
+and inflation is certain, those promises will be anything but easy to keep.
+************
+Having laid out the failures of an “honor system” in American accounting, I need to point out that
+this is exactly the system existing at Berkshire for a truly huge balance-sheet item. In every report we
+make to you, we must guesstimate the loss reserves for our insurance units. If our estimate is wrong, it
+means that both our balance sheet and our earnings statement will be wrong. So naturally we do our best to
+make these guesses accurate. Nevertheless, in every report our estimate is sure to be wrong.
+At yearend 2007, we show an insurance liability of $56 billion that represents our guess as to what
+we will eventually pay for all loss events that occurred before yearend (except for about $3 billion of the
+reserve that has been discounted to present value). We know of many thousands of events and have put a
+dollar value on each that reflects what we believe we will pay, including the associated costs (such as
+attorney’s fees) that we will incur in the payment process. In some cases, among them claims for certain
+serious injuries covered by worker’s compensation, payments will be made for 50 years or more.
+We also include a large reserve for losses that occurred before yearend but that we have yet to hear
+about. Sometimes, the insured itself does not know that a loss has occurred. (Think of an embezzlement
+that remains undiscovered for years.) We sometimes hear about losses from policies that covered our
+insured many decades ago.
+A story I told you some years back illustrates our problem in accurately estimating our loss
+liability: A fellow was on an important business trip in Europe when his sister called to tell him that their
+dad had died. Her brother explained that he couldn’t get back but said to spare nothing on the funeral,
+whose cost he would cover. When he returned, his sister told him that the service had been beautiful and
+presented him with bills totaling $8,000. He paid up but a month later received a bill from the mortuary for
+$10. He paid that, too – and still another $10 charge he received a month later. When a third $10 invoice
+was sent to him the following month, the perplexed man called his sister to ask what was going on. “Oh,”
+she replied, “I forgot to tell you. We buried Dad in a rented suit.”
+At our insurance companies we have an unknown, but most certainly large, number of “rented
+suits” buried around the world. We try to estimate the bill for them accurately. In ten or twenty years, we
+will even be able to make a good guess as to how inaccurate our present guess is. But even that guess will
+be subject to surprises. I personally believe our stated reserves are adequate, but I’ve been wrong several

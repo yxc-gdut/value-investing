@@ -1,0 +1,202 @@
+five hedge funds – wildly-popular and high-fee investing vehicles – that would over an extended period match
+the performance of an unmanaged S&P-500 index fund charging only token fees. I suggested a ten-year bet and
+named a low-cost Vanguard S&P fund as my contender. I then sat back and waited expectantly for a parade of
+fund managers – who could include their own fund as one of the five – to come forth and defend their
+occupation. After all, these managers urged others to bet billions on their abilities. Why should they fear putting
+a little of their own money on the line?
+What followed was the sound of silence. Though there are thousands of professional investment managers
+who have amassed staggering fortunes by touting their stock-selecting prowess, only one man – Ted Seides –
+stepped up to my challenge. Ted was a co-manager of Protégé Partners, an asset manager that had raised money
+from limited partners to form a fund-of-funds – in other words, a fund that invests in multiple hedge funds.
+I hadn’t known Ted before our wager, but I like him and admire his willingness to put his money where
+his mouth was. He has been both straight-forward with me and meticulous in supplying all the data that both he
+and I have needed to monitor the bet.
+For Protégé Partners’ side of our ten-year bet, Ted picked five funds-of-funds whose results were to be
+averaged and compared against my Vanguard S&P index fund. The five he selected had invested their money in
+more than 100 hedge funds, which meant that the overall performance of the funds-of-funds would not be
+distorted by the good or poor results of a single manager.
+Each fund-of-funds, of course, operated with a layer of fees that sat above the fees charged by the hedge
+funds in which it had invested. In this doubling-up arrangement, the larger fees were levied by the underlying
+hedge funds; each of the fund-of-funds imposed an additional fee for its presumed skills in selecting hedge-fund
+managers.
+Here are the results for the first nine years of the bet – figures leaving no doubt that Girls Inc. of Omaha,
+the charitable beneficiary I designated to get any bet winnings I earned, will be the organization eagerly opening
+the mail next January.
+
+Year
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Gain to
+Date
+
+Fund of
+Funds A
+
+Fund of
+Funds B
+
+Fund of
+Funds C
+
+Fund of
+Funds D
+
+Fund of
+Funds E
+
+S&P
+Index Fund
+
+-16.5%
+11.3%
+5.9%
+-6.3%
+3.4%
+10.5%
+4.7%
+1.6%
+-2.9%
+
+-22.3%
+14.5%
+6.8%
+-1.3%
+9.6%
+15.2%
+4.0%
+2.5%
+1.7%
+
+-21.3%
+21.4%
+13.3%
+5.9%
+5.7%
+8.8%
+18.9%
+5.4%
+-1.4%
+
+-29.3%
+16.5%
+4.9%
+-6.3%
+6.2%
+14.2%
+0.7%
+1.4%
+2.5%
+
+-30.1%
+16.8%
+11.9%
+-2.8%
+9.1%
+14.4%
+-2.1%
+-5.0%
+4.4%
+
+-37.0%
+26.6%
+15.1%
+2.1%
+16.0%
+32.3%
+13.6%
+1.4%
+11.9%
+
+8.7%
+
+28.3%
+
+62.8%
+
+2.9%
+
+7.5%
+
+85.4%
+
+Footnote: Under my agreement with Protégé Partners, the names of these funds-of-funds have never
+been publicly disclosed. I, however, see their annual audits.
+The compounded annual increase to date for the index fund is 7.1%, which is a return that could easily
+prove typical for the stock market over time. That’s an important fact: A particularly weak nine years for the
+market over the lifetime of this bet would have probably helped the relative performance of the hedge funds,
+because many hold large “short” positions. Conversely, nine years of exceptionally high returns from stocks
+would have provided a tailwind for index funds.
+Instead we operated in what I would call a “neutral” environment. In it, the five funds-of-funds
+delivered, through 2016, an average of only 2.2%, compounded annually. That means $1 million invested in
+those funds would have gained $220,000. The index fund would meanwhile have gained $854,000.
+22
+
+Bear in mind that every one of the 100-plus managers of the underlying hedge funds had a huge
+financial incentive to do his or her best. Moreover, the five funds-of-funds managers that Ted selected were
+similarly incentivized to select the best hedge-fund managers possible because the five were entitled to
+performance fees based on the results of the underlying funds.
+I’m certain that in almost all cases the managers at both levels were honest and intelligent people. But
+the results for their investors were dismal – really dismal. And, alas, the huge fixed fees charged by all of the
+funds and funds-of-funds involved – fees that were totally unwarranted by performance – were such that their
+managers were showered with compensation over the nine years that have passed. As Gordon Gekko might have
+put it: “Fees never sleep.”
+The underlying hedge-fund managers in our bet received payments from their limited partners that
+likely averaged a bit under the prevailing hedge-fund standard of “2 and 20,” meaning a 2% annual fixed fee,
+payable even when losses are huge, and 20% of profits with no clawback (if good years were followed by bad
+ones). Under this lopsided arrangement, a hedge fund operator’s ability to simply pile up assets under
+management has made many of these managers extraordinarily rich, even as their investments have performed
+poorly.
+Still, we’re not through with fees. Remember, there were the fund-of-funds managers to be fed as well.
+These managers received an additional fixed amount that was usually set at 1% of assets. Then, despite the
+terrible overall record of the five funds-of-funds, some experienced a few good years and collected
+“performance” fees. Consequently, I estimate that over the nine-year period roughly 60% – gulp! – of all gains
+achieved by the five funds-of-funds were diverted to the two levels of managers. That was their misbegotten
+reward for accomplishing something far short of what their many hundreds of limited partners could have
+effortlessly – and with virtually no cost – achieved on their own.
+In my opinion, the disappointing results for hedge-fund investors that this bet exposed are almost certain
+to recur in the future. I laid out my reasons for that belief in a statement that was posted on the Long Bets website
+when the bet commenced (and that is still posted there). Here is what I asserted:
+Over a ten-year period commencing on January 1, 2008, and ending on December 31, 2017,
+the S&P 500 will outperform a portfolio of funds of hedge funds, when performance is
+measured on a basis net of fees, costs and expenses.
+A lot of very smart people set out to do better than average in securities markets. Call them
+active investors.
+Their opposites, passive investors, will by definition do about average. In aggregate their
+positions will more or less approximate those of an index fund. Therefore, the balance of
+the universe—the active investors—must do about average as well. However, these
+investors will incur far greater costs. So, on balance, their aggregate results after these costs
+will be worse than those of the passive investors.
+Costs skyrocket when large annual fees, large performance fees, and active trading costs are
+all added to the active investor’s equation. Funds of hedge funds accentuate this cost
+problem because their fees are superimposed on the large fees charged by the hedge funds
+in which the funds of funds are invested.
+A number of smart people are involved in running hedge funds. But to a great extent their
+efforts are self-neutralizing, and their IQ will not overcome the costs they impose on
+investors. Investors, on average and over time, will do better with a low-cost index fund
+than with a group of funds of funds.
+
+23
+
+So that was my argument – and now let me put it into a simple equation. If Group A (active investors)
+and Group B (do-nothing investors) comprise the total investing universe, and B is destined to achieve average
+results before costs, so, too, must A. Whichever group has the lower costs will win. (The academic in me requires
+me to mention that there is a very minor point – not worth detailing – that slightly modifies this formulation.)
+And if Group A has exorbitant costs, its shortfall will be substantial.
+There are, of course, some skilled individuals who are highly likely to out-perform the S&P over long
+stretches. In my lifetime, though, I’ve identified – early on – only ten or so professionals that I expected would
+accomplish this feat.
+There are no doubt many hundreds of people – perhaps thousands – whom I have never met and whose
+abilities would equal those of the people I’ve identified. The job, after all, is not impossible. The problem simply
+is that the great majority of managers who attempt to over-perform will fail. The probability is also very high that
+the person soliciting your funds will not be the exception who does well. Bill Ruane – a truly wonderful human
+being and a man whom I identified 60 years ago as almost certain to deliver superior investment returns over the
+long haul – said it well: “In investment management, the progression is from the innovators to the imitators to the
+swarming incompetents.”
+Further complicating the search for the rare high-fee manager who is worth his or her pay is the fact that

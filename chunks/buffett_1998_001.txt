@@ -1,0 +1,127 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 1998
+type: chairman-letter
+url: https://www.berkshirehathaway.com/1998ar/1998ar.pdf
+extracted_from: line 264 - 1280
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+Our gain in net worth during 1998 was $25.9 billion, which increased the per-share book value of both our Class
+A and Class B stock by 48.3%. Over the last 34 years (that is, since present management took over) per-share book value
+has grown from $19 to $37,801, a rate of 24.7% compounded annually.*
+Normally, a gain of 48.3% would call for handsprings — but not this year. Remember Wagner, whose music
+has been described as better than it sounds? Well, Berkshire’s progress in 1998 — though more than satisfactory — was not
+as good as it looks. That’s because most of that 48.3% gain came from our issuing shares in acquisitions.
+To explain: Our stock sells at a large premium over book value, which means that any issuing of shares we do
+— whether for cash or as consideration in a merger — instantly increases our per-share book-value figure, even though
+we’ve earned not a dime. What happens is that we get more per-share book value in such transactions than we give up.
+These transactions, however, do not deliver us any immediate gain in per-share intrinsic value, because in this respect
+what we give and what we get are roughly equal. And, as Charlie Munger, Berkshire’s Vice Chairman and my partner,
+and I can’t tell you too often (though you may feel that we try), it’s the per-share gain in intrinsic value that counts rather
+than the per-share gain in book value. Though Berkshire’s intrinsic value grew very substantially in 1998, the gain fell
+well short of the 48.3% recorded for book value. Nevertheless, intrinsic value still far exceeds book value. (For a more
+extensive discussion of these terms, and other investment and accounting concepts, please refer to our Owner’s Manual,
+on pages 56-64, in which we set forth our owner-related business principles. Intrinsic value is discussed on pages 61 and
+62.)
+We entered 1999 with the best collection of businesses and managers in our history. The two companies we
+acquired in 1998, General Re and Executive Jet, are first-class in every way — more about both later — and the
+performance of our operating businesses last year exceeded my hopes. GEICO, once again, simply shot the lights out.
+On the minus side, several of the public companies in which we have major investments experienced significant operating
+shortfalls that neither they nor I anticipated early in the year. Consequently, our equity portfolio did not perform nearly
+as well as did the S&P 500. The problems of these companies are almost certainly temporary, and Charlie and I believe
+that their long-term prospects are excellent.
+In our last three annual reports, we furnished you a table that we regard as central to estimating Berkshire's
+intrinsic value. In the updated version of that table, which follows, we trace our two key components of value, including
+General Re on a pro-forma basis as if we had owned it throughout the year. The first column lists our per-share
+ownership of investments (including cash and equivalents but excluding securities held in our financial products
+operation) and the second column shows our per-share earnings from Berkshire's operating businesses before taxes and
+purchase-accounting adjustments (discussed on pages 62 and 63), but after all interest and corporate expenses. The
+second column excludes all dividends, interest and capital gains that we realized from the investments presented in the
+first column. In effect, the columns show how Berkshire would look if it were split into two parts, with one entity holding
+our investments and the other operating all of our businesses and bearing all corporate costs.
+
+*All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company
+had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
+
+3
+
+Investments
+Per Share
+
+Year
+1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$
+
+Pre-tax Earnings Per Share
+With All Income from
+Investments Excluded
+
+53
+465
+4,876
+47,647
+
+$ 2.87
+12.85
+145.77
+474.45
+
+Investments
+Per Share
+
+Pre-tax Earnings Per Share
+With All Income from
+Investments Excluded
+
+1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24.2%
+26.5%
+25.6%
+
+16.2%
+27.5%
+12.5%
+
+Annual Growth Rate, 1968-1998 . . . . . . . . . . . . . . . . . . . . . .
+
+25.4%
+
+18.6%
+
+Here are the growth rates of the two segments by decade:
+
+Decade Ending
+
+During 1998, our investments increased by $9,604 per share, or 25.2%, but per-share operating earnings fell by
+33.9%. General Re (included, as noted, on a pro-forma basis) explains both facts. This company has very large
+investments, and these greatly increased our per-share investment figure. But General Re also had an underwriting loss
+in 1998, and that hurt operating earnings. Had we not acquired General Re, per-share operating earnings would have
+shown a modest gain.
+Though certain of our acquisitions and operating strategies may from time to time affect one column more than the
+other, we continually work to increase the figures in both. But one thing is certain: Our future rates of gain will fall far
+short of those achieved in the past. Berkshire’s capital base is now simply too large to allow us to earn truly outsized
+returns. If you believe otherwise, you should consider a career in sales but avoid one in mathematics (bearing in mind
+that there are really only three kinds of people in the world: those who can count and those who can’t).
+Currently we are working to compound a net worth of $57.4 billion, the largest of any American corporation
+(though our figure will be eclipsed if the merger of Exxon and Mobil takes place). Of course, our lead in net worth does
+not mean that Berkshire outranks all other businesses in value: Market value is what counts for owners and General
+Electric and Microsoft, for example, have valuations more than three times Berkshire’s. Net worth, though, measures
+the capital that managers must deploy, and at Berkshire that figure has indeed become huge.
+Nonetheless, Charlie and I will do our best to increase intrinsic value in the future at an average rate of 15%, a
+result we consider to be at the very peak of possible outcomes. We may have years when we exceed 15%, but we will
+most certainly have other years when we fall far short of that — including years showing negative returns — and those
+will bring our average down. In the meantime, you should understand just what an average gain of 15% over the next
+five years implies: It means we will need to increase net worth by $58 billion. Earning this daunting 15% will require
+us to come up with big ideas: Popcorn stands just won’t do. Today’s markets are not friendly to our search for
+“elephants,” but you can be sure that we will stay focused on the hunt.
+Whatever the future holds, I make you one promise: I’ll keep at least 99% of my net worth in Berkshire for as long
+as I am around. How long will that be? My model is the loyal Democrat in Fort Wayne who asked to be buried in

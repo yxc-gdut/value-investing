@@ -1,0 +1,152 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2003
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2003ar/2003ar.pdf
+extracted_from: line 309 - 1657
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+Our gain in net worth during 2003 was $13.6 billion, which increased the per-share book value of
+both our Class A and Class B stock by 21%. Over the last 39 years (that is, since present management took
+over) per-share book value has grown from $19 to $50,498, a rate of 22.2% compounded annually.*
+It’s per-share intrinsic value that counts, however, not book value. Here, the news is good:
+Between 1964 and 2003, Berkshire morphed from a struggling northern textile business whose intrinsic
+value was less than book into a widely diversified enterprise worth far more than book. Our 39-year gain
+in intrinsic value has therefore somewhat exceeded our 22.2% gain in book. (For a better understanding of
+intrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire’s vicechairman, and me in running Berkshire, please read our Owner’s Manual, beginning on page 69.)
+Despite their shortcomings, book value calculations are useful at Berkshire as a slightly
+understated gauge for measuring the long-term rate of increase in our intrinsic value. The calculation is
+less relevant, however, than it once was in rating any single year’s performance versus the S&P 500 index
+(a comparison we display on the facing page). Our equity holdings, including convertible preferreds, have
+fallen considerably as a percentage of our net worth, from an average of 114% in the 1980s, for example, to
+an average of 50% in 2000-03. Therefore, yearly movements in the stock market now affect a much
+smaller portion of our net worth than was once the case.
+Nonetheless, Berkshire’s long-term performance versus the S&P remains all-important. Our
+shareholders can buy the S&P through an index fund at very low cost. Unless we achieve gains in pershare intrinsic value in the future that outdo the S&P’s performance, Charlie and I will be adding nothing to
+what you can accomplish on your own.
+If we fail, we will have no excuses. Charlie and I operate in an ideal environment. To begin with,
+we are supported by an incredible group of men and women who run our operating units. If there were a
+Corporate Cooperstown, its roster would surely include many of our CEOs. Any shortfall in Berkshire’s
+results will not be caused by our managers.
+Additionally, we enjoy a rare sort of managerial freedom. Most companies are saddled with
+institutional constraints. A company’s history, for example, may commit it to an industry that now offers
+limited opportunity. A more common problem is a shareholder constituency that pressures its manager to
+dance to Wall Street’s tune. Many CEOs resist, but others give in and adopt operating and capitalallocation policies far different from those they would choose if left to themselves.
+At Berkshire, neither history nor the demands of owners impede intelligent decision-making.
+When Charlie and I make mistakes, they are – in tennis parlance – unforced errors.
+
+*All figures used in this report apply to Berkshire’s A shares, the successor to the only stock that
+the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of
+the A.
+
+3
+
+Operating Earnings
+When valuations are similar, we strongly prefer owning businesses to owning stocks. During
+most of our years of operation, however, stocks were much the cheaper choice. We therefore sharply tilted
+our asset allocation in those years toward equities, as illustrated by the percentages cited earlier.
+In recent years, however, we’ve found it hard to find significantly undervalued stocks, a difficulty
+greatly accentuated by the mushrooming of the funds we must deploy. Today, the number of stocks that
+can be purchased in large enough quantities to move the performance needle at Berkshire is a small fraction
+of the number that existed a decade ago. (Investment managers often profit far more from piling up assets
+than from handling those assets well. So when one tells you that increased funds won’t hurt his investment
+performance, step back: His nose is about to grow.)
+The shortage of attractively-priced stocks in which we can put large sums doesn’t bother us,
+providing we can find companies to purchase that (1) have favorable and enduring economic characteristics; (2) are run by talented and honest managers and (3) are available at a sensible price. We have
+purchased a number of such businesses in recent years, though not enough to fully employ the gusher of
+cash that has come our way. In buying businesses, I’ve made some terrible mistakes, both of commission
+and omission. Overall, however, our acquisitions have led to decent gains in per-share earnings.
+Below is a table that quantifies that point. But first we need to warn you that growth-rate
+presentations can be significantly distorted by a calculated selection of either initial or terminal dates. For
+example, if earnings are tiny in a beginning year, a long-term performance that was only mediocre can be
+made to appear sensational. That kind of distortion can come about because the company at issue was
+minuscule in the base year – which means that only a handful of insiders actually benefited from the touted
+performance – or because a larger company was then operating at just above breakeven. Picking a terminal
+year that is particularly buoyant will also favorably bias a calculation of growth.
+The Berkshire Hathaway that present management assumed control of in 1965 had long been
+sizable. But in 1964, it earned only $175,586 or 15 cents per share, so close to breakeven that any
+calculation of earnings growth from that base would be meaningless. At the time, however, even those
+meager earnings looked good: Over the decade following the 1955 merger of Berkshire Fine Spinning
+Associates and Hathaway Manufacturing, the combined operation had lost $10.1 million and many
+thousands of employees had been let go. It was not a marriage made in heaven.
+Against this background, we give you a picture of Berkshire’s earnings growth that begins in
+1968, but also includes subsequent base years spaced five years apart. A series of calculations is presented
+so that you can decide for yourself which period is most meaningful. I’ve started with 1968 because it was
+the first full year we operated National Indemnity, the initial acquisition we made as we began to expand
+Berkshire’s business.
+I don’t believe that using 2003 as the terminal year distorts our calculations. It was a terrific year
+for our insurance business, but the big boost that gave to earnings was largely offset by the pathetically low
+interest rates we earned on our large holdings of cash equivalents (a condition that will not last). All
+figures shown below, it should be noted, exclude capital gains.
+
+Year
+1964
+1968
+1973
+1978
+1983
+1988
+1993
+1998
+2003
+
+Operating Earnings
+in $ millions
+.2
+2.7
+11.9
+30.0
+48.6
+313.4
+477.8
+1,277.0
+5,422.0
+
+Operating Earnings
+Per Share in $
+.15
+2.69
+12.18
+29.15
+45.60
+273.37
+413.19
+1,020.49
+3,531.32
+4
+
+Subsequent Compounded
+Growth Rate of Per-Share Earnings
+Not meaningful (1964-2003)
+22.8% (1968-2003)
+20.8% (1973-2003)
+21.1% (1978-2003)
+24.3% (1983-2003)
+18.6% (1988-2003)
+23.9% (1993-2003)
+28.2% (1998-2003)
+
+We will continue the capital allocation practices we have used in the past. If stocks become
+significantly cheaper than entire businesses, we will buy them aggressively. If selected bonds become
+attractive, as they did in 2002, we will again load up on these securities. Under any market or economic
+conditions, we will be happy to buy businesses that meet our standards. And, for those that do, the bigger
+the better. Our capital is underutilized now, but that will happen periodically. It’s a painful condition to be
+in – but not as painful as doing something stupid. (I speak from experience.)
+Overall, we are certain Berkshire’s performance in the future will fall far short of what it has been
+in the past. Nonetheless, Charlie and I remain hopeful that we can deliver results that are modestly above
+average. That’s what we’re being paid for.
+Acquisitions
+As regular readers know, our acquisitions have often come about in strange ways. None, however,
+had a more unusual genesis than our purchase last year of Clayton Homes.
+The unlikely source was a group of finance students from the University of Tennessee, and their
+teacher, Dr. Al Auxier. For the past five years, Al has brought his class to Omaha, where the group tours
+Nebraska Furniture Mart and Borsheim’s, eats at Gorat’s and then comes to Kiewit Plaza for a session with
+me. Usually about 40 students participate.
+After two hours of give-and-take, the group traditionally presents me with a thank-you gift. (The
+doors stay locked until they do.) In past years it’s been items such as a football signed by Phil Fulmer and
+a basketball from Tennessee’s famous women’s team.
+This past February, the group opted for a book – which, luckily for me, was the recently-published
+autobiography of Jim Clayton, founder of Clayton Homes. I already knew the company to be the class act
+of the manufactured housing industry, knowledge I acquired after earlier making the mistake of buying

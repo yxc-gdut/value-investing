@@ -1,0 +1,37 @@
+---
+topic: 股票是伪装的债券——通胀如何欺骗投资者
+category: 宏观经济
+source: 1977年Fortune文章"How Inflation Swindles the Equity Investor"
+related: 利率是投资世界的引力, 安全边际
+year: 1977
+---
+# 股票是伪装的债券——通胀如何欺骗投资者
+
+## 摘要
+巴菲特1977年最重要的文章。核心论点：股票在本质上与债券类似，都有一个"股权息票"（equity coupon），战后数十年稳定在12%左右。通胀环境下，股票不仅不是对冲工具，反而会吞噬投资者资本。
+
+## 核心观点
+1. 股票不是通胀对冲工具——长期假设被打破
+2. "股权息票"概念：战后ROE稳定在~12%，与债券息票无异
+3. 股票vs债券的关键区别：债券有到期日可重新谈判息票，股票永续无法重谈
+4. 五种提高ROE的方法：(1)提高周转率(2)更便宜杠杆(3)更多杠杆(4)更低税率(5)更高利润率——全部受限
+5. 投资者回报 = 12%(税前) → 7%(税后) → 0%(扣除通胀后)
+6. "通胀是比任何立法都更具毁灭性的税收"
+7. 经济糟糕的公司需要更多资本维持竞争力（资本密集型），通胀雪上加霜
+8. 经济优秀的公司需要的增量资本很少（资本轻量型），通胀时反而受益
+
+## 原文引用
+> "Stocks, in economic substance, are really very similar to bonds."
+>
+> "The inflation tax has a fantastic ability to simply consume capital."
+>
+> "Out with Ben Franklin and in with Milton Friedman."
+>
+> "If you feel you can dance in and out of securities in a way that defeats the inflation tax, I would like to be your broker—but not your partner."
+
+## 来源
+Fortune, May 1977: "How Inflation Swindles the Equity Investor"
+
+## 相关主题
+- 利率是投资世界的引力
+- 买股票就是买企业

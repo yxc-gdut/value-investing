@@ -1,0 +1,29 @@
+---
+topic: 市值占GDP比率——巴菲特最喜欢的估值指标
+category: 估值方法
+source: 2001年巴菲特太阳谷演讲/Fortune文章
+related: 内在价值, 安全边际
+year: 2001
+---
+# 市值占GDP比率——巴菲特最喜欢的估值指标
+
+## 摘要
+巴菲特用市值占GDP百分比来衡量股市估值：70%-80%时买入很好，接近200%时在玩火。1999年峰值200%，2001年降至133%。
+
+## 核心观点
+1. 巴菲特最喜欢的股市整体估值指标
+2. 70%-80%：买入股票很可能做得很好
+3. 133%（2001年时）：不错，从高位回落
+4. 接近200%（1999年）："在玩火"
+5. 如果GDP增长5%而希望市值涨10%，那条线必须冲破图表顶部——不可能
+6. 预测未来10-20年股市回报约7%（扣除成本后）
+
+## 原文引用
+> "If the percentage relationship falls to the 70% or 80% area, buying stocks is likely to work very well for you. If the ratio approaches 200%--as it did in 1999 and a part of 2000--you are playing with fire."
+
+## 来源
+Fortune Magazine, Dec 10, 2001: "Warren Buffett on the Stock Market"
+
+## 相关主题
+- 内在价值
+- 安全边际

@@ -1,0 +1,11741 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2020
+type: full
+url: https://www.berkshirehathaway.com/2020ar/2020ar.html
+---
+
+BERKSHIRE HATHAWAY INC.
+2020
+ANNUAL REPORT
+BERKSHIRE HATHAWAY INC.
+2020 ANNUAL REPORT
+TABLE OF CONTENTS
+Berkshire’s Performance vs. the S&P 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+Chairman’s Letter* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3-15
+Form 10-K –
+Business Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description of Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Report on Internal Controls . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Independent Auditor’s Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Notes to Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+K-1
+K-22
+K-26
+K-32
+K-33
+K-66
+K-67
+K-70
+K-75
+Appendices –
+Operating Companies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-1
+Property/Casualty Insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-2
+Annual Meeting Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-3
+Stock Transfer Agent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-3
+Directors and Officers of the Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Inside Back Cover
+*Copyright© 2021 By Warren E. Buffett
+All Rights Reserved
+1
+Berkshire’s Performance vs. the S&P 500
+Annual Percentage Change
+Year
+1965 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1966 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1967 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1974 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1976 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1977 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1981 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1982 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1983 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1984 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1985 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1991 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1993 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2015 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2019 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Compounded Annual Gain – 1965-2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Overall Gain – 1964-2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+in Per-Share
+Market Value of
+Berkshire
+49.5
+(3.4)
+13.3
+77.8
+19.4
+(4.6)
+80.5
+8.1
+(2.5)
+(48.7)
+2.5
+129.3
+46.8
+14.5
+102.5
+32.8
+31.8
+38.4
+69.0
+(2.7)
+93.7
+14.2
+4.6
+59.3
+84.6
+(23.1)
+35.6
+29.8
+38.9
+25.0
+57.4
+6.2
+34.9
+52.2
+(19.9)
+26.6
+6.5
+(3.8)
+15.8
+4.3
+0.8
+24.1
+28.7
+(31.8)
+2.7
+21.4
+(4.7)
+16.8
+32.7
+27.0
+(12.5)
+23.4
+21.9
+2.8
+11.0
+2.4
+20.0%
+2,810,526%
+Note: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
+2
+in S&P 500
+with Dividends
+Included
+10.0
+(11.7)
+30.9
+11.0
+(8.4)
+3.9
+14.6
+18.9
+(14.8)
+(26.4)
+37.2
+23.6
+(7.4)
+6.4
+18.2
+32.3
+(5.0)
+21.4
+22.4
+6.1
+31.6
+18.6
+5.1
+16.6
+31.7
+(3.1)
+30.5
+7.6
+10.1
+1.3
+37.6
+23.0
+33.4
+28.6
+21.0
+(9.1)
+(11.9)
+(22.1)
+28.7
+10.9
+4.9
+15.8
+5.5
+(37.0)
+26.5
+15.1
+2.1
+16.0
+32.4
+13.7
+1.4
+12.0
+21.8
+(4.4)
+31.5
+18.4
+10.2%
+23,454%
+BERKSHIRE HATHAWAY INC.
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire earned $42.5 billion in 2020 according to generally accepted accounting principles (commonly
+called “GAAP”). The four components of that figure are $21.9 billion of operating earnings, $4.9 billion of realized
+capital gains, a $26.7 billion gain from an increase in the amount of net unrealized capital gains that exist in the stocks
+we hold and, finally, an $11 billion loss from a write-down in the value of a few subsidiary and affiliate businesses
+that we own. All items are stated on an after-tax basis.
+Operating earnings are what count most, even during periods when they are not the largest item in our GAAP
+total. Our focus at Berkshire is both to increase this segment of our income and to acquire large and favorably-situated
+businesses. Last year, however, we met neither goal: Berkshire made no sizable acquisitions and operating earnings
+fell 9%. We did, though, increase Berkshire’s per-share intrinsic value by both retaining earnings and repurchasing
+about 5% of our shares.
+The two GAAP components pertaining to capital gains or losses (whether realized or unrealized) fluctuate
+capriciously from year to year, reflecting swings in the stock market. Whatever today’s figures, Charlie Munger, my
+long-time partner, and I firmly believe that, over time, Berkshire’s capital gains from its investment holdings will be
+substantial.
+As I’ve emphasized many times, Charlie and I view Berkshire’s holdings of marketable stocks – at yearend
+worth $281 billion – as a collection of businesses. We don’t control the operations of those companies, but we do
+share proportionately in their long-term prosperity. From an accounting standpoint, however, our portion of their
+earnings is not included in Berkshire’s income. Instead, only what these investees pay us in dividends is recorded on
+our books. Under GAAP, the huge sums that investees retain on our behalf become invisible.
+What’s out of sight, however, should not be out of mind: Those unrecorded retained earnings are usually
+building value – lots of value – for Berkshire. Investees use the withheld funds to expand their business, make
+acquisitions, pay off debt and, often, to repurchase their stock (an act that increases our share of their future earnings).
+As we pointed out in these pages last year, retained earnings have propelled American business throughout our
+country’s history. What worked for Carnegie and Rockefeller has, over the years, worked its magic for millions of
+shareholders as well.
+Of course, some of our investees will disappoint, adding little, if anything, to the value of their company by
+retaining earnings. But others will over-deliver, a few spectacularly. In aggregate, we expect our share of the huge
+pile of earnings retained by Berkshire’s non-controlled businesses (what others would label our equity portfolio) to
+eventually deliver us an equal or greater amount of capital gains. Over our 56-year tenure, that expectation has been
+met.
+3
+The final component in our GAAP figure – that ugly $11 billion write-down – is almost entirely the
+quantification of a mistake I made in 2016. That year, Berkshire purchased Precision Castparts (“PCC”), and I paid
+too much for the company.
+No one misled me in any way – I was simply too optimistic about PCC’s normalized profit potential. Last
+year, my miscalculation was laid bare by adverse developments throughout the aerospace industry, PCC’s most
+important source of customers.
+In purchasing PCC, Berkshire bought a fine company – the best in its business. Mark Donegan, PCC’s CEO,
+is a passionate manager who consistently pours the same energy into the business that he did before we purchased it.
+We are lucky to have him running things.
+I believe I was right in concluding that PCC would, over time, earn good returns on the net tangible assets
+deployed in its operations. I was wrong, however, in judging the average amount of future earnings and, consequently,
+wrong in my calculation of the proper price to pay for the business.
+PCC is far from my first error of that sort. But it’s a big one.
+Two Strings to Our Bow
+Berkshire is often labeled a conglomerate, a negative term applied to holding companies that own a
+hodge-podge of unrelated businesses. And, yes, that describes Berkshire – but only in part. To understand how and
+why we differ from the prototype conglomerate, let’s review a little history.
+Over time, conglomerates have generally limited themselves to buying businesses in their entirety. That
+strategy, however, came with two major problems. One was unsolvable: Most of the truly great businesses had no
+interest in having anyone take them over. Consequently, deal-hungry conglomerateurs had to focus on so-so
+companies that lacked important and durable competitive strengths. That was not a great pond in which to fish.
+Beyond that, as conglomerateurs dipped into this universe of mediocre businesses, they often found
+themselves required to pay staggering “control” premiums to snare their quarry. Aspiring conglomerateurs knew the
+answer to this “overpayment” problem: They simply needed to manufacture a vastly overvalued stock of their own
+that could be used as a “currency” for pricey acquisitions. (“I’ll pay you $10,000 for your dog by giving you two of
+my $5,000 cats.”)
+Often, the tools for fostering the overvaluation of a conglomerate’s stock involved promotional techniques
+and “imaginative” accounting maneuvers that were, at best, deceptive and that sometimes crossed the line into fraud.
+When these tricks were “successful,” the conglomerate pushed its own stock to, say, 3x its business value in order to
+offer the target 2x its value.
+Investing illusions can continue for a surprisingly long time. Wall Street loves the fees that deal-making
+generates, and the press loves the stories that colorful promoters provide. At a point, also, the soaring price of a
+promoted stock can itself become the “proof” that an illusion is reality.
+4
+Eventually, of course, the party ends, and many business “emperors” are found to have no clothes. Financial
+history is replete with the names of famous conglomerateurs who were initially lionized as business geniuses by
+journalists, analysts and investment bankers, but whose creations ended up as business junkyards.
+Conglomerates earned their terrible reputation.
+************
+Charlie and I want our conglomerate to own all or part of a diverse group of businesses with good economic
+characteristics and good managers. Whether Berkshire controls these businesses, however, is unimportant to us.
+It took me a while to wise up. But Charlie – and also my 20-year struggle with the textile operation I inherited
+at Berkshire – finally convinced me that owning a non-controlling portion of a wonderful business is more profitable,
+more enjoyable and far less work than struggling with 100% of a marginal enterprise.
+For those reasons, our conglomerate will remain a collection of controlled and non-controlled businesses.
+Charlie and I will simply deploy your capital into whatever we believe makes the most sense, based on a company’s
+durable competitive strengths, the capabilities and character of its management, and price.
+If that strategy requires little or no effort on our part, so much the better. In contrast to the scoring system
+utilized in diving competitions, you are awarded no points in business endeavors for “degree of difficulty.”
+Furthermore, as Ronald Reagan cautioned: “It’s said that hard work never killed anyone, but I say why take the
+chance?”
+The Family Jewels and How We Increase Your Share of These Gems
+On page A-1 we list Berkshire’s subsidiaries, a smorgasbord of businesses employing 360,000 at yearend.
+You can read much more about these controlled operations in the 10-K that fills the back part of this report. Our major
+positions in companies that we partly own and don’t control are listed on page 7 of this letter. That portfolio of
+businesses, too, is large and diverse.
+Most of Berkshire’s value, however, resides in four businesses, three controlled and one in which we have
+only a 5.4% interest. All four are jewels.
+The largest in value is our property/casualty insurance operation, which for 53 years has been the core of
+Berkshire. Our family of insurers is unique in the insurance field. So, too, is its manager, Ajit Jain, who joined
+Berkshire in 1986.
+Overall, the insurance fleet operates with far more capital than is deployed by any of its competitors
+worldwide. That financial strength, coupled with the huge flow of cash Berkshire annually receives from its
+non-insurance businesses, allows our insurance companies to safely follow an equity-heavy investment strategy not
+feasible for the overwhelming majority of insurers. Those competitors, for both regulatory and credit-rating reasons,
+must focus on bonds.
+And bonds are not the place to be these days. Can you believe that the income recently available from a
+10-year U.S. Treasury bond – the yield was 0.93% at yearend – had fallen 94% from the 15.8% yield available in
+September 1981? In certain large and important countries, such as Germany and Japan, investors earn a negative return
+on trillions of dollars of sovereign debt. Fixed-income investors worldwide – whether pension funds, insurance
+companies or retirees – face a bleak future.
+5
+Some insurers, as well as other bond investors, may try to juice the pathetic returns now available by shifting
+their purchases to obligations backed by shaky borrowers. Risky loans, however, are not the answer to inadequate
+interest rates. Three decades ago, the once-mighty savings and loan industry destroyed itself, partly by ignoring that
+maxim.
+Berkshire now enjoys $138 billion of insurance “float” – funds that do not belong to us, but are nevertheless
+ours to deploy, whether in bonds, stocks or cash equivalents such as U.S. Treasury bills. Float has some similarities
+to bank deposits: cash flows in and out daily to insurers, with the total they hold changing very little. The massive
+sum held by Berkshire is likely to remain near its present level for many years and, on a cumulative basis, has been
+costless to us. That happy result, of course, could change – but, over time, I like our odds.
+I have repetitiously – some might say endlessly – explained our insurance operation in my annual letters to
+you. Therefore, I will this year ask new shareholders who wish to learn more about our insurance business and “float”
+to read the pertinent section of the 2019 report, reprinted on page A-2. It’s important that you understand the risks,
+as well as the opportunities, existing in our insurance activities.
+Our second and third most valuable assets – it’s pretty much a toss-up at this point – are Berkshire’s 100%
+ownership of BNSF, America’s largest railroad measured by freight volume, and our 5.4% ownership of Apple. And
+in the fourth spot is our 91% ownership of Berkshire Hathaway Energy (“BHE”). What we have here is a very unusual
+utility business, whose annual earnings have grown from $122 million to $3.4 billion during our 21 years of ownership.
+I’ll have more to say about BNSF and BHE later in this letter. For now, however, I would like to focus on a
+practice Berkshire will periodically use to enhance your interest in both its “Big Four” as well as the many other assets
+Berkshire owns.
+************
+Last year we demonstrated our enthusiasm for Berkshire’s spread of properties by repurchasing the
+equivalent of 80,998 “A” shares, spending $24.7 billion in the process. That action increased your ownership in all of
+Berkshire’s businesses by 5.2% without requiring you to so much as touch your wallet.
+Following criteria Charlie and I have long recommended, we made those purchases because we believed they
+would both enhance the intrinsic value per share for continuing shareholders and would leave Berkshire with more
+than ample funds for any opportunities or problems it might encounter.
+In no way do we think that Berkshire shares should be repurchased at simply any price. I emphasize that
+point because American CEOs have an embarrassing record of devoting more company funds to repurchases when
+prices have risen than when they have tanked. Our approach is exactly the reverse.
+Berkshire’s investment in Apple vividly illustrates the power of repurchases. We began buying Apple stock
+late in 2016 and by early July 2018, owned slightly more than one billion Apple shares (split-adjusted). Saying that,
+I’m referencing the investment held in Berkshire’s general account and am excluding a very small and
+separately-managed holding of Apple shares that was subsequently sold. When we finished our purchases in
+mid-2018, Berkshire’s general account owned 5.2% of Apple.
+Our cost for that stake was $36 billion. Since then, we have both enjoyed regular dividends, averaging about
+$775 million annually, and have also – in 2020 – pocketed an additional $11 billion by selling a small portion of our
+position.
+Despite that sale – voila! – Berkshire now owns 5.4% of Apple. That increase was costless to us, coming
+about because Apple has continuously repurchased its shares, thereby substantially shrinking the number it now has
+outstanding.
+6
+But that’s far from all of the good news. Because we also repurchased Berkshire shares during the 2 1⁄ 2 years,
+you now indirectly own a full 10% more of Apple’s assets and future earnings than you did in July 2018.
+This agreeable dynamic continues. Berkshire has repurchased more shares since yearend and is likely to
+further reduce its share count in the future. Apple has publicly stated an intention to repurchase its shares as well. As
+these reductions occur, Berkshire shareholders will not only own a greater interest in our insurance group and in BNSF
+and BHE, but will also find their indirect ownership of Apple increasing as well.
+The math of repurchases grinds away slowly, but can be powerful over time. The process offers a simple way
+for investors to own an ever-expanding portion of exceptional businesses.
+And as a sultry Mae West assured us: “Too much of a good thing can be . . . wonderful.”
+Investments
+Below we list our fifteen common stock investments that at yearend were our largest in market value. We
+exclude our Kraft Heinz holding — 325,442,152 shares — because Berkshire is part of a control group and therefore
+must account for that investment using the “equity” method. On its balance sheet, Berkshire carries the Kraft Heinz
+holding at a GAAP figure of $13.3 billion, an amount that represents Berkshire’s share of the audited net worth of
+Kraft Heinz on December 31, 2020. Please note, though, that the market value of our shares on that date was only
+$11.3 billion.
+12/31/20
+Percentage of
+Company
+Owned
+Shares*
+Company
+25,533,082
+151,610,700
+907,559,761
+1,032,852,006
+66,835,615
+225,000,000
+5,213,461
+48,498,965
+400,000,000
+52,975,000
+81,304,200
+28,697,435
+24,669,778
+148,176,166
+146,716,496
+AbbVie Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+American Express Company . . . . . . . . . . . . . . . . . .
+Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bank of America Corp. . . . . . . . . . . . . . . . . . . . . . .
+The Bank of New York Mellon Corp. . . . . . . . . . . .
+BYD Co. Ltd. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Charter Communications, Inc. . . . . . . . . . . . . . . . . .
+Chevron Corporation . . . . . . . . . . . . . . . . . . . . . . . .
+The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . .
+General Motors Company . . . . . . . . . . . . . . . . . . . .
+Itochu Corporation . . . . . . . . . . . . . . . . . . . . . . . . . .
+Merck & Co., Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . .
+U.S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Verizon Communications Inc. . . . . . . . . . . . . . . . . .
+Others*** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Total Equity Investments Carried at Market . . . . . .
+*
+**
+***
+1.4
+18.8
+5.4
+11.9
+7.5
+8.2
+2.7
+2.5
+9.3
+3.7
+5.1
+1.1
+13.2
+9.8
+3.5
+Cost**
+Market
+(in millions)
+$
+2,333
+$
+2,736
+1,287
+18,331
+31,089
+120,424
+14,631
+31,306
+2,918
+2,837
+232
+5,897
+904
+3,449
+4,024
+4,096
+1,299
+21,936
+1,616
+2,206
+1,862
+2,336
+2,390
+2,347
+248
+7,160
+5,638
+6,904
+8,691
+8,620
+29,458
+40,585
+$ 108,620
+$ 281,170
+Excludes shares held by pension funds of Berkshire subsidiaries.
+This is our actual purchase price and also our tax basis.
+Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to
+buy common stock, a combination now being valued at $9 billion.
+7
+A Tale of Two Cities
+Success stories abound throughout America. Since our country’s birth, individuals with an idea, ambition
+and often just a pittance of capital have succeeded beyond their dreams by creating something new or by improving
+the customer’s experience with something old.
+Charlie and I journeyed throughout the nation to join with many of these individuals or their families. On the
+West Coast, we began the routine in 1972 with our purchase of See’s Candy. A full century ago, Mary See set out to
+deliver an age-old product that she had reinvented with special recipes. Added to her business plan were quaint stores
+staffed by friendly salespeople. Her first small outlet in Los Angeles eventually led to several hundred shops, spread
+throughout the West.
+Today, Mrs. See’s creations continue to delight customers while providing life-long employment for
+thousands of women and men. Berkshire’s job is simply not to meddle with the company’s success. When a business
+manufactures and distributes a non-essential consumer product, the customer is the boss. And, after 100 years, the
+customer’s message to Berkshire remains clear: “Don’t mess with my candy.” (The website is https://www.sees.com/;
+try the peanut brittle.)
+Let’s move across the continent to Washington, D.C. In 1936, Leo Goodwin, along with his wife, Lillian,
+became convinced that auto insurance – a standardized product customarily purchased from agents – could be sold
+directly at a much lower price. Armed with $100,000, the pair took on giant insurers possessing 1,000 times or more
+their capital. Government Employees Insurance Company (later shortened to GEICO) was on its way.
+By luck, I was exposed to the company’s potential a full 70 years ago. It instantly became my first love (of
+an investment sort). You know the rest of the story: Berkshire eventually became the 100% owner of GEICO, which
+at 84 years of age is constantly fine-tuning – but not changing – the vision of Leo and Lillian.
+There has been, however, a change in the company’s size. In 1937, its first full year of operation, GEICO did
+$238,288 of business. Last year the figure was $35 billion.
+************
+Today, with much of finance, media, government and tech located in coastal areas, it’s easy to overlook the
+many miracles occurring in middle America. Let’s focus on two communities that provide stunning illustrations of
+the talent and ambition existing throughout our country.
+You will not be surprised that I begin with Omaha.
+In 1940, Jack Ringwalt, a graduate of Omaha’s Central High School (the alma mater as well of Charlie, my
+dad, my first wife, our three children and two grandchildren), decided to start a property/casualty insurance company
+funded by $125,000 in capital.
+Jack’s dream was preposterous, requiring his pipsqueak operation – somewhat pompously christened as
+National Indemnity – to compete with giant insurers, all of which operated with abundant capital. Additionally, those
+competitors were solidly entrenched with nationwide networks of well-funded and long-established local agents.
+Under Jack’s plan, National Indemnity, unlike GEICO, would itself use whatever agencies deigned to accept it and
+consequently enjoy no cost advantage in its acquisition of business. To overcome those formidable handicaps,
+National Indemnity focused on “odd-ball” risks, which were deemed unimportant by the “big boys.” And, improbably,
+the strategy succeeded.
+Jack was honest, shrewd, likeable and a bit quirky. In particular, he disliked regulators. When he periodically
+became annoyed with their supervision, he would feel an urge to sell his company.
+8
+Fortunately, I was nearby on one of those occasions. Jack liked the idea of joining Berkshire, and we made a
+deal in 1967, taking all of 15 minutes to reach a handshake. I never asked for an audit.
+Today National Indemnity is the only company in the world prepared to insure certain giant risks. And, yes,
+it remains based in Omaha, a few miles from Berkshire’s home office.
+Over the years, we have purchased four additional businesses from Omaha families, the best known among
+them being Nebraska Furniture Mart (“NFM”). The company’s founder, Rose Blumkin (“Mrs. B”), arrived in Seattle
+in 1915 as a Russian emigrant, unable to read or speak English. She settled in Omaha several years later and by 1936
+had saved $2,500 with which to start a furniture store.
+Competitors and suppliers ignored her, and for a time their judgment seemed correct: World War II stalled
+her business, and at yearend 1946, the company’s net worth had grown to only $72,264. Cash, both in the till and on
+deposit, totaled $50 (that’s not a typo).
+One invaluable asset, however, went unrecorded in the 1946 figures: Louie Blumkin, Mrs. B’s only son, had
+rejoined the store after four years in the U.S. Army. Louie fought at Normandy’s Omaha Beach following the D-Day
+invasion, earned a Purple Heart for injuries sustained in the Battle of the Bulge, and finally sailed home in November
+1945.
+Once Mrs. B and Louie were reunited, there was no stopping NFM. Driven by their dream, mother and son
+worked days, nights and weekends. The result was a retailing miracle.
+By 1983, the pair had created a business worth $60 million. That year, on my birthday, Berkshire purchased
+80% of NFM, again without an audit. I counted on Blumkin family members to run the business; the third and fourth
+generation do so today. Mrs. B, it should be noted, worked daily until she was 103 – a ridiculously premature
+retirement age as judged by Charlie and me.
+NFM now owns the three largest home-furnishings stores in the U.S. Each set a sales record in 2020, a feat
+achieved despite the closing of NFM’s stores for more than six weeks because of COVID-19.
+A post-script to this story says it all: When Mrs. B’s large family gathered for holiday meals, she always
+asked that they sing a song before eating. Her selection never varied: Irving Berlin’s “God Bless America.”
+************
+Let’s move somewhat east to Knoxville, the third largest city in Tennessee. There, Berkshire has ownership
+in two remarkable companies – Clayton Homes (100% owned) and Pilot Travel Centers (38% owned now, but headed
+for 80% in 2023).
+Each company was started by a young man who had graduated from the University of Tennessee and stayed
+put in Knoxville. Neither had a meaningful amount of capital nor wealthy parents.
+But, so what? Today, Clayton and Pilot each have annual pre-tax earnings of more than $1 billion. Together
+they employ about 47,000 men and women.
+Jim Clayton, after several other business ventures, founded Clayton Homes on a shoestring in 1956, and “Big
+Jim” Haslam started what became Pilot Travel Centers in 1958 by purchasing a service station for $6,000. Each of the
+men later brought into the business a son with the same passion, values and brains as his father. Sometimes there is a
+magic to genes.
+9
+“Big Jim” Haslam, now 90, has recently authored an inspirational book in which he relates how Jim Clayton’s
+son, Kevin, encouraged the Haslams to sell a large portion of Pilot to Berkshire. Every retailer knows that satisfied
+customers are a store’s best salespeople. That’s true when businesses are changing hands as well.
+************
+When you next fly over Knoxville or Omaha, tip your hat to the Claytons, Haslams and Blumkins as well as
+to the army of successful entrepreneurs who populate every part of our country. These builders needed America’s
+framework for prosperity – a unique experiment when it was crafted in 1789 – to achieve their potential. In turn,
+America needed citizens like Jim C., Jim H., Mrs. B and Louie to accomplish the miracles our founding fathers sought.
+Today, many people forge similar miracles throughout the world, creating a spread of prosperity that benefits
+all of humanity. In its brief 232 years of existence, however, there has been no incubator for unleashing human
+potential like America. Despite some severe interruptions, our country’s economic progress has been breathtaking.
+Beyond that, we retain our constitutional aspiration of becoming “a more perfect union.” Progress on that
+front has been slow, uneven and often discouraging. We have, however, moved forward and will continue to do so.
+Our unwavering conclusion: Never bet against America.
+The Berkshire Partnership
+Berkshire is a Delaware corporation, and our directors must follow the state’s laws. Among them is a
+requirement that board members must act in the best interest of the corporation and its stockholders. Our directors
+embrace that doctrine.
+In addition, of course, Berkshire directors want the company to delight its customers, to develop and reward
+the talents of its 360,000 associates, to behave honorably with lenders and to be regarded as a good citizen of the many
+cities and states in which we operate. We value these four important constituencies.
+None of these groups, however, have a vote in determining such matters as dividends, strategic direction,
+CEO selection, or acquisitions and divestitures. Responsibilities like those fall solely on Berkshire’s directors, who
+must faithfully represent the long-term interests of the corporation and its owners.
+Beyond legal requirements, Charlie and I feel a special obligation to the many individual shareholders of
+Berkshire. A bit of personal history may help you to understand our unusual attachment and how it shapes our
+behavior.
+************
+Before my Berkshire years, I managed money for many individuals through a series of partnerships, the first
+three of those formed in 1956. As time passed, the use of multiple entities became unwieldy and, in 1962, we
+amalgamated 12 partnerships into a single unit, Buffett Partnership Ltd. (“BPL”).
+By that year, virtually all of my own money, and that of my wife as well, had become invested alongside the
+funds of my many limited partners. I received no salary or fees. Instead, as the general partner, I was compensated by
+my limited partners only after they secured returns above an annual threshold of 6%. If returns failed to meet that
+level, the shortfall was to be carried forward against my share of future profits. (Fortunately, that never happened:
+Partnership returns always exceeded the 6% “bogey.”) As the years went by, a large part of the resources of my
+parents, siblings, aunts, uncles, cousins and in-laws became invested in the partnership.
+10
+Charlie formed his partnership in 1962 and operated much as I did. Neither of us had any institutional
+investors, and very few of our partners were financially sophisticated. The people who joined our ventures simply
+trusted us to treat their money as we treated our own. These individuals – either intuitively or by relying on the advice
+of friends – correctly concluded that Charlie and I had an extreme aversion to permanent loss of capital and that we
+would not have accepted their money unless we expected to do reasonably well with it.
+I stumbled into business management after BPL acquired control of Berkshire in 1965. Later still, in 1969,
+we decided to dissolve BPL. After yearend, the partnership distributed, pro-rata, all of its cash along with three stocks,
+the largest by value being BPL’s 70.5% interest in Berkshire.
+Charlie, meanwhile, wound up his operation in 1977. Among the assets he distributed to partners was a major
+interest in Blue Chip Stamps, a company his partnership, Berkshire and I jointly controlled. Blue Chip was also among
+the three stocks my partnership had distributed upon its dissolution.
+In 1983, Berkshire and Blue Chip merged, thereby expanding Berkshire’s base of registered shareholders
+from 1,900 to 2,900. Charlie and I wanted everyone – old, new and prospective shareholders – to be on the same page.
+Therefore, the 1983 annual report – up front – laid out Berkshire’s “major business principles.” The first
+principle began: “Although our form is corporate, our attitude is partnership.” That defined our relationship in 1983;
+it defines it today. Charlie and I – and our directors as well – believe this dictum will serve Berkshire well for many
+decades to come.
+************
+Ownership of Berkshire now resides in five large “buckets,” one occupied by me as a “founder” of sorts.
+That bucket is certain to empty as the shares I own are annually distributed to various philanthropies.
+Two of the remaining four buckets are filled by institutional investors, each handling other people’s money.
+That, however, is where the similarity between those buckets ends: Their investing procedures could not be more
+different.
+In one institutional bucket are index funds, a large and mushrooming segment of the investment world. These
+funds simply mimic the index that they track. The favorite of index investors is the S&P 500, of which Berkshire is a
+component. Index funds, it should be emphasized, own Berkshire shares simply because they are required to do so.
+They are on automatic pilot, buying and selling only for “weighting” purposes.
+In the other institutional bucket are professionals who manage their clients’ money, whether those funds
+belong to wealthy individuals, universities, pensioners or whomever. These professional managers have a mandate to
+move funds from one investment to another based on their judgment as to valuation and prospects. That is an
+honorable, though difficult, occupation.
+We are happy to work for this “active” group, while they meanwhile search for a better place to deploy the
+funds of their clientele. Some managers, to be sure, have a long-term focus and trade very infrequently. Others use
+computers employing algorithms that may direct the purchase or sale of shares in a nano-second. Some professional
+investors will come and go based upon their macro-economic judgments.
+Our fourth bucket consists of individual shareholders who operate in a manner similar to the active
+institutional managers I’ve just described. These owners, understandably, think of their Berkshire shares as a possible
+source of funds when they see another investment that excites them. We have no quarrel with that attitude, which is
+similar to the way we look at some of the equities we own at Berkshire.
+11
+All of that said, Charlie and I would be less than human if we did not feel a special kinship with our fifth
+bucket: the million-plus individual investors who simply trust us to represent their interests, whatever the future may
+bring. They have joined us with no intent to leave, adopting a mindset similar to that held by our original partners.
+Indeed, many investors from our partnership years, and/or their descendants, remain substantial owners of Berkshire.
+A prototype of those veterans is Stan Truhlsen, a cheerful and generous Omaha ophthalmologist as well as
+personal friend, who turned 100 on November 13, 2020. In 1959, Stan, along with 10 other young Omaha doctors,
+formed a partnership with me. The docs creatively labeled their venture Emdee, Ltd. Annually, they joined my wife
+and me for a celebratory dinner at our home.
+When our partnership distributed its Berkshire shares in 1969, all of the doctors kept the stock they received.
+They may not have known the ins and outs of investing or accounting, but they did know that at Berkshire they would
+be treated as partners.
+Two of Stan’s comrades from Emdee are now in their high-90s and continue to hold Berkshire shares. This
+group’s startling durability – along with the fact that Charlie and I are 97 and 90, respectively – serves up an interesting
+question: Could it be that Berkshire ownership fosters longevity?
+************
+Berkshire’s unusual and valued family of individual shareholders may add to your understanding of our
+reluctance to court Wall Street analysts and institutional investors. We already have the investors we want and don’t
+think that they, on balance, would be upgraded by replacements.
+There are only so many seats – that is, shares outstanding – available for Berkshire ownership. And we very
+much like the people already occupying them.
+Of course, some turnover in “partners” will occur. Charlie and I hope, however, that it will be minimal. Who,
+after all, seeks rapid turnover in friends, neighbors or marriage?
+In 1958, Phil Fisher wrote a superb book on investing. In it, he analogized running a public company to
+managing a restaurant. If you are seeking diners, he said, you can attract a clientele and prosper featuring either
+hamburgers served with a Coke or a French cuisine accompanied by exotic wines. But you must not, Fisher warned,
+capriciously switch from one to the other: Your message to potential customers must be consistent with what they will
+find upon entering your premises.
+At Berkshire, we have been serving hamburgers and Coke for 56 years. We cherish the clientele this fare has
+attracted.
+The tens of millions of other investors and speculators in the United States and elsewhere have a wide variety
+of equity choices to fit their tastes. They will find CEOs and market gurus with enticing ideas. If they want price
+targets, managed earnings and “stories,” they will not lack suitors. “Technicians” will confidently instruct them as to
+what some wiggles on a chart portend for a stock’s next move. The calls for action will never stop.
+Many of those investors, I should add, will do quite well. After all, ownership of stocks is very much a
+“positive-sum” game. Indeed, a patient and level-headed monkey, who constructs a portfolio by throwing 50 darts at
+a board listing all of the S&P 500, will – over time – enjoy dividends and capital gains, just as long as it never gets
+tempted to make changes in its original “selections.”
+12
+Productive assets such as farms, real estate and, yes, business ownership produce wealth – lots of it. Most
+owners of such properties will be rewarded. All that’s required is the passage of time, an inner calm, ample
+diversification and a minimization of transactions and fees. Still, investors must never forget that their expenses are
+Wall Street’s income. And, unlike my monkey, Wall Streeters do not work for peanuts.
+When seats open up at Berkshire – and we hope they are few – we want them to be occupied by newcomers
+who understand and desire what we offer. After decades of management, Charlie and I remain unable to promise
+results. We can and do, however, pledge to treat you as partners.
+And so, too, will our successors.
+A Berkshire Number that May Surprise You
+Recently, I learned a fact about our company that I had never suspected: Berkshire owns American-based
+property, plant and equipment – the sort of assets that make up the “business infrastructure” of our country – with a
+GAAP valuation exceeding the amount owned by any other U.S. company. Berkshire’s depreciated cost of these
+domestic “fixed assets” is $154 billion. Next in line on this list is AT&T, with property, plant and equipment of $127
+billion.
+Our leadership in fixed-asset ownership, I should add, does not, in itself, signal an investment triumph. The
+best results occur at companies that require minimal assets to conduct high-margin businesses – and offer goods or
+services that will expand their sales volume with only minor needs for additional capital. We, in fact, own a few of
+these exceptional businesses, but they are relatively small and, at best, grow slowly.
+Asset-heavy companies, however, can be good investments. Indeed, we are delighted with our two
+giants – BNSF and BHE: In 2011, Berkshire’s first full year of BNSF ownership, the two companies had combined
+earnings of $4.2 billion. In 2020, a tough year for many businesses, the pair earned $8.3 billion.
+BNSF and BHE will require major capital expenditures for decades to come. The good news is that both are
+likely to deliver appropriate returns on the incremental investment.
+Let’s look first at BNSF. Your railroad carries about 15% of all non-local ton-miles (a ton of freight moved
+one mile) of goods that move in the United States, whether by rail, truck, pipeline, barge or aircraft. By a significant
+margin, BNSF’s loads top those of any other carrier.
+The history of American railroads is fascinating. After 150 years or so of frenzied construction, skullduggery,
+overbuilding, bankruptcies, reorganizations and mergers, the railroad industry finally emerged a few decades ago as
+mature and rationalized.
+BNSF began operations in 1850 with a 12-mile line in northeastern Illinois. Today, it has 390 antecedents
+whose railroads have been purchased or merged. The company’s extensive lineage is laid out at
+http://www.bnsf.com/bnsf-resources/pdf/about-bnsf/History_and_Legacy.pdf.
+Berkshire acquired BNSF early in 2010. Since our purchase, the railroad has invested $41 billion in fixed
+assets, an outlay $20 billion in excess of its depreciation charges. Railroading is an outdoor sport, featuring mile-long
+trains obliged to reliably operate in both extreme cold and heat, as they all the while encounter every form of terrain
+from deserts to mountains. Massive flooding periodically occurs. BNSF owns 23,000 miles of track, spread throughout
+28 states, and must spend whatever it takes to maximize safety and service throughout its vast system.
+13
+Nevertheless, BNSF has paid substantial dividends to Berkshire – $41.8 billion in total. The railroad pays us,
+however, only what remains after it both fulfills the needs of its business and maintains a cash balance of about
+$2 billion. This conservative policy allows BNSF to borrow at low rates, independent of any guarantee of its debt by
+Berkshire.
+One further word about BNSF: Last year, Carl Ice, its CEO, and his number two, Katie Farmer, did an
+extraordinary job in controlling expenses while navigating a significant downturn in business. Despite a 7% decline
+in the volume of goods carried, the two actually increased BNSF’s profit margin by 2.9 percentage points. Carl, as
+long planned, retired at yearend and Katie took over as CEO. Your railroad is in good hands.
+BHE, unlike BNSF, pays no dividends on its common stock, a highly-unusual practice in the electric-utility
+industry. That Spartan policy has been the case throughout our 21 years of ownership. Unlike railroads, our country’s
+electric utilities need a massive makeover in which the ultimate costs will be staggering. The effort will absorb all of
+BHE’s earnings for decades to come. We welcome the challenge and believe the added investment will be
+appropriately rewarded.
+Let me tell you about one of BHE’s endeavors – its $18 billion commitment to rework and expand a
+substantial portion of the outdated grid that now transmits electricity throughout the West. BHE began this project in
+2006 and expects it to be completed by 2030 – yes, 2030.
+The advent of renewable energy made our project a societal necessity. Historically, the coal-based generation
+of electricity that long prevailed was located close to huge centers of population. The best sites for the new world of
+wind and solar generation, however, are often in remote areas. When BHE assessed the situation in 2006, it was no
+secret that a huge investment in western transmission lines had to be made. Very few companies or governmental
+entities, however, were in a financial position to raise their hand after they tallied the project’s cost.
+BHE’s decision to proceed, it should be noted, was based upon its trust in America’s political, economic and
+judicial systems. Billions of dollars needed to be invested before meaningful revenue would flow. Transmission lines
+had to cross the borders of states and other jurisdictions, each with its own rules and constituencies. BHE would also
+need to deal with hundreds of landowners and execute complicated contracts with both the suppliers that generated
+renewable power and the far-away utilities that would distribute the electricity to their customers. Competing interests
+and defenders of the old order, along with unrealistic visionaries desiring an instantly-new world, had to be brought on
+board.
+Both surprises and delays were certain. Equally certain, however, was the fact that BHE had the managerial
+talent, the institutional commitment and the financial wherewithal to fulfill its promises. Though it will be many years
+before our western transmission project is completed, we are today searching for other projects of similar size to take
+on.
+Whatever the obstacles, BHE will be a leader in delivering ever-cleaner energy.
+The Annual Meeting
+Last year, on February 22nd, I wrote you about our plans for a gala annual meeting. Within a month, the
+schedule was junked.
+Our home office group, led by Melissa Shapiro and Marc Hamburg, Berkshire’s CFO, quickly regrouped.
+Miraculously, their improvisations worked. Greg Abel, one of Berkshire’s Vice Chairmen, joined me on stage facing
+a dark arena, 18,000 empty seats and a camera. There was no rehearsal: Greg and I arrived about 45 minutes before
+“showtime.”
+14
+Debbie Bosanek, my incredible assistant who joined Berkshire 47 years ago at age 17, had put together about
+25 slides displaying various facts and figures that I had assembled at home. An anonymous but highly-capable team
+of computer and camera operators projected the slides onto the screen in proper order.
+Yahoo streamed the proceedings to a record-sized international audience. Becky Quick of CNBC, operating
+from her home in New Jersey, selected questions from thousands that shareholders had earlier submitted or that
+viewers had emailed to her during the four hours Greg and I were on stage. See’s peanut brittle and fudge, along with
+Coca-Cola, provided us with nourishment.
+This year, on May 1st, we are planning to go one better. Again, we will rely on Yahoo and CNBC to perform
+flawlessly. Yahoo will go live at 1 p.m. Eastern Daylight Time (“EDT”). Simply navigate to
+https://finance.yahoo.com/brklivestream.
+Our formal meeting will commence at 5:00 p.m. EDT and should finish by 5:30 p.m. Earlier, between
+1:30-5:00, we will answer your questions as relayed by Becky. As always, we will have no foreknowledge as to what
+questions will be asked. Send your zingers to BerkshireQuestions@cnbc.com. Yahoo will wrap things up after 5:30.
+And now – drum roll, please – a surprise. This year our meeting will be held in Los Angeles . . . and Charlie
+will be on stage with me offering answers and observations throughout the 3 1⁄ 2-hour question period. I missed him last
+year and, more important, you clearly missed him. Our other invaluable vice-chairmen, Ajit Jain and Greg Abel, will
+be with us to answer questions relating to their domains.
+Join us via Yahoo. Direct your really tough questions to Charlie! We will have fun, and we hope you will as
+well.
+Better yet, of course, will be the day when we see you face to face. I hope and expect that will be in 2022.
+The citizens of Omaha, our exhibiting subsidiaries and all of us at the home office can’t wait to get you back for an
+honest-to-God annual meeting, Berkshire-style.
+February 27, 2021
+Warren E. Buffett
+Chairman of the Board
+15
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+☑ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2020
+OR
+TRANSITION
+REPORT
+PURSUANT
+TO
+SECTION
+13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+☐
+1934
+For the transition period from
+to
+Commission file number 001-14905
+BERKSHIRE HATHAWAY INC.
+(Exact name of Registrant as specified in its charter)
+Delaware
+47-0813844
+State or other jurisdiction of
+incorporation or organization
+(I.R.S. Employer
+Identification No.)
+(Address of principal executive office)
+(Zip Code)
+3555 Farnam Street, Omaha, Nebraska
+68131
+Registrant’s telephone number, including area code (402) 346-1400
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Class A Common Stock
+Class B Common Stock
+0.750% Senior Notes due 2023
+1.125% Senior Notes due 2027
+1.625% Senior Notes due 2035
+1.300% Senior Notes due 2024
+2.150% Senior Notes due 2028
+0.625% Senior Notes due 2023
+0.000% Senior Notes due 2025
+2.375% Senior Notes due 2039
+0.500% Senior Notes due 2041
+2.625% Senior Notes due 2059
+Trading Symbols
+BRK.A
+BRK.B
+BRK23
+BRK27
+BRK35
+BRK24
+BRK28
+BRK23A
+BRK25
+BRK39
+BRK41
+BRK59
+Name of each exchange on which registered
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: NONE
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes ☑
+No ☐
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☑
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. Yes ☑ No ☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to
+Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files). Yes ☑ No ☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ☑ Accelerated filer ☐ Nonaccelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its
+internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public
+accounting firm that prepared or issued its audit report. ☑
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☑
+State the aggregate market value of the voting stock held by non-affiliates of the Registrant as of June 30, 2020: $336,500,000,000*
+Indicate the number of shares outstanding of each of the Registrant’s classes of common stock:
+February 16, 2021—Class A common stock, $5 par value
+640,586 shares
+February 16, 2021—Class B common stock, $0.0033 par value
+1,336,348,609 shares
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Proxy Statement for the Registrant’s Annual Meeting to be held May 1, 2021 are incorporated in Part III.
+* This aggregate value is computed at the last sale price of the common stock as reported on the New York Stock Exchange on June 30,
+2020. It does not include the value of Class A common stock and Class B common stock held by Directors and Executive Officers of
+the Registrant and members of their immediate families, some of whom may not constitute “affiliates” for purpose of the Securities
+Exchange Act of 1934.
+Table of Contents
+Page No.
+Part I
+Item 1.
+Item 1A.
+Item 1B.
+Item 2.
+Item 3.
+Item 4.
+Business Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Unresolved Staff Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description of Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mine Safety Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+K-1
+K-22
+K-26
+K-26
+K-28
+K-29
+Part II
+Item 5.
+Item 6.
+Item 7.
+Item 7A.
+Item 8.
+Item 9.
+Item 9A.
+Item 9B.
+Market for Registrant’s Common Equity, Related Security Holder Matters and Issuer
+Purchases of Equity Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion and Analysis of Financial Condition and Results of Operations ~. . . . . .
+Quantitative and Qualitative Disclosures About Market Risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Consolidated Balance Sheets—
+December 31, 2020 and December 31, 2019 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Consolidated Statements of Earnings—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018 . . . . . . . . . . . . . .
+Consolidated Statements of Comprehensive Income—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018 . . . . . . . . . . . . . .
+Consolidated Statements of Changes in Shareholders’ Equity—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018 . . . . . . . . . . . . . .
+Consolidated Statements of Cash Flows—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018 . . . . . . . . . . . . . .
+Notes to Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure . . . . . .
+Controls and Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. .............................................................. ....
+Other Information
+K-29
+K-32
+K-33
+K-66
+K-67
+K-70
+K-72
+K-73
+K-73
+K-74
+K-75
+K-116
+K-116
+K-116
+Part III
+Item 10.
+Item 11.
+Item 12.
+Item 13.
+Item 14.
+Directors, Executive Officers and Corporate Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder
+Matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Certain Relationships and Related Transactions and Director Independence . . . . . . . . . . . . . . . . .
+Principal Accountant Fees and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+K-116
+K-116
+K-116
+K-116
+K-116
+Part IV
+Item 15.
+Exhibits and Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+K-116
+Exhibit Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Signatures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+K-120
+K-122
+Part I
+Item 1. Business Description
+Berkshire Hathaway Inc. (“Berkshire,” “Company” or “Registrant”) is a holding company owning subsidiaries
+engaged in a large number of diverse business activities. The most important of these are insurance businesses conducted on
+both a primary basis and a reinsurance basis, a freight rail transportation business and a group of utility and energy generation
+and distribution businesses. Berkshire also owns and operates numerous other businesses engaged in a variety of activities, as
+identified herein. Berkshire is domiciled in the state of Delaware, and its corporate headquarters is in Omaha, Nebraska.
+Berkshire’s operating businesses are managed on an unusually decentralized basis. There are few centralized or
+integrated business functions. Berkshire’s corporate senior management team participates in and is ultimately responsible for
+significant capital allocation decisions, investment activities and the selection of the Chief Executive to head each of the
+operating businesses.
+Berkshire’s senior management is also responsible for establishing and monitoring Berkshire’s corporate governance
+practices, including monitoring governance efforts, including those at the operating businesses, and participating in the
+resolution of governance-related issues as needed. Berkshire’s Board of Directors is responsible for assuring an appropriate
+successor to the Chief Executive Officer. The Berkshire Code of Business Conduct and Ethics emphasizes, among other
+things, the commitment to ethics and compliance with the law and provides basic standards for ethical and legal behavior of
+its employees.
+Berkshire and its consolidated subsidiaries employed approximately 360,000 people worldwide at the end of 2020.
+Human capital and resources are an integral and essential component of Berkshire’s businesses. Consistent with Berkshire’s
+decentralized management philosophy, Berkshire’s operating businesses establish specific policies and practices for their
+businesses concerning the attraction and retention of personnel within the organizations. Such policies and practices generally
+address, among other things: maintaining a safe work environment for employees, customers and other business partners,
+offering competitive compensation to employees, including health insurance and retirement benefits and incentives,
+providing learning and career development opportunities, and hiring practices intended to identify qualified candidates and
+promote diversity and inclusion in the workforce.
+Insurance and Reinsurance Businesses
+Berkshire’s insurance and reinsurance business activities are conducted through numerous domestic and foreign-based
+insurance entities. Berkshire’s insurance businesses provide insurance and reinsurance of property and casualty and life,
+accident and health risks worldwide. Berkshire’s insurance businesses employed approximately 51,000 people at the end of
+2020.
+In direct or primary insurance activities, the insurer assumes the risk of loss from persons or organizations that are
+directly subject to the risks. Such risks may relate to property, casualty (or liability), life, accident, health, financial or other
+perils that may arise from an insurable event. In reinsurance activities, the reinsurer assumes defined portions of risks that
+other direct insurers or reinsurers assumed in their own insuring activities.
+Reinsurance contracts are normally classified as treaty or facultative contracts. Treaty reinsurance refers to reinsurance
+coverage for all or a portion of a specified group or class of risks ceded by the direct insurer, while facultative reinsurance
+involves coverage of specific individual underlying risks. Reinsurance contracts are further classified as quota-share or
+excess. Under quota-share (proportional or pro-rata) reinsurance, the reinsurer shares proportionally in the original premiums
+and losses of the direct insurer or reinsurer. Excess (or non-proportional) reinsurance provides for the indemnification of the
+direct insurer or reinsurer for all or a portion of the loss in excess of an agreed upon amount or “retention.” Both quota-share
+and excess reinsurance contracts may provide for aggregate limits of indemnification.
+Insurance and reinsurance are generally subject to regulatory oversight throughout the world. Except for regulatory
+considerations, there are virtually no barriers to entry into the insurance and reinsurance industry. Competitors may be
+domestic or foreign, as well as licensed or unlicensed. The number of competitors within the industry is not known. Insurers
+and reinsurers compete on the basis of reliability, financial strength and stability, financial ratings, underwriting consistency,
+service, business ethics, price, performance, capacity, policy terms and coverage conditions.
+K-1
+Insurers based in the United States (“U.S.”) are subject to regulation by their states of domicile and by those states in
+which they are licensed to write policies on an admitted basis. The primary focus of regulation is to assure that insurers are
+financially solvent and that policyholder interests are otherwise protected. States establish minimum capital levels for
+insurance companies and establish guidelines for permissible business and investment activities. States have the authority to
+suspend or revoke a company’s authority to do business as conditions warrant. States regulate the payment of dividends by
+insurance companies to their shareholders and other transactions with affiliates. Dividends, capital distributions and other
+transactions of extraordinary amounts are subject to prior regulatory approval.
+Insurers may market, sell and service insurance policies in the states where they are licensed. These insurers are
+referred to as admitted insurers. Admitted insurers are generally required to obtain regulatory approval of their policy forms
+and premium rates. Non-admitted insurance markets have developed to provide insurance that is otherwise unavailable
+through admitted insurers. Non-admitted insurance, often referred to as “excess and surplus” lines, is procured by either statelicensed surplus lines brokers who place risks with insurers not licensed in that state or by the insured party’s direct
+procurement from non-admitted insurers. Non-admitted insurance is subject to considerably less regulation with respect to
+policy rates and forms. Reinsurers are normally not required to obtain regulatory approval of premium rates or reinsurance
+contracts.
+The insurance regulators of every state participate in the National Association of Insurance Commissioners (“NAIC”).
+The NAIC adopts forms, instructions and accounting procedures for use by U.S. insurers and reinsurers in preparing and
+filing annual statutory financial statements. However, an insurer’s state of domicile has ultimate authority over these matters.
+In addition to its activities relating to the annual statement, the NAIC develops or adopts statutory accounting principles,
+model laws, regulations and programs for use by its members. Such matters deal with regulatory oversight of solvency, risk
+management, compliance with financial regulation standards and risk-based capital reporting requirements.
+U.S. states, through the NAIC, and international insurance regulators through the International Association of
+Insurance Supervisors (“IAIS”) have been developing standards and best practices focused on establishing a common set of
+principles (“Insurance Core Principles”) and framework (“ComFrame”) for the regulation of large multi-national insurance
+groups. The standards address a variety of topics regarding supervision, coordination of regulators, insurance capital
+standards, risk management and governance. While the IAIS standards do not have legal effect, the states and the NAIC are
+implementing various regulatory tools and mandates that are responsive to certain IAIS standards. For example, the U.S. state
+regulators now require insurance groups to file an annual report, called an Own Risk Solvency Assessment or ORSA, with
+the group’s lead regulator. U.S. state regulators formed supervisory colleges intended to promote communication and
+cooperation amongst the various domestic international insurance regulators. The Nebraska Department of Insurance acts as
+the lead group wide supervisor for our group of insurance companies and chairs the Berkshire supervisory college. The NAIC
+is also developing further tools, including a group capital calculation tool and various liquidity assessments, that could be
+imposed on insurance groups in the future.
+Berkshire’s insurance companies maintain capital strength at exceptionally high levels, which differentiates them from
+their competitors. Collectively, the combined statutory surplus of Berkshire’s U.S.-based insurers was approximately $237
+billion at December 31, 2020. Berkshire’s major insurance subsidiaries are rated AA+ by Standard & Poor’s and A++
+(superior) by A.M. Best with respect to their financial condition and claims paying ability.
+The Terrorism Risk Insurance Act of 2002 established within the Department of the Treasury a Terrorism Insurance
+Program (“Program”) for commercial property and casualty insurers by providing federal reinsurance of insured terrorism
+losses. The Program currently extends to December 31, 2027 through other Acts, most recently the Terrorism Risk Insurance
+Program Reauthorization Act of 2019 (the “2019 TRIA Reauthorization”). Hereinafter these Acts are collectively referred to
+as TRIA. Under TRIA, the Department of the Treasury is charged with certifying “acts of terrorism.” Coverage under TRIA
+occurs if the industry insured loss for certified events occurring during the calendar year exceeds $200 million in 2020, or
+any calendar year thereafter.
+To be eligible for federal reinsurance, insurers must make available insurance coverage for acts of terrorism, by
+providing policyholders with clear and conspicuous notice of the amount of premium that will be charged for this coverage
+and of the federal share of any insured losses resulting from any act of terrorism. Assumed reinsurance is specifically
+excluded from TRIA participation. TRIA currently also excludes certain forms of direct insurance (such as personal and
+commercial auto, burglary, theft, surety and certain professional liability lines). Reinsurers are not required to offer terrorism
+coverage and are not eligible for federal reinsurance of terrorism losses.
+K-2
+During 2020 and thereafter, in the event of a certified act of terrorism, the federal government will reimburse insurers
+(conditioned on their satisfaction of policyholder notification requirements) for 80% of their insured losses in excess of an
+insurance group’s deductible. Under the Program, the deductible is 20% of the aggregate direct subject earned premium for
+relevant commercial lines of business in the immediately preceding calendar year. The aggregate deductible in 2021 for
+Berkshire’s insurance group is expected to approximate $1.4 billion. There is also an aggregate program limit of $100 billion
+on the amount of the federal government coverage for each TRIA year.
+The extent of insurance regulation varies significantly among the countries in which our non-U.S. operations conduct
+business. While each country imposes licensing, solvency, auditing, and financial reporting requirements, the type and extent
+of the requirements differ substantially. For example:
+• in some countries, insurers are required to prepare and file monthly and/or quarterly financial reports, and in
+others, only annual reports;
+• some regulators require intermediaries to be involved in the sale of insurance products, whereas other regulators
+permit direct sales contact between the insurer and the customer;
+• the extent of restrictions imposed upon an insurer's use of local and offshore reinsurance vary;
+• policy form filing and rate regulation vary by country;
+• the frequency of contact and periodic on-site examinations by insurance authorities differ by country;
+• the scope and prescriptive requirements of an insurer’s risk management and governance framework vary
+significantly by country; and
+• regulatory requirements relating to insurer dividend policies vary by country.
+Significant variations can also be found in the size, structure, and resources of the local regulatory departments that
+oversee insurance activities. Certain regulators prefer close relationships with all subject insurers and others operate a riskbased approach.
+Berkshire’s insurance group operates in some countries through subsidiaries and in some countries through branches of
+subsidiaries. Berkshire insurance subsidiaries are located in several countries, including Germany, the United Kingdom
+(“UK”), Ireland, Australia and South Africa, and also maintain branches in other countries, including Canada, various
+members of the European Union (“EU”), Australia, New Zealand, Singapore, Hong Kong, Macau and Dubai. Most of these
+foreign jurisdictions impose local capital requirements. Other legal requirements include discretionary licensing procedures,
+local retention of funds and records, and data privacy and protection program requirements. Berkshire’s international
+insurance companies are also subject to multinational application of certain U.S. laws.
+There are various regulatory bodies and initiatives that impact Berkshire in multiple international jurisdictions and the
+potential for significant effect on the Berkshire insurance group could be heightened as a result of recent industry and
+economic developments.
+On June 23, 2016, the UK voted in a national referendum to withdraw from the EU (“Brexit”), which resulted in the
+UK’s withdrawal from the EU on January 31, 2020. In anticipation of the UK leaving the EU, Berkshire Hathaway European
+Insurance DAC in Ireland was established to permit property and casualty insurance and reinsurance businesses to continue
+to operate in the EU following Brexit. Following the withdrawal of the UK from the EU as a result of Brexit, Berkshire
+expects to continue to maintain a substantial presence in London.
+Berkshire’s insurance underwriting operations include the following groups: (1) GEICO, (2) Berkshire Hathaway
+Primary Group and (3) Berkshire Hathaway Reinsurance Group. Except for retroactive reinsurance and periodic payment
+annuity products that generate significant amounts of up-front premiums along with estimated claims expected to be paid
+over very long time periods (creating “float,” see Investments section below), Berkshire expects to achieve a net underwriting
+profit over time and to reject inadequately priced risks. Underwriting profit is defined as earned premiums less associated
+incurred losses, loss adjustment expenses and underwriting and policy acquisition expenses. Underwriting profit does not
+include income earned from investments. Additional information related to each of Berkshire’s underwriting groups follows.
+GEICO—GEICO is headquartered in Chevy Chase, Maryland. GEICO’s insurance subsidiaries consist of Government
+Employees Insurance Company, GEICO General Insurance Company, GEICO Indemnity Company, GEICO Casualty
+Company, GEICO Advantage Insurance Company, GEICO Choice Insurance Company, GEICO Secure Insurance Company,
+GEICO County Mutual Insurance Company and GEICO Marine Insurance Company. The GEICO companies primarily offer
+private passenger automobile insurance to individuals in all 50 states and the District of Columbia. GEICO also provides
+insurance for motorcycles, all-terrain vehicles, recreational vehicles, boats and small commercial fleets and acts as an agent
+for other insurers who offer homeowners, renters, life and identity management insurance to individuals who desire insurance
+coverages other than those offered by GEICO.
+GEICO’s marketing is primarily through direct response methods in which applications for insurance are submitted
+directly to the companies via the Internet or by telephone, and to a lesser extent, through captive agents. GEICO conducts
+business through regional service centers and claims adjustment and other facilities in 39 states.
+K-3
+The automobile insurance business is highly competitive in the areas of price and service. GEICO competes for private
+passenger automobile insurance customers in the preferred, standard and non-standard risk markets with other companies that
+sell directly to the customer as well as with companies that use agency sales forces, including State Farm, Allstate,
+Progressive and USAA. GEICO’s advertising campaigns and competitive rates contributed to a cumulative increase in
+voluntary policies-in-force of approximately 36% over the past five years. According to the most recently published A.M.
+Best data for 2019, the five largest automobile insurers had a combined market share in 2019 of approximately 58% based on
+written premiums, with GEICO’s market share being second largest at approximately 13.8%. Since that data was published,
+GEICO’s management estimates its current market share may have declined, depending on how the effects of pandemicrelated premium credit programs will be reflected in A.M. Best’s measurements. Seasonal variations in GEICO’s insurance
+business are not significant. However, extraordinary weather conditions or other factors may have a significant effect upon
+the frequency or severity of automobile claims.
+State insurance departments stringently regulate private passenger auto insurance. As a result, it is difficult for
+insurance companies to differentiate their products. Competition for private passenger automobile insurance, which is
+substantial, tends to focus on price and level of customer service provided. GEICO’s cost-efficient direct response marketing
+methods and emphasis on customer satisfaction enable it to offer competitive rates and value to its customers. GEICO
+primarily uses its own claims staff to manage and settle claims. The name and reputation of GEICO are material assets and
+management protects it and other service marks through appropriate registrations.
+Berkshire Hathaway Primary Group—The Berkshire Hathaway Primary Group (“BH Primary”) is a collection of
+independently managed insurers that provide a wide variety of insurance coverages to policyholders located principally in the
+United States. These various operations are discussed below.
+NICO and certain affiliates (“NICO Primary”) underwrite commercial motor vehicle and general liability insurance on
+an admitted basis and on an excess and surplus basis. Insurance coverages are offered nationwide primarily through insurance
+agents and brokers.
+The Berkshire Hathaway Homestate Companies (“BHHC”) is a group of insurers offering workers’ compensation,
+commercial auto and commercial property coverages to a diverse client base. BHHC has a national reach, with the ability to
+provide first-dollar and small to large deductible workers’ compensation coverage to employers in all states, except those
+where coverage is available only through state-operated workers’ compensation funds. NICO Primary and BHHC are each
+based in Omaha, Nebraska.
+Berkshire Hathaway Specialty Insurance (“BH Specialty”) offers commercial property, casualty, healthcare
+professional liability, executive and professional, surety, travel, medical stop loss and homeowner’s insurance through
+Berkshire Hathaway Specialty Insurance Company and other Berkshire insurance affiliates. BH Specialty writes primary and
+excess policies on an admitted and surplus basis in the U.S., and on a local or foreign non-admitted basis outside the U.S. BH
+Specialty is based in Boston, Massachusetts, with regional offices currently in several U.S. cities. BH Specialty also
+maintains international offices located in Australia, New Zealand, Canada and several countries in Asia, Europe and the
+Middle East. BH Specialty writes business through wholesale and retail insurance brokers, as well as managing general
+agents.
+MedPro Group (“MedPro”) is a leading provider of healthcare liability (“HCL”) insurance in the United States.
+MedPro provides customized HCL insurance, claims, patient safety and risk solutions to physicians, surgeons, dentists and
+other healthcare professionals, as well as hospitals, senior care and other healthcare facilities. Additionally, MedPro provides
+HCL insurance solutions to the international markets through other Berkshire insurance affiliates, delivers liability insurance
+to other professionals, and offers specialized accident and health insurance solutions to colleges and other customers through
+its subsidiaries and other Berkshire affiliates. MedPro is based in Fort Wayne, Indiana.
+U.S. Liability Insurance Company (“USLI”) includes a group of five specialty insurers that underwrite commercial,
+professional and personal lines insurance on an admitted basis, as well as an excess and surplus basis. USLI markets policies
+in all 50 states and the District of Columbia and Canada through wholesale and retail insurance agents. USLI companies also
+underwrite and market a wide variety of specialty insurance products. USLI is based in Wayne, Pennsylvania.
+The Berkshire Hathaway GUARD Insurance Companies (“GUARD”) is a group of five insurance companies that
+provide workers’ compensation, business owners’, commercial auto, commercial package and homeowners’ products to over
+350,000 small and mid-sized businesses. GUARD also offers complementary professional liability and umbrella products
+nationwide. Policies are offered through independent agents and retail and wholesale brokers. GUARD is based in WilkesBarre, Pennsylvania. Central States Indemnity Company of Omaha, based in Omaha, Nebraska, primarily writes credit card
+credit insurance, Medicare Supplement insurance and agricultural equipment insurance.
+On October 1, 2018, NICO acquired MLMIC Insurance Company (“MLMIC”). MLMIC has been the leading writer of
+medical professional liability insurance in New York State for over 40 years. MLMIC distributes its policies mostly on a
+K-4
+direct basis to medical and dental professionals, health care providers and hospitals. In October 2019, Berkshire sold its 81%
+interest in Applied Underwriters, Inc.
+Berkshire Hathaway Reinsurance Group—Berkshire’s combined global reinsurance business, referred to as the
+Berkshire Hathaway Reinsurance Group (“BHRG”), offers a wide range of coverages on property, casualty, life and health
+risks to insurers and reinsurers worldwide. Reinsurance business is written through National Indemnity Company (“NICO”),
+domiciled in Nebraska, its subsidiaries and various other insurance subsidiaries wholly owned by Berkshire (collectively, the
+“NICO Group”) and General Re Corporation, domiciled in Delaware, and its subsidiaries (collectively the “General Re
+Group”). BHRG’s underwriting operations in the U.S. are based in Stamford, Connecticut. BHRG also conducts business
+activities globally in 23 countries.
+The type and volume of business written is dependent on market conditions, including prevailing premium rates and
+coverage terms. The level of underwriting activities often fluctuates significantly from year to year depending on the
+perceived level of price adequacy in specific insurance and reinsurance markets as well as from the timing of particularly
+large reinsurance transactions.
+Property/casualty
+The NICO Group offers traditional property/casualty reinsurance on both an excess-of-loss and a quota-share basis,
+catastrophe excess-of-loss treaty and facultative reinsurance, and primary insurance on an excess-of-loss basis for large or
+unusual risks for clients worldwide.
+The type and volume of business written by the NICO Group may vary significantly from period to period resulting
+from changes in perceived premium rate adequacy and from unique or large transactions. A significant portion of NICO
+Group’s annual reinsurance premium volume currently derives from a 20% quota-share agreement with Insurance Australia
+Group Limited (“IAG”) that expires July 1, 2025. IAG is a multi-line insurer in Australia, New Zealand and other AsiaPacific countries. The General Re Group conducts a global property and casualty reinsurance business. Reinsurance contracts
+are written on both a quota-share and excess basis for multiple lines of business. Contracts are primarily in the form of
+treaties, and to a lesser degree, on a facultative basis.
+General Re Group conducts business in North America primarily through General Reinsurance Corporation (“GRC”),
+which is licensed in the District of Columbia and all states, except Hawaii, where it is an accredited reinsurer. GRC conducts
+operations in North America from its headquarters in Stamford, Connecticut and through 13 branch offices in the U.S. and
+Canada.
+In North America, the General Re Group includes General Star National Insurance Company, General Star Indemnity
+Company and Genesis Insurance Company, which offer a broad array of specialty and surplus lines and property, casualty
+and professional liability coverages. Such business is marketed through a select group of wholesale brokers, managing
+general underwriters and program administrators, and offer solutions for the unique needs of public entity, commercial and
+captive customers.
+General Re Group’s international reinsurance business is conducted on a direct basis through General Reinsurance AG
+(“GRAG”), based in Cologne, Germany, and through several other subsidiaries and branches in 22 countries. International
+business is also written through brokers, including Faraday Underwriting Limited (“Faraday”), a wholly-owned subsidiary.
+Faraday owns the managing agent of Syndicate 435 at Lloyd’s of London and provides capacity and participates in 100% of
+the results of Syndicate 435.
+Life/health
+The General Re Group also conducts a global life and health reinsurance business. In the U.S. and internationally, the
+General Re Group writes life, disability, supplemental health, critical illness and long-term care coverages. The life/health
+business is marketed on a direct basis. Approximately 35% of the aggregate life/health net premiums written by the General
+Re Group were in the Asia Pacific compared to 26% in the United States, 22% in Western Europe and 17% throughout the
+rest of the world.
+Berkshire Hathaway Life Insurance Company of Nebraska (“BHLN”), a subsidiary of NICO, and its affiliates write
+reinsurance covering various forms of traditional life insurance exposures and, on a limited basis, health insurance exposures.
+BHLN and its affiliates have also periodically reinsured certain guaranteed minimum death, income, and similar benefit risks
+on closed-blocks of variable annuity reinsurance contracts.
+K-5
+Retroactive reinsurance
+NICO also periodically writes retroactive reinsurance contracts. Retroactive reinsurance contracts indemnify ceding
+companies against the adverse development of claims arising from loss events that have already occurred under property and
+casualty policies issued in prior years. Coverages under such contracts are provided on an excess basis (above a stated
+retention) or for losses payable after the inception of the contract with no additional ceding company retention. Contracts are
+normally subject to aggregate limits of indemnification, which can be exceptionally large in amount. For instance, an excess
+contract written in January 2017 provides indemnification for 80% of up to $25 billion in excess of $25 billion retained by
+the ceding company. Significant amounts of asbestos, environmental and latent injury claims may arise under these contracts.
+The concept of time-value-of-money is an important element in establishing retroactive reinsurance contract prices and
+terms since loss payments may occur over decades. Normally, expected ultimate losses payable under these policies are
+expected to exceed premiums, thus producing underwriting losses. Nevertheless, this business is written, in part, because of
+the large amounts of policyholder funds generated for investment, the economic benefit of which will be reflected through
+investment results in future periods.
+Periodic payment annuity
+BHLN writes periodic payment annuity insurance policies and reinsures existing annuity-like obligations. Under these
+policies, BHLN receives upfront premiums and agrees in the future to make periodic payments that often extend for decades.
+These policies, generally relate to the settlement of underlying personal injury or workers’ compensation cases of other
+insurers, known as structured settlements. Consistent with retroactive reinsurance contracts, time-value-of-money concepts
+are an important factor in establishing annuity premiums and underwriting losses are expected from the periodic accretion of
+time-value discounted liabilities.
+Investments of insurance businesses—Berkshire’s insurance subsidiaries hold significant levels of invested assets.
+Investment portfolios are primarily managed by Berkshire’s Chief Executive Officer. Investments include a very large
+portfolio of publicly traded equity securities, which are concentrated in relatively few issuers, as well as fixed maturity
+securities and cash and short-term investments. Generally, there are no targeted allocations by investment type or attempts to
+match investment asset and insurance liability durations. However, investment portfolios have historically included a much
+greater proportion of equity securities than is customary in the insurance industry.
+Invested assets derive from shareholder capital as well as funds provided from policyholders through insurance and
+reinsurance business (“float”). Float is the approximate amount of net policyholder funds generated through underwriting
+activities that is available for investment. The major components of float are unpaid losses and loss adjustment expenses, life,
+annuity and health benefit liabilities, unearned premiums and other policyholder liabilities less premium and reinsurance
+receivables, deferred policy acquisition costs and deferred charges on reinsurance contracts. On a consolidated basis, float has
+grown from approximately $88 billion at the end of 2015 to approximately $138 billion at the end of 2020. The cost of float
+can be measured as the net pre-tax underwriting loss as a percentage of average float. In four of the past five years,
+Berkshire’s cost of float was negative, as its insurance businesses produced net underwriting gains.
+Railroad Business—Burlington Northern Santa Fe
+Burlington Northern Santa Fe, LLC (“BNSF”) is based in Fort Worth, Texas, and through BNSF Railway Company
+(“BNSF Railway”) operates one of the largest railroad systems in North America. BNSF Railway had approximately 35,000
+employees at the end of 2020. BNSF also operates a relatively smaller third-party logistics services business.
+In serving the Midwest, Pacific Northwest, Western, Southwestern and Southeastern regions and ports of the United
+States, BNSF transports a range of products and commodities derived from manufacturing, agricultural and natural resource
+industries. Freight revenues are covered by contractual agreements of varying durations or common carrier published prices
+or company quotations. BNSF’s financial performance is influenced by, among other things, general and industry economic
+conditions at the international, national and regional levels.
+BNSF’s primary routes, including trackage rights, allow it to access major cities and ports in the western and southern
+United States as well as parts of Canada and Mexico. In addition to major cities and ports, BNSF Railway efficiently serves
+many smaller markets by working closely with approximately 200 shortline railroads. BNSF Railway has also entered into
+marketing agreements with other rail carriers, expanding the marketing reach for each railroad and their customers. For the
+year ending December 31, 2020, approximately 37% of freight revenues were derived from consumer products, 26% from
+industrial products, 24% from agricultural products and 13% from coal.
+K-6
+Regulatory Matters
+BNSF is subject to federal, state and local laws and regulations generally applicable to its businesses. Rail operations
+are subject to the regulatory jurisdiction of the Surface Transportation Board (“STB”), the Federal Railroad Administration of
+the United States Department of Transportation (“DOT”), the Occupational Safety and Health Administration (“OSHA”), as
+well as other federal and state regulatory agencies and Canadian regulatory agencies for operations in Canada. The STB has
+jurisdiction over disputes and complaints involving certain rates, routes and services, the sale or abandonment of rail lines,
+applications for line extensions and construction, and the merger with or acquisition of control of rail common carriers. The
+outcome of STB proceedings can affect the profitability of BNSF Railway’s business.
+The DOT and OSHA have jurisdiction under several federal statutes over a number of safety and health aspects of rail
+operations, including the transportation of hazardous materials. BNSF Railway is required to transport these materials to the
+extent of its common carrier obligation. State agencies regulate some aspects of rail operations with respect to health and
+safety in areas not otherwise preempted by federal law.
+Environmental Matters
+BNSF’s rail operations, as well as those of its competitors, are also subject to extensive federal, state and local
+environmental regulation covering discharges to the ground or waters, air emissions, toxic substances and the generation,
+handling, storage, transportation and disposal of waste and hazardous materials. Such regulations effectively increase the
+costs and liabilities associated with rail operations. Environmental risks are also inherent in rail operations, which frequently
+involve transporting chemicals and other hazardous materials.
+Many of BNSF’s land holdings are or have been used for industrial or transportation-related purposes or leased to
+commercial or industrial companies whose activities may have resulted in discharges onto the property. Under federal (in
+particular, the Comprehensive Environmental Response, Compensation and Liability Act) and state statutes, BNSF may be
+held jointly and severally liable for cleanup and enforcement costs associated with a particular site without regard to fault or
+the legality of the original conduct. BNSF may also be subject to claims by third parties for investigation, cleanup, restoration
+or other environmental costs under environmental statutes or common law with respect to properties they own that have been
+impacted by BNSF operations.
+Competition
+The business environment in which BNSF operates is highly competitive. Depending on the specific market,
+deregulated motor carriers and other railroads, as well as river barges, ships and pipelines, may exert pressure on price and
+service levels. The presence of advanced, high service truck lines with expedited delivery, subsidized infrastructure and
+minimal empty mileage continues to affect the market for non-bulk, time-sensitive freight. The potential expansion of longer
+combination vehicles could further encroach upon markets traditionally served by railroads. In order to remain competitive,
+BNSF Railway and other railroads seek to develop and implement operating efficiencies to improve productivity.
+As railroads streamline, rationalize and otherwise enhance their franchises, competition among rail carriers intensifies.
+BNSF Railway’s primary rail competitor in the Western region of the United States is the Union Pacific Railroad Company.
+Other Class I railroads and numerous regional railroads and motor carriers also operate in parts of the same territories served
+by BNSF Railway.
+Utilities and Energy Businesses—Berkshire Hathaway Energy
+Berkshire currently owns 91.1% of the outstanding common stock of Berkshire Hathaway Energy Company (“BHE”).
+BHE is a global energy company with subsidiaries that generate, transmit, store, distribute and supply energy. BHE’s locally
+managed businesses are organized as separate operating units. BHE’s domestic regulated energy interests are comprised of
+four regulated utility companies serving approximately 5.2 million retail customers, five interstate natural gas pipeline
+companies with approximately 21,300 miles of operated pipeline having a design capacity of approximately 21 billion cubic
+feet of natural gas per day and ownership interests in electricity transmission businesses. BHE’s Great Britain electricity
+distribution subsidiaries serve about 3.9 million electricity end-users and its electricity transmission-only business in Alberta,
+Canada serves approximately 85% of Alberta’s population. BHE’s interests also include a diversified portfolio of
+independent power projects, a liquefied natural gas export, import and storage facility, the largest residential real estate
+brokerage firm in the United States, and one of the largest residential real estate brokerage franchise networks in the United
+States. BHE employs approximately 24,000 people in connection with its various operations.
+K-7
+General Matters
+PacifiCorp is a regulated electric utility company headquartered in Oregon, serving electric customers in portions of
+Utah, Oregon, Wyoming, Washington, Idaho and California. The combined service territory’s diverse regional economy
+ranges from rural, agricultural and mining areas to urban, manufacturing and government service centers. No single segment
+of the economy dominates the combined service territory, which helps mitigate PacifiCorp’s exposure to economic
+fluctuations. In addition to retail sales, PacifiCorp sells electricity on a wholesale basis.
+MidAmerican Energy Company (“MEC”) is a regulated electric and natural gas utility company headquartered in
+Iowa, serving electric and natural gas customers primarily in Iowa and also in portions of Illinois, South Dakota and
+Nebraska. MEC has a diverse retail customer base consisting of urban and rural residential customers and a variety of
+commercial and industrial customers. In addition to retail sales and natural gas transportation, MEC sells electricity
+principally to markets operated by regional transmission organizations and natural gas on a wholesale basis.
+NV Energy, Inc. (“NV Energy”) is an energy holding company headquartered in Nevada, primarily consisting of two
+regulated utility subsidiaries, Nevada Power Company (“Nevada Power”) and Sierra Pacific Power Company (“Sierra
+Pacific”) (collectively, the “Nevada Utilities”). Nevada Power serves retail electric customers in southern Nevada and Sierra
+Pacific serves retail electric and natural gas customers in northern Nevada. The Nevada Utilities’ combined service territory’s
+economy includes gaming, mining, recreation, warehousing, manufacturing and governmental services. In addition to retail
+sales and natural gas transportation, the Nevada Utilities sell electricity and natural gas on a wholesale basis.
+As vertically integrated utilities, BHE’s domestic utilities own approximately 29,000 net megawatts of generation
+capacity in operation and under construction. The domestic utilities business is subject to seasonal variations principally
+related to the use of electricity for air conditioning and natural gas for heating. Typically, regulated electric revenues are
+higher in the summer months, while regulated natural gas revenues are higher in the winter months.
+The Great Britain distribution companies consist of Northern Powergrid (Northeast) plc and Northern Powergrid
+(Yorkshire) plc, which own a substantial electricity distribution network that delivers electricity to end-users in northeast
+England in an area covering approximately 10,000 square miles. The distribution companies primarily charge supply
+companies regulated tariffs for the use of their distribution systems.
+AltaLink L.P. (“AltaLink”) is a regulated electric transmission-only utility company headquartered in Calgary, Alberta.
+AltaLink’s high voltage transmission lines and related facilities transmit electricity from generating facilities to major load
+centers, cities and large industrial plants throughout its 87,000 square mile service territory.
+The natural gas pipelines consist of BHE GT&S, LLC (“BHE GT&S”), Northern Natural Gas Company (“Northern
+Natural”) and Kern River Gas Transmission Company (“Kern River”). BHE GT&S was acquired on November 1, 2020.
+BHE GT&S, based in Virginia, operates three interstate natural gas pipeline systems that consist of approximately
+5,400 miles of natural gas transmission, gathering and storage pipelines and operates seventeen underground natural gas
+storage fields in the eastern region of the United States. BHE GT&S’s large underground natural gas storage assets and
+pipeline systems are part of an interconnected gas transmission network that provides transportation services to utilities and
+numerous other customers. BHE GT&S is also an industry leader in liquefied natural gas solutions through its investments in
+and ownership of several liquefied natural gas facilities located throughout the eastern region of the United States.
+Northern Natural, based in Nebraska, operates the largest interstate natural gas pipeline system in the United States, as
+measured by pipeline miles, reaching from west Texas to Michigan’s Upper Peninsula. Northern Natural’s pipeline system
+consists of approximately 14,500 miles of natural gas pipelines. Northern Natural’s extensive pipeline system, which is
+interconnected with many interstate and intrastate pipelines in the national grid system, has access to supplies from multiple
+major supply basins and provides transportation services to utilities and numerous other customers. Northern Natural also
+operates three underground natural gas storage facilities and two liquefied natural gas storage peaking units. Northern
+Natural’s pipeline system experiences significant seasonal swings in demand and revenue, with the highest demand typically
+occurring during the months of November through March.
+Kern River, based in Utah, operates an interstate natural gas pipeline system that consists of approximately 1,400 miles
+and extends from supply areas in the Rocky Mountains to consuming markets in Utah, Nevada and California. Kern River
+transports natural gas for electric and natural gas distribution utilities, major oil and natural gas companies or affiliates of
+such companies, electric generating companies, energy marketing and trading companies, and financial institutions.
+BHE Renewables, based in Iowa, owns interests in independent power projects having approximately 4,700 net
+megawatts of generation capacity that are in service in California, Texas, Illinois, Nebraska, New York, Arizona, Minnesota,
+Kansas, Hawaii and the Philippines. These independent power projects sell power generated primarily from wind, solar,
+geothermal and hydro sources under long-term contracts. Additionally, BHE Renewables has invested over $6 billion in 32
+wind projects sponsored by third parties, commonly referred to as tax equity investments.
+K-8
+Regulatory Matters
+PacifiCorp, MEC and the Nevada Utilities are subject to comprehensive regulation by various federal, state and local
+agencies. The Federal Energy Regulatory Commission (“FERC”) is an independent agency with broad authority to
+implement provisions of the Federal Power Act, the Natural Gas Act, the Energy Policy Act of 2005 and other federal
+statutes. The FERC regulates rates for wholesale sales of electricity; transmission of electricity, including pricing and
+regional planning for the expansion of transmission systems; electric system reliability; utility holding companies; accounting
+and records retention; securities issuances; construction and operation of hydroelectric facilities; and other matters. The
+FERC also has the enforcement authority to assess civil penalties of up to $1.3 million per day per violation of rules,
+regulations and orders issued under the Federal Power Act. MEC is also subject to regulation by the Nuclear Regulatory
+Commission pursuant to the Atomic Energy Act of 1954, as amended, with respect to its 25% ownership of the Quad Cities
+Nuclear Station.
+With certain limited exceptions, BHE’s domestic utilities have an exclusive right to serve retail customers within their
+service territories and, in turn, have an obligation to provide service to those customers. In some jurisdictions, certain classes
+of customers may choose to purchase all or a portion of their energy from alternative energy suppliers, and in some
+jurisdictions retail customers can generate all or a portion of their own energy. Historically, state regulatory commissions
+have established retail electric and natural gas rates on a cost-of-service basis, designed to allow a utility the opportunity to
+recover what each state regulatory commission deems to be the utility’s reasonable costs of providing services, including a
+fair opportunity to earn a reasonable return on its investments based on its cost of debt and equity. The retail electric rates of
+PacifiCorp, MEC and the Nevada Utilities are generally based on the cost of providing traditional bundled services, including
+generation, transmission and distribution services; however, rates are available for transmission and distribution-only
+services.
+Northern Powergrid (Northeast) and Northern Powergrid (Yorkshire) each charge fees for the use of their distribution
+systems that are controlled by a formula prescribed by the British electricity regulatory body, the Gas and Electricity Markets
+Authority. The current eight-year price control period runs from April 1, 2015 through March 31, 2023.
+AltaLink is regulated by the Alberta Utilities Commission (“AUC”), pursuant to the Electric Utilities Act (Alberta), the
+Public Utilities Act (Alberta), the Alberta Utilities Commission Act (Alberta) and the Hydro and Electric Energy Act
+(Alberta). The AUC is an independent quasi-judicial agency, which regulates and oversees Alberta’s electricity transmission
+sector with broad authority that may impact many of AltaLink’s activities, including its tariffs, rates, construction, operations
+and financing. Under the Electric Utilities Act, AltaLink prepares and files applications with the AUC for approval of tariffs
+to be paid by the Alberta Electric System Operator (“AESO”) for the use of its transmission facilities, and the terms and
+conditions governing the use of those facilities. The AESO is an independent system operator in Alberta, Canada that
+oversees Alberta’s integrated electrical system (“AIES”) and wholesale electricity market. The AESO is responsible for
+directing the safe, reliable and economic operation of the AIES, including long-term transmission system planning.
+The natural gas pipelines are subject to regulation by various federal and state agencies. The natural gas pipeline and
+storage operations of BHE GT&S, Northern Natural and Kern River are regulated by the FERC pursuant to the Natural Gas
+Act and the Natural Gas Policy Act of 1978. Under this authority, the FERC regulates, among other items, (a) rates, charges,
+terms and conditions of service, (b) the construction and operation of interstate pipelines, storage and related facilities,
+including the extension, expansion or abandonment of such facilities and (c) the construction and operation of liquefied
+natural gas import/export facilities. Interstate natural gas pipeline companies are also subject to regulations administered by
+the Office of Pipeline Safety within the Pipeline and Hazardous Materials Safety Administration, an agency of the DOT.
+Federal pipeline safety regulations are issued pursuant to the Natural Gas Pipeline Safety Act of 1968, as amended, which
+establishes safety requirements in the design, construction, operation and maintenance of interstate natural gas pipeline
+facilities.
+Environmental Matters
+BHE and its energy businesses are subject to federal, state, local and foreign laws and regulations regarding climate
+change, renewable portfolio standards, air and water quality, emissions performance standards, coal combustion byproduct
+disposal, hazardous and solid waste disposal, protected species and other environmental matters that have the potential to
+impact current and future operations. In addition to imposing continuing compliance obligations, these laws and regulations,
+such as the Federal Clean Air Act, provide regulators with the authority to levy substantial penalties for noncompliance,
+including fines, injunctive relief and other sanctions.
+The Federal Clean Air Act, as well as state laws and regulations impacting air emissions, provides a framework for
+protecting and improving the nation’s air quality and controlling sources of air emissions. These laws and regulations
+continue to be promulgated and implemented and will impact the operation of BHE’s generating facilities and require them to
+reduce emissions at those facilities to comply with the requirements.
+K-9
+Renewable portfolio standards have been established by certain state governments and generally require electricity
+providers to obtain a minimum percentage of their power from renewable energy resources by a certain date. Utah, Oregon,
+Washington, California, Iowa and Nevada have adopted renewable portfolio standards. In addition, the potential adoption of
+state or federal clean energy standards, which include low-carbon, non-carbon and renewable electricity generating resources,
+may also impact electricity generators and natural gas providers.
+In December 2015, an international agreement was negotiated by 195 nations to create a universal framework for
+coordinated action on climate change in what is referred to as the Paris Agreement. The Paris Agreement reaffirms the goal
+of limiting global temperature increase well below 2 degrees Celsius, while urging efforts to limit the increase to 1.5 degrees
+Celsius; establishes commitments by all parties to make nationally determined contributions and pursue domestic measures
+aimed at achieving the commitments; commits all countries to submit emissions inventories and report regularly on their
+emissions and progress made in implementing and achieving their nationally determined commitments; and commits all
+countries to submit new commitments every five years, with the expectation that the commitments will get more aggressive.
+In the context of the Paris Agreement, the United States agreed to reduce greenhouse gas emissions 26% to 28% by 2025
+from 2005 levels. The Paris Agreement formally entered into force November 4, 2016. The United States completed its
+withdrawal from the Paris Agreement on November 4, 2020. President Biden accepted the terms of the climate agreement on
+January 21, 2021, and the United States completed its reentry on February 19, 2021.
+On October 10, 2017, the Environmental Protection Agency (“EPA”) issued a proposal to repeal the Clean Power Plan,
+which was intended to achieve an overall reduction in carbon dioxide emissions from existing fossil-fueled electric
+generating units of 32% below 2005 levels. On June 19, 2019, the EPA repealed the Clean Power Plan and issued the
+Affordable Clean Energy rule, which fully replaced the Clean Power Plan. In the Affordable Clean Energy rule, the EPA
+determined that the best system of emissions reduction for existing coal fueled power plants is heat rate improvements and
+identified a set of candidate technologies and measures that could improve heat rates. Measures taken to meet the standards
+of performance must be achieved at the source itself.
+The EPA’s repeal and replacement of the Clean Power Plan is not expected to have a material impact on BHE and its
+energy subsidiaries. Increasingly, states are adopting legislation and regulations to reduce greenhouse gas emissions, and
+local governments and consumers are seeking increasing amounts of clean and renewable energy.
+BHE and its energy subsidiaries continue to focus on delivering reliable, affordable, safe and clean energy to its
+customers and on actions to mitigate greenhouse gas emissions. For example, through December 31, 2020, BHE’s cumulative
+investment in wind, solar, geothermal and biomass generation is approximately $34 billion.
+Non-Energy Businesses
+HomeServices of America, Inc. (“HomeServices”) is the largest residential real estate brokerage firm in the United
+States. In addition to providing traditional residential real estate brokerage services, HomeServices offers other integrated real
+estate services, including mortgage originations and mortgage banking, title and closing services, property and casualty
+insurance, home warranties, relocation services and other home-related services. It operates under 46 brand names with over
+43,000 real estate agents in nearly 900 brokerage offices in 30 states and the District of Columbia.
+HomeServices’ franchise network currently includes approximately 370 franchisees in over 1,600 brokerage offices
+throughout the United States and Europe with over 53,000 real estate agents under two brand names. In exchange for certain
+fees, HomeServices provides the right to use the Berkshire Hathaway HomeServices or Real Living brand names and other
+related service marks, as well as providing orientation programs, training and consultation services, advertising programs and
+other services.
+HomeServices’ principal sources of revenue are dependent on residential real estate sales, which are generally higher
+in the second and third quarters of each year. This business is highly competitive and subject to general real estate market
+conditions.
+Manufacturing Businesses
+Berkshire’s numerous and diverse manufacturing subsidiaries are grouped into three categories: (1) industrial products,
+(2) building products and (3) consumer products. Berkshire’s industrial products businesses manufacture specialty chemicals,
+metal cutting tools, components for aerospace and power generation applications, and a variety of other products primarily
+for industrial use. The building products group produces prefabricated and site-built residential homes, flooring products,
+insulation, roofing and engineered products, building and engineered components, paint and coatings and bricks and masonry
+products. The consumer products group manufactures recreational vehicles, alkaline batteries, various apparel products,
+jewelry and custom picture framing products. Information concerning the major activities of these three groups follows.
+Berkshire’s manufacturing businesses employed approximately 179,000 people at the end of 2020.
+K-10
+Industrial products
+Precision Castparts
+Precision Castparts Corp. (“PCC”) manufactures complex metal components and products, provides high-quality
+investment castings, forgings, fasteners/fastener systems and aerostructures for critical aerospace and power and energy
+applications. PCC also manufactures seamless pipe for coal-fired, industrial gas turbine (“IGT”) and nuclear power plants;
+downhole casing and tubing, fittings and various mill forms in a variety of nickel and steel alloys for severe-service oil and
+gas environments; investment castings and forgings for general industrial, armament, medical and other applications; nickel
+and titanium alloys in all standard mill forms from large ingots and billets to plate, foil, sheet, strip, tubing, bar, rod, extruded
+shapes, rod-in-coil, wire and welding consumables, as well as cobalt alloys, for the aerospace, chemical processing, oil and
+gas, pollution control and other industries; revert management solutions; fasteners for automotive and general industrial
+markets; specialty alloys for the investment casting and forging industries; heat treating and destructive testing services for
+the investment cast products and forging industries; grinder pumps and affiliated components for low-pressure sewer
+systems; critical auxiliary equipment and gas monitoring systems for the power generation industry; and metalworking tools
+for the fastener market and other applications.
+Investment casting technology involves a multi-step process that uses ceramic molds in the manufacture of metal
+components with more complex shapes, closer tolerances and finer surface finishes than parts manufactured using other
+methods. PCC uses this process to manufacture products for aircraft engines, IGT and other aeroderivative engines,
+airframes, medical implants, armament, unmanned aerial vehicles and other industrial applications. PCC also manufactures
+high temperature carbon and ceramic composite components, including ceramic matrix composites, for use in nextgeneration aerospace engines.
+PCC uses forging processes to manufacture components for the aerospace and power generation markets, including
+seamless pipe for coal-fired, industrial gas turbine and nuclear power plants, and downhole casings and tubing pipe for severe
+service oil and gas markets. PCC manufactures high-performance, nickel-based alloys used to produce forged components
+for aerospace and non-aerospace applications in such markets as oil and gas, chemical processing and pollution control.
+These titanium products are used to manufacture components for the commercial and military aerospace, power generation,
+energy and other industrial end markets.
+PCC is also a leading developer and manufacturer of highly engineered fasteners, fastener systems, aerostructures and
+precision components, primarily for critical aerospace applications. These products are produced for the aerospace and power
+and energy markets, as well as for construction, automotive, heavy truck, farm machinery, mining and construction
+equipment, shipbuilding, machine tools, medical equipment, appliance and recreation markets. PCC has several significant
+customers, including aerospace original equipment manufacturers (Boeing and Airbus) and aircraft engine manufacturer
+suppliers (General Electric, Rolls Royce and Pratt &Whitney).
+The majority of PCC’s sales are from customer orders or demand schedules pursuant to long-term agreements.
+Contractual terms may provide for termination by the customer, subject to payment for work performed. PCC typically does
+not experience significant order cancellations, although periodically it receives requests for delays in delivery schedules. In
+2020, delay requests increased due to the COVID-19 pandemic.
+The effects of the COVID-19 pandemic and the grounding of the Boeing 737 MAX produced significant adverse
+effects on the PCC aerospace business in 2020. The sudden and material reductions in air travel led to aircraft build rate
+reductions and customer destocking at extraordinary rates. Aircraft build rates have not yet begun to recover in any
+meaningful way. During 2020, PCC significantly reduced its worldwide workforce by about 40% since the end of 2019 to
+help align operations to reduced aircraft build rates. The restructuring actions taken began to improve margins in late 2020
+from the low margins experienced earlier in the year and further margin improvements are expected going forward.
+PCC is subject to substantial competition in all of its markets. Components and similar products may be produced by
+competitors, who use either the same types of manufacturing processes as PCC or other processes. Although PCC believes its
+manufacturing processes, technology and experience provide advantages to its customers, such as high quality, competitive
+prices and physical properties that often meet more stringent demands, alternative forms of manufacturing can be used to
+produce many of the same components and products. Despite intense competition, PCC is a leading supplier in most of its
+principal markets. Several factors, including long-standing customer relationships, technical expertise, state-of-the-art
+facilities and dedicated employees, aid PCC in maintaining competitive advantages.
+Several raw materials used in PCC products, including certain metals such as nickel, titanium, cobalt, tantalum and
+molybdenum, are found in only a few parts of the world. These metals are required for the alloys used in manufactured
+products. The availability and costs of these metals may be influenced by private or governmental cartels, changes in world
+politics, labor relations between the metal producers and their workforces and inflation.
+K-11
+Lubrizol Corporation
+The Lubrizol Corporation (“Lubrizol”) is a specialty chemical and performance materials company that produces and
+supplies technologies for the global transportation, industrial and consumer markets. Lubrizol currently operates two
+businesses: (1) Lubrizol Additives, which includes engine lubricant additives, driveline lubricant additives and industrial
+specialties products; and (2) Lubrizol Advanced Materials, which includes Engineered Materials (engineered polymers and
+performance coatings) and Life Sciences (beauty and personal care, health and home care solutions).
+Lubrizol Additives products are used in a broad range of applications including engine oils, transmission fluids, gear
+oils, specialty driveline lubricants, fuels, metalworking fluids, compressor lubricants and greases for transportation and
+industrial applications. Lubrizol Advanced Materials products are used in many different types of applications including
+over-the-counter pharmaceutical products, medical devices, performance coatings, personal care products, sporting goods and
+plumbing and fire sprinkler systems. Lubrizol is an industry leader in many of the markets in which it competes. Lubrizol’s
+principal lubricant additives competitors are Infineum International Ltd., Chevron Oronite Company and Afton Chemical
+Corporation. Advanced Materials competes in many markets with a variety of competitors in each product line.
+With its considerable patent portfolio, Lubrizol uses its technological leadership position in product development and
+applies its science capabilities and formulation and market expertise to improve the quality and value of its products.
+Lubrizol leverages its scientific and applications knowledge to meet and exceed customer performance and sustainability
+requirements. While Lubrizol typically has patents that expire each year, it invests resources to protect its intellectual
+property and to develop or acquire innovative products for the markets it serves. Lubrizol uses many specialty and
+commodity chemical raw materials in its manufacturing processes. Raw materials are primarily feedstocks derived from
+petroleum and petrochemicals and, generally, are obtainable from several sources. The materials that Lubrizol chooses to
+purchase from a single source typically are subject to long-term supply contracts to ensure supply reliability.
+Lubrizol operates its business on a global basis through more than 100 offices, laboratories, production facilities and
+warehouses on six continents, the most significant of which are North America, Europe, Asia and South America. Lubrizol
+markets its products worldwide through a direct sales organization and sales agents and distributors. Lubrizol’s customers
+principally consist of major global and regional oil companies and industrial and consumer products companies that are
+located throughout the world. Some of its largest customers also may be suppliers. During 2020, no single customer
+accounted for more than 10% of Lubrizol’s consolidated revenues. In 2020, the global pandemic had an adverse effect on
+many of the markets that Lubrizol serves, including the transportation and industrial markets. This was offset in part by
+strong demand for Lubrizol’s technology that is used in personal care applications, such as hand sanitizers.
+Lubrizol continues to expend necessary capital to upgrade and optimize operations, ensure compliance with health,
+safety and environmental requirements, and increase global manufacturing capacity, while reducing the environmental
+footprint of its operations. Lubrizol also makes a significant investment in its human capital to ensure that it attracts, develops
+and retains a talented and diverse employee workforce.
+Lubrizol is subject to foreign, federal, state and local laws to protect the environment, limit manufacturing waste and
+emissions, ensure product and employee safety and regulate trade. The company believes that its policies, practices and
+procedures are designed to limit the risks of non-compliance with laws and consequent financial liability. Nevertheless, the
+operation of manufacturing plants entails ongoing environmental and other risks, and significant costs or liabilities could be
+incurred in the future.
+IMC International Metalworking Companies
+IMC International Metalworking Companies (“IMC”) is one of the world’s three largest multinational manufacturers of
+consumable precision carbide metal cutting tools for applications in a broad range of industrial end markets. IMC’s principal
+brand names include ISCAR®, TaeguTec®, Ingersoll®, Tungaloy®, Unitac®, UOP®, It.te.di®, Qutiltec®, Tool—Flo®, PCT® and
+IMCO®. IMC’s primary manufacturing facilities are located in Israel, the United States, South Korea, Japan, Germany, Italy,
+Switzerland, India and China.
+IMC has five primary product lines: milling tools, gripping tools, turning/thread tools, drilling tools and tooling. The
+main products are split within each product line between consumable cemented tungsten carbide inserts and steel tool
+holders. Inserts comprise the vast majority of sales and earnings. Metal cutting inserts are used by industrial manufacturers to
+cut metals and are consumed during their use in cutting applications. IMC manufactures hundreds of types of highly
+engineered inserts within each product line that are tailored to maximize productivity and meet the technical requirements of
+customers. IMC’s staff of scientists and engineers continuously develop and innovate products that address end user needs
+and requirements.
+K-12
+IMC’s global sales and marketing network operates in virtually every major manufacturing center around the world,
+staffed with highly skilled engineers and technical personnel. IMC’s customer base is very diverse, with its primary
+customers being large, multinational businesses in the automotive, aerospace, engineering and machinery industries. IMC
+operates a regional central warehouse system with locations in Israel, the United States, Belgium, Korea, Japan, China and
+Brazil. Additional small quantities of products are maintained at local IMC offices to provide on-time customer support and
+inventory management.
+IMC competes in the metal cutting tools segment of the global metalworking tools market. The segment includes
+hundreds of participants who range from small, private manufacturers of specialized products for niche applications and
+markets to larger, global multinational businesses (such as Sandvik and Kennametal, Inc.) with a wide assortment of products
+and extensive distribution networks. Other manufacturing companies such as Kyocera, Mitsubishi, Sumitomo, Ceratizit and
+Korloy also play a significant role in the cutting tool market.
+Marmon Holdings
+Marmon Holdings, Inc. (“Marmon”) is a global industrial organization comprising 11 diverse business sectors and
+more than 100 autonomous manufacturing and service businesses. Marmon’s manufacturing and service operations are
+conducted at approximately 400 manufacturing, distribution and service facilities located primarily in the United States, as
+well as 22 other countries worldwide. Marmon’s business sectors are described as follows.
+Foodservice Technologies manufactures beverage dispensing and cooling equipment, hot and cold food preparation
+and holding equipment and related products for restaurants, global brand owners and other foodservice providers. Operations
+are based in the U.S. with manufacturing in the U.S., Mexico, China, the U.K., Germany and Italy. Products are sold
+primarily throughout the U.S., Europe and Asia.
+Water Technologies manufactures water treatment equipment for residential, commercial and industrial applications
+worldwide. Operations are based primarily in the U.S., Canada, China, Singapore, India and Mexico with business centers
+located in Belgium, France, Poland, Germany, the U.K., Italy, Switzerland and U.A.E.
+Transportation Products serves the automotive, heavy-duty highway transportation, and aerospace industries with
+precision-molded plastic components; fastener thread solutions; metal tubing; auto aftermarket transmission and chassis
+products; platform and lowbed trailers; and truck and trailer components. Operations and business are conducted primarily in
+the U.S., Mexico, Canada, Europe and Asia.
+Retail Solutions provides retail environment design services; in-store digital merchandising, dispensing and display
+fixtures; shopping, material handling and security carts. Operations and business are conducted in the U.S., U.K. and Czech
+Republic.
+Metal Services provides specialty metal pipe, tubing and related value-added services to customers across a broad
+range of industries. Operations are based in the U.S., Canada and Mexico and business is conducted primarily in those
+countries.
+Electrical produces electrical wire for use in residential and commercial buildings, and specialty wire and cable for use
+in energy, transit, aerospace, defense, communication and other industrial applications. Operations are based in the U.S.,
+Canada, India and England. Business is conducted globally and primarily in the U.S., Canada, India, the U.K., U.A.E. and
+China.
+Plumbing & Refrigeration supplies copper tubing and copper, brass, aluminum and stainless-steel fittings and
+components for the plumbing, HVAC and refrigeration markets; custom coils for the HVAC market; and aluminum and brass
+forgings for many commercial and industrial applications. Business and operations are conducted primarily in the U.S.
+Industrial Products supplies construction fasteners; gloves and other protective wear; gear drives, gearboxes, fan drives
+and pump drives for various markets; wind machines for agricultural use; and wheels, axles, and gears for rail, mining and
+other applications. Operations are primarily based in the U.S., Canada and China and business is conducted in those
+countries.
+Rail & Leasing manufactures, leases and maintains railcars; leases intermodal tank containers; manufactures mobile
+railcar movers; provides in-plant rail switching and loading services; performs track construction and maintenance; and
+manufactures steel tank heads and cylinders.
+Union Tank Car Company (“UTLX”) is the largest component of Rail & Leasing and is a leading designer, builder and
+full-service lessor of railroad tank cars and other specialized railcars. Together with its Canadian affiliate Procor, UTLX
+owns a fleet of approximately 124,000 railcars for lease to customers in chemical, petrochemical, energy and
+agricultural/food industries. UTLX manufactures tank cars in the U.S. and performs railcar maintenance services at more than
+100 locations across North America.
+K-13
+UTLX has a diversified customer base, both geographically and across industries. UTLX, while subject to cyclicality
+and significant competition in most of its markets, competes by offering a broad range of high-quality products and services
+targeted at its niche markets. Railcars are typically leased for multiple-year terms and most of the leases are renewed upon
+expiration. Due to selective ongoing capital investment, utilization rates (the number of railcars on lease as a percentage of
+the total fleet) of the railcar fleet are generally high.
+Intermodal tank containers are leased through EXSIF Worldwide. EXSIF is a leading international lessor of intermodal
+tank containers with a fleet of approximately 69,000 units, primarily serving chemical producers and logistics operators.
+Crane Services is a provider of mobile cranes and operators in North America and Australia. Sterling Crane, Joyce
+Crane, Freo Group, and WGC Cranes operate a combined fleet of approximately 1,200 cranes primarily serving the energy,
+mining, petrochemical and infrastructure markets.
+Medical (formed in 2019 through the acquisition of the Colson Medical Companies) develops, manufactures and
+distributes a wide range of innovative medical devices in the extremities fixation, craniomaxillofacial surgery, neurosurgery,
+biologics, aesthetics and powered instruments markets. The sector’s leading-edge medical technology and products are used
+globally to help improve patient care and outcomes. Operations are based in the U.S., Europe and China. Business is
+conducted primarily in North and South America, Europe, Asia and Australia.
+Other industrial products
+CTB International Corp. (“CTB”), headquartered in Milford, Indiana, is a leading global designer, manufacturer and
+marketer of a wide range of agricultural systems and solutions for preserving grain, producing poultry, pigs and eggs, and for
+processing poultry, fish, vegetables and other foods. CTB operates from facilities located around the globe and supports
+customers through a worldwide network of independent distributors and dealers.
+CTB competes with a variety of manufacturers and suppliers, many of which offer only a limited number of the
+products offered by CTB and two of which offer products across many of CTB’s product lines. Competition is based on the
+price, value, reputation, quality and design of the products offered and the customer service provided by distributors, dealers
+and manufacturers of the products. CTB’s leading brand names, distribution network, diversified product line, product
+support and high-quality products enable it to compete effectively. CTB manufactures its products primarily from galvanized
+steel, steel wire, stainless steel and polymer materials and supplies of these materials have been sufficient in recent years.
+LiquidPower Specialty Products Inc. (“LSPI”), headquartered in Houston, Texas, is a global leader in the science of
+drag reduction application (“DRA’) technology by maximizing the flow potential of pipelines, increasing operational
+flexibility and throughput capacity, and efficiencies for customers. LSPI develops innovative flow improver solutions with
+customers in over 40 countries on six continents, treating over 50 million barrels of hydrocarbon liquids per day. LSPI’s
+DRA offering is part of a comprehensive, full-service solution that encompasses industry-leading technology, quality
+manufacturing, technical support and consulting, a reliable supply chain, injection equipment and field service. The Scott
+Fetzer companies are a group of businesses that manufacture, distribute, service and finance a wide variety of products for
+residential, industrial and institutional use.
+Building Products
+Clayton Homes
+Clayton Homes, Inc. (“Clayton”), headquartered near Knoxville, Tennessee, is a vertically integrated housing company
+offering traditional site-built homes and off-site built housing – including modular homes, manufactured homes, CrossMod™
+homes and tiny homes. In 2020, Clayton delivered 46,765 off-site built and 9,475 site-built homes. Clayton also offers home
+financing and insurance products and competes on price, service, location and delivery capabilities.
+All Clayton Built® off-site homes are designed, engineered and assembled in the United States. As of December 2020,
+off-site backlog was $1.3 billion, up 237% from prior year. Clayton sells its homes through independent and company owned
+home centers, realtors and subdivision channels. Clayton considers its ability to make financing available to retail purchasers,
+a factor affecting the market acceptance of its off-site built homes. Clayton’s financing programs utilize proprietary loan
+underwriting guidelines, which include ability to repay calculations, including debt to income limits, consideration of residual
+income and credit score requirements, which are considered in evaluating loan applicants.
+Since 2015, Clayton’s site-built division, Clayton Properties Group, has expanded through the acquisition of nine
+builders across 14 states with a total of 312 subdivisions, supplementing the portfolio of housing products offered to
+customers. Clayton’s site-builders currently own and control a total of 62,514 homesites, with a home order backlog of
+approximately $2.2 billion.
+K-14
+Shaw Industries
+Shaw Industries Group, Inc. (“Shaw”), headquartered in Dalton, Georgia, is a leading manufacturer and distributor of
+carpet and flooring products. Shaw designs and manufactures over 3,800 styles of tufted carpet, wood and resilient flooring
+for residential and commercial use under about 30 brand and trade names and under certain private labels. Shaw also
+provides project management and installation services. Shaw’s manufacturing operations are fully integrated from the
+processing of raw materials used to make fiber through the finishing of carpet. In 2018, Shaw acquired Sanquahar Tile
+Services in Scotland, which manufactures and distributes carpet tile throughout Europe. Shaw also manufactures or
+distributes a variety of hardwood, wood plastic composite (WPC), stone plastic composite (SPC) and vinyl and laminate floor
+products (“hard surfaces”). Shaw’s soft and hard surface products are sold in a broad range of patterns, colors and textures.
+Shaw operates Shaw Sports Turf and Southwest Greens International, LLC, which provide synthetic sports turf, golf greens
+and landscape turf products.
+Shaw products are sold wholesale to over 47,000 retailers, distributors and commercial users throughout the United
+States, Canada and Mexico and are also exported to various overseas markets. Shaw’s wholesale products are marketed
+domestically by over 2,100 salaried and commissioned sales personnel directly to retailers and distributors and to large
+national accounts. Shaw’s seven carpet, nine hard surface, one sample full-service distribution facility, three sample satellite
+locations and 30 redistribution centers, along with centralized management information systems, enable it to provide prompt
+and efficient delivery of its products to both its retail customers and wholesale distributors.
+Substantially all carpet manufactured by Shaw is tufted carpet made from nylon, polypropylene and polyester. In the
+tufting process, yarn is inserted by multiple needles into a synthetic backing, forming loops, which may be cut or left uncut,
+depending on the desired texture or construction. During 2020, Shaw processed approximately 97% of its requirements for
+carpet yarn in its own yarn processing facilities. The availability of raw materials is adequate but costs are impacted by petrochemical and natural gas price changes. Raw material cost changes are periodically factored into selling prices to customers.
+The soft floor covering industry is highly competitive with only a handful of key players domestically where the
+majority of Shaw’s business occurs. There are numerous manufacturers, domestically and internationally, that are engaged in
+hard surface floor covering production, distribution and sales. According to industry estimates, carpet accounts for
+approximately 44% of the total United States consumption of all flooring types. The principal competitive measures within
+the floor covering industry are quality, style, price and service.
+Johns Manville
+Johns Manville (“JM”), headquartered in Denver, Colorado, is a leading manufacturer and marketer of premiumquality products for building insulation, mechanical and industrial insulation, commercial roofing and roof insulation, as well
+as fibers and nonwovens for commercial, industrial and residential applications. JM serves markets that include aerospace,
+automotive and transportation, air handling, appliance, HVAC, pipe and equipment, filtration, waterproofing, building,
+flooring, interiors and wind energy. Fiberglass is the basic material in a majority of JM’s products, although JM also
+manufactures a significant portion of its products with other materials to satisfy the broader needs of its customers. Raw
+materials are readily available in sufficient quantities from various sources for JM to maintain and expand its current
+production levels. JM regards its patents and licenses as valuable, however it does not consider any of its businesses to be
+materially dependent on any single patent or license. JM operates over 40 manufacturing facilities in North America, Europe
+and China and conducts research and development at its technical center in Littleton, Colorado and at other facilities in the
+U.S. and Europe.
+Fiberglass is made from earthen raw materials and recycled glass, together with proprietary agents to bind many of its
+glass fibers. JM’s products also contain materials other than fiberglass, including various chemical and petrochemical-based
+materials used in roofing and other specialized products. JM uses recycled material when available and suitable to satisfy the
+broader needs of its customers. The raw materials used in these various products are readily available in sufficient quantities
+from various sources to maintain and expand its current production levels.
+JM’s operations are subject to a variety of federal, state and local environmental laws and regulations, which regulate
+or impose liability for the discharge of materials into the air, land and water and govern the use and disposal of hazardous
+substances and use of chemical substances generally. The most relevant of the federal laws are the Federal Clean Air Act, the
+Clean Water Act, the Toxic Substances Control Act, the Resource Conservation and Recovery Act and the Comprehensive
+Environmental Response, Compensation and Liability Act, which are administered by the EPA. Canadian, European and
+Asian regulatory authorities have also adopted their own environmental laws and regulations. JM continually monitors new
+and pending regulations and assesses their potential impact on the business.
+K-15
+JM sells its products through a wide variety of channels including contractors, distributors, retailers, manufacturers and
+fabricators. JM operates in highly competitive markets, with competitors comprising primarily several large global and
+national manufacturers and smaller regional manufacturers. JM holds leadership positions in the key markets that it serves.
+JM’s products compete primarily on value, differentiation and customization, and breadth of product line. Sales of JM’s
+products are moderately seasonal due to increases in construction activity that typically occur in the second and third quarters
+of the calendar year. JM sees a marketplace trend in customer purchasing decisions being influenced by the sustainable and
+energy efficient attributes of its products, services and operations.
+MiTek Industries, Inc.
+MiTek Industries, Inc. (“MiTek”), based in Chesterfield, Missouri, operates in two separate markets: residential and
+commercial. MiTek operates worldwide with sales in over 100 countries and with manufacturing facilities and/or
+sales/engineering offices located in 21 countries.
+In the residential segment, MiTek is a leading supplier of engineered connector products, construction hardware,
+engineering software and services and computer-driven manufacturing machinery to the truss component market of the
+building components industry. MiTek’s primary customers are component manufacturers who manufacture prefabricated
+roof and floor trusses and wall panels for the residential building market. MiTek also sells construction hardware to
+commercial distributors and do-it-yourself retail stores.
+MiTek’s commercial businesses provide products and services sold to the commercial construction industry.
+Commercial products include curtain wall systems, masonry and stone anchoring systems, light gauge steel framing products,
+engineering services for a proprietary high-performance steel frame connection and a comprehensive range of ductwork for
+the ventilation market, customized air handling systems for commercial, institutional and industrial markets, design and
+supply of nuclear safety related HVAC systems and components, energy recovery and dehumidification systems for
+commercial applications and pre-engineered and pre-fabricated custom structural mezzanines and platforms for distribution
+and manufacturing facilities.
+A significant raw material used by MiTek is hot dipped galvanized sheet steel. While supplies are presently adequate,
+variations in supply have historically occurred, producing significant variations in cost and availability.
+Benjamin Moore
+Benjamin Moore & Co. (“Benjamin Moore”), headquartered in Montvale, New Jersey, is one of North America's
+leading manufacturers of premium quality residential, commercial and industrial maintenance coatings. Benjamin Moore is
+committed to innovation and sustainable manufacturing practices. The Benjamin Moore premium portfolio spans the brand’s
+flagship paint lines including Aura®, Regal® Select, Ultra Spec®, ben®, ADVANCE®, ARBORCOAT® and more. The
+Benjamin Moore diversified brands include specialty and architectural paints from Coronado®, Insl-x® and Lenmar®.
+Benjamin Moore coatings are available from its more than 7,500 independently owned and operated paint, decorating and
+hardware retailers throughout the United States and Canada as well as 75 countries globally. In July 2019, Benjamin Moore
+announced the expansion of its relationship with Ace Hardware (“Ace”), through which Benjamin Moore has become the
+preferred paint supplier for approximately 3,300 Ace Hardware stores, which are included in the count above. Through this
+agreement, these Ace stores are afforded the opportunity to carry a full line premium assortment of Benjamin Moore products
+or a streamlined offering of Regal® Select and ben®, or ben® only branded products. As part of the expansion, Benjamin
+Moore assumed responsibility for manufacturing Clark+Kensington® and Royal®, as well as the balance of Ace’s private
+label paint brands.
+In addition, Benjamin Moore operates an online “pick up in store” program, which allows consumers to place orders
+via an e-commerce site or, for national accounts and government agencies, via its customer information center. These orders
+may be picked up at the customer’s nearest retailer or delivered. For national accounts, drop-ship orders can be fulfilled by
+Benjamin Moore if a minimum gallon threshold is met.
+Benjamin Moore competes with numerous manufacturers, distributors and paint, coatings and related products
+retailers. Product quality, product innovation, breadth of product line, technical expertise, service and price determine the
+competitive advantage. Competitors include other paint and decorating stores, mass merchandisers, home centers,
+independent hardware stores, hardware chains and manufacturer-operated direct outlets, such as Sherwin-Williams Company,
+PPG Industries, Inc., The Valspar Corporation, The Home Depot, Inc. and Lowe’s Companies, Inc.
+The most significant raw materials in Benjamin Moore products are titanium dioxide, monomers, polymers and
+pigments. Historically, these materials have been generally available, with pricing and availability subject to fluctuation.
+K-16
+Acme Brick
+Acme Brick Company (“Acme”), headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme
+Brick®) and concrete block (Featherlite). In addition, Acme distributes numerous other building products of other
+manufacturers, including floor and wall tile, wood flooring and other masonry products. Products are sold primarily in the
+South Central and South Eastern United States through company-operated sales offices. Acme distributes products primarily
+to homebuilders and masonry and general contractors.
+In 2018 and 2019, Acme closed multiple underperforming manufacturing and sales facilities. Acme operates 12 clay
+brick manufacturing sites located in four states, three concrete block facilities and a quarrying operation all located in Texas.
+The demand for Acme’s products is seasonal, with higher sales in the warmer weather months, and is subject to the level of
+construction activity, which is cyclical. Acme also owns and leases properties and mineral rights that supply raw materials
+used in many of its manufactured products. Acme’s raw materials supply is believed to be adequate.
+The brick industry is subject to the EPA Maximum Achievable Control Technology Standards (“MACT”). As required
+under the 1990 Clean Air Act, the EPA developed a list of source categories that require the development of National
+Emission Standards for Hazardous Air Pollutants, which are also referred to as MACT Standards (“Rule”). Key elements of
+the MACT Rule include emission limits established for certain hazardous air pollutants and acidic gases. Acme’s brick plants
+are in compliance with the current Rule.
+Consumer Products
+Apparel
+Fruit of the Loom (“FOL”), headquartered in Bowling Green, Kentucky, is primarily a manufacturer and distributor of
+basic apparel, underwear, casualwear, athletic apparel and sports equipment. Products under the Fruit of the Loom® and
+JERZEES® labels are primarily sold in the mass merchandise, mid-tier chains and wholesale markets. In the Vanity Fair
+Brands product line, Vassarette®, Curvation® and Radiant® by Vanity Fair are sold in the mass merchandise market, while
+Vanity Fair® and Lily of France® products are sold to mid-tier chains and department stores. FOL also markets and sells
+apparel, sports equipment and balls to team dealers and athletic apparel, sports equipment and balls to sporting goods retailers
+under the Russell Athletic® and Spalding® brands. Additionally, Spalding® markets and sells balls and sports equipment in
+the mass merchandise market and dollar store channels. In 2020, approximately 58% of FOL’s sales were to five customers.
+FOL generally performs its own knitting, cloth finishing, cutting, sewing and packaging for apparel. For the North
+American market, which is FOL’s predominant sales region, the majority of FOL’s cloth manufacturing is performed in
+Honduras. Labor-intensive cutting, sewing and packaging operations are located in Central America, the Caribbean and
+Vietnam. For the European market, products are either sourced from third-party contractors in Europe or Asia or sewn in
+Morocco from textiles internally produced in Morocco. Manufacturing of bras, athletic equipment, sporting goods and other
+athletic apparel lines are generally sourced from third-party contractors located primarily in Asia.
+U.S. grown cotton and polyester fibers are the main raw materials used in the manufacturing of FOL’s apparel products
+and are purchased from a limited number of third-party suppliers. In 2015, FOL entered into an eight-year agreement with
+one key supplier to provide the majority of FOL’s yarn. Management currently believes there are readily available alternative
+sources of raw materials and yarn. However, if relationships with suppliers cannot be maintained or delays occur in obtaining
+alternative sources of supply, production could be adversely affected, which could have a corresponding adverse effect on
+results of operations. Additionally, raw materials are subject to price volatility caused by weather, supply conditions,
+government regulations, economic climate and other unpredictable factors. FOL has secured contracts to purchase cotton,
+either directly or through the yarn suppliers, to meet a large percentage of its production plans for 2021. FOL’s markets are
+highly competitive, consisting of many domestic and foreign manufacturers and distributors. Competition is generally based
+upon product features, quality, customer service and price.
+Garan, headquartered in New York, New York designs, manufactures, imports and sells apparel primarily for children,
+including boys, girls, toddlers and infants. Products are sold under its own trademark Garanimals® and customer private label
+brands. Garan conducts its business through operating subsidiaries located in the United States, Central America and Asia.
+Garan’s products are sold through its distribution centers in the United States. Fechheimer Brothers manufactures, distributes
+and sells uniforms, principally for the public service and safety markets, including police, fire, postal and military markets.
+Fechheimer Brothers is based in Cincinnati, Ohio.
+K-17
+The BH Shoe Holdings Group, headquartered in Greenwich, Connecticut, manufactures and distributes work, rugged
+outdoor and casual shoes and western-style footwear under a number of brand names, including Justin, Tony Lama®,
+Chippewa®, BØRN®, B•Ø•C®, Carolina®, EuroSofft, Söfft, Double-H Boots®, Nursemates® and Comfortiva®. Brooks Sports,
+headquartered in Seattle, Washington, markets and sells performance running footwear and apparel to specialty and national
+retailers and directly to consumers under the Brooks® brand. A significant volume of the shoes sold by Berkshire’s shoe
+businesses are manufactured or purchased from sources located outside the United States. Products are sold worldwide
+through a variety of channels including department stores, footwear chains, specialty stores, catalogs and the Internet, as well
+as through company-owned retail stores.
+Other consumer products
+Forest River, Inc. (“Forest River”) is a manufacturer of recreational vehicles (“RV”), utility cargo trailers, buses and
+pontoon boats, headquartered in Elkhart, Indiana with products sold in the United States and Canada through an independent
+dealer network. Forest River has numerous manufacturing facilities located in seven states. Forest River is a leading
+manufacturer of RVs with numerous brand names, including Forest River, Coachmen RV and Prime Time. Utility cargo
+trailers are sold under a variety of brand names. Buses are sold under several brand names, including Starcraft Bus. Pontoon
+boats are sold under the Berkshire, South Bay and Trifecta brand names. The RV industry is very competitive. Competition is
+based primarily on price, design, quality and service. The industry has consolidated over the past several years and is
+currently concentrated in a few companies, the largest of which had a market share of approximately 42% based on industry
+data as of December 2020. Forest River held a market share of approximately 37% at that time.
+The Duracell Company (“Duracell’), headquartered in Chicago, Illinois, is a leading manufacturer of high-performance
+alkaline batteries. Duracell manufactures batteries in the U.S., Europe and China and provides a network of worldwide sales
+and distribution centers. Costco and Walmart are significant customers, representing approximately 23% of Duracell’s annual
+revenue. There are several competitors in the battery manufacturing market with Duracell holding an approximately 31%
+market share of the global alkaline battery market. Management believes there are currently sufficient sources of raw
+materials available, which are primarily steel, zinc and manganese.
+Albecca Inc. (“Albecca”), headquartered in Norcross, Georgia, operates in the U.S., Canada and 12 other countries,
+with products primarily under the Larson-Juhl® name. Albecca designs, manufactures and distributes a complete line of high
+quality, branded custom framing products, including wood and metal moulding, matboard, foamboard, glass and framing
+supplies. Complementary to its framing products, Albecca offers art printing and fulfillment services.
+Richline Group, Inc., headquartered in New York, New York, operates five strategic business units: Richline Jewelry,
+Richline Digital, LeachGarner, Rio Grande and Inverness. Each business unit is a manufacturer and/or distributor of precious
+metal and non-precious metal products to specific target markets including large jewelry chains, department stores, shopping
+networks, mass merchandisers, e-commerce retailers and artisans plus worldwide manufacturers and wholesalers and the
+medical, electronics and aerospace industries.
+Service and Retailing Businesses
+Service Businesses
+Berkshire’s service businesses provide grocery and foodservice distribution, professional aviation training programs,
+shared aircraft ownership programs and distribution of electronic components. Other service businesses include franchising
+and servicing of quick service restaurants, media businesses (television and information distribution), as well as logistics
+businesses. Berkshire’s service businesses employed approximately 45,000 people at the end of 2020. Information
+concerning these activities follows.
+McLane Company
+McLane Company, Inc. (“McLane”) provides wholesale distribution services in all 50 states to customers that include
+convenience stores, discount retailers, wholesale clubs, drug stores, military bases, quick service restaurants and casual
+dining restaurants. McLane provides wholesale distribution services to Walmart, which accounted for approximately 18% of
+McLane’s revenues in 2020. McLane’s other significant customers include 7-Eleven (approximately 13% of revenues) and
+Yum! Brands, (approximately 11% of revenues). McLane’s business model is based on a high volume of sales, rapid
+inventory turnover and stringent expense controls. Operations are currently divided into three business units: grocery
+distribution, foodservice distribution and beverage distribution.
+K-18
+McLane’s grocery distribution unit, based in Temple, Texas, maintains a dominant market share within the
+convenience store industry and serves most of the national convenience store chains and major oil company retail outlets.
+Grocery operations provide products to approximately 50,000 retail locations nationwide, including Walmart. McLane’s
+grocery distribution unit operates 25 distribution facilities in 20 states.
+McLane’s foodservice distribution unit, based in Carrollton, Texas, focuses on serving the quick service and casual
+dining restaurant industry with high quality, timely-delivered products. Operations are conducted through 46 facilities in 22
+states. The foodservice distribution unit services approximately 33,200 restaurants nationwide.
+Through its subsidiaries, McLane also operates wholesale distributors of distilled spirits, wine and beer. The beverage
+unit operates as Empire Distributors and operations are conducted through 14 distribution centers in Georgia, North Carolina,
+Tennessee and Colorado. Empire Distributors services approximately 25,600 retail locations in the southeastern United States
+and Colorado.
+FlightSafety International
+FlightSafety International Inc. (“FlightSafety”) is an industry leading provider of professional aviation training services
+and flight simulation products. FlightSafety and FlightSafety Textron Aviation Training, a joint venture with Textron which
+began operations in 2019, provide high technology training to pilots, aircraft maintenance technicians, flight attendants and
+dispatchers who operate and support a wide variety of business, commercial and military aircraft. The training is provided
+using a large fleet of advanced full flight simulators at learning centers and training locations in the United States, Australia,
+Brazil, Canada, France, Hong Kong, Japan, Norway, South Africa and the United Kingdom. The vast majority of the
+instructors, training programs and flight simulators are qualified by the United States Federal Aviation Administration and
+other aviation regulatory agencies around the world.
+FlightSafety is also a leader in the design and manufacture of full flight simulators, visual systems, displays and other
+advanced technology training devices. This equipment is used to support FlightSafety training programs and is offered for
+sale to airlines and government and military organizations around the world. Manufacturing facilities are located in
+Oklahoma, Missouri and Texas. FlightSafety strives to maintain and manufacture simulators and develop courseware using
+state-of-the-art technology and invests in research and development as it builds new equipment and training programs.
+NetJets
+NetJets Inc. (“NetJets”) is the world’s leading provider of shared ownership programs for general aviation aircraft.
+NetJets’ global headquarters is located in Columbus, Ohio, with most of its logistical and flight operations based at John
+Glenn Columbus International Airport. NetJets’ European operations are based in Lisbon, Portugal. The shared ownership
+concept is designed to meet the travel needs of customers who require the scale, flexibility and access of a large fleet that
+whole aircraft ownership cannot deliver. In addition, shared ownership programs are available for corporate flight
+departments seeking to outsource their general aviation needs or add capacity for peak periods and for others that previously
+chartered aircraft.
+With a focus on safety and service, NetJets’ programs are designed to offer customers guaranteed availability of
+aircraft, predictable operating costs and increased liquidity. NetJets’ shared aircraft ownership programs permit customers to
+acquire a specific percentage of a certain aircraft type and allows customers to utilize the aircraft for a specified number of
+flight hours annually. In addition, NetJets offers prepaid flight cards and other aviation solutions and services for aircraft
+management, customized aircraft sales and acquisition, ground support and flight operation services under a number of
+programs including NetJets Shares™, NetJets Leases™ and the Marquis Jet Card®.
+NetJets is subject to the rules and regulations of the United States Federal Aviation Administration, the Portuguese
+Civil Aviation Authority and the European Union Aviation Safety Agency. Regulations address aircraft registration,
+maintenance requirements, pilot qualifications and airport operations, including flight planning and scheduling as well as
+security issues and other matters. NetJets maintains a comprehensive training and development program in compliance with
+regulatory requirements for pilots, flight attendants, maintenance mechanics, and other flight operations specialists.
+TTI, Inc.
+TTI, Inc. (“TTI”), headquartered in Fort Worth, Texas, is a global specialty distributor of passive, interconnect,
+electromechanical, discrete, and semiconductor components used by customers in the manufacturing and assembling of
+electronic products. TTI’s customer base includes original equipment manufacturers, electronic manufacturing services,
+original design manufacturers and military and commercial customers, as well as design and system engineers. TTI’s
+distribution agreements with the industry’s leading suppliers allow it to uniquely leverage its product cost and to expand its
+business by providing new lines and products to its customers. TTI operates sales offices and distribution centers from more
+than 100 locations throughout North America, Europe, Asia and Israel.
+K-19
+TTI services a variety of industries including telecommunications, medical devices, computers and office equipment,
+military/aerospace, automotive and industrial electronics. TTI’s core customers include businesses in the design through
+production stages in the electronic component supply chain, which supports its high-volume business, and its Mouser
+subsidiary, which supports a broader base of customers with lower volume purchases through internet-based marketing.
+Other services
+XTRA Corporation (“XTRA”), headquartered in St. Louis, Missouri, is a leading transportation equipment lessor
+operating under the XTRA Lease® brand name. XTRA manages a diverse fleet of approximately 86,000 units located at 48
+facilities throughout the United States. The fleet includes over-the-road and storage trailers, chassis, temperature-controlled
+vans and flatbed trailers. XTRA is one of the largest lessors (in terms of units available) of over-the-road trailers in North
+America. Transportation equipment customers lease equipment to cover cyclical, seasonal and geographic needs and as a
+substitute for purchasing equipment. Therefore, as a provider of marginal capacity to its customers, XTRA’s utilization rates
+and operating results tend to be cyclical. In addition, transportation providers often use leasing to maximize their asset
+utilization and reduce capital expenditures. By maintaining a large fleet, XTRA is able to provide customers with a broad
+selection of equipment and quick response times.
+International Dairy Queen develops and services a worldwide system of over 7,000 franchised restaurants operating
+primarily under the names DQ Grill and Chill®, Dairy Queen® and Orange Julius® that offer various dairy desserts,
+beverages, prepared foods and blended fruit drinks. Business Wire provides electronic dissemination of full-text news
+releases to the media, online services and databases and the global investment community in 150 countries and in 45
+languages. Approximately 93% of Business Wire’s revenues derive from its core news distribution business. CORT Business
+Services Corporation is a leading national provider of rental furniture and related services in the “rent-to-rent” segment of the
+furniture rental industry. CORT’s primary revenue streams include furniture rental to individuals, businesses, government
+agencies, the trade show and events industry and retail sales of used furniture. WPLG, Inc. is an ABC affiliate broadcast
+station in Miami, Florida and Charter Brokerage is a leading non-asset based third party logistics provider to the petroleum
+and chemical industries. Until March 2020, other services included the newspaper publishing businesses conducted through
+The Buffalo News and BH Media Group, Inc. These operations were sold in 2020.
+Retailing Businesses
+Berkshire’s retailing businesses include automotive, home furnishings and several other operations that sell various
+consumer products to consumers. Information regarding each of these operations follows. Berkshire’s retailing businesses
+employed approximately 25,000 people at the end of 2020.
+Berkshire Hathaway Automotive
+The Berkshire Hathaway Automotive Group, Inc. (“BHA”) is one of the largest automotive retailers in the United
+States, currently operating 104 new vehicle franchises through 81 dealerships located primarily in major metropolitan
+markets in the United States. The dealerships sell new and used vehicles, vehicle maintenance and repair services, extended
+service contracts, vehicle protection products and other aftermarket products. BHA also arranges financing for its customers
+through third-party lenders. BHA operates 29 collision centers directly connected to the dealerships’ operations and owns and
+operates two auto auctions and a fluid maintenance products distribution company.
+Dealership operations are highly concentrated in the Arizona and Texas markets, with approximately 70% of
+dealership-related revenues derived from sales in these markets. BHA currently maintains franchise agreements with 27
+different vehicle manufacturers, although it derives a significant portion of its revenue from the Toyota/Lexus, General
+Motors, Ford/Lincoln, Nissan/Infiniti and Honda/Acura brands. Approximately 90% of BHA’s annual revenues are from
+dealerships representing these manufacturers.
+The retail automotive industry is highly competitive. BHA faces competition from other large public and private
+dealership groups, as well as individual franchised dealerships and competition via the Internet. Given the pricing
+transparency available via the Internet, and the fact that franchised dealers acquire vehicles from the manufacturers on the
+same terms irrespective of volume, the location and quality of the dealership facility, customer service and transaction speed
+are key differentiators in attracting customers.
+BHA’s overall relationships with the automobile manufacturers are governed by framework agreements. The
+framework agreements contain provisions relating to the management, operation, acquisition and the ownership structure of
+BHA’s dealerships. Failure to meet the terms of these agreements could adversely impact BHA’s ability to acquire additional
+dealerships representing those manufacturers. Additionally, these agreements contain limitations on the number of
+dealerships from a specific manufacturer that may be owned by BHA.
+K-20
+Individual dealerships operate under franchise agreements with the manufacturer, which grants the dealership entity a
+non-exclusive right to sell the manufacturer’s brand of vehicles and offer related parts and service within a specified market
+area, as well as the right to use the manufacturer’s trademarks. The agreements contain various requirements and restrictions
+related to the management and operation of the franchised dealership and provide for termination of the agreement by the
+manufacturer or non-renewal for a variety of causes. The states generally have automotive dealership franchise laws that
+provide substantial protection to the franchisee, and it is difficult for a manufacturer to terminate or not renew a franchise
+agreement outside of bankruptcy or with “good cause” under the applicable state franchise law.
+BHA also develops, underwrites and administers various vehicle protection plans as well as life and accident and
+health insurance plans sold to consumers through BHA’s dealerships and third-party dealerships. BHA also develops
+proprietary training programs and materials and provides ongoing monitoring and training of the dealership’s finance and
+insurance personnel.
+Home furnishings retailing
+The home furnishings businesses consist of Nebraska Furniture Mart (“NFM”), R.C. Willey Home Furnishings (“R.C.
+Willey”), Star Furniture Company (“Star”) and Jordan’s Furniture, Inc. (“Jordan’s”). These businesses offer a wide selection
+of furniture, bedding and accessories. In addition, NFM and R.C. Willey sell a full line of major household appliances,
+electronics, computers and other home furnishings and offer customer financing to complement their retail operations. An
+important feature of each of these businesses is their ability to control costs and to produce high business volume by offering
+significant value to their customers.
+NFM operates its business from four retail complexes with almost 4.5 million square feet of retail, warehouse and
+administrative facilities located in Omaha, Nebraska, Clive, Iowa, Kansas City, Kansas and The Colony, Texas. NFM also
+owns Homemakers Furniture located in Urbandale, Iowa, which has approximately 600,000 square feet of retail, warehouse
+and administrative space. NFM is the largest furniture retailer in each of these markets. R.C. Willey, based in Salt Lake City,
+Utah, currently operates twelve full-line retail home furnishings stores and three distribution centers. These facilities include
+approximately 1.5 million square feet of retail space with six stores located in Utah, one store in Meridian, Idaho, three stores
+in Nevada (Las Vegas and Reno) and two stores in the Sacramento, California area.
+Jordan’s operates a retail furniture business from seven locations with approximately 890,000 square feet of retail
+space in stores located in Massachusetts, New Hampshire, Rhode Island, Maine and Connecticut. The retail stores are
+supported by an 800,000 square foot distribution center in Taunton, Massachusetts. Jordan’s is the largest furniture retailer,
+as measured by sales, in Massachusetts and New Hampshire. Jordan’s is well known in its markets for its unique store
+arrangements and advertising campaigns. Star has operated home furnishings retail stores in Texas for many years. Star’s
+retail facilities currently include about 700,000 square feet of retail space in 11 locations in Texas, including eight in
+Houston.
+Other retailing
+Borsheim Jewelry Company, Inc. (“Borsheims”) operates from a single store in Omaha, Nebraska. Borsheims is a
+high-volume retailer of fine jewelry, watches, crystal, china, stemware, flatware, gifts and collectibles. Helzberg’s Diamond
+Shops, LLC. (“Helzberg”) is based in North Kansas City, Missouri, and operates a chain of 213 retail jewelry stores in 36
+states, which includes approximately 500,000 square feet of retail space. Helzberg’s stores are located in malls, lifestyle
+centers, power strip centers and outlet malls, and all stores operate under the name Helzberg Diamonds® or Helzberg
+Diamonds Outlet®. The Ben Bridge Corporation (“Ben Bridge Jeweler”), based in Seattle, Washington, operates 75 retail
+jewelry stores under three different brand names, located primarily in major shopping malls in 10 western states and in
+British Columbia, Canada. Thirty-six of its retail locations are upscale jewelry stores selling loose diamonds, finished jewelry
+and high-end timepieces. Thirty-eight of its retail locations are concept stores operating under a franchise agreement that sell
+only Pandora jewelry. One store is a Breitling concept store, selling only Breitling timepieces.
+See’s Candies (“See’s”) produces boxed chocolates and other confectionery products with an emphasis on quality and
+distinctiveness in two large kitchens in Los Angeles and San Francisco and one smaller facility in Burlingame, California.
+See’s operates approximately 250 retail and quantity discount stores located mainly in California and other Western states, as
+well as over 110 seasonal in-line locations. See’s revenues are highly seasonal with approximately half of its annual revenues
+earned in the fourth quarter.
+The Pampered Chef, Ltd. (“Pampered Chef”) is a premier direct seller of distinctive high-quality kitchenware products
+with sales and operations in the United States, Canada, Germany, Austria and France and operations in China. Pampered
+Chef’s product portfolio consists of approximately 650 Pampered Chef® branded kitchenware items in categories ranging
+from stoneware and cutlery to grilling and entertaining. Pampered Chef’s products are available through its sales force of
+independent cooking consultants and online.
+K-21
+Oriental Trading Company (“OTC”) is a leading multi-channel retailer and online destination for value-priced party
+supplies, arts and crafts, toys and novelties, school supplies, educational games, patient giveaways and personalized products.
+OTC, headquartered in Omaha, Nebraska, serves a broad base of nearly four million customers annually, including
+consumers, schools, churches, non-profit organizations, medical and dental offices and other businesses. OTC offers a unique
+assortment of over 50,000 products and utilizes sophisticated digital and print marketing efforts to drive significant traffic
+and industry leading customer satisfaction.
+Detlev Louis Motorrad (“Louis”), headquartered in Hamburg, Germany, is a leading retailer of motorcycle apparel and
+equipment in Europe. Louis carries over 32,000 different products from more than 600 manufacturers, primarily covering the
+clothing, technical equipment and leisure markets. Louis has over 80 stores in Germany, Austria, Switzerland and the
+Netherlands and also sells through catalogs and via the Internet throughout most of Europe.
+Additional information with respect to Berkshire’s businesses
+Revenue, earnings before taxes and identifiable assets attributable to Berkshire’s reportable business segments are
+included in Note 27 to Berkshire’s Consolidated Financial Statements contained in Item 8, Financial Statements and
+Supplementary Data. Additional information regarding Berkshire’s investments in fixed maturity and equity securities is
+included in Notes 3 and 4, respectively, to Berkshire’s Consolidated Financial Statements.
+Berkshire owns 26.6% of the outstanding common stock of The Kraft Heinz Company (“Kraft Heinz”). Kraft Heinz is
+one of the largest food and beverage companies in the world, with sales in numerous countries within developed and
+emerging markets and territories. Kraft Heinz manufactures and markets food and beverage products, including condiments
+and sauces, cheese and dairy meals, meats, refreshment beverages, coffee and other grocery products, throughout the world,
+under a diverse mix of iconic and emerging brands. Berkshire subsidiaries also own a 50% joint venture interest in Berkadia
+Commercial Mortgage LLC (“Berkadia”), a 38.6% interest in Pilot Travel Centers LLC (“Pilot”) and a 50% joint venture
+interest in Electric Transmission Texas, LLC (“ETT”). Information concerning these investments is included in Note 5 to
+Berkshire’s Consolidated Financial Statements.
+Berkshire maintains a website (http://www.berkshirehathaway.com) where its annual reports, certain corporate
+governance documents, press releases, interim shareholder reports and links to its subsidiaries’ websites can be found.
+Berkshire’s periodic reports filed with the SEC, which include Form 10-K, Form 10-Q, Form 8-K and amendments thereto,
+may be accessed by the public free of charge from the SEC and through Berkshire. Electronic copies of these reports can be
+accessed at the SEC’s website (http://www.sec.gov) and indirectly through Berkshire’s website
+(http://www.berkshirehathaway.com). Copies of these reports may also be obtained, free of charge, upon written request to:
+Berkshire Hathaway Inc., 3555 Farnam Street, Omaha, NE 68131, Attn: Corporate Secretary.
+Item 1A. Risk Factors
+Berkshire and its subsidiaries (referred to herein as “we,” “us,” “our” or similar expressions) are subject to certain risks
+and uncertainties in its business operations which are described below. The risks and uncertainties described below are not
+the only risks we face. Additional risks and uncertainties that are presently unknown or are currently deemed immaterial may
+also impair our business operations.
+General Business Risks
+Terrorist acts could hurt our operating businesses.
+A cyber, biological, nuclear or chemical attack could produce significant losses to our worldwide operations. Our
+business operations could be adversely affected from such acts through the loss of human resources or destruction of
+production facilities and information systems. We share the risk with all businesses.
+Cyber security risks
+We rely on technology in virtually all aspects of our business. Like those of many large businesses, certain of our
+information systems have been subject to computer viruses, malicious codes, unauthorized access, phishing efforts, denial-ofservice attacks and other cyber-attacks and we expect to be subject to similar attacks in the future as such attacks become
+more sophisticated and frequent. A significant disruption or failure of our technology systems could result in service
+interruptions, safety failures, security events, regulatory compliance failures, an inability to protect information and assets
+against unauthorized users and other operational difficulties. Attacks perpetrated against our systems could result in loss of
+assets and critical information and expose us to remediation costs and reputational damage.
+K-22
+Although we have taken steps intended to mitigate these risks, including business continuity planning, disaster
+recovery planning and business impact analysis, a significant disruption or cyber intrusion could adversely affect our results
+of operations, financial condition and liquidity. Additionally, if we are unable to acquire, develop, implement, adopt or
+protect rights around new technology, we may suffer a competitive disadvantage, which could also have an adverse effect on
+our results of operations, financial condition and/or liquidity.
+Cyber-attacks could further adversely affect our ability to operate facilities, information technology and business
+systems or compromise confidential customer and employee information. Political, economic, social or financial market
+instability or damage to or interference with our operating assets, customers or suppliers from cyber-attacks may result in
+business interruptions, lost revenues, higher commodity prices, disruption in fuel supplies, lower energy consumption,
+unstable markets, increased security, repair or other costs, or may materially adversely affect us in ways that cannot be
+predicted at this time. Any of these risks could materially affect our consolidated financial results. Furthermore, instability in
+the financial markets resulting from terrorism, sustained or significant cyber-attacks or war could also have a material
+adverse effect on our ability to raise capital. We share these risks with all businesses.
+We are dependent on a few key people for our major investment and capital allocation decisions.
+Major investment decisions and all major capital allocation decisions are made by Warren E. Buffett, Chairman of the
+Board of Directors and Chief Executive Officer, age 90, in consultation with Charles T. Munger, Vice Chairman of the Board
+of Directors, age 97. If for any reason the services of our key personnel, particularly Mr. Buffett, were to become unavailable,
+there could be a material adverse effect on our operations. However, Berkshire’s Board of Directors has identified certain
+current Berkshire managers who, in their judgment, are capable of succeeding Mr. Buffett and has agreed on a replacement
+for Mr. Buffett should a replacement be needed currently. The Board continually monitors this risk and could alter its current
+view regarding a replacement for Mr. Buffett in the future. We believe that the Board’s succession plan, together with the
+outstanding managers running our numerous and highly diversified operating units helps to mitigate this risk. In 2018,
+Berkshire’s Board of Directors appointed Mr. Gregory Abel as Vice Chairman of Berkshire’s non-insurance operations and
+Mr. Ajit Jain as Vice Chairman of Berkshire’s insurance operations. Mr. Abel and Mr. Jain each report directly to Mr. Buffett
+and Mr. Buffett continues to be responsible for major capital allocation and investment decisions.
+We need qualified personnel to manage and operate our various businesses.
+In our decentralized business model, we need qualified and competent management to direct day-to-day business
+activities of our operating subsidiaries and to manage changes in future business operations due to changing business or
+regulatory environments. Our operating subsidiaries also need qualified and competent personnel in executing their business
+plans and serving their customers, suppliers and other stakeholders. Our inability to recruit and retain qualified and
+competent managers and personnel could negatively affect the operating results, financial condition and liquidity of our
+subsidiaries and Berkshire as a whole.
+Investments are unusually concentrated in equity securities and fair values are subject to loss in value.
+We concentrate a high percentage of the equity security investments of our insurance subsidiaries in a relatively small
+number of equity securities. A significant decline in the fair values of our larger investments in equity securities may produce
+a material decline in our consolidated shareholders’ equity and our consolidated earnings.
+Since a large percentage of our equity securities are held by our insurance subsidiaries, significant decreases in the fair
+values of these investments will produce significant declines in the statutory surplus of our insurance business. Our large
+statutory surplus is a competitive advantage, and a long-term material decline could have an adverse effect on our claimspaying ability ratings and our ability to write new insurance business thus potentially reducing our future underwriting
+profits.
+Over ten years ago, we assumed the risk of potentially significant losses under a number of equity index put option
+contracts, which contain equity price risks. Most of the contracts remaining at year end 2020 will expire by February 2023.
+Risks of losses under these contracts are based on declines in equity prices of stocks comprising certain major U.S. and
+international stock indexes. We received considerable cash premiums as compensation for accepting these risks. Absent
+major reductions in future equity securities prices, our ultimate payment obligations are not likely to be significant.
+Nevertheless, there can be no assurance that equity securities prices will not decline significantly resulting in significant
+settlement payments upon contract expirations.
+K-23
+Competition and technology may erode our business franchises and result in lower earnings.
+Each of our operating businesses face intense competition within markets in which they operate. While we manage our
+businesses with the objective of achieving long-term sustainable growth by developing and strengthening competitive
+advantages, many factors, including technological changes, may erode or prevent the strengthening of competitive
+advantages. Accordingly, our future operating results will depend to some degree on our operating units successfully
+protecting and enhancing their competitive advantages. If our operating businesses are unsuccessful in these efforts, our
+periodic operating results in the future may decline.
+Unfavorable general economic conditions may significantly reduce our operating earnings and impair our ability to
+access capital markets at a reasonable cost.
+Our operating businesses are subject to normal economic cycles affecting the general economy or the specific
+industries in which they operate. Significant deteriorations of economic conditions over a prolonged period could produce a
+material adverse effect on one or more of our significant operations. In addition, our utilities and energy businesses and our
+railroad business regularly utilize debt as a component of their capital structures and depend on having access to borrowed
+funds through the capital markets at reasonable rates. To the extent that access to the capital markets is restricted or the cost
+of funding increases, these operations could be adversely affected.
+Epidemics, pandemics or other outbreaks, including COVID-19, could hurt our operating businesses.
+The outbreak of COVID-19 has adversely affected, and in the future it or other epidemics, pandemics or outbreaks may
+adversely affect, our operations, including our equity securities portfolio. This is or may be due to closures or restrictions
+requested or mandated by governmental authorities, disruption to supply chains and workforce, reduction of demand for our
+products and services, credit losses when customers and other counterparties fail to satisfy their obligations to us, and
+volatility in global equity securities markets, among other factors. We share most of these risks with all businesses.
+Regulatory changes may adversely impact our future operating results.
+Over time, in response to financial markets crises, global economic recessions, and social and environmental issues,
+regulatory initiatives were adopted in the United States and elsewhere. Such initiatives addressed for example, the regulation
+of banks and other major financial institutions, products and environmental and global-warming matters. These initiatives
+impact all of our businesses, albeit in varying ways. Increased regulatory compliance costs could have a significant negative
+impact on our operating businesses, as well as on the businesses in which we have a significant, but not controlling economic
+interests. We cannot predict whether such initiatives will have a material adverse impact on our consolidated financial
+position, results of operations and/or cash flows.
+Data privacy regulations have recently been enacted in various jurisdictions in the U.S. and throughout the world.
+These regulations address numerous aspects related to the security of personal information that is stored in our information
+systems, networks and facilities. Failure to comply with these regulations could result in reputational damage and significant
+penalties.
+Risks unique to our regulated businesses
+Our tolerance for risk in our insurance businesses may result in significant underwriting losses.
+When properly paid for the risk assumed, we have been and will continue to be willing to assume more risk from a
+single event than any other insurer has knowingly assumed. Accordingly, we could incur a significant loss from a single
+catastrophe event resulting from a natural disaster or man-made catastrophes such as terrorism or cyber-attacks. We employ
+various disciplined underwriting practices intended to mitigate potential losses and attempt to take into account all possible
+correlations and avoid writing groups of policies from which pre-tax losses from a single catastrophe event might aggregate
+above $10 billion. Currently, we estimate that our aggregate exposure from a single event under outstanding policies is
+significantly below $10 billion. However, despite our efforts, it is possible that losses could manifest in ways that we do not
+anticipate and that our risk mitigation strategies are not designed to address. Additionally, various provisions of our policies,
+such as limitations or exclusions from coverage, negotiated to limit our risks, may not be enforceable in the manner we
+intend. Our tolerance for significant insurance losses may result in lower reported earnings in a future period.
+K-24
+The degree of estimation error inherent in the process of estimating property and casualty insurance loss reserves
+may result in significant underwriting losses.
+The principal cost associated with the property and casualty insurance business is claims. In writing property and
+casualty insurance policies, we receive premiums today and promise to pay covered losses in the future. However, it will take
+decades before all claims that have occurred as of any given balance sheet date will be reported and settled. Although we
+believe that liabilities for unpaid losses are adequate, we will not know whether these liabilities or the premiums charged for
+the coverages provided were sufficient until well after the balance sheet date. Estimating insurance claim costs is inherently
+imprecise. Our estimated unpaid losses arising under contracts covering property and casualty insurance risks are large
+($120.8 billion at December 31, 2020), and a small percentage increase to those liabilities can result in materially lower
+reported earnings.
+Changes in regulations and regulatory actions can adversely affect our operating results and our ability to allocate
+capital.
+Our insurance businesses are subject to regulation in the jurisdictions in which we operate. Such regulations may relate
+to among other things, the types of business that can be written, the rates that can be charged for coverage, the level of capital
+that must be maintained, and restrictions on the types and size of investments that can be made. Regulations may also restrict
+the timing and amount of dividend payments to Berkshire by these businesses. U.S. state insurance regulators and
+international insurance regulators are also actively developing various regulatory mechanisms to address the regulation of
+large internationally active insurance groups, including regulations concerning group capital, liquidity, governance and risk
+management. Accordingly, changes in regulations related to these or other matters or regulatory actions imposing restrictions
+on our insurance businesses may adversely impact our results of operations and restrict our ability to allocate capital.
+Our railroad business conducted through BNSF is also subject to a significant number of laws and regulations with
+respect to rates and practices, taxes, railroad operations and a variety of health, safety, labor, environmental and other
+matters. Failure to comply with applicable laws and regulations could have a material adverse effect on BNSF’s business.
+Governments may change the legislative and/or regulatory framework within which BNSF operates, without providing any
+recourse for any adverse effects that the change may have on the business. Complying with legislative and regulatory changes
+may pose significant operating and implementation risks and require significant capital expenditures.
+BNSF derives significant amounts of revenue from the transportation of energy-related commodities, particularly coal.
+To the extent that changes in government policies limit or restrict the usage of coal as a source of fuel in generating
+electricity or alternate fuels, such as natural gas, or displace coal on a competitive basis, revenues and earnings could be
+adversely affected. As a common carrier, BNSF is also required to transport toxic inhalation hazard chemicals and other
+hazardous materials. A release of hazardous materials could expose BNSF to significant claims, losses, penalties and
+environmental remediation obligations. Changes in the regulation of the rail industry could negatively impact BNSF’s ability
+to determine prices for rail services and to make capital improvements to its rail network, resulting in an adverse effect on our
+results of operations, financial condition and/or liquidity.
+Our utilities and energy businesses operated under BHE are highly regulated by numerous federal, state, local and
+foreign governmental authorities in the jurisdictions in which they operate. These laws and regulations are complex, dynamic
+and subject to new interpretations or change. Regulations affect almost every aspect of our utilities and energy businesses.
+Regulations broadly apply and may limit management’s ability to independently make and implement decisions regarding
+numerous matters including: acquiring businesses; constructing, acquiring, disposing or retiring of operating assets; operating
+and maintaining generating facilities and transmission and distribution system assets; complying with pipeline safety and
+integrity and environmental requirements; setting rates charged to customers; establishing capital structures and issuing debt;
+transacting between our domestic utilities and our other subsidiaries and affiliates; and paying dividends or similar
+distributions. Failure to comply with or reinterpretations of existing regulations and new legislation or regulations, such as
+those relating to air and water quality, renewable portfolio standards, emissions performance standards, climate change, coal
+combustion byproduct disposal, hazardous and solid waste disposal, protected species and other environmental matters, or
+changes in the nature of the regulatory process may have a significant adverse impact on our financial results.
+K-25
+Our railroad business requires significant ongoing capital investment to improve and maintain its railroad network so
+that transportation services can be safely and reliably provided to customers on a timely basis. Our utilities and energy
+businesses also require significant amounts of capital to construct, operate and maintain generation, transmission and
+distribution systems to meet their customers’ needs and reliability criteria. Additionally, system assets may need to be
+operational for long periods of time in order to justify the financial investment. The risk of operational or financial failure of
+capital projects is not necessarily recoverable through rates that are charged to customers. Further, a significant portion of
+costs of capital improvements may be funded through debt issued by BNSF and BHE and their subsidiaries. Disruptions in
+debt capital markets that restrict access to funding when needed could adversely affect the results of operations, liquidity
+and/or capital resources of these businesses.
+Item 1B. Unresolved Staff Comments
+None.
+Item 2. Description of Properties
+The properties used by Berkshire’s business segments are summarized in this section. Berkshire’s railroad and utilities
+and energy businesses, in particular, utilize considerable physical assets in their businesses.
+Railroad Business—Burlington Northern Santa Fe
+Through BNSF Railway, BNSF operates approximately 32,500 route miles of track (excluding multiple main tracks,
+yard tracks and sidings) in 28 states, and also operates in three Canadian provinces. BNSF owns over 23,000 route miles,
+including easements, and operates over 9,000 route miles of trackage rights that permit BNSF to operate its trains with its
+crews over other railroads’ tracks. As of December 31, 2020, the total BNSF Railway system, including single and multiple
+main tracks, yard tracks and sidings, consisted of over 50,000 operated miles of track.
+BNSF operates various facilities and equipment to support its transportation system, including its infrastructure,
+locomotives and freight cars. It also owns or leases other equipment to support rail operations, such as vehicles. Support
+facilities for rail operations include yards and terminals throughout its rail network, system locomotive shops to perform
+locomotive servicing and maintenance, a centralized network operations center for train dispatching and network operations
+monitoring and management, computers, telecommunications equipment, signal systems and other support systems. Transfer
+facilities are maintained for rail-to-rail as well as intermodal transfer of containers, trailers and other freight traffic and
+include approximately 25 intermodal hubs located across the system. BNSF owns or holds under non-cancelable leases
+exceeding one year approximately 7,700 locomotives and 66,000 freight cars, in addition to maintenance of way and other
+equipment.
+In the ordinary course of business, BNSF incurs significant costs in repairing and maintaining its properties. In 2020,
+BNSF recorded approximately $2 billion in repairs and maintenance expense.
+K-26
+Utilities and Energy Businesses—Berkshire Hathaway Energy
+BHE’s energy properties consist of the physical assets necessary to support its electricity and natural gas businesses.
+Properties of BHE’s electricity businesses include electric generation, transmission and distribution facilities, as well as coal
+mining assets that support certain of BHE’s electric generating facilities. Properties of BHE’s natural gas businesses include
+natural gas distribution facilities, interstate pipelines, storage facilities, liquefied natural gas facilities, compressor stations
+and meter stations. The transmission and distribution assets are primarily within each of BHE’s utility service territories. In
+addition to these physical assets, BHE has rights-of-way, mineral rights and water rights that enable BHE to utilize its
+facilities. Pursuant to separate financing agreements, the majority of these properties are pledged or encumbered to support or
+otherwise provide the security for the related subsidiary debt. BHE or its affiliates own or have interests in the following
+types of operating electric generating facilities at December 31, 2020:
+Energy Source
+Entity
+Natural gas
+PacifiCorp, MEC, NV Energy and Nevada, Utah, Iowa, Illinois, Washington,
+BHE Renewables
+Wyoming, Oregon, Texas, New York and
+Arizona
+PacifiCorp, MEC and BHE
+Iowa, Wyoming, Texas, Nebraska,
+Renewables
+Washington, California, Illinois, Oregon,
+Kansas and Montana
+PacifiCorp, MEC and
+Wyoming, Iowa, Utah, Nevada, Colorado
+NV Energy
+and Montana
+BHE Renewables and
+California, Texas, Arizona, Minnesota and
+NV Energy
+Nevada
+PacifiCorp, MEC and
+Washington, Oregon, The Philippines,
+BHE Renewables
+Idaho, California, Utah, Hawaii, Montana,
+Illinois and Wyoming
+MEC
+Illinois
+PacifiCorp and BHE Renewables California and Utah
+Total
+Wind
+Coal
+Solar
+Hydroelectric
+Nuclear
+Geothermal
+(1)
+Location by Significance
+Facility
+Net
+Capacity
+(MW) (1)
+Net
+Owned
+Capacity
+(MW) (1)
+11,171
+10,892
+10,302
+10,302
+13,249
+8,198
+1,699
+1,551
+1,299
+1,815
+377
+39,912
+1,277
+454
+377
+33,051
+Facility Net Capacity in megawatts (MW) represents the lesser of nominal ratings or any limitations under applicable
+interconnection, power purchase, or other agreements for intermittent resources and the total net dependable
+capability available during summer conditions for all other units. An intermittent resource’s nominal rating is the
+manufacturer’s contractually specified capability (in MW) under specified conditions. Net Owned Capacity indicates
+BHE’s ownership of Facility Net Capacity.
+As of December 31, 2020, BHE’s subsidiaries also have electric generating facilities that are under construction in
+Iowa, Wyoming and Montana having total Facility Net Capacity and Net Owned Capacity of 603 MW.
+PacifiCorp, MEC and NV Energy own electric transmission and distribution systems, including approximately 27,600
+miles of transmission lines and approximately 1,650 substations and gas distribution facilities, including approximately
+27,600 miles of gas mains and service lines.
+Northern Powergrid (Northeast) and Northern Powergrid (Yorkshire) operate an electricity distribution network that
+includes approximately 17,300 miles of overhead lines, approximately 42,800 miles of underground cables and
+approximately 770 major substations. AltaLink’s electricity transmission system includes approximately 8,200 miles of
+transmission lines and approximately 310 substations.
+The BHE GT&S pipeline system consists of approximately 5,400 miles of natural gas transmission, gathering and
+storage pipelines. BHE GT&S provides natural gas storage and transportation service to on-system customers in Maryland,
+New York, Ohio, Pennsylvania, South Carolina, Virginia and West Virginia. Additionally, through multiple interconnects
+with other pipelines, BHE GT&S provides services to off-system customers broadly in the Northeast, Southeast and MidAtlantic regions. Storage services are provided through the operation of 17 underground natural gas storage fields located in
+Pennsylvania, West Virginia and New York. BHE GT&S also operates, as the general partner, and owns a 25% limited
+partnership interest in one liquefied natural gas export, import and storage facility in Maryland and operates and has
+ownership interests in three modular liquefied natural gas facilities in Alabama, Florida and Pennsylvania.
+K-27
+Northern Natural’s pipeline system consists of approximately 14,500 miles of natural gas pipelines, including
+approximately 6,000 miles of mainline transmission pipelines and approximately 8,500 miles of branch and lateral pipelines.
+Northern Natural’s end-use and distribution market area includes points in Iowa, Nebraska, Minnesota, Wisconsin, South
+Dakota, Michigan and Illinois and its natural gas supply and delivery service area includes points in Kansas, Texas,
+Oklahoma and New Mexico. Storage services are provided through the operation of one underground natural gas storage
+field in Iowa, two underground natural gas storage facilities in Kansas and two liquefied natural gas storage peaking units,
+one in Iowa and one in Minnesota.
+Kern River’s system consists of approximately 1,400 miles of natural gas pipelines, which extends from the system’s
+point of origination in Wyoming through the Central Rocky Mountains into California.
+Other Segments
+Significant physical properties used by Berkshire’s other business segments are summarized below:
+Business
+Insurance:
+GEICO
+BHRG
+BH Primary
+Manufacturing
+Country
+U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+Property/Facility type
+Locations in 22 countries
+Locations in 7 countries
+U.S.
+Non-U.S.
+Service
+Locations
+Locations in 63 countries
+U.S.
+Non-U.S.
+Locations in 18 countries
+Number of Properties
+Owned
+Leased
+Offices and claims centers
+Offices
+Offices
+Offices
+Offices
+10
+1
+1
+7
+—
+122
+30
+37
+51
+16
+Manufacturing facility
+Offices/Warehouses
+Retail/Showroom
+Housing communities
+Manufacturing facility
+Offices/Warehouses
+Retail/Showroom
+485
+207
+261
+312
+199
+88
+—
+119
+443
+213
+—
+124
+448
+4
+Training facilities/Hangars
+Offices/Distribution
+Production facilities
+Leasing/Showroom/Retail
+Training facilities/Hangars
+Offices/Distribution
+19
+15
+4
+31
+2
+—
+94
+144
+3
+48
+12
+48
+McLane Company
+U.S.
+Distribution centers
+Offices
+59
+4
+26
+1
+Retailing
+U.S.
+Offices/Warehouses
+Retail/Showroom
+Offices/Warehouses
+Retail/Offices
+21
+142
+1
+—
+26
+543
+9
+93
+Non-U.S.
+Locations in 6 countries
+Item 3. Legal Proceedings
+Berkshire and its subsidiaries are parties in a variety of legal actions that routinely arise out of the normal course of
+business, including legal actions seeking to establish liability directly through insurance contracts or indirectly through
+reinsurance contracts issued by Berkshire subsidiaries. Plaintiffs occasionally seek punitive or exemplary damages. We do
+not believe that such normal and routine litigation will have a material effect on our financial condition or results of
+operations. Berkshire and certain of its subsidiaries are also involved in other kinds of legal actions, some of which assert or
+may assert claims or seek to impose fines and penalties. We believe that any liability that may arise as a result of other
+pending legal actions will not have a material effect on our consolidated financial condition or results of operations.
+K-28
+Item 4. Mine Safety Disclosures
+Information regarding the Company’s mine safety violations and other legal matters disclosed in accordance with
+Section 1503 (a) of the Dodd-Frank Reform Act is included in Exhibit 95 to this Form 10-K.
+Executive Officers of the Registrant
+Following is a list of the Registrant’s named executive officers:
+Name
+Age
+Warren E. Buffett
+Charles T. Munger
+Gregory E. Abel
+Ajit Jain
+Marc D. Hamburg
+90
+97
+58
+69
+71
+Position with Registrant
+Chairman and Chief Executive Officer
+Vice Chairman
+Vice Chairman – Non-Insurance Operations
+Vice Chairman – Insurance Operations
+Senior Vice-President – Chief Financial Officer
+Since
+1970
+1978
+2018
+2018
+1992
+Each executive officer serves, in accordance with the by-laws of the Registrant, until the first meeting of the Board of
+Directors following the next annual meeting of shareholders and until a successor is chosen and qualified or until such
+executive officer sooner dies, resigns, is removed or becomes disqualified.
+FORWARD-LOOKING STATEMENTS
+Investors are cautioned that certain statements contained in this document as well as some statements in periodic press
+releases and some oral statements of Berkshire officials during presentations about Berkshire or its subsidiaries are “forwardlooking” statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Act”). Forward-looking
+statements include statements which are predictive in nature, which depend upon or refer to future events or conditions,
+which include words such as “expects,” “anticipates,” “intends,” “plans,” “believes,” “estimates” or similar expressions. In
+addition, any statements concerning future financial performance (including future revenues, earnings or growth rates),
+ongoing business strategies or prospects and possible future Berkshire actions, which may be provided by management, are
+also forward-looking statements as defined by the Act. Forward-looking statements are based on current expectations and
+projections about future events and are subject to risks, uncertainties and assumptions about Berkshire and its subsidiaries,
+economic and market factors and the industries in which we do business, among other things. These statements are not
+guarantees of future performance and we have no specific intention to update these statements.
+Actual events and results may differ materially from those expressed or forecasted in forward-looking statements due
+to a number of factors. The principal risk factors that could cause our actual performance and future events and actions to
+differ materially from such forward-looking statements include, but are not limited to, changes in market prices of our
+investments in fixed maturity and equity securities, losses realized from derivative contracts, the occurrence of one or more
+catastrophic events, such as an earthquake, hurricane, act of terrorism or cyber attack that causes losses insured by our
+insurance subsidiaries and/or losses to our business operations, the frequency and severity of epidemics, pandemics or other
+outbreaks, including COVID-19, that negatively affect our operating results and restrict our access to borrowed funds through
+the capital markets at reasonable rates, changes in laws or regulations affecting our insurance, railroad, utilities and energy
+and finance subsidiaries, changes in federal income tax laws, and changes in general economic and market factors that affect
+the prices of securities or the industries in which we do business.
+Part II
+Item 5. Market for Registrant’s Common Equity, Related Security Holder Matters and Issuer Purchases of Equity
+Securities
+Market Information
+Berkshire’s Class A and Class B common stock are listed for trading on the New York Stock Exchange, trading
+symbols: BRK.A and BRK.B, respectively.
+Shareholders
+Berkshire had approximately 1,600 record holders of its Class A common stock and 18,900 record holders of its
+Class B common stock at February 16, 2021. Record owners included nominees holding at least 351,000 shares of Class A
+common stock and 1,332,000,000 shares of Class B common stock on behalf of beneficial-but-not-of-record owners.
+Dividends
+Berkshire has not declared a cash dividend since 1967.
+K-29
+Common Stock Repurchase Program
+Berkshire’s common stock repurchase program permits Berkshire to repurchase its Class A and Class B shares at any
+time that Warren Buffett, Berkshire’s Chairman of the Board and Chief Executive Officer, and Charles Munger, Vice
+Chairman of the Board, believe that the repurchase price is below Berkshire’s intrinsic value, conservatively determined.
+Repurchases may be in the open market or through privately negotiated transactions. Information with respect to Berkshire’s
+Class A and Class B common stock repurchased during the fourth quarter of 2020 follows.
+Total number of
+shares purchased
+Period
+October
+Class A common stock
+Class B common stock
+November
+Class A common stock
+Class B common stock
+December
+Class A common stock
+Class B common stock
+*
+Average price
+paid per share
+Total number of
+Maximum
+shares purchased number or value of
+as part of
+shares that yet
+publicly
+may be
+announced
+repurchased under
+program
+the program
+1,894 $
+11,097,536 $
+316,292.44
+209.92
+1,894
+11,097,536
+*
+*
+2,244 $
+7,423,729 $
+341,117.06
+219.12
+2,244
+7,423,729
+*
+*
+1,787 $
+12,605,335 $
+342,577.29
+225.73
+1,787
+12,605,335
+*
+*
+The program does not specify a maximum number of shares to be repurchased or obligate Berkshire to repurchase any
+specific dollar amount or number of Class A or Class B shares and there is no expiration date to the repurchase
+program. Berkshire will not repurchase its common stock if the repurchases reduce the total value of Berkshire’s
+consolidated cash, cash equivalents and U.S. Treasury Bills holdings to less than $20 billion.
+K-30
+Market for Registrant’s Common Equity, Related Security Holder Matters and Issuer Purchases of Equity
+Securities (Continued)
+Stock Performance Graph
+The following chart compares the subsequent value of $100 invested in Berkshire common stock on December 31,
+2015 with a similar investment in the Standard & Poor’s 500 Stock Index and in the Standard & Poor’s Property – Casualty
+Insurance Index**.
+220
+Berkshire Hathaway Inc.
+203
+S&P 500 Index*
+200
+S&P 500 Property & Casualty Insurance Index*
+DOLLARS
+182
+172
+180
+155
+160
+150
+142
+140
+123
+136
+120
+170
+171
+176
+135
+130
+116
+112
+100
+80
+60
+2015
+2016
+2017
+2018
+2019
+2020
+*
+Cumulative return for the Standard & Poor’s indices based on reinvestment of dividends.
+**
+It would be difficult to develop a peer group of companies similar to Berkshire. The Corporation owns subsidiaries
+engaged in a number of diverse business activities of which the most important is the property and casualty insurance
+business and, accordingly, management has used the Standard & Poor’s Property—Casualty Insurance Index for
+comparative purposes.
+K-31
+Item 6. Selected Financial Data
+Selected Financial Data for the Past Five Years
+(dollars in millions except per-share data)
+2020
+Revenues:
+Insurance premiums earned
+Sales and service revenues
+Leasing revenue
+Railroad, utilities and energy revenues
+Interest, dividend and other investment income
+Total revenues
+Investment and derivative gains/losses
+Earnings:
+Net earnings attributable to Berkshire Hathaway (1)
+Net earnings per share attributable to Berkshire
+Hathaway shareholders (2)
+Year-end data:
+Total assets
+Notes payable and other borrowings:
+Insurance and other
+Railroad, utilities and energy
+Berkshire Hathaway shareholders’ equity
+Class A equivalent common shares outstanding, in
+thousands
+Berkshire Hathaway shareholders’ equity per
+outstanding Class A equivalent common share
+$
+2019
+2018
+57,418
+133,336
+5,732
+43,673
+7,678
+$ 247,837
+2017
+$
+60,597
+130,243
+2,552
+40,005
+6,536
+$ 239,933
+2016
+63,401
+127,044
+5,209
+41,764
+8,092
+$ 245,510
+$
+61,078
+134,989
+5,856
+43,453
+9,240
+$ 254,616
+$
+$
+45,881
+123,053
+2,553
+37,447
+6,180
+$ 215,114
+$
+40,746
+$
+72,607
+$ (22,455) $
+2,128
+$
+8,304
+$
+42,521
+$
+81,417
+$
+4,021
+$
+44,940
+$
+24,074
+$
+26,668
+$
+49,828
+$
+2,446
+$
+27,326
+$
+14,645
+$ 873,729
+$ 817,729
+$ 707,794
+$ 702,095
+$ 620,854
+41,522
+75,373
+37,590
+65,778
+34,975
+62,515
+40,409
+62,178
+42,559
+59,085
+443,164
+424,791
+348,703
+348,296
+282,070
+1,544
+1,625
+1,641
+1,645
+1,644
+$ 287,031
+$ 261,417
+$ 212,503
+$ 211,750
+$ 171,542
+(1)
+Includes after-tax investment and derivative gains/losses of $31.6 billion in 2020, $57.4 billion in 2019, $(17.7) billion
+in 2018, $1.4 billion in 2017 and $6.5 billion in 2016. Beginning in 2018, investment gains/losses include the changes
+in fair values of equity securities during the period. Previously, investment gains/losses of equity securities were
+recognized in earnings when securities were sold. Net earnings in 2017 includes a one-time net benefit of $29.1 billion
+attributable to the enactment of the Tax Cuts and Jobs Act of 2017.
+(2)
+Represents net earnings per average equivalent Class A share outstanding. Net earnings per average equivalent
+Class B common share outstanding is equal to 1/1,500 of such amount.
+K-32
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Results of Operations
+Net earnings attributable to Berkshire Hathaway shareholders for each of the past three years are disaggregated in the
+table that follows. Amounts are after deducting income taxes and exclude earnings attributable to noncontrolling interests (in
+millions).
+2020
+Insurance – underwriting
+Insurance – investment income
+Railroad
+Utilities and energy
+Manufacturing, service and retailing
+Investment and derivative gains/losses
+Other*
+Net earnings attributable to Berkshire Hathaway shareholders
+∗
+$
+$
+657 $
+5,039
+5,161
+3,091
+8,300
+31,591
+(11,318)
+42,521 $
+2019
+325
+5,530
+5,481
+2,840
+9,372
+57,445
+424
+81,417
+2018
+$
+$
+1,566
+4,554
+5,219
+2,621
+9,364
+(17,737)
+(1,566)
+4,021
+Includes goodwill and indefinite-lived intangible asset impairment charges of $11.0 billion in 2020, $435 million in
+2019 and $3.0 billion in 2018, which includes our share of charges recorded by Kraft Heinz.
+Through our subsidiaries, we engage in a number of diverse business activities. We manage our operating businesses
+on an unusually decentralized basis. There are few centralized or integrated business functions. Our senior corporate
+management team participates in and is ultimately responsible for significant capital allocation decisions, investment
+activities and the selection of the Chief Executive to head each of the operating businesses. The business segment data (Note
+27 to the accompanying Consolidated Financial Statements) should be read in conjunction with this discussion.
+As the COVID-19 pandemic accelerated beginning in the second half of March, most of our businesses were
+negatively affected, with the effects to date ranging from relatively minor to severe. Revenues and earnings of most of our
+manufacturing, service and retailing businesses declined considerably, and in certain instances severely, in the second quarter
+due to closures of facilities where crowds gather, such as retail stores, restaurants and entertainment venues as well as from
+public travel restrictions and from closures of certain of our businesses. In each of the third and fourth quarters of 2020,
+several of these businesses experienced significant increases in revenues and earnings as compared to the second quarter.
+Our businesses that were deemed essential continued to operate through the pandemic, including our railroad, utilities
+and energy, insurance and certain of our manufacturing, wholesale distribution and service businesses. In response to the
+effects of the pandemic, our businesses implemented various business continuity plans to protect our employees and
+customers. Such plans include a variety of actions, such as temporarily closing certain retail stores, manufacturing facilities
+and service centers of businesses that were not subject to government mandated closure. Our businesses also implemented
+practices to protect employees while at work. Such practices included work-from-home, staggered or reduced work
+schedules, increased cleaning and sanitation of workspaces, providing employee health screenings, eliminating non-essential
+travel and face-to-face meetings and providing general health reminders intended to lower the risk of spreading COVID-19.
+We also took actions in response to the economic losses from reductions in consumer demand for products and services
+we offer and our temporary inability to produce goods and provide services at certain of our businesses. These actions
+included employee furloughs, wage and salary reductions, capital spending reductions and other actions intended to help
+mitigate the economic losses and preserve capital and liquidity. Certain of our businesses undertook and may continue to
+undertake restructuring activities to resize their operations to better fit expected customer demand. We cannot reliably predict
+future economic effects of the pandemic or when business activities at all of our numerous and diverse operations will
+normalize. Nor can we predict how these events will alter the future consumption patterns of consumers and businesses we
+serve.
+Our insurance businesses generated after-tax earnings from underwriting of $657 million in 2020, $325 million in 2019
+and $1.6 billion in 2018. In each year, we generated underwriting earnings from primary insurance and underwriting losses
+from reinsurance. Insurance underwriting results included after-tax losses from significant catastrophe events of
+approximately $750 million in 2020, $800 million in 2019 and $1.3 billion in 2018. Underwriting results in 2020 also
+reflected the effects of the pandemic, arising from premium reductions from the GEICO Giveback program, reduced claims
+frequencies for private passenger automobile insurance and increased loss estimates for certain commercial insurance and
+property and casualty reinsurance business.
+K-33
+Management’s Discussion and Analysis (Continued)
+Results of Operations (Continued)
+After-tax earnings from insurance investment income in 2020 declined $491 million (8.9%) versus 2019, reflecting
+lower interest income primarily attributable to declines in interest rates on our substantial holdings of cash and U.S. Treasury
+Bills. After-tax earnings from insurance investment income in 2019 increased 21.4% over 2018, attributable to increases in
+interest and dividend income.
+After-tax earnings of our railroad business decreased 5.8% in 2020 as compared to 2019. Earnings in 2020 reflected
+lower railroad operating revenues from lower shipping volumes, attributable to the negative effects of the COVID-19
+pandemic, partly offset by lower operating costs and the effects of productivity improvements. After-tax earnings of our
+utilities and energy business increased 8.8% as compared to 2019. The increase reflected increased tax benefits from
+renewable energy and increased earnings from the real estate brokerage business. Earnings in 2020 from our manufacturing,
+service and retailing businesses declined 11.4% versus 2019. The effects of the COVID-19 pandemic varied among our
+manufacturing businesses relative to significance and duration.
+Other earnings included after-tax goodwill and indefinite-lived intangible asset impairment charges of $11.0 billion in
+2020, $435 million in 2019 and $3.0 billion in 2018. Such amounts included our share of impairment charges recorded by
+Kraft Heinz. Approximately $9.8 billion of the charges in 2020 were attributable to impairments of goodwill and identifiable
+intangible assets recorded in connection with Berkshire’s acquisition of Precision Castparts in 2016. Other earnings in 2020
+also included after-tax foreign exchange rate losses of $764 million related to non-U.S. Dollar denominated debt issued by
+Berkshire and its U.S.-based finance subsidiary, Berkshire Hathaway Finance Corporation (“BHFC”).
+After-tax earnings of our railroad business increased 5.0% in 2019 compared to 2018. Earnings in 2019 benefitted from
+higher rates per car/unit, a curtailment gain related to an amendment to defined benefit retirement plans and ongoing
+operating cost control initiatives, partly offset by lower freight volumes and incremental costs associated with the persistent
+flooding conditions and severe winter weather in the first half of 2019. After-tax earnings of our utilities and energy business
+increased 8.4% in 2019 compared to 2018.
+Earnings from our manufacturing, service and retailing businesses in 2019 were relatively unchanged from 2018,
+reflecting mixed operating results with several of these businesses experiencing lower earnings in 2019 from a variety of
+factors. Revenues and pre-tax earnings in 2019 of certain of these businesses were negatively affected by the unfavorable
+effects of foreign currency translation attributable to a stronger U.S. Dollar, international trade tensions and U.S. trade tariffs.
+Investment and derivative gains/losses in each of the three years presented included significant gains and losses on our
+investments in equity securities, including unrealized gains and losses from market price changes on securities we continue to
+hold. We believe that investment and derivative gains/losses, whether realized from dispositions or unrealized from changes
+in market prices of equity securities, are generally meaningless in understanding our reported results or evaluating the
+economic performance of our businesses. These gains and losses have caused and will continue to cause significant volatility
+in our periodic earnings.
+Insurance—Underwriting
+Our management views our insurance businesses as possessing two distinct activities – underwriting and investing.
+Underwriting decisions are the responsibility of the unit managers, while investing decisions are the responsibility of
+Berkshire’s Chairman and CEO, Warren E. Buffett and Berkshire’s corporate investment managers. Accordingly, we
+evaluate performance of underwriting operations without any allocation of investment income or investment gains/losses. We
+consider investment income as an integral component of our aggregate insurance operating results. However, we consider
+investment gains and losses, whether realized or unrealized as non-operating, based on our long-held strategy of acquiring
+securities and holding those securities for long periods. We believe that such gains and losses are not meaningful in
+understanding the operating results of our insurance businesses.
+The timing and amount of catastrophe losses can produce significant volatility in our periodic underwriting results,
+particularly with respect to our reinsurance businesses. Generally, we consider pre-tax losses in excess of $100 million from a
+current year catastrophic event to be significant.
+Changes in estimates for unpaid losses and loss adjustment expenses, including amounts established for occurrences in
+prior years, can also significantly affect our periodic underwriting results. Unpaid loss estimates, including estimates under
+retroactive reinsurance contracts, were approximately $120.8 billion as of December 31, 2020. Our periodic underwriting
+results may also include significant foreign currency transaction gains and losses arising from the changes in the valuation of
+non-U.S. Dollar denominated liabilities of our U.S. based insurance subsidiaries due to foreign currency exchange rate
+fluctuations.
+K-34
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+Underwriting results in 2020 of certain of our commercial insurance and reinsurance businesses were negatively
+affected by estimated losses and costs associated with the COVID-19 pandemic, including estimated provisions for claims
+and uncollectible premiums and incremental operating costs to maintain customer service levels. The effects of the pandemic
+in the future may be further affected by judicial rulings and regulatory and legislative actions pertaining to insurance
+coverage and claims and by its effects on general economic activity, which we cannot reasonably estimate at this time.
+We provide primary insurance and reinsurance products covering property and casualty risks, as well as life and health
+risks. Our insurance and reinsurance businesses are GEICO, Berkshire Hathaway Primary Group and Berkshire Hathaway
+Reinsurance Group (“BHRG”).
+Underwriting results of our insurance businesses are summarized below (dollars in millions).
+2020
+Pre-tax underwriting earnings (loss):
+GEICO
+Berkshire Hathaway Primary Group
+Berkshire Hathaway Reinsurance Group
+Pre-tax underwriting earnings
+Income taxes and noncontrolling interests
+Net underwriting earnings
+Effective income tax rate
+$
+2019
+3,428 $
+110
+(2,700)
+838
+181
+657 $
+21.5%
+$
+2018
+1,506 $
+383
+(1,472)
+417
+92
+325 $
+24.2%
+2,449
+670
+(1,109)
+2,010
+444
+1,566
+21.4%
+GEICO
+GEICO writes private passenger automobile insurance, offering coverages to insureds in all 50 states and the District of
+Columbia. GEICO markets its policies mainly by direct response methods where most customers apply for coverage directly
+to the company via the Internet or over the telephone. A summary of GEICO’s underwriting results follows (dollars in
+millions).
+2020
+Amount
+Premiums written
+Premiums earned
+Losses and loss adjustment expenses
+Underwriting expenses
+Total losses and expenses
+Pre-tax underwriting earnings
+$
+$
+$
+2019
+%
+34,928
+35,093
+26,018
+5,647
+31,665
+3,428
+100.0
+74.1
+16.1
+90.2
+Amount
+$
+$
+$
+36,016
+35,572
+28,937
+5,129
+34,066
+1,506
+2018
+%
+100.0
+81.3
+14.5
+95.8
+Amount
+$
+$
+$
+34,123
+33,363
+26,278
+4,636
+30,914
+2,449
+%
+100.0
+78.8
+13.9
+92.7
+2020 versus 2019
+GEICO’s pre-tax underwriting earnings for 2020 reflected significant declines in losses and loss adjustment expenses
+attributable to lower claims frequencies from the effects of less driving by policyholders during the COVID-19 pandemic
+offset by the effects of the GEICO Giveback program (see following paragraph) on earned premiums.
+Premiums written decreased 3.0% compared to 2019. The GEICO Giveback program provided for a 15% premium
+credit to all voluntary auto and motorcycle policies renewing between April 8, 2020 and October 7, 2020, as well as to any
+new policies written during the same period. The GEICO Giveback program reduced premiums written in 2020 by
+approximately $2.9 billion. Premiums earned decreased 1.3% in 2020 compared to 2019, which included reductions of
+approximately $2.5 billion attributable to the GEICO Giveback program.
+K-35
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+GEICO (Continued)
+Voluntary auto policies-in-force at the end of 2020 increased approximately 820,000 (4.6%) compared to the end of
+2019. The increase reflected a 7.3% decrease in new business sales and a 2.5% decrease in non-renewals and policy
+cancellations.
+Losses and loss adjustment expenses decreased $2.9 billion (10.1%) in 2020 compared to 2019. GEICO’s ratio of
+losses and loss adjustment expenses to premiums earned (the “loss ratio”) was 74.1%, a decrease of 7.2 percentage points
+compared to 2019. The decrease in the loss ratio reflected declines in claims frequencies, partly offset by increases in claims
+severities and the impact of lower premiums earned attributable to the GEICO Giveback program.
+Claims frequencies in 2020 were lower for property damage, bodily injury and personal injury protection coverages
+(twenty-eight to thirty percent range) and collision coverage (twenty-three to twenty-four percent range) compared to 2019.
+Average claims severities in 2020 were higher for property damage and collision coverages (eight to ten percent range) and
+bodily injury coverage (twelve to thirteen percent range).
+Losses and loss adjustment expenses included net reductions of $253 million in 2020 for decreases in the ultimate loss
+estimates for prior years’ loss events compared to net increases of $42 million in 2019. Losses incurred included $81 million
+in 2020 from Hurricanes Laura and Sally and U.S. wildfires. There were no losses from significant catastrophe events in
+2019.
+Underwriting expenses in 2020 increased $518 million (10.1%) compared to 2019, reflecting higher employee-related,
+advertising and technology costs partly offset by lower premium taxes. GEICO’s expense ratio in 2020 (underwriting
+expenses to premiums earned) was 16.1%, an increase of 1.6 percentage points compared to 2019. The expense ratio increase
+was primarily attributable to the decline in earned premiums from the GEICO Giveback program.
+2019 versus 2018
+Premiums written and earned in 2019 increased 5.5% and 6.6%, respectively, compared to 2018. These increases were
+primarily attributable to voluntary auto policies-in-force growth of 6.4%, partially offset by a decrease in average premiums
+per auto policy. The increase in voluntary auto policies-in-force primarily resulted from an increase in new business sales and
+a decrease in policies cancelled or not renewed. Voluntary auto policies-in-force increased approximately 1,068,000 during
+2019.
+Losses and loss adjustment expenses in 2019 increased 10.1% compared to 2018. The loss ratio in 2019 was 81.3%, an
+increase of 2.5 percentage points over 2018, primarily due to increases in average claims severities.
+Average claims severities in 2019 were higher versus 2018 for property damage and collision coverages (four to six
+percent range) and bodily injury coverage (seven to nine percent range). Claims frequencies in 2019 declined compared to
+2018 for property damage and collision coverages (two to four percent range) and personal injury protection coverage (one to
+two percent range) and were relatively unchanged for bodily injury coverage. Losses and loss adjustment expenses included
+net increases of $42 million in 2019 and net of decreases $222 million in 2018 for changes in the ultimate loss estimates for
+prior years’ loss events.
+Underwriting expenses in 2019 increased $493 million (10.6%) over 2018. GEICO’s underwriting expense ratio in
+2019 was 14.5%, an increase of 0.6 percentage points compared to 2018. The underwriting expense increase was primarily
+attributable to increases in advertising expenses and employee-related costs, which reflected wage and staffing increases.
+K-36
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+Berkshire Hathaway Primary Group
+The Berkshire Hathaway Primary Group (“BH Primary”) provides a variety of commercial insurance solutions,
+including healthcare malpractice, workers’ compensation, automobile, general liability, property and various specialty
+coverages for small, medium and large clients. The largest of these insurers are Berkshire Hathaway Specialty Insurance
+(“BH Specialty”), Berkshire Hathaway Homestate Companies (“BHHC”), MedPro Group, Berkshire Hathaway GUARD
+Insurance Companies (“GUARD”) and National Indemnity Company (“NICO Primary”). Other BH Primary insurers include
+U.S. Liability Insurance Company, Central States Indemnity Company and MLMIC Insurance Company (“MLMIC”),
+acquired October 1, 2018. A summary of BH Primary underwriting results follows (dollars in millions).
+2020
+Amount
+Premiums written
+Premiums earned
+Losses and loss adjustment expenses
+Underwriting expenses
+Total losses and expenses
+Pre-tax underwriting earnings
+$
+$
+$
+2019
+%
+10,212
+9,615
+7,129
+2,376
+9,505
+110
+100.0
+74.1
+24.7
+98.8
+Amount
+$
+$
+$
+9,843
+9,165
+6,336
+2,446
+8,782
+383
+2018
+%
+100.0
+69.1
+26.7
+95.8
+Amount
+$
+$
+$
+8,561
+8,111
+5,261
+2,180
+7,441
+670
+%
+100.0
+64.9
+26.9
+91.8
+Premiums written increased $369 million (3.7%) in 2020 compared to 2019, reflecting increased premiums written
+from BH Specialty (34%) and MedPro Group (9%), partially offset by a 13% decrease in premiums written by our other
+primary insurers. The increase at BH Specialty was driven by increased casualty business globally and the increase at
+MedPro Group reflected increases across several product categories. The decline in volume by our other primary insurers was
+primarily due to lower workers’ compensation and commercial automobile volumes and the effect of the divestiture of
+Applied Underwriters in October 2019. The declines in workers’ compensation and commercial auto business written
+reflected the effects of reduced exposures and premium refunds related to the COVID-19 pandemic and volume reductions
+attributable to increased price competition in the market.
+Premiums written increased $1.3 billion (15.0%) in 2019 compared to 2018. The increase was attributable to higher
+volumes from BH Specialty, MedPro Group and GUARD, as well as from the effects of the MLMIC acquisition. These
+increases were partly offset by lower volume at BHHC and the effect of the Applied Underwriters divestiture.
+BH Primary’s combined loss ratios were 74.1% in 2020, 69.1% in 2019 and 64.9% in 2018, which reflected the effects
+of significant catastrophe events during the year and changes in estimated losses for prior years’ loss events. Losses and loss
+adjustment expenses attributable to significant catastrophe events were $207 million in 2020 (Hurricanes Laura and Sally and
+U.S. wildfires) and $190 million in 2018 (Hurricanes Florence and Michael and the wildfires in California). We incurred no
+losses from significant catastrophe events in 2019. Losses in 2020 also included $167 million attributable to the pandemic.
+Finally, losses and loss adjustment expenses were reduced $265 million in 2020, $499 million in 2019 and $715 million in
+2018 for net reductions in estimated ultimate liabilities for prior years’ loss events.
+BH Primary insurers write significant levels of commercial and professional liability and workers’ compensation
+insurance and the related claim costs may be subject to high severity and long claim-tails. Accordingly, we could experience
+significant increases in claims liabilities in the future attributable to higher-than-expected claim settlements, adverse litigation
+outcomes or judicial rulings and other factors not currently anticipated.
+Berkshire Hathaway Reinsurance Group
+We offer excess-of-loss and quota-share reinsurance coverages on property and casualty risks and life and health
+reinsurance to insurers and reinsurers worldwide through several subsidiaries, led by National Indemnity Company
+(“NICO”), Berkshire Hathaway Life Insurance Company of Nebraska (“BHLN”) and General Reinsurance Corporation,
+General Reinsurance AG and General Re Life Corporation (collectively, “General Re”). We also periodically assume
+property and casualty risks under retroactive reinsurance contracts written through NICO. In addition, we write periodic
+payment annuity contracts predominantly through BHLN.
+K-37
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+Berkshire Hathaway Reinsurance Group (Continued)
+Generally, we strive to generate underwriting profits. However, time-value-of-money concepts are important elements
+in establishing prices for retroactive reinsurance and periodic payment annuity businesses due to the expected long durations
+of the liabilities. We expect to incur pre-tax underwriting losses from such businesses, primarily through deferred charge
+amortization and discount accretion charges. We receive premiums at the inception of these contracts, which are then
+available for investment. A summary of BHRG’s premiums and pre-tax underwriting results follows (dollars in millions).
+Premiums written
+2020
+2019
+2018
+Property/casualty
+Life/health
+Retroactive reinsurance
+Periodic payment annuity
+Variable annuity
+Pre-tax underwriting
+earnings (loss)
+2020
+2019
+2018
+Premiums earned
+2020
+2019
+2018
+$13,295 $10,428 $ 9,413 $12,214 $ 9,911 $ 8,928 $ (799) $
+16 $ (207)
+5,848
+4,963
+5,430
+5,861
+4,869
+5,327
+(18)
+159
+182
+38
+684
+517
+38
+684
+517 (1,248) (1,265)
+(778)
+566
+863
+1,156
+566
+863
+1,156
+(617)
+(549)
+(340)
+14
+14
+16
+14
+14
+16
+(18)
+167
+34
+$19,761 $16,952 $16,532 $18,693 $16,341 $15,944 $ (2,700) $ (1,472) $(1,109)
+Property/casualty
+A summary of property/casualty reinsurance underwriting results follows (dollars in millions).
+2020
+Amount
+Premiums written
+Premiums earned
+Losses and loss adjustment expenses
+Underwriting expenses
+Total losses and expenses
+Pre-tax underwriting earnings (loss)
+$
+$
+$
+2019
+%
+13,295
+12,214
+9,898
+3,115
+13,013
+(799)
+100.0
+81.0
+25.5
+106.5
+Amount
+$
+$
+$
+10,428
+9,911
+7,313
+2,582
+9,895
+16
+2018
+%
+100.0
+73.8
+26.0
+99.8
+Amount
+$
+$
+$
+9,413
+8,928
+6,929
+2,206
+9,135
+(207)
+%
+100.0
+77.6
+24.7
+102.3
+Premiums written in 2020 increased $2.9 billion (27.5%) compared to 2019. The increase was primarily attributable to
+new business, including a small number of contracts with very large premiums, and increased participations on renewals.
+Premiums written in 2019 increased $1.0 billion (10.8%) compared to 2018. The increase was primarily attributable to new
+business, net of non-renewals, and increased participations on renewal business, partly offset by the unfavorable foreign
+currency translation effects of a stronger U.S. Dollar.
+Underwriting earnings in 2020 were negatively affected by an increase in losses and loss adjustment expenses of $2.6
+billion (35.3%). The loss ratio in 2020 was 81.0%, an increase of 7.2 percentage points over 2019. Losses and loss
+adjustment expenses in 2020 included estimated losses of $964 million attributable to the COVID-19 pandemic and estimated
+losses from significant catastrophe events of $667 million from Hurricanes Laura and Sally and U.S. wildfires. Losses and
+loss adjustment expenses also reflected net increases in estimated ultimate liabilities for prior years’ loss events of $162
+million in 2020 primarily attributable to legacy environmental, asbestos and other latent injury claims. Such amount as a
+percentage of the related net unpaid claim liabilities as of the beginning of 2020 was 0.5%.
+BHRG’s loss ratio was 73.8% in 2019 and 77.6% in 2018. Losses in 2019 included approximately $1.0 billion from
+Typhoons Faxia and Hagibis and various U.S. and non-U.S. wildfires, while losses in 2018 included approximately $1.3
+billion from Hurricanes Florence and Michael, Typhoon Jebi and wildfires in California. Losses and loss adjustment
+expenses also included net decreases of $295 million in 2019 and $469 million in 2018 for prior years’ loss events. Such
+amounts as percentages of the related net unpaid claim liabilities as of the beginning of the applicable year were 1.0% in
+2019 and 1.7% in 2018.
+Underwriting expenses are primarily commissions and brokerage costs. Underwriting expenses in 2020 increased $533
+million (20.6%) over 2019, and underwriting expenses in 2019 increased $376 million (17.0%) over 2018. The increases
+reflected the increases in premium volumes and changes in business mix.
+K-38
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+Life/health
+A summary of our life/health reinsurance underwriting results follows (dollars in millions).
+2020
+Amount
+Premiums written
+Premiums earned
+Life and health insurance benefits
+Underwriting expenses
+Total benefits and expenses
+Pre-tax underwriting earnings (loss)
+$
+$
+$
+2019
+%
+5,848
+5,861
+4,883
+996
+5,879
+(18)
+100.0
+83.3
+17.0
+100.3
+Amount
+$
+$
+$
+4,963
+4,869
+3,800
+910
+4,710
+159
+2018
+%
+100.0
+78.0
+18.7
+96.7
+Amount
+$
+$
+$
+5,430
+5,327
+4,240
+905
+5,145
+182
+%
+100.0
+79.6
+17.0
+96.6
+Life/health premiums written increased $885 million (17.8%) in 2020 compared to 2019. Approximately $480 million
+of the increase was attributable to a reinsurance contract covering U.S. health insurance risks that incepted in the fourth
+quarter of 2019, which was not renewed for 2021. The remainder of the increase was primarily from volume growth in the
+Asian and European life reinsurance markets.
+Underwriting earnings in 2020 were negatively affected by increased life benefits from COVID-19-related claims
+(approximately $275 million) and continuing losses from increased liabilities from changes in underlying assumptions with
+respect to disability benefit liabilities in Australia, which were mostly offset by lower other life claims and reduced losses
+from U.S. long-term care business that is in run-off. The ratio of life and health insurance benefits to premiums earned was
+83.3% in 2020 and 81.5% in 2019, which is before the effects of the BHLN contract amendment referred to below.
+Life/health premiums written in 2019 decreased $467 million (8.6%) compared to 2018. In the first quarter of 2019,
+BHLN amended a yearly-renewable-term life reinsurance contract with a major reinsurer. BHLN recorded a reduction in
+earned premiums on this contract in 2019 of $49 million, while premiums earned in 2018 related to this contract were $954
+million. In 2019, premiums earned also included $228 million from a new health reinsurance contract and reflected volume
+growth in life markets, partially offset by the unfavorable effects of foreign currency translation attributable to a stronger U.S.
+Dollar.
+Underwriting earnings in 2019 included a one-time gain of $163 million attributable to the BHLN yearly-renewableterm life reinsurance contract amendment. Pre-tax underwriting earnings in 2019 also included losses from increased
+disability benefit liabilities in Australia, attributable to higher claims experience and changes to various underlying
+assumptions increased U.S. long-term care liabilities due to discount rate reductions and changes in other actuarial
+assumptions, and an increase in life claims in North America, partially offset by increased earnings from other international
+life business.
+Retroactive reinsurance
+There were no significant retroactive reinsurance contracts written in 2020. Premiums written were $684 million in
+2019 and $517 million in 2018, attributable to a limited number of contracts in each year. Pre-tax underwriting losses in each
+year derived from deferred charge amortization and changes in the estimated timing and amounts of future claim payments.
+Underwriting results also include foreign currency exchange gains and losses from the effects of changes in foreign currency
+exchange rates on non-U.S. Dollar denominated liabilities of our U.S. subsidiaries. Underwriting results included pre-tax
+foreign currency losses of $139 million in 2020 and $76 million in 2019 and pre-tax gains of $169 million in 2018.
+Pre-tax underwriting losses before foreign currency gains/losses were $1.1 billion in 2020, $1.2 billion in 2019 and
+$947 million in 2018. Overall, we decreased estimated ultimate liabilities $399 million in 2020 for prior years’ contracts
+compared to an increase of $378 million in 2019. After adjustments to the related unamortized deferred charges from changes
+in the estimated timing and amount of the future claim payments, such changes produced pre-tax underwriting earnings of
+approximately $230 million in 2020 and pre-tax losses of $125 million in 2019.
+Gross unpaid losses assumed under retroactive reinsurance contracts were $41.0 billion at December 31, 2020 and
+$42.4 billion at December 31, 2019. Unamortized deferred charge assets related to such reinsurance contracts were $12.4
+billion at December 31, 2020 and $13.7 billion at December 31, 2019. Deferred charge assets will be charged to earnings
+over the expected remaining claims settlement periods through periodic amortization.
+K-39
+Management’s Discussion and Analysis (Continued)
+Insurance—Underwriting (Continued)
+Periodic payment annuity
+Periodic payment annuity premiums earned in 2020 decreased $297 million (34.4%) compared to 2019, which
+decreased $293 million (25.3%) from 2018. Periodic payment annuity business is price sensitive. The volumes written can
+change rapidly due to changes in prices, which are affected by prevailing interest rates, the perceived risks and durations
+associated with the expected annuity payments, as well as the level of competition.
+Periodic payment annuity contracts normally produce pre-tax underwriting losses deriving from the recurring discount
+accretion of annuity liabilities. Underwriting results also include gains or losses from the effects of changes in mortality and
+interest rates and from foreign currency exchange rate changes on non-U.S. Dollar denominated liabilities of our U.S.
+subsidiaries. Pre-tax underwriting results included foreign currency losses of $67 million in 2020 and $40 million in 2019
+compared to pre-tax gains of $93 million in 2018.
+Excluding foreign currency gains/losses, pre-tax underwriting losses from periodic payment annuity contracts were
+$550 million in 2020, $509 million in 2019 and $433 million in 2018. These losses primarily derived from the recurring
+discount accretion of annuity liabilities, as well as from the impact of mortality and interest rate changes. Discounted annuity
+liabilities were $14.3 billion at December 31, 2020 and $13.5 billion at December 31, 2019. The weighted average discount
+rate was approximately 4.0%.
+Variable annuity
+Variable annuity guarantee reinsurance contracts produced pre-tax losses of $18 million in 2020 compared to pre-tax
+earnings of $167 million in 2019 and $34 million in 2018. The results of this business reflect changes in remaining liabilities
+for underlying guaranteed benefits reinsured, which are affected by changes in securities markets and interest rates and from
+the periodic amortization of expected profit margins. Underwriting results from these contracts can be volatile, reflecting the
+volatility of securities markets, interest rates and foreign currency exchange rates.
+Insurance—Investment Income
+A summary of net investment income attributable to our insurance operations follows (dollars in millions).
+2020
+Interest and other investment income
+Dividend income
+Pre-tax net investment income
+Income taxes and noncontrolling interests
+Net investment income
+Effective income tax rate
+$
+$
+1,059
+4,890
+5,949
+910
+5,039
+15.3%
+2019
+$
+$
+2,075
+4,525
+6,600
+1,070
+5,530
+16.1%
+2018
+$
+$
+1,851
+3,652
+5,503
+949
+4,554
+Percentage change
+2020 vs 2019
+2019 vs 2018
+(49.0)%
+8.1
+(9.9)
+12.1%
+23.9
+19.9
+17.2%
+Interest and other investment income declined $1.0 billion (49.0%) in 2020 compared to 2019, primarily due to lower
+income from short-term investments. We continue to hold substantial balances of cash, cash equivalents and short-term U.S.
+Treasury Bills. Short-term interest rates declined over the second half of 2019 and the decline continued throughout 2020,
+which resulted in significantly lower interest income. We expect such rates, which are historically low, to remain low,
+negatively affecting our earnings from such investments in 2021. Nevertheless, we believe that maintaining ample liquidity is
+paramount and we insist on safety over yield with respect to short-term investments.
+K-40
+Management’s Discussion and Analysis (Continued)
+Insurance—Investment Income (Continued)
+Dividend income increased $365 million (8.1%) in 2020 compared to 2019. The increase was primarily attributable to
+dividends from the investment in $10 billion liquidation value of 8% cumulative preferred stock of Occidental Petroleum
+Corporation (“Occidental”) on August 8, 2019, partly offset by lower dividends from common stock investments.
+Interest and other investment income increased $224 million (12.1%) in 2019 compared to 2018, primarily due to
+higher interest rates on short-term investments and interest from a term loan with Seritage Growth Properties, partially offset
+by lower income earned from fixed maturity securities and limited partnership investments. Dividend income increased $873
+million (23.9%) in 2019 compared to 2018. The increase in dividend income was attributable to an overall increase in
+investment levels, including the investment in Occidental and increased dividends from common stock investments.
+Invested assets of our insurance businesses derive from shareholder capital, including reinvested earnings, and from net
+liabilities under insurance and reinsurance contracts or “float.” The major components of float are unpaid losses and loss
+adjustment expenses, including liabilities under retroactive reinsurance contracts, life, annuity and health insurance benefit
+liabilities, unearned premiums and other liabilities due to policyholders, which are reduced by insurance premiums and
+reinsurance receivables, deferred charges assumed under retroactive reinsurance contracts and deferred policy acquisition
+costs. Float approximated $138 billion at December 31, 2020, $129 billion at December 31, 2019 and $123 billion at
+December 31, 2018. Our combined insurance operations generated pre-tax underwriting earnings of approximately $838
+million in 2020, $417 million in 2019 and $2.0 billion in 2018, and consequently, the average cost of float for each of those
+periods was negative.
+A summary of cash and investments held in our insurance businesses as of December 31, 2020 and 2019 follows (in
+millions).
+December 31,
+2020
+Cash, cash equivalents and U.S. Treasury Bills
+Equity securities
+Fixed maturity securities
+Other
+$
+2019
+67,082
+269,498
+20,317
+6,220
+363,117
+$
+$
+64,908
+240,126
+18,537
+2,481
+326,052
+$
+Fixed maturity investments as of December 31, 2020 were as follows (in millions).
+Amortized
+cost
+U.S. Treasury, U.S. government corporations and agencies
+Foreign governments
+Corporate bonds
+Other
+$
+$
+3,339
+11,232
+4,678
+382
+19,631
+Unrealized
+gains/losses
+$
+$
+55
+105
+462
+64
+686
+Carrying
+value
+$
+$
+3,394
+11,337
+5,140
+446
+20,317
+U.S. government obligations are rated AA+ or Aaa by the major rating agencies. Approximately 88% of all foreign
+government obligations were rated AA or higher by at least one of the major rating agencies. Foreign government securities
+include obligations issued or unconditionally guaranteed by national or provincial government entities.
+K-41
+Management’s Discussion and Analysis (Continued)
+Railroad (“Burlington Northern Santa Fe”)
+Burlington Northern Santa Fe, LLC (“BNSF”) operates one of the largest railroad systems in North America, with
+approximately 32,500 route miles of track in 28 states. BNSF also operates in three Canadian provinces. BNSF classifies its
+major railroad business groups by type of product shipped which includes consumer products, industrial products,
+agricultural products and coal. A summary of BNSF’s earnings follows (dollars in millions).
+Railroad operating revenues
+Railroad operating expenses:
+Compensation and benefits
+Fuel
+Purchased services
+Depreciation and amortization
+Equipment rents, materials and other
+Total
+Railroad operating earnings
+Other revenues (expenses):
+Other revenues
+Other expenses, net
+Interest expense
+Pre-tax earnings
+Income taxes
+Net earnings
+Effective income tax rate
+$
+$
+Percentage change
+2020 vs 2019
+2019 vs 2018
+2020
+2019
+2018
+20,181 $
+22,745 $
+22,999
+(11.3)%
+(1.1)%
+4,542
+1,789
+1,954
+2,460
+1,684
+12,429
+7,752
+5,270
+2,944
+2,049
+2,389
+2,028
+14,680
+8,065
+5,322
+3,346
+2,131
+2,306
+2,110
+15,215
+7,784
+(13.8)
+(39.2)
+(4.6)
+3.0
+(17.0)
+(15.3)
+(3.9)
+(1.0)
+(12.0)
+(3.8)
+3.6
+(3.9)
+(3.5)
+3.6
+688
+(611)
+(1,037)
+6,792
+1,631
+5,161 $
+770
+(515)
+(1,070)
+7,250
+1,769
+5,481 $
+856
+(736)
+(1,041)
+6,863
+1,644
+5,219
+(10.6)
+18.6
+(3.1)
+(6.3)
+(7.8)
+(5.8)
+(10.0)
+(30.0)
+2.8
+5.6
+7.6
+5.0
+24.0%
+24.4%
+24.0%
+The following table summarizes BNSF’s railroad freight volumes by business group (cars/units in thousands).
+2020
+Consumer products
+Industrial products
+Agricultural products
+Coal
+Total cars/units
+5,266
+1,622
+1,189
+1,404
+9,481
+Cars/Units
+2019
+5,342
+1,931
+1,146
+1,802
+10,221
+2018
+5,597
+1,991
+1,208
+1,902
+10,698
+Percentage change
+2020 vs 2019
+2019 vs 2018
+(1.4)%
+(16.0)
+3.8
+(22.1)
+(7.2)
+(4.6)%
+(3.0)
+(5.1)
+(5.3)
+(4.5)
+2020 versus 2019
+Railroad operating revenues declined 11.3% in 2020 versus 2019, reflecting a 7.2% decrease in volume and a 4.5%
+decrease in average revenue per car/unit. The decrease in revenue per car/unit was attributable to lower fuel surcharge
+revenue driven by lower fuel prices and business mix changes. The overall volume decrease was primarily due to the
+COVID-19 pandemic, which severely impacted volumes through the first half of the year. Volumes sequentially improved
+from earlier periods and recovered overall to pre-pandemic levels by the end of the year.
+BNSF is an important component of the national and global supply chain and, as an essential business, has continued to
+operate throughout the duration of the COVID-19 pandemic. However, the pandemic caused significant economic disruptions
+that adversely affected the demand for transportation services. The pandemic continues to evolve, and the full extent to which
+it may impact BNSF's business, operating results, financial condition, or liquidity will depend on future developments. We
+believe BNSF's fundamental business remains strong and it has ample liquidity to continue business operations during this
+volatile period.
+K-42
+Management’s Discussion and Analysis (Continued)
+Railroad (“Burlington Northern Santa Fe”) (Continued)
+Pre-tax earnings were $6.8 billion in 2020, a decrease of 6.3% from 2019, principally due to the negative impacts of
+the pandemic on volumes. In addition, pre-tax earnings in 2019 included an operating revenue increase related to the
+favorable outcome of an arbitration hearing and a retirement plan curtailment gain that is included in other expenses, net in
+the preceding table. These effects were partially offset by significant improvements in 2020 in service, system velocity and
+cost performance compared to 2019, along with lower costs related to severe winter weather and flooding on parts of the
+network, which negatively affected expenses and service levels in 2019.
+Operating revenues from consumer products of $7.3 billion in 2020 declined 7.6% compared to 2019, primarily due to
+a 6.3% decrease in average revenue per car/unit along with lower volumes. The volume decrease was primarily due to the
+impact of the pandemic. Lower international and automotive volumes were offset by higher domestic intermodal volumes.
+Increased retail sales, inventory replenishments by retailers and e-commerce activity produced recovery of intermodal
+volumes in the second half of 2020.
+Operating revenues from industrial products were $5.0 billion in 2020, a decrease of 17.0% from 2019. The decrease
+was primarily attributable to the decline in volume and to a lesser extent lower average revenue per car/unit. Volumes
+decreased primarily due to lower U.S. industrial production driven by the pandemic, including reduced production and
+demand in the energy sector, which drove lower sand and petroleum products volume, along with reduced steel demand,
+which drove lower taconite volume.
+Operating revenues from agricultural products increased 2.9% to $4.8 billion in 2020 compared to 2019. The increase
+was due to higher volumes, partially offset by slightly lower average revenue per car/unit. The volume increase was primarily
+due to higher grain and meal exports, partially offsetting adverse impacts of the pandemic, primarily for ethanol and
+sweeteners shipments.
+Operating revenues from coal decreased 28.5% to $2.7 billion in 2020 compared to 2019. This decrease was primarily
+due to lower volumes, as well as lower revenues per car/unit. Volumes decreased primarily due to lower natural gas prices,
+lower electricity demand driven by the pandemic, utility coal plant retirements and mild temperatures.
+Railroad operating expenses declined 15.3% to $12.4 billion in 2020 as compared to 2019. The ratio of railroad
+operating expenses to railroad operating revenues declined 2.9 percentage points to 61.6% in 2020 versus 2019. Railroad
+operating expenses in 2020 reflected lower volume-related costs, productivity improvements, the effects of cost control
+initiatives and improved weather conditions compared to 2019.
+Compensation and benefits expenses decreased $728 million (13.8%) in 2020 compared to 2019, primarily due to
+lower employee counts associated with lower volume and due to improved workforce productivity. Fuel expenses decreased
+$1.2 billion (39.2%) compared to 2019, primarily due to lower average fuel prices, lower volumes and improved fuel
+efficiency. Purchased services expense declined $95 million (4.6%) compared to 2019. The decrease was primarily due to
+lower volume, improved productivity and higher insurance recoveries in 2020 related to network flooding in 2019.
+Equipment rents, materials and other expense decreased $344 million (17.0%) compared to 2019, primarily due to lower
+volume-related costs, the effects of cost controls and lower personal injury and derailment expenses.
+2019 versus 2018
+Railroad operating revenues were $22.7 billion in 2019, a decline of 1.1% versus 2018. During 2019, BNSF’s revenues
+reflected a 3.6% comparative increase in average revenue per car/unit and a 4.5% decrease in volume. The increase in
+average revenue per car/unit was attributable to increased rates per car/unit and a favorable outcome of an arbitration hearing.
+Pre-tax earnings were approximately $7.3 billion in 2019, an increase of 5.6% over 2018. BNSF experienced severe winter
+weather and flooding on parts of the network, which negatively affected revenues, expenses and service levels. In addition to
+the impact of an increase in average revenue per car/unit, earnings in 2019 benefited from a reduction in total operating
+expenses.
+K-43
+Management’s Discussion and Analysis (Continued)
+Railroad (“Burlington Northern Santa Fe”) (Continued)
+Operating revenues from consumer products were $7.9 billion in 2019, a decrease of 0.5% compared to 2018,
+reflecting volume decreases and higher average revenue per car/unit. The volume decreases were driven by moderated
+demand and the availability of truck capacity, as well as lower west coast imports.
+Operating revenues from industrial products were $6.1 billion in 2019, an increase of 1.7% from 2018. The increase
+was attributable to higher average revenue per car/unit, partially offset by a decrease in volume. Volumes decreased primarily
+due to overall softness in the industrial sector, lower sand volumes and reduced car loadings, due to the challenging weather
+conditions in 2019. Increased demand for petroleum products and liquefied petroleum gas, partially offset the other decreases
+in volumes.
+Operating revenues from agricultural products decreased 0.3% in 2019 to $4.7 billion compared to 2018. The decrease
+was due to lower volumes and higher average revenue per car/unit. The volume decreases were attributable to export
+competition from non-U.S. sources, the impacts of international trade policies and the challenging weather conditions in
+2019.
+Operating revenues from coal decreased 7.4% in 2019 to $3.7 billion compared to 2018, reflecting lower average
+revenue per car/unit and lower volumes. Volumes were negatively impacted by adverse weather conditions, as well as from
+the effects of lower natural gas prices.
+Railroad operating expenses were $14.7 billion in 2019, a decrease of $535 million compared to 2018. Our ratio of
+operating expenses to railroad operating revenues in 2019 of 64.5% decreased 1.7 percentage points versus 2018. Operating
+expenses in 2019 reflected lower volume-related costs, lower fuel prices and the effects of cost control initiatives, partially
+offset by the costs associated with the adverse weather conditions.
+Fuel expenses decreased $402 million in 2019 compared to 2018, primarily due to lower average fuel prices, lower
+volumes and improved fuel efficiency. Purchased services expense decreased $82 million compared to 2018. The decrease
+was due to lower purchased transportation costs of our logistics services business, lower drayage, lower services expense and
+higher insurance recoveries. Equipment rents, materials and other expense decreased $82 million compared to 2018, due to
+lower locomotive and various other costs associated with lower volumes and cost controls. Other expenses, net decreased
+$221 million compared to 2018. In 2019, other expenses were net of a $120 million curtailment gain from an amendment to
+the company-sponsored defined benefit retirement plans.
+Utilities and Energy (“Berkshire Hathaway Energy Company”)
+We currently own 91.1% of the outstanding common stock of Berkshire Hathaway Energy Company (“BHE”), which
+operates a global energy business. BHE’s domestic regulated utility interests are comprised of PacifiCorp, MidAmerican
+Energy Company (“MEC”) and NV Energy. In Great Britain, BHE subsidiaries operate two regulated electricity distribution
+businesses referred to as Northern Powergrid. BHE’s natural gas pipelines consist of five domestic regulated interstate
+natural gas pipeline systems and a 25% interest in a liquefied natural gas export, import and storage facility in which BHE
+operates and consolidates for financial reporting purposes. Three of these systems were acquired on November 1, 2020 from
+Dominion Energy, Inc. (“BHE GT&S acquisition”). See Note 2 to accompanying Consolidated Financial Statements. Other
+energy businesses include a regulated electricity transmission-only business in Alberta, Canada (“AltaLink, L.P.”) and a
+diversified portfolio of mostly renewable independent power projects. BHE also operates the largest residential real estate
+brokerage firm and one of the largest residential real estate brokerage franchise networks in the United States.
+K-44
+Management’s Discussion and Analysis (Continued)
+Utilities and Energy (“Berkshire Hathaway Energy Company”) (Continued)
+The rates our regulated businesses charge customers for energy and services are based in large part on the costs of
+business operations, including income taxes and a return on capital, and are subject to regulatory approval. To the extent such
+costs are not allowed in the approved rates, operating results will be adversely affected. A summary of BHE’s net earnings
+follows (dollars in millions).
+2020
+Revenues:
+Energy operating revenue
+Real estate operating revenue
+Other income (loss)
+Total revenue
+Costs and expense:
+Energy cost of sales
+Energy operating expense
+Real estate operating costs and expense
+Interest expense
+Total costs and expense
+Pre-tax earnings
+Income tax expense (benefit)*
+Net earnings after income taxes
+Noncontrolling interests
+Net earnings attributable to BHE
+Noncontrolling interests and preferred stock dividends
+Net earnings attributable to Berkshire Hathaway shareholders
+Effective income tax rate
+*
+$
+$
+2019
+15,556
+5,396
+79
+21,031
+$
+4,187
+7,539
+4,885
+1,941
+18,552
+2,479
+(1,010)
+3,489
+71
+3,418
+327
+3,091 $
+(40.7)%
+2018
+15,371
+4,473
+270
+20,114
+$
+4,586
+6,824
+4,251
+1,835
+17,496
+2,618
+(526)
+3,144
+18
+3,126
+286
+2,840 $
+(20.1)%
+15,573
+4,214
+200
+19,987
+4,769
+6,969
+4,000
+1,777
+17,515
+2,472
+(452)
+2,924
+23
+2,901
+280
+2,621
+(18.3)%
+Includes significant production tax credits from wind-powered electricity generation.
+The discussion of BHE’s operating results that follows is based on after-tax earnings, reflecting how the energy
+businesses are managed and evaluated. A summary of net earnings attributable to BHE follows (dollars in millions).
+2020
+PacifiCorp
+MidAmerican Energy Company
+NV Energy
+Northern Powergrid
+Natural gas pipelines
+Other energy businesses
+Real estate brokerage
+Corporate interest and other
+$
+$
+K-45
+741 $
+818
+410
+201
+528
+697
+375
+(352)
+3,418 $
+2019
+773 $
+781
+365
+256
+422
+608
+160
+(239)
+3,126 $
+2018
+739
+669
+317
+239
+387
+489
+145
+(84)
+2,901
+Percentage change
+2020 vs 2019
+2019 vs 2018
+(4.1)%
+4.7
+12.3
+(21.5)
+25.1
+14.6
+134.4
+47.3
+9.3
+4.6%
+16.7
+15.1
+7.1
+9.0
+24.3
+10.3
+184.5
+7.8
+Management’s Discussion and Analysis (Continued)
+Utilities and Energy (“Berkshire Hathaway Energy Company”) (Continued)
+2020 versus 2019
+PacifiCorp operates a regulated electric utility in portions of several Western states, including Utah, Oregon and
+Wyoming. PacifiCorp after-tax earnings decreased $32 million in 2020 compared to 2019. The decrease reflected higher
+operating expenses and net interest expense, partially offset by increased production tax credit benefits driven by repowered
+wind projects placed in-service, higher utility margin (operating revenue less cost of sales) and higher other income. The
+increase in operating expenses was largely due to costs associated with wildfires, a settlement agreement and pension
+benefits.
+PacifiCorp utility margin was $3.3 billion in 2020, an increase of $47 million compared to 2019. The increase reflected
+higher operating revenue from favorable average retail prices and lower generation and purchased power costs, partially
+offset by lower operating revenue from a 1.4% decline in retail customer volumes. The decline in retail customer volumes
+was due to the impacts of the pandemic, partly offset by an increase in the average number of customers and the favorable
+impacts of weather.
+MEC operates a regulated electric and natural gas utility primarily in Iowa and Illinois. After-tax earnings increased
+$37 million in 2020 compared to 2019. The increase reflected increased income tax benefits, primarily from production tax
+credits, driven by repowered and new wind projects placed in-service, and the effects of ratemaking. These effects were
+partially offset by higher depreciation expense from additional assets placed in-service, higher net interest expense, lower
+other income and lower electric and natural gas utility margins.
+MEC electric utility margin decreased $10 million to $1.8 billion in 2020 compared to 2019. The electric utility margin
+decrease was attributable to lower operating revenue from unfavorable wholesale prices and price impacts from changes in
+retail sales mix. These effects were mostly offset by lower generation and purchased power costs and higher operating
+revenue from a 1.2% increase in retail customer volumes. The increase in electric retail customer volumes was primarily due
+to increased usage by certain industrial customers, partially offset by the impacts of the pandemic. Natural gas utility margin
+decreased $9 million in 2020 compared to 2019, due to the unfavorable impacts of weather.
+NV Energy operates regulated electric and natural gas utilities in Nevada. After-tax earnings increased $45 million in
+2020 compared to 2019. The increase reflected higher electric utility margin and lower income tax expense from the
+favorable impacts of ratemaking, partially offset by higher operating expenses. The increase in operating expenses was
+mainly due to higher earnings sharing accruals for customers at Nevada Power Company and higher depreciation expense
+from additional assets placed in-service.
+NV Energy electric utility margin increased $100 million to $1.7 billion in 2020 compared to 2019. The increase was
+primarily due to higher operating revenue from a 1.5% increase in electric retail customer volumes, including distributiononly service customers and price impacts from changes in retail sales mix. The increase in electric retail customer volumes
+was primarily due to the favorable impacts of weather, partially offset by the impacts of the pandemic.
+Northern Powergrid after-tax earnings decreased $55 million in 2020 as compared to 2019. The earnings decrease
+reflected write-offs of gas exploration costs and higher income tax expense, in large part from a change in the United
+Kingdom corporate income tax rate, partially offset by lower pension costs and interest expense.
+Natural gas pipelines after-tax earnings increased $106 million in 2020 compared to 2019. The increase was primarily
+due to $73 million of earnings from the BHE GT&S acquisition, the favorable impact of a rate case settlement at Northern
+Natural Gas and higher transportation volume and rates, partially offset by higher depreciation, operating expenses and
+interest expenses.
+Other energy business after-tax earnings in 2020 increased $89 million compared to 2019. The increase was primarily
+due to increased income tax benefits from renewable wind tax equity investments, largely from projects reaching commercial
+operation, partially offset by lower operating revenue and higher operating expenses from geothermal and natural gas units.
+K-46
+Management’s Discussion and Analysis (Continued)
+Utilities and Energy (“Berkshire Hathaway Energy Company”) (Continued)
+Real estate brokerage after-tax earnings increased $215 million in 2020 compared to 2019. The increase reflected
+higher earnings from mortgage and brokerage services. The increase in earnings from mortgage services was attributable to
+higher refinance activity from the favorable interest rate environment and the earnings increase from brokerage services was
+due to an increase of 13.1% in closed transaction dollar volume.
+Corporate interest and other after-tax earnings decreased $113 million in 2020 compared to 2019. The decline was
+primarily due to higher interest expense and lower state income tax benefits.
+2019 versus 2018
+PacifiCorp after-tax earnings were $773 million in 2019, an increase of $34 million compared to 2018, reflecting
+slightly higher utility margin and higher other income, partly offset by higher depreciation expense from additional assets
+placed in-service. PacifiCorp utility margin was $3.3 billion in 2019, an increase of $4 million compared to 2018, as a 0.4%
+increase in retail customer volumes was largely offset by lower wholesale revenue mainly due to lower volumes.
+MEC after-tax earnings of $781 million in 2019 increased $112 million as compared to 2018, primarily attributable to
+increases in electric utility margin, income tax benefits from higher production tax credits and the effects of ratemaking and
+other income. Electric utility margin in 2019 increased 2% to $1.8 billion, primarily due to higher wind generation and higher
+retail customer volumes of 1.4%, as a 4.0% increase in industrial volumes was largely offset by lower residential volumes
+from the unfavorable impacts of weather. These earnings increases were partially offset by increased depreciation expense
+from additional assets placed in-service (net of lower Iowa revenue sharing) and higher net interest expense.
+NV Energy after-tax earnings were $365 million in 2019, an increase of $48 million compared to 2018, as lower
+operating expenses were partly offset by lower electric utility margin. Electric utility margin in 2019 was $1.6 billion,
+representing a decrease of $58 million (3%) versus 2018. The decrease was primarily due to a 1.4% decline in retail customer
+volumes, largely attributable to the impacts of weather, and rate reductions from the impact of the changes in U.S. income tax
+laws, partially offset by retail customer growth.
+Northern Powergrid after-tax earnings increased in 2019 compared to 2018, reflecting higher distribution revenues and
+lower operating expenses, which were largely from lower pension settlement losses in 2019, partially offset by the
+unfavorable foreign currency translation effects of a strong average U.S. Dollar. Distribution revenues increased $18 million,
+attributable to higher tariff rates, partly offset by lower distributed units.
+Natural gas pipelines after-tax earnings increased $35 million in 2019 compared to 2018, primarily due to higher
+transportation revenues from generally higher volumes and rates, favorable margins from system balancing activities and a
+decrease in operating expenses, partly offset by higher depreciation expense from increased spending on capital projects.
+Other energy businesses after-tax earnings in 2019 increased $119 million compared to 2018. The increase was
+primarily due to improved earnings from renewable wind energy projects ($49 million from tax equity investments and $25
+million from new and existing projects and activities), higher income from geothermal and natural gas units, largely due to
+higher generation and favorable margins and lower operating expenses, partly offset by lower earnings at a hydroelectric
+facility in the Philippines due to lower rainfall. The increase in earnings also reflected the effects of favorable regulatory
+decisions received in 2019 and the unfavorable impacts of a regulatory rate order received in 2018 at AltaLink L.P.
+Real estate brokerage after-tax earnings increased in 2019 compared to 2018. The increase was primarily due to higher
+earnings at mortgage businesses due to increased refinance activity and earnings attributable to recent business acquisitions,
+partially offset by lower earnings at brokerage businesses, primarily from a decrease in closed units and lower margins.
+Corporate interest and other after-tax earnings decreased $155 million in 2019 compared to 2018. The earnings decline
+was primarily due to income tax benefits recognized in 2018 related to the reduction of accrued repatriation taxes on
+undistributed foreign earnings in connection with the changes in U.S. income tax laws, higher interest expense and lower
+earnings from non-regulated energy services.
+K-47
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing
+A summary of revenues and earnings of our manufacturing, service and retailing businesses follows (dollars in
+millions).
+Revenues
+Manufacturing
+Service and retailing
+Pre-tax earnings *
+Manufacturing
+Service and retailing
+Income taxes and noncontrolling interests
+Effective income tax rate
+Pretax earnings as a percentage of revenues
+*
+2020
+2019
+2018
+$ 59,079
+75,018
+$ 134,097
+$ 62,730
+79,945
+$ 142,675
+$ 61,883
+78,926
+$ 140,809
+$
+8,010 $ 9,522 $ 9,366
+2,879
+2,843
+2,942
+10,889
+12,365
+12,308
+2,589
+2,993
+2,944
+$ 8,300 $ 9,372 $ 9,364
+23.3%
+23.7%
+23.4%
+8.1%
+8.7%
+8.7%
+Percentage change
+2020 vs 2019
+2019 vs 2018
+(5.8)%
+(6.2)
+(6.0)
+1.4%
+1.3
+1.3
+(15.9)%
+1.3
+(11.9)
+1.7%
+(3.4)
+0.5
+Excludes certain acquisition accounting expenses, which primarily related to the amortization of identified intangible
+assets recorded in connection with our business acquisitions. The after-tax acquisition accounting expenses excluded
+from earnings above were $783 million in 2020, $788 million in 2019 and $932 million in 2018. In 2020, such
+expenses also exclude after-tax goodwill and indefinite-lived intangible asset impairment charges of $10.4 billion.
+These expenses are included in “Other” in the summary of earnings on page K-33 and in the “Other” earnings section
+on page K-56.
+Manufacturing
+Our manufacturing group includes a variety of industrial, building and consumer products businesses. A summary of
+revenues and pre-tax earnings of our manufacturing operations follows (dollars in millions).
+Revenues
+Industrial products
+Building products
+Consumer products
+Pretax earnings
+Industrial products
+Building products
+Consumer products
+2019
+2018
+$ 25,667
+21,244
+12,168
+$ 59,079
+$ 30,594
+20,327
+11,809
+$ 62,730
+$ 30,679
+18,677
+12,527
+$ 61,883
+(16.1)%
+4.5
+3.0
+(0.3)%
+8.8
+(5.7)
+$
+$
+$
+(33.4)%
+8.4
+11.7
+(3.2)%
+12.8
+3.6
+$
+Pre-tax earnings as a percentage of revenues
+Industrial products
+Building products
+Consumer products
+Percentage change
+2020 vs 2019
+2019 vs 2018
+2020
+3,755
+2,858
+1,397
+8,010
+14.6%
+13.5%
+11.5%
+K-48
+$
+5,635
+2,636
+1,251
+9,522
+18.4%
+13.0%
+10.6%
+$
+5,822
+2,336
+1,208
+9,366
+19.0%
+12.5%
+9.6%
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Industrial products
+The industrial products group includes specialty chemicals (The Lubrizol Corporation (“Lubrizol”)), complex metal
+products for aerospace, power and general industrial markets (Precision Castparts Corp. (“PCC”)), metal cutting
+tools/systems (IMC International Metalworking Companies (“IMC”)), equipment and systems for the livestock and
+agricultural industries (CTB International (“CTB”)), and a variety of industrial products for diverse markets (Marmon, Scott
+Fetzer and LiquidPower Specialty Products (“LSPI”)). Marmon consists of more than 100 autonomous manufacturing and
+service businesses, including equipment leasing for the rail, intermodal tank container and mobile crane industries.
+2020 versus 2019
+Revenues of the industrial products group in 2020 declined $4.9 billion (16.1%) from 2019, while pre-tax earnings
+declined $1.9 billion (33.4%). Pre-tax earnings as a percentage of revenues for the group were 14.6% in 2020 compared to
+18.4% in 2019.
+PCC’s revenues were $7.3 billion in 2020, a decrease of $3.0 billion (28.9%) compared to 2019. Historically, a
+significant portion of PCC’s earnings have been dependent on sales related to the aerospace industry. The COVID-19
+pandemic contributed to material declines in commercial air travel and aircraft production. Airlines responded to the
+pandemic by delaying delivery of aircraft orders or, in some cases, cancelling aircraft orders, resulting in significant
+reductions in build rates by aircraft manufacturers and significant inventory reduction initiatives by PCC’s customers.
+Further, Boeing’s 737 MAX aircraft production issues contributed to the declines in aerospace product sales across the
+industry in 2020. These factors resulted in significant declines in demand for PCC’s aerospace products in 2020. In 2020,
+PCC’s sales of products for power markets increased 2.2%, primarily driven by increases in industrial gas turbine products,
+offset by reductions in oil and gas products.
+PCC’s pre-tax earnings in 2020 were $650 million, a decrease of 64.5% compared to 2019, which reflected the decline
+in aerospace product sales as well as increased manufacturing inefficiencies attributable to lower volumes. In response to the
+effects of the pandemic, PCC has taken aggressive restructuring actions to resize operations in response to reduced expected
+volumes in aerospace markets. PCC’s worldwide workforce was reduced by about 40% since the end of 2019. PCC recorded
+charges for restructuring and inventory and fixed asset charges of approximately $295 million in 2020. Although earnings as
+a percentage of revenues were negatively impacted in 2020 due to inefficiencies associated with aligning operations to
+reduced aircraft build rates, the restructuring actions taken contributed to improved margins in the fourth quarter compared to
+earlier in the year and further margin improvements are expected in the future. The level of aircraft production is currently
+expected to slowly increase beginning in the latter half of 2021. However, this is dependent of the timing and extent that
+COVID-19 infections are lowered on a sustained basis and the return to historical levels of air travel and subsequent demand
+for aerospace products.
+Lubrizol’s revenues were $5.95 billion in 2020, a decrease of 8.0% compared to 2019. The decline was primarily
+attributable to lower volumes from economic effects of the pandemic and a fire at an Additives manufacturing, blending and
+storage facility in Rouen, France at the end of the third quarter of 2019, which resulted in the temporary suspension of
+operations. Revenues in 2020 also reflected lower selling prices, partly offset by favorable changes in sales mix. Lubrizol’s
+consolidated volume for the year declined 9% in 2020 compared to 2019, due to declines in the Additives and Engineered
+Materials product lines, partly offset by higher volumes in Life Science products. Overall, the effects of the pandemic on
+Lubrizol were more pronounced in the first half of the year, as volumes rebounded significantly in the second half.
+Lubrizol’s pre-tax earnings in 2020 were approximately $1.0 billion, essentially unchanged compared to 2019. The
+effects of lower sales volumes, including the effects from the Rouen fire and lower average selling prices were offset by
+lower average raw material costs, lower operating expenses and insurance recoveries in 2020 associated with the Rouen fire.
+Marmon’s revenues were $7.6 billion in 2020, a decrease of $681 million (8.2%) compared to 2019. Excluding the
+effects of business acquisitions, revenues decreased in essentially all sectors, primarily attributable to lower demand from the
+effects of the pandemic. The largest effects were experienced in the Transportation Products and Foodservice Technologies
+sectors. Additionally, revenues decreased due to lower metal prices in the Metal Services sector and the effect of business
+divestitures in 2019. Declines in oil prices in 2020 also adversely affected demand and revenues in the Rail & Leasing and
+Crane Services sectors.
+Marmon’s pre-tax earnings in 2020 decreased $312 million (24.3%) as compared to 2019. The decrease reflected the
+declines in revenues, increased restructuring charges and lower interest income. Restructuring initiatives were initiated in
+response to the lower product demand, particularly in the sectors most impacted by the pandemic.
+K-49
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Industrial products (Continued)
+IMC’s revenues declined 13.2% in 2020 compared to 2019, reflecting negative economic effects from the pandemic on
+demand for cutting tools in most geographic regions, partly offset by the effects of business acquisitions over the past year.
+IMC’s pre-tax earnings declined 26.6% in 2020 versus 2019, attributable to declines in sales and margins due to lower
+volumes and to changes in sales mix.
+2019 versus 2018
+Revenues of the industrial products group were slightly lower in 2019 than in 2018 and pre-tax earnings declined 3.2%
+compared to 2018. Pre-tax earnings as a percentage of revenues for the group were 18.4% in 2019 compared to 19.0% in
+2018.
+PCC’s revenues were $10.3 billion in 2019, an increase of $74 million (0.7%) compared to 2018. In 2019, PCC
+generated increased sales in aerospace markets, which was partially offset by lower sales in the power markets. The increase
+in aerospace sales was tempered due to significant efforts focused on the ramp-up requirements for certain new aerospace
+programs, such as LEAP, that created manufacturing inefficiencies and slowed production cycles contributing to delays in
+product deliveries and sales.
+PCC’s pre-tax earnings increased 5.1% in 2019 compared to 2018, reflecting increased sales of aerospace products and
+higher earnings from various non-recurring items in 2019, which were partially offset by lower earnings from the power
+markets due to the decrease in sales. Temporary unplanned shutdowns of certain metals facilities and metal press outages
+also negatively impacted earnings in 2018. PCC incurred incremental costs in 2019 to meet required deliveries to customers
+associated with the increased aerospace demand, which negatively affected margins and earnings. The production headwinds
+experienced were primarily attributable to shortages of qualified skilled labor and the rapid increase in requirements for
+newer, complex aerospace products.
+Lubrizol’s revenues were $6.5 billion in 2019, a decrease of 5.2% compared to 2018. The decline reflected lower
+volumes, including the effects from the Rouen fire, and unfavorable foreign currency translation effects, partly offset by
+higher average selling prices which were necessitated by raw material cost increases. Lubrizol’s consolidated volume in 2019
+declined 4% from 2018, primarily due to volume decline of 6% in the Additives product lines.
+Lubrizol’s pre-tax earnings in 2019 for the fourth quarter and year decreased 50.5% and 14.6%, respectively, compared
+to the same periods in 2018. Earnings in 2019 were significantly impacted by costs and lost business associated with the
+Rouen fire. Lubrizol’s operating results in 2019 were also negatively affected by lower sales volumes, higher manufacturing
+expenses and unfavorable foreign currency translation effects, partly offset by improved material margins.
+Marmon’s revenues were $8.3 billion in 2019, an increase of $146 million (1.8%) compared to 2018. The revenue
+increase reflected the effects of business acquisitions, higher volumes in several business sectors, which were largely offset
+by lower distribution volumes in the Metals Services sector, unfavorable foreign currency translation and the impact of lower
+metal prices in the Electrical and Plumbing & Refrigeration sectors. Marmon’s business acquisitions included the acquisition
+of the Colson Medical companies on October 31, 2019, resulting in a new Medical sector. Marmon’s Rail & Leasing and
+Crane Services sectors benefitted from higher railcar equipment sales, railcar fleet utilization, railcar repair services,
+intermodal container leasing revenue and improved crane rental demand in the U.S. and Australia.
+Marmon’s pre-tax earnings increased $12 million in 2019 (1.0%) as compared to 2018. The earnings increase reflected
+the effects of business acquisitions, partly offset by lower gains from business divestitures. Earnings in 2019 also reflected
+increased earnings in sectors that experienced sales volume increases, which were substantially offset by lower earnings in
+the Metal Services and certain other sectors, the unfavorable impacts of foreign currency translation and increased interest
+and other expenses.
+IMC’s revenues declined 1.3% in 2019 as compared to 2018, reflecting unfavorable foreign currency translation effects
+of a stronger U.S. Dollar and lower sales in several regions, including Asia and Europe, mostly offset by increased revenues
+from recent business acquisitions. IMC’s pre-tax earnings declined 12.8% in 2019 versus 2018, attributable to unfavorable
+foreign currency translation effects, changes in business mix to lower margin items and the effects of the U.S./China trade
+disputes.
+K-50
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Building products
+The building products group includes manufactured and site-built home construction and related lending and financial
+services (Clayton Homes), flooring (Shaw), insulation, roofing and engineered products (Johns Manville), bricks and
+masonry products (Acme Building Brands), paint and coatings (Benjamin Moore), and residential and commercial
+construction and engineering products and systems (MiTek).
+2020 versus 2019
+Revenues of the building products group increased $917 million (4.5%) in 2020 compared to 2019 and pre-tax earnings
+increased $222 million (8.4%) over 2019. Pre-tax earnings as percentages of revenues were 13.5% in 2020 and 13.0% in
+2019.
+Clayton Homes’ revenues were approximately $8.6 billion in 2020, an increase of $1.3 billion (17.1%) over 2019. The
+increase was primarily due to increases in home sales of $1.0 billion (18.4%), driven by increases in units sold and revenue
+per home sold and by changes in sales mix. Unit sales of site-built homes increased 28.6% in 2020 over 2019, while revenue
+per home increased slightly. Manufactured home unit sales increased 2.8% in 2020. Financial services revenues, which
+include mortgage services, insurance and interest income from lending activities increased 13.7% in 2020 compared to 2019,
+attributable to increased loan originations and average outstanding loan balances. Loan balances, net of allowances for credit
+losses, were approximately $17.1 billion at December 31, 2020 compared to $15.9 billion as of December 31, 2019.
+Pre-tax earnings of Clayton Homes were approximately $1.25 billion in 2020, an increase of $152 million (13.9%)
+compared to 2019. The earnings increase reflected higher earnings from home sales, partly offset by higher materials costs,
+which lowered manufactured housing gross margin rates. Earnings in 2020 also benefitted from increased interest income,
+lower interest expense and higher earnings from mortgage services, partly offset by increased provisions for credit and
+insurance losses.
+Aggregate revenues of our other building products businesses were approximately $12.6 billion in 2020, a decrease of
+2.6% versus 2019. The revenue decrease reflected lower flooring volumes, partly attributable to the negative effects of the
+COVID-19 pandemic, partly offset by increased paint and coatings volumes, including volumes from a new agreement with
+Ace Hardware Stores, and increased volumes in residential markets.
+Pre-tax earnings of the other building products businesses were approximately $1.6 billion in 2020, an increase of 4.6%
+over 2019. The earnings increase reflected the effects of lower average input costs, operating cost containment efforts and
+lower facilities closure costs.
+2019 versus 2018
+Revenues of the building products group in 2019 increased $1.65 billion (8.8%) compared to 2018, while pre-tax
+earnings increased 12.8% over 2018. Pre-tax earnings as percentages of revenues were 13.0% in 2019 and 12.5% in 2018.
+Clayton Homes’ revenues were approximately $7.3 billion in 2019, an increase of $1.3 billion (21.5%) over 2018. The
+comparative increase was primarily due to a 26% increase in home sales, reflecting a net increase in units sold and changes in
+sales mix. Unit sales of site-built homes increased 84% in 2019 over 2018, primarily due to business acquisitions, while
+average prices declined 5%. Manufactured home unit retail sales increased 5% and wholesale sales were 9% lower in 2019.
+Interest income from lending activities increased 6.7% in 2019 compared to 2018, attributable to increased originations and
+average outstanding loan balances. Aggregate loan balances outstanding were approximately $15.9 billion at December 31,
+2019 compared to $14.7 billion as of December 31, 2018.
+Clayton Homes’ pre-tax earnings were $1.1 billion in 2019, an increase of $182 million (20.0%) compared to 2018.
+The increase was attributable to home building activities, which benefitted from the increases in home sales, and to financial
+services activities. Pre-tax earnings from lending and finance activities increased 12%, primarily due to an increase in interest
+income attributable to higher average loan balances, increased earnings from other financial services and lower credit losses,
+partially offset by higher interest expense, attributable to higher average borrowings and interest rates, and by higher other
+operating costs.
+Aggregate revenues of our other building products businesses were $13.0 billion in 2019, an increase of 2.8% versus
+2018. Revenues increased for paint and coatings, hard surface flooring and roofing products, attributable to a combination of
+increased volumes, product mix changes and increased average selling prices, while sales of brick products declined.
+K-51
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Building products (Continued)
+Pre-tax earnings of the other building products businesses were $1.5 billion in 2019, an increase of 8.2% over 2018.
+Earnings in 2019 benefitted from a combination of increases in selling prices in certain product categories, declining raw
+material costs for certain commodities and operating cost control initiatives, which were partly offset by the effects of
+increased facilities closure costs.
+Consumer products
+The consumer products group includes leisure vehicles (Forest River), several apparel and footwear operations
+(including Fruit of the Loom, Garan, H.H. Brown Shoe Group and Brooks Sports) and a manufacturer of high-performance
+alkaline batteries (Duracell). This group also includes custom picture framing products (Larson Juhl) and jewelry products
+(Richline).
+2020 versus 2019
+Consumer products revenues increased of $359 million (3.0%) in 2020 versus 2019, while pre-tax earnings increased
+$146 million (11.7%). Pre-tax earnings as a percentage of revenues in 2020 increased 0.9 percentage points to 11.5%.
+The comparative increase in revenues reflected revenue increases from Forest River and Duracell, partially offset by
+lower apparel and footwear revenues. Forest River revenues increased 11.7% in 2020 compared to 2019, primarily
+attributable to a significant increase in recreational vehicle unit sales over the last half of the year and changes in sales mix.
+Unit sales in the second half of 2020 increased 31% over the second half of 2019. Revenues from Duracell increased 10.0%
+in 2020 compared to 2019, reflecting the effects of changes in sales mix and increased volume. Apparel and footwear
+revenues declined 6.1% in 2020 compared to 2019.
+Apparel and footwear sales volumes in the first half of 2020, particularly in the second quarter, reflected the negative
+effects of the pandemic, which included retail store closures, reduced or cancelled orders and pandemic-related disruptions at
+certain manufacturing facilities. Sales recovered somewhat in the second half of 2020, attributable to higher consumer
+demand and inventory restocking by retailers. Brooks Sports revenues were higher, partly attributable to the effect of the
+reduced sales in 2019 that were caused by shipping delays at a new distribution facility.
+The comparative increase in pre-tax earnings was primarily attributable to Forest River and Duracell, partially offset by
+lower earnings from apparel and footwear. The increase reflected the effects of sales volumes changes and ongoing expense
+management efforts.
+2019 versus 2018
+Consumer products revenues declined $718 million (5.7%) in 2019 versus 2018, driven by a 12.9% revenue decline
+from Forest River, primarily due to lower unit sales. Revenues of Duracell increased 1.3% and apparel and footwear revenues
+declined 1.1% compared to 2018. Although revenues from Brooks Sports increased 3.5% in 2019, its operating results were
+negatively affected by lost sales associated with problems encountered at a distribution center that opened in the second
+quarter. In addition, our other apparel and other footwear businesses continue to experience lower sales volumes for certain
+products, reflecting the shift by major retailers towards private label products.
+Consumer products pre-tax earnings increased $43 million (3.6%) in 2019 compared to 2018. The increase was
+primarily attributable to continuing cost containment efforts across several of the businesses and the effects of a new Duracell
+product launch, partially offset by the impact of lower recreational vehicle sales at Forest River.
+K-52
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Service and retailing
+A summary of revenues and pre-tax earnings of our service and retailing businesses follows (dollars in millions).
+Revenues
+Service
+Retailing
+McLane Company
+Pre-tax earnings
+Service
+Retailing
+McLane Company
+2019
+2018
+$ 12,346
+15,832
+46,840
+$ 75,018
+$ 13,496
+15,991
+50,458
+$ 79,945
+$ 13,333
+15,606
+49,987
+$ 78,926
+(8.5)%
+(1.0)
+(7.2)
+1.2%
+2.5
+0.9
+$
+$
+$
+(4.8)%
+17.6
+(12.8)
+(8.4)%
+1.6
+17.1
+$
+Pre-tax earnings as a percentage of revenues
+Service
+Retailing
+McLane Company
+Percentage change
+2020 vs 2019
+2019 vs 2018
+2020
+1,600
+1,028
+251
+2,879
+13.0%
+6.5%
+0.5%
+$
+1,681
+874
+288
+2,843
+12.5%
+5.5%
+0.6%
+$
+1,836
+860
+246
+2,942
+13.8%
+5.5%
+0.5%
+Service
+Our service business group offers shared ownership programs for general aviation aircraft (NetJets) and high
+technology training products and services to operators of aircraft (FlightSafety). We also distribute electronic components
+(TTI), franchise and service a network of quick service restaurants (Dairy Queen) and offer third party logistics services that
+primarily serve the petroleum and chemical industries (Charter Brokerage). Other service businesses include transportation
+equipment leasing (XTRA) and furniture leasing (CORT), electronic news distribution, multimedia and regulatory filings
+(Business Wire) and the operation of a television station in Miami, Florida (WPLG).
+2020 versus 2019
+Service group revenues declined $1.15 billion (8.5%) in 2020 compared to 2019 and pre-tax earnings decreased $81
+million (4.8%). Pre-tax earnings of the group as a percentage of revenues were 13.0% in 2020 compared to 12.5% in 2019.
+The aggregate revenues of NetJets and FlightSafety in 2020 declined $816 million (13.5%) compared to 2019,
+reflecting lower demand for air travel and aviation services attributable to the COVID-19 pandemic. NetJets experienced a
+decline in flight hours of 27% and FlightSafety’s commercial and corporate simulator training hours declined 30% from
+2019. The comparative service group revenue decline was also attributable to the effects of the disposition of the newspaper
+operations in March of 2020 and lower revenues from CORT, which was driven by lower demand attributable to the effects
+of the pandemic. Partially offsetting these declines were revenue increases at TTI and at WPLG.
+The decline in earnings reflected lower earnings from NetJets, TTI and CORT and from the effects of the divestiture of
+the newspaper operations, partly offset by higher earnings from XTRA, Business Wire, WPLG and FlightSafety. TTI’s
+earnings decline reflected lower average gross margin rates, attributable to product mix changes and sales price pressures
+deriving from ample inventory availability. The decline at NetJets was primarily attributable to increased asset impairment
+charges and restructuring costs, partly offset by lower general and administrative expenses and a slight net increase in
+margins. The decline at CORT was driven by lower revenues, partly offset by the effects of cost control initiatives. The
+increase at FlightSafety was attributable to the effects of contract losses recorded in 2019 with respect to an existing
+government contract and cost control efforts in 2020, which more than offset significantly lower earnings from commercial
+and corporate training services.
+K-53
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Service (Continued)
+2019 versus 2018
+Service group revenues increased $163 million (1.2%) in 2019 compared to 2018, primarily attributable to increased
+sales at TTI and higher aviation-related services revenues (NetJets and FlightSafety), partially offset by decreases from the
+media businesses and Charter Brokerage. TTI’s sales increased 2% in 2019 compared to the exceptionally high sales levels in
+2018. TTI’s sales slowed throughout 2019, attributable to softening customer demand, lower average selling prices and the
+effects of U.S. trade tariffs. The increase in NetJets’ revenues in 2019 reflected increased lease revenue, primarily attributable
+to an increase in aircraft on lease, and increased flight hours, partly offset by lower revenue from prepaid flight cards. The
+revenue decline at Charter Brokerage was attributable to the divesture of a high revenue, low margin business in mid-2019.
+Pre-tax earnings of the service group decreased $155 million (8.4%) compared to 2018. The comparative earnings
+decline was primarily due to lower earnings from TTI and FlightSafety, partly offset by higher earnings from NetJets. TTI’s
+earnings decline was primarily attributable to lower gross margins, unfavorable foreign currency translation effects and
+higher operating expenses. The earnings decline at FlightSafety was attributable to pre-tax losses of approximately $165
+million recorded in the fourth quarter of 2019 in connection with an existing government contract, partly offset by lower
+training equipment impairment charges. Earnings from NetJets increased in 2019, primarily attributable to increased revenues
+and improved fleet and operating efficiencies, which improved operating margins.
+Retailing
+Our largest retailing business is Berkshire Hathaway Automotive (“BHA”), which consists of over 80 auto dealerships
+that sell new and pre-owned automobiles and offer repair services and related products and represented 62.6% of our
+combined retailing revenue in 2020. BHA also operates two insurance businesses, two auto auctions and an automotive fluid
+maintenance products distributor. Our retailing businesses also include four home furnishings retailing businesses (Nebraska
+Furniture Mart, R.C. Willey, Star Furniture and Jordan’s), which sell furniture, appliances, flooring and electronics and
+represented 20.6% of the combined retailing revenues in 2020.
+Other retailing businesses include three jewelry retailing businesses (Borsheims, Helzberg and Ben Bridge), See’s
+Candies (confectionary products), Pampered Chef (high quality kitchen tools), Oriental Trading Company (party supplies,
+school supplies and toys and novelties) and Detlev Louis Motorrad (“Louis”), a retailer of motorcycle accessories based in
+Germany.
+2020 versus 2019
+Retailing group revenues in 2020 declined $159 million (1.0%) compared to 2019. The spread of COVID-19
+throughout the U.S. resulted in the temporary closures or restricted operations at several of our retailing businesses and
+effected consumer spending patterns during 2020. The severity and duration of the effects from the pandemic varied widely
+at our retail operations.
+BHA’s revenues decreased 2.9% in 2020 compared to 2019. BHA’s revenues in 2020 reflected decreases in new and
+pre-owned vehicle sales of 2.6% as well as lower vehicle service and repair revenues. Home furnishings revenues were
+essentially unchanged in 2020 compared to 2019. The group experienced lower revenues in the first half of 2020, attributable
+to restricted store hours, which were substantially offset by increased revenues over the second half of the year. However,
+supply chain disruptions had a negative effect on obtaining product at certain times, which negatively affected sales levels.
+The effects of the pandemic contributed to significantly lower sales in 2020 for our jewelry stores, See’s Candy and
+Oriental Trading Company, which were more than offset by significant revenue increases from Pampered Chef and Louis.
+Sales volumes generally increased and operating results improved beginning in the latter part of the second quarter as our
+operations slowly reopened.
+K-54
+Management’s Discussion and Analysis (Continued)
+Manufacturing, Service and Retailing (Continued)
+Retailing (Continued)
+Retail group pre-tax earnings increased $154 million (17.6%) in 2020 from 2019. BHA’s pre-tax earnings increased
+37.7%, primarily due to lower selling, general and administrative expenses, lower floorplan interest expense and higher
+average gross sales margin rates. Aggregate pre-tax earnings for the remainder of our retailing group increased 1.1% in 2020
+compared to 2019, reflecting higher earnings from the home furnishings businesses and from Pampered Chef, which were
+substantially offset by lower earnings from our other retailing operations.
+Home furnishings group pre-tax earnings increased $79 million (36%) in 2020 versus 2019, reflecting generally higher
+average gross margin rates, sales mix changes and fewer sales promotions, and from lower advertising and other operating
+expenses. Certain of our other operations, including Pampered Chef and Louis experienced significant earnings increases in
+2020, while others, including See’s Candy and Oriental Trading Company, experienced significant declines driven by the
+negative effects of the pandemic.
+2019 versus 2018
+Retailing group revenues increased $385 million (2.5%) in 2019 compared to 2018. BHA’s revenues increased 4.1% in
+2019 over 2018, primarily attributable to an 11.5% increase in pre-owned vehicle sales, vehicle pricing increases,
+improvement in vehicle finance and service contract activities and vehicle repair work as compared to 2018. New vehicle
+sales in 2019 were relatively unchanged from 2018. Home furnishings group revenues declined 1.3% in 2019 compared to
+2018, as sales were relatively unchanged or lower in each of our home furnishings operations.
+Retail group pre-tax earnings increased $14 million (1.6%) in 2019 over 2018. BHA’s pre-tax earnings increased
+22.7%, primarily due to the increases in earnings from finance and service contract activities, partly offset by higher floorplan
+interest expense. Home furnishings group pre-tax earnings declined 14.7% versus 2018, reflecting the decline in revenues
+and generally higher operating expenses.
+McLane Company
+McLane operates a wholesale distribution business that provides grocery and non-food consumer products to retailers
+and convenience stores (“grocery”) and to restaurants (“foodservice”). McLane also operates businesses that are wholesale
+distributors of distilled spirits, wine and beer (“beverage”). The grocery and foodservice businesses generate high sales and
+very low profit margins. These businesses have several significant customers, including Walmart, 7-Eleven, Yum! Brands
+and others. Grocery sales comprised about two-thirds of McLane’s consolidated sales in 2020 with food service comprising
+most of the remainder. A curtailment of purchasing by any of its significant customers could have an adverse impact on
+periodic revenues and earnings.
+2020 versus 2019
+Revenues declined $3.6 billion (7.2%) in 2020 compared to 2019. The decline was attributable to COVID-19 related
+restaurant closures (particularly in the casual dining category) in the foodservice business and lower sales in certain product
+categories within the grocery business. McLane operates on a 52/53-week fiscal year and 2020 included 52 weeks compared
+to 53 weeks in 2019. Otherwise, revenues declined 5.2% in the grocery business and 7.7% in the foodservice business in
+2020 as compared to 2019.
+Pre-tax earnings decreased $37 million (12.8%) in 2020 as compared to 2019. The earnings decrease included the
+effects of increased LIFO inventory reserves of $22 million, credit and inventory losses of $12 million in the foodservice
+operations and the impact of lower sales. McLane continues to operate in an intensely competitive business environment,
+which is negatively affecting its current operating results. We expect that these operating conditions will continue.
+2019 versus 2018
+Revenues increased $471 million (0.9%) in 2019 compared to 2018. McLane’s results in 2019 included 53 weeks
+compared to 52 weeks in 2018. Otherwise, revenues decreased roughly 3% in the grocery business and increased 3% in the
+foodservice business in 2019 as compared to 2018. Pre-tax earnings increased $42 million (17.1%) as compared to 2018. The
+earnings increase in 2019 reflected an increase in average gross margin rates and changes in business mix, partly offset by
+increased operating expenses, the largest portion of which was employee costs.
+K-55
+Management’s Discussion and Analysis (Continued)
+Investment and Derivative Gains (Losses)
+A summary of investment and derivative gains and losses follows (dollars in millions).
+2020
+Investment gains (losses)
+Derivative gains (losses)
+Gains (losses) before income taxes and noncontrolling interests
+Income taxes and noncontrolling interests
+Net gains (losses)
+Effective income tax rate
+$
+$
+40,905 $
+(159)
+40,746
+9,155
+31,591 $
+21.7%
+2019
+2018
+71,123 $
+1,484
+72,607
+15,162
+57,445 $
+20.9%
+(22,155)
+(300)
+(22,455)
+(4,718)
+(17,737)
+20.8%
+Investment gains (losses)
+We are required to include the unrealized gains and losses arising from changes in market prices of investments in
+equity securities in earnings, which significantly increases the volatility of our periodic net earnings due to the magnitude of
+our equity securities portfolio and the inherent volatility of equity securities prices. Pre-tax investment gains included net
+unrealized gains of approximately $55.0 billion in 2020 attributable to changes in market prices of equity securities we held
+at December 31, 2020 and net losses of approximately $14.0 billion from changes in market prices during 2020 on securities
+sold during 2020. We recorded pre-tax unrealized investment gains of approximately $69.6 billion in 2019 attributable to
+changes in market prices in 2019 on equity securities we held at December 31, 2019. Pre-tax unrealized investment losses of
+approximately $22.7 billion were recorded in 2018 attributable to market price changes in 2018 on equity securities we held
+at December 31, 2018. Taxable investment gains on equity securities sold, which is the difference between sales proceeds and
+the original cost basis of the securities sold, were $6.2 billion in 2020, $3.2 billion in 2019 and $3.3 billion in 2018.
+We believe that investment gains/losses, whether realized from sales or unrealized from changes in market prices, are
+often meaningless in terms of understanding our reported consolidated earnings or evaluating our periodic economic
+performance. We continue to believe the investment gains/losses recorded in earnings, including the changes in market prices
+for equity securities, in any given period has little analytical or predictive value.
+Derivative gains (losses)
+Derivative contract gains/losses include the changes in fair value of our equity index put option contract liabilities,
+which relate to contracts that were originated prior to March 2008. Substantially all remaining contracts will expire by
+February 2023. The periodic changes in the fair values of these liabilities are recorded in earnings and can be significant,
+primarily due to the volatility of underlying equity markets. As of December 31, 2020, the intrinsic value of our equity index
+put option contracts was $727 million and our recorded liability at fair value was approximately $1.1 billion. Our ultimate
+payment obligations, if any, under our contracts will be determined as of the contract expiration dates based on the intrinsic
+value as defined under the contracts.
+Equity index put option contracts produced pre-tax losses of $159 million in 2020, pre-tax gains of $1.5 billion in 2019
+and pre-tax losses of $300 million in 2018. These gains and losses reflected changes in the equity index values and shorter
+remaining contract durations. Settlement payments to counterparties were relatively insignificant in each of the three years.
+Other
+A summary of after-tax other earnings/losses follows (in millions).
+2020
+Equity method earnings (losses)
+Acquisition accounting expenses
+Goodwill and intangible asset impairments
+Corporate interest expense, before foreign currency effects
+Foreign currency exchange rate gains (losses) on Berkshire
+and BHFC non-U.S. Dollar senior notes
+Income tax expense adjustments
+Other, principally corporate investment income
+$
+$
+K-56
+2019
+2018
+665 $
+(783)
+(10,381)
+(334)
+1,023 $
+(788)
+(96)
+(280)
+(1,419)
+(831)
+(280)
+(311)
+(764)
+(60)
+339
+(11,318) $
+58
+(377)
+884
+424 $
+289
+—
+986
+(1,566)
+Management’s Discussion and Analysis (Continued)
+Other (Continued)
+After-tax equity method earnings (losses) include our proportionate share of earnings attributable to our investments in
+Kraft Heinz, Pilot, Berkadia and Electric Transmission of Texas. Our after-tax earnings from Kraft Heinz were $170 million
+in 2020 and $488 million in 2019 and our after-tax losses were $1,859 million in 2018. Our earnings from Kraft Heinz
+included our after-tax share of goodwill and other intangible asset impairment charges recorded by Kraft Heinz in each year.
+Our after-tax share of such charges was $611 million in 2020, $339 million in 2019 and approximately $2.7 billion in 2018.
+After-tax acquisition accounting expenses include charges arising from the application of the acquisition method in
+connection with certain of Berkshire’s past business acquisitions. Such charges arise primarily from the amortization or
+impairment of intangible assets recorded in connection with those business acquisitions. Goodwill and intangible asset
+impairments in 2020 included after-tax charges of $9.8 billion attributable to impairments of goodwill and certain identifiable
+intangible assets that were recorded in connection with our acquisition of PCC in 2016. See Critical Accounting Policies on
+page K-63 for additional details.
+Foreign currency exchange rate gains and losses pertain to Berkshire’s outstanding Euro denominated debt
+(€6.85 billion par) and Japanese Yen denominated debt (¥625.5 billion par), and BHFC’s Great Britain Pound denominated
+debt (£1.75 billion par). Changes in foreign currency exchange rates produced gains and losses from the periodic revaluation
+of these liabilities into U.S. Dollars. The gains and losses recorded in any given period can be significant due to the
+magnitude of the borrowings and the inherent volatility in foreign currency exchange rates.
+The income tax expense adjustments relate to investments that were made between 2015 and 2018 in certain tax equity
+investment funds. Our investments in these funds aggregated approximately $340 million. In December 2018, we first
+learned of allegations by federal authorities of fraudulent conduct by the sponsor of these funds. In January 2020, the
+principals involved in creating the investment funds plead guilty to criminal charges related to the sale of the investments. In
+the first quarter of 2019, we concluded that it is more likely than not that the previously recognized income tax benefits were
+not valid.
+Financial Condition
+Our consolidated balance sheet continues to reflect very significant liquidity and a very strong capital base.
+Consolidated shareholders’ equity at December 31, 2020 was $443.2 billion, an increase of $18.4 billion since December 31,
+2019, which was net of common stock repurchases of $24.7 billion. Net earnings attributable to Berkshire shareholders was
+$42.5 billion and included after-tax gains on our investments of approximately $31.7 billion. During each of the last three
+years, changes in the market prices of our investments in equity securities produced exceptional volatility in our earnings.
+Our results in 2020 also included after-tax goodwill and other intangible asset impairments charges of $11.0 billion.
+At December 31, 2020, our insurance and other businesses held cash, cash equivalents and U.S. Treasury Bills of
+$135.0 billion, which included $112.8 billion in U.S. Treasury Bills. Investments in equity and fixed maturity securities
+(excluding our investment in Kraft Heinz) were $301.6 billion.
+Berkshire parent company debt outstanding at December 31, 2020 was $22.7 billion, an increase of $2.8 billion since
+December 31, 2019. In 2020, Berkshire repaid maturing senior notes of €1.0 billion and issued €1.0 billion of 0.0% senior
+notes due in 2025. Berkshire also issued ¥195.5 billion of senior notes (approximately $1.8 billion) with a weighted average
+interest rate of 1.07% and maturity dates ranging from 2023 to 2060. In the first quarter of 2021, senior notes of $1.7 billion
+will mature, including $665 million (€550 million) that matured in January. In January 2021, Berkshire issued €600 million
+of 0.5% senior notes due in 2041.
+Berkshire’s insurance and other subsidiary outstanding borrowings were approximately $18.9 billion at December 31,
+2020, which included senior note borrowings of BHFC, a wholly-owned financing subsidiary, of approximately $13.1 billion.
+BHFC’s borrowings are used to fund a portion of loans originated and acquired by Clayton Homes and equipment held for
+lease by our railcar leasing business. In 2020, BHFC repaid $900 million of maturing senior notes and issued $3.0 billion of
+senior notes with maturity dates ranging from 2030 to 2050 and a weighted average interest rate of 2.3%. Berkshire
+guarantees the full and timely payment of principal and interest with respect to BHFC’s senior notes. In January 2021, $750
+million of BHFC debt matured and BHFC issued $750 million of 2.5% senior notes due in 2051.
+Our railroad, utilities and energy businesses (conducted by BNSF and BHE) maintain very large investments in capital
+assets (property, plant and equipment) and will regularly make significant capital expenditures in the normal course of
+business. Capital expenditures of these two operations were $9.8 billion in 2020 and we forecast a similar amount of capital
+expenditures in 2021.
+K-57
+Management’s Discussion and Analysis (Continued)
+Financial Condition (Continued)
+BNSF’s outstanding debt was $23.2 billion as of December 31, 2020. In 2020, BNSF issued $575 million of 3.05%
+senior unsecured debentures due in 2051. Outstanding borrowings of BHE and its subsidiaries were $52.2 billion at
+December 31, 2020, an increase of $9.6 billion since December 31, 2019. In 2020, BHE and its subsidiaries issued new term
+debt of approximately $7.6 billion with maturity dates ranging from 2025 to 2062 and repaid approximately $3.2 billion of
+debt. BHE also assumed $5.6 billion in debt in connection with the business acquired from Dominion Energy in November
+2020. Berkshire does not guarantee the repayment of debt issued by BNSF, BHE or any of their subsidiaries and is not
+committed to provide capital to support BNSF, BHE or any of their subsidiaries.
+Berkshire’s common stock repurchase program as amended permits Berkshire to repurchase its Class A and Class B
+shares at prices below Berkshire’s intrinsic value, as conservatively determined by Warren Buffett, Berkshire’s Chairman of
+the Board and Chief Executive Officer, and Charlie Munger, Vice Chairman of the Board. The program allows share
+repurchases in the open market or through privately negotiated transactions and does not specify a maximum number of
+shares to be repurchased. The program is expected to continue indefinitely. We will not repurchase our stock if it reduces the
+total amount of Berkshire’s consolidated cash, cash equivalents and U.S. Treasury Bill holdings below $20 billion. Financial
+strength and redundant liquidity will always be of paramount importance at Berkshire. In 2020, Berkshire paid $24.7 billion
+to repurchase shares of its Class A and B common stock.
+Contractual Obligations
+We are party to contracts associated with ongoing business and financing activities, which will result in cash payments
+to counterparties in future periods. Certain obligations are included in our Consolidated Balance Sheets, such as notes
+payable, which require future payments on contractually specified dates and in fixed and determinable amounts. Other
+obligations pertaining to the acquisition of goods or services in the future, such as certain purchase obligations, are not
+currently reflected in the financial statements and will be recognized in future periods as the goods are delivered or services
+are provided. The timing and amount of the payments under insurance and reinsurance contracts are contingent upon the
+outcome of future events. Actual payments will likely vary, perhaps materially, from the estimated liabilities currently
+recorded in our Consolidated Balance Sheet.
+A summary of our contractual obligations as of December 31, 2020 follows (in millions). Actual payments will likely
+vary, perhaps significantly, from estimates reflected in the table.
+Total
+Notes payable and other borrowings, including interest
+Operating leases
+Purchase obligations (1)
+Unpaid losses and loss adjustment expenses (2)
+Life, annuity and health insurance benefits (3)
+Other
+Total
+$ 182,004
+6,318
+48,413
+120,820
+36,920
+26,524
+$ 420,999
+$
+$
+Estimated payments due by period
+2021
+2022-2023
+2024-2025
+After 2025
+13,456
+1,342
+14,552
+27,617
+2,623
+3,136
+62,726
+$ 125,559
+1,691
+19,975
+48,436
+33,488
+13,942
+$ 243,091
+$
+$
+23,393
+2,016
+7,947
+28,623
+269
+7,762
+70,010
+$
+$
+19,596
+1,269
+5,939
+16,144
+540
+1,684
+45,172
+(1)
+Primarily related to fuel, capacity, transmission and maintenance contracts and capital expenditure commitments of
+BHE and BNSF and aircraft purchase commitments of NetJets.
+(2)
+Includes unpaid losses and loss adjustment expenses under retroactive reinsurance contracts.
+(3)
+Amounts represent estimated undiscounted benefits, net of estimated future premiums, as applicable.
+K-58
+Management’s Discussion and Analysis (Continued)
+Critical Accounting Policies
+Certain accounting policies require us to make estimates and judgments in determining the amounts reflected in the
+Consolidated Financial Statements. Such estimates and judgments necessarily involve varying, and possibly significant,
+degrees of uncertainty. Accordingly, certain amounts currently recorded in the financial statements will likely be adjusted in
+the future based on new available information and changes in other facts and circumstances. A discussion of our principal
+accounting policies that required the application of significant judgments as of December 31, 2020 follows.
+Property and casualty insurance unpaid losses
+We record liabilities for unpaid losses and loss adjustment expenses (also referred to as “gross unpaid losses” or “claim
+liabilities”) based upon estimates of the ultimate amounts payable for losses occurring on or before the balance sheet date.
+The timing and amount of ultimate loss payments are contingent upon, among other things, the timing of claim reporting
+from insureds and ceding companies and the final determination of the loss amount through the loss adjustment process. We
+use a variety of techniques in establishing claim liabilities and all techniques require significant judgments and assumptions.
+As of the balance sheet date, recorded claim liabilities include liabilities for reported claims and for claims not yet
+reported. The period between the loss occurrence date and loss settlement date is the “claim-tail.” Property claims usually
+have relatively short claim-tails, absent litigation. Casualty claims usually have longer claim-tails, occasionally extending for
+decades. Casualty claims may be more susceptible to litigation and the impact of changing contract interpretations. The legal
+environment and judicial process further contribute to extending claim-tails.
+Our consolidated claim liabilities as of December 31, 2020 were approximately $120.8 billion (including liabilities
+from retroactive reinsurance), of which 83% related to GEICO and the Berkshire Hathaway Reinsurance Group. Additional
+information regarding significant uncertainties inherent in the processes and techniques for estimating unpaid losses of these
+businesses follows.
+GEICO
+GEICO predominantly writes private passenger auto insurance. As of December 31, 2020, GEICO’s gross unpaid
+losses were $22.9 billion and claim liabilities, net of reinsurance recoverable, were $21.8 billion.
+GEICO’s claim reserving methodologies produce liability estimates based upon the individual claims. The key
+assumptions affecting our liability estimates include projections of ultimate claim counts (“frequency”) and average loss per
+claim (“severity”). We utilize a combination of several actuarial estimation methods, including Bornhuetter-Ferguson and
+chain-ladder methodologies.
+Claim liability estimates for automobile liability coverages (such as bodily injury (“BI”), uninsured motorists, and
+personal injury protection) are more uncertain due to the longer claim-tails, so we establish additional case development
+estimates. As of December 31, 2020, case development liabilities averaged approximately 33% of the case reserves. We
+select case development factors through analysis of the overall adequacy of historical case liabilities.
+Incurred-but-not-reported (“IBNR”) claim liabilities are based on projections of the ultimate number of claims
+expected (reported and unreported) for each significant coverage. We use historical claim count data to develop age-to-age
+projections of the ultimate counts by quarterly accident period, from which we deduct reported claims to produce the number
+of unreported claims. We estimate the average costs per unreported claim and apply such estimates to the unreported claim
+counts, producing an IBNR liability estimate. We may record additional IBNR estimates when actuarial techniques are
+difficult to apply.
+We test the adequacy of the aggregate claim liabilities using one or more actuarial projections based on claim closure
+models and paid and incurred loss triangles. Each type of projection analyzes loss occurrence data for claims occurring in a
+given period and projects the ultimate cost.
+Our claim liability estimates recorded at the end of 2019 were reduced by $253 million during 2020, which produced a
+corresponding increase to pre-tax earnings. The assumptions used to estimate liabilities at December 31, 2020 reflect the
+most recent frequency and severity results. Future development of recorded liabilities will depend on whether actual
+frequency and severity of claims are more or less than anticipated.
+K-59
+Management’s Discussion and Analysis (Continued)
+Property and casualty losses (Continued)
+GEICO (Continued)
+With respect to liabilities for BI claims, we believe it is reasonably possible that average severities will change by at
+least one percentage point from the severities used in establishing the recorded liabilities at December 31, 2020. We estimate
+that a one percentage point increase or decrease in BI severities would produce a $300 million increase or decrease in
+recorded liabilities, with a corresponding decrease or increase in pre-tax earnings. Many of the economic forces that would
+likely cause BI severity to differ from expectations would likely also cause severities for other injury coverages to differ in
+the same direction.
+Berkshire Hathaway Reinsurance Group
+BHRG’s liabilities for unpaid losses and loss adjustment expenses derive primarily from reinsurance contracts issued
+through NICO and General Re. A summary of BHRG’s property and casualty unpaid losses and loss adjustment expenses,
+other than retroactive reinsurance losses and loss adjustment expenses, as of December 31, 2020 follows (in millions).
+Property
+Reported case liabilities
+IBNR liabilities
+Gross unpaid losses and loss adjustment expenses
+Reinsurance recoverable
+Net unpaid losses and loss adjustment expenses
+$
+$
+5,714
+5,821
+11,535
+181
+11,354
+Casualty
+$
+$
+9,497
+14,615
+24,112
+864
+23,248
+Total
+$
+$
+15,211
+20,436
+35,647
+1,045
+34,602
+Gross unpaid losses and loss adjustment expenses consist primarily of traditional property and casualty coverages
+written primarily under excess-of-loss and quota-share treaties. Under certain contracts, coverage can apply to multiple lines
+of business written and the ceding company may not report loss data by such lines consistently, if at all. In those instances,
+we allocate losses to property and casualty coverages based on internal estimates.
+In connection with reinsurance contracts, the nature, extent, timing and perceived reliability of loss information
+received from ceding companies varies widely depending on the type of coverage and the contractual reporting terms.
+Contract terms, conditions and coverages also tend to lack standardization and may evolve more rapidly than primary
+insurance policies.
+The nature and extent of loss information provided under many facultative (individual risk) or per occurrence excess
+contracts may be comparable to the information received under a primary insurance contract. However, loss information is
+often less detailed with respect to aggregate excess-of-loss and quota-share contracts and is often in a summary format rather
+than on an individual claim basis. Loss data includes recoverable paid losses, as well as case loss estimates. Ceding
+companies infrequently provide reliable IBNR estimates to reinsurers.
+Loss reporting to reinsurers is typically slower in comparison to primary insurers. In the U.S., such reporting is
+generally required at quarterly intervals ranging from 30 to 90 days after the end of the quarterly period, while outside of the
+U.S., reinsurance reporting practices may vary further. In certain countries, clients report annually from 90 to 180 days after
+the end of the annual period. Reinsurers may assume and cede underlying risks from other reinsurers, which may further
+delay the reporting of claims. The relative impact of reporting delays on the reinsurer may vary depending on the type of
+coverage, contractual reporting terms, the magnitude of the claim relative to the attachment point of the reinsurance coverage,
+and for other reasons.
+As reinsurers, the premium and loss data we receive is at least one level removed from the underlying claimant, so
+there is a risk that the loss data reported is incomplete, inaccurate or the claim is outside the coverage terms. We maintain
+certain internal procedures in order to determine that the information is complete and in compliance with the contract terms.
+Generally, our reinsurance contracts permit us to access the ceding company’s records with respect to the subject business,
+thus providing the ability to audit the reported information. In the normal course of business, disputes occasionally arise
+concerning whether claims are covered by our reinsurance policies. We resolve most coverage disputes through negotiation
+with the client. If disputes cannot be resolved, our contracts generally provide arbitration or alternative dispute resolution
+processes. There are no coverage disputes at this time for which an adverse resolution would likely have a material impact on
+our consolidated results of operations or financial condition.
+K-60
+Management’s Discussion and Analysis (Continued)
+Property and casualty losses (Continued)
+Berkshire Hathaway Reinsurance Group (Continued)
+Establishing claim liability estimates for reinsurance requires evaluation of loss information received from our clients.
+We generally rely on the ceding companies reported case loss estimates. We independently evaluate certain reported case
+losses and if appropriate, we use our own case liability estimate. For instance, as of December 31, 2020, our case loss
+estimates exceeded ceding company estimates by approximately $800 million for certain legacy workers’ compensation
+claims occurring over 10 years ago. We also periodically conduct detailed reviews of individual client claims, which may
+cause us to adjust our case estimates.
+Although liabilities for losses are initially determined based on pricing and underwriting analysis, BHRG uses a variety
+of actuarial methodologies that place reliance on the extrapolation of actual historical data, loss development patterns,
+industry data and other benchmarks, as appropriate. The estimate of the required IBNR liabilities also requires judgment by
+actuaries and management to reflect the impact of additional factors like change in business mix, volume, claim reporting and
+handling practices, inflation, social and legal environment and the terms and conditions of the contracts. The methodologies
+generally fall into one of the following categories or are hybrids of one or more of the following categories:
+Paid and incurred loss development methods – these methods consider expected case loss emergence and development
+patterns, together with expected loss ratios by year. Factors affecting our loss development analysis include, but are not
+limited to, changes in the following: client claims reporting and settlement practices; the frequency of client company claim
+reviews; policy terms and coverage (such as loss retention levels and occurrence and aggregate policy limits); loss trends; and
+legal trends that result in unanticipated losses. Collectively, these factors influence our selections of expected case loss
+emergence patterns.
+Incurred and paid loss Bornhuetter-Ferguson methods – these methods consider actual paid and incurred losses and
+expected patterns of paid and incurred losses, taking the initial expected ultimate losses into account to determine an estimate
+of the expected unpaid or unreported losses.
+Frequency and severity methods – these methods commonly focus on a review of the number of anticipated claims and
+the anticipated claims severity and may also rely on development patterns to derive such estimates. However, our processes
+and techniques for estimating liabilities in such analyses generally rely more on a per-policy assessment of the ultimate cost
+associated with the individual loss rather than with an analysis of historical development patterns of past losses.
+Additional Analysis – in some cases we have established reinsurance claim liabilities on a contract-by-contract basis,
+determined from case loss estimates reported by the ceding company and IBNR liabilities that are primarily a function of an
+anticipated loss ratio for the contract and the reported case loss estimate. Liabilities are adjusted upward or downward over
+time to reflect case losses reported versus expected case losses, which we use to form revised judgement on the adequacy of
+the expected loss ratio and the level of IBNR liabilities required for unreported claims. Anticipated loss ratios are also revised
+to include estimates of known major catastrophe events.
+Our claim liability estimation process for short-tail lines, primarily property exposures, utilizes a combination of the
+paid and incurred loss development methods and the incurred and paid loss Bornhuetter-Ferguson methods. Certain
+catastrophe, individual risk and aviation excess-of-loss contracts tend to generate low frequency/high severity losses. Our
+processes and techniques for estimating liabilities under such contracts generally rely more on a per contract assessment of
+the ultimate cost associated with the individual loss event rather than with an analysis of the historical development patterns
+of past losses.
+For our long-tail lines, primarily casualty exposures, we may rely on different methods depending on the maturity of
+the business, with estimates for the most recent years being based on priced loss expectations and more mature years
+reflecting the paid or incurred development pattern indications.
+In 2020, certain workers’ compensation claims reported losses were less than expected. As a result, we reduced
+estimated ultimate losses for prior years’ loss events by $160 million. We estimate that increases of ten percent in the tail of
+the expected loss emergence pattern and in the expected loss ratios would produce a net increase of approximately $1.1
+billion in IBNR liabilities, producing a corresponding decrease in pre-tax earnings. We believe it is reasonably possible for
+these assumptions to increase at these rates.
+K-61
+Management’s Discussion and Analysis (Continued)
+Property and casualty losses (Continued)
+Berkshire Hathaway Reinsurance Group (Continued)
+For other casualty losses, excluding asbestos, environmental, and other latent injury claims, the overall change in
+estimates for prior years’ events was not significant in 2020. However, the potential for significant changes in future periods
+remains. For certain significant casualty and general liability portfolios, we estimate that increases of five percent in the
+claim-tails of the expected loss emergence patterns and in the expected loss ratios would produce a net increase in our
+nominal IBNR liabilities and a corresponding reduction in pre-tax earnings of approximately $900 million, although
+outcomes of greater than or less than $900 million are possible given the diversification in worldwide business.
+Estimated ultimate liabilities for asbestos, environmental and other latent injury claims, excluding amounts assumed
+under retroactive reinsurance contracts increased $468 million in 2020, which produced a corresponding reduction in pre-tax
+earnings. Net liabilities for such claims were approximately $2.1 billion at December 31, 2020. Loss estimations for these
+exposures are difficult to determine due to the changing legal environment and increases may be required in the future if new
+exposures or claimants are identified, new claims are reported or new theories of liability emerge.
+Retroactive reinsurance
+Our retroactive reinsurance contracts cover loss events occurring before the contract inception dates. Claim liabilities
+relating to our retroactive reinsurance contracts are predominately related to casualty or liability exposures. We expect the
+claim-tails to be very long. As of December 31, 2020, gross unpaid losses were $41.0 billion and deferred charge assets were
+$12.4 billion.
+Our contracts are generally subject to maximum limits of indemnifications and, as such, we currently expect that
+maximum remaining gross losses payable under our retroactive policies will not exceed $56 billion. Absent significant
+judicial or legislative changes affecting asbestos, environmental or latent injury exposures, we also currently believe it
+unlikely that losses will develop upward to the maximum losses payable or downward by more than 15% of our estimated
+gross liability.
+We establish liability estimates by individual contract, considering exposure and development trends. In establishing
+our liability estimates, we often analyze historical aggregate loss payment patterns and project expected ultimate losses under
+various scenarios. We assign judgmental probability factors to these scenarios and an expected outcome is determined. We
+then monitor subsequent loss payment activity and review ceding company reports and other available information
+concerning the underlying losses. We re-estimate the expected ultimate losses when significant events or significant
+deviations from expected results are revealed.
+Certain of our retroactive reinsurance contracts include asbestos, environmental and other latent injury claims. Our
+estimated liabilities for such claims were approximately $12.5 billion at December 31, 2020. We do not consistently receive
+reliable detailed data regarding asbestos, environmental and latent injury claims from all ceding companies, particularly with
+respect to multi-line or aggregate excess-of-loss policies. When possible, we conduct a detailed analysis of the underlying
+loss data to make an estimate of ultimate reinsured losses. When detailed loss information is unavailable, we develop
+estimates by applying recent industry trends and projections to aggregate client data. Judgments in these areas necessarily
+consider the stability of the legal and regulatory environment under which we expect claims will be adjudicated. Legal reform
+and legislation could also have a significant impact on our ultimate liabilities.
+We reduced estimated ultimate liabilities for prior years’ retroactive reinsurance contracts by $399 million in 2020,
+which after the changes in related deferred charge assets, resulted in pre-tax earnings of $230 million. In 2020, we paid losses
+and loss adjustment expenses of $1.1 billion with respect to these contracts.
+K-62
+Management’s Discussion and Analysis (Continued)
+Property and casualty losses (Continued)
+Retroactive reinsurance (Continued)
+In connection with our retroactive reinsurance contracts, we also record deferred charge assets, which at contract
+inception represents the excess, if any, of the estimated ultimate liability for unpaid losses over premiums received. We
+amortize deferred charge assets, which produces charges to pre-tax earnings in future periods based on the expected timing
+and amount of loss payments. We also adjust deferred charge balances due to changes in the expected timing and ultimate
+amount of claim payments. Significant changes in such estimates may have a significant effect on unamortized deferred
+charge balances and the amount of periodic amortization. Based on the contracts in effect as of December 31, 2020, we
+currently estimate that amortization expense in 2021 will approximate $1.1 billion.
+Other Critical Accounting Policies
+Our Consolidated Balance Sheet at December 31, 2020 includes goodwill of acquired businesses of $73.7 billion and
+other indefinite-lived intangible assets of $18.3 billion. We evaluate these assets for impairment annually in the fourth quarter
+and on an interim basis if the facts and circumstances lead us to believe that more-likely-not there has been an impairment.
+Goodwill and indefinite-lived intangible asset impairment reviews include determining the estimated fair values of our
+reporting units and intangible assets. The key assumptions and inputs used in such determinations may include forecasting
+revenues and expenses, cash flows and capital expenditures, as well as an appropriate discount rate and other inputs.
+Significant judgment by management is required in estimating the fair value of a reporting unit and in performing impairment
+reviews. Due to the inherent subjectivity and uncertainty in forecasting future cash flows and earnings over long periods of
+time, actual results may vary materially from the forecasts. If the carrying value of the indefinite-lived intangible asset
+exceeds fair value, the excess is charged to earnings as an impairment loss. If the carrying value of a reporting unit exceeds
+the estimated fair value of the reporting unit, then the excess, limited to the carrying amount of goodwill, will be charged to
+earnings as an impairment loss.
+In response to the adverse effects of the COVID-19 pandemic, we considered whether goodwill needed to be
+reevaluated for impairment during the second quarter of 2020. We determined it was necessary to quantitively reevaluate
+goodwill for impairment for certain reporting units, and most significantly for PCC. As a result of our reviews, we recorded
+pre-tax goodwill impairment charges of $10.0 billion and indefinite-lived intangible asset impairment charges of $638
+million of which approximately $10 billion related to PCC.
+Prior to the reevaluation, the carrying value of goodwill related to PCC was approximately $17 billion. Additionally,
+the carrying value of PCC’s indefinite-lived intangible assets was approximately $14 billion. Substantially all of these
+amounts were recorded in connection with Berkshire’s acquisition of PCC in 2016. The effects of the COVID-19 pandemic
+on commercial airlines and aircraft manufacturers is particularly severe. We considered a number of factors in our
+reevaluation, including but not limited to the announcements by airlines concerning potential future demand, employment
+levels and aircraft orders, announcements by manufacturers on reduced aircraft production, and the actions we are taking or
+may take to restructure our operations to fit lower expected demand. In our judgment, the timing and extent of the recovery in
+the commercial airline and aerospace industries may be dependent on the development and wide-scale distribution of
+medicines and vaccines that effectively treat the virus. Consequently, we deemed it prudent under the prevailing
+circumstances to increase discount rates and reduce prior long-term forecasts of future cash flows for purposes of reviewing
+for impairments.
+As of December 31, 2020, we concluded it is more likely than not that goodwill recorded in our Consolidated Balance
+Sheet was not impaired. Making estimates of the fair value of reporting units at this time is and will likely be significantly
+affected by assumptions on the severity, duration or long-term effects of the pandemic on the reporting unit’s business, which
+we cannot reliably predict. Consequently, any fair value estimates in such instances can be subject to wide variations. The
+effects of the COVID-19 pandemic could prove to be worse than we currently estimate and could lead us to record additional
+goodwill or indefinite-lived intangible asset impairment charges in 2021.
+We primarily use discounted projected future earnings or cash flow methods in determining fair values. The key
+assumptions and inputs used in such methods may include forecasting revenues and expenses, cash flows and capital
+expenditures, as well as an appropriate discount rate and other inputs. A significant amount of judgment is required in
+estimating the fair value of a reporting unit and in performing goodwill impairment tests.
+K-63
+Management’s Discussion and Analysis (Continued)
+Market Risk Disclosures
+Our Consolidated Balance Sheets include substantial amounts of assets and liabilities whose fair values are subject to
+market risks. Our significant market risks are primarily associated with equity prices, interest rates, foreign currency
+exchange rates and commodity prices. The fair values of our investment portfolios and equity index put option contracts
+remain subject to considerable volatility. The following sections address the significant market risks associated with our
+business activities.
+Equity Price Risk
+Equity securities represent a significant portion of our investment portfolio. Strategically, we strive to invest in
+businesses that possess excellent economics and able and honest management, and we prefer to invest a meaningful amount
+in each investee. Historically, equity investments have been concentrated in relatively few issuers. At December 31, 2020,
+approximately 68% of the total fair value of equity securities was concentrated in four issuers.
+We often hold our equity investments for long periods and short-term price volatility has occurred in the past and will
+occur in the future. We also strive to maintain significant levels of shareholder capital and ample liquidity to provide a
+margin of safety against short-term price volatility.
+We are also subject to equity price risk with respect to our equity index put option contracts. Our ultimate liability with
+respect to these contracts is determined from the movement of the underlying stock index between the contract inception date
+and expiration date. The fair values of our liabilities arising from these contracts are also affected by changes in other factors
+such as interest rates and the remaining duration of the contracts.
+The following table summarizes our equity securities and derivative contract liabilities with significant equity price
+risk as of December 31, 2020 and 2019 and the estimated effects of a hypothetical 30% increase and a 30% decrease in
+market prices as of those dates. The selected 30% hypothetical increase and decrease does not reflect the best or worst case
+scenario. Indeed, results from declines could be far worse due both to the nature of equity markets and the aforementioned
+concentrations existing in our equity investment portfolio. Dollar amounts are in millions.
+Fair Value
+December 31, 2020
+Investments in equity securities
+$
+281,170 30% increase $
+30% decrease
+1,065 30% increase
+30% decrease
+362,830 $
+199,547
+257
+2,702
+63,321
+(63,293)
+638
+(1,293)
+$
+248,027 30% increase $
+30% decrease
+968 30% increase
+30% decrease
+319,445 $
+176,749
+267
+2,776
+56,493
+(56,382)
+554
+(1,428)
+Equity index put option contract liabilities
+December 31, 2019
+Investments in equity securities
+Equity index put option contract liabilities
+(1)
+Estimated
+Estimated
+Fair Value after
+Hypothetical
+Increase (Decrease)
+Hypothetical
+Price Change Change in Prices in Net Earnings (1)
+The estimated increase (decrease) is after income taxes at the statutory rate in effect as of the balance sheet date.
+K-64
+Management’s Discussion and Analysis (Continued)
+Market Risk Disclosures (Continued)
+Interest Rate Risk
+We may also invest in bonds, loans or other interest rate sensitive instruments. Our strategy is to acquire or originate
+such instruments at prices considered appropriate relative to the perceived credit risk. We also issue debt in the ordinary
+course of business to fund business operations, business acquisitions and for other general purposes. We attempt to maintain
+high credit ratings, in order to minimize the cost of our debt. We infrequently utilize derivative products, such as interest rate
+swaps, to manage interest rate risks.
+The fair values of our fixed maturity investments, loans and finance receivables, and notes payable and other
+borrowings will fluctuate in response to changes in market interest rates. In addition, changes in interest rate assumptions
+used in our equity index put option contract models cause changes in the reported liabilities. Increases and decreases in
+interest rates generally translate into decreases and increases in fair values of these instruments. Additionally, fair values of
+interest rate sensitive instruments may be affected by the creditworthiness of the issuer, prepayment options, relative values
+of alternative investments, the liquidity of the instrument and other general market conditions.
+The following table summarizes the estimated effects of hypothetical changes in interest rates on our significant assets
+and liabilities that are subject to significant interest rate risk at December 31, 2020 and 2019. We assumed that the interest
+rate changes occur immediately and uniformly to each category of instrument and that there were no significant changes to
+other factors used to determine the value of the instrument. The hypothetical changes in interest rates do not reflect the best
+or worst case scenarios. Actual results may differ from those reflected in the table. Dollars are in millions.
+Estimated Fair Value after Hypothetical Change in
+Interest Rates
+(bp=basis points)
+100 bp
+100 bp
+200 bp
+300 bp
+decrease
+increase
+increase
+increase
+Fair
+Value
+December 31, 2020
+Assets:
+Investments in fixed maturity securities
+Investments in equity securities*
+Loans and finance receivables
+$
+Liabilities:
+Notes payable and other borrowings:
+Insurance and other
+Railroad, utilities and energy
+Equity index put option contracts
+December 31, 2019
+Assets:
+Investments in fixed maturity securities
+Investments in equity securities*
+Loans and finance receivables
+Liabilities:
+Notes payable and other borrowings:
+Insurance and other
+Railroad, utilities and energy
+Equity index put option contracts
+*
+20,410
+8,891
+20,554
+$
+46,677
+92,593
+1,065
+$
+18,685
+10,314
+17,861
+40,589
+76,237
+968
+Occidental Petroleum Cumulative Perpetual Preferred Stock
+K-65
+20,622
+9,408
+21,472
+$
+50,754
+102,926
+1,125
+$
+19,008
+11,016
+18,527
+44,334
+84,758
+1,065
+20,139
+8,413
+19,916
+$
+42,785
+83,070
+1,008
+$
+18,375
+9,671
+17,240
+37,454
+69,160
+877
+19,879
+7,970
+19,219
+$
+39,514
+75,484
+953
+$
+18,075
+9,081
+16,660
+34,799
+63,218
+792
+19,628
+7,559
+18,570
+36,739
+69,093
+900
+$
+17,787
+8,539
+16,116
+32,534
+58,193
+713
+Management’s Discussion and Analysis (Continued)
+Foreign Currency Risk
+Certain of our subsidiaries operate in foreign jurisdictions and we transact business in foreign currencies. In addition,
+we hold investments in common stocks of major multinational companies, who have significant foreign business and foreign
+currency risk of their own. We generally do not attempt to match assets and liabilities by currency and do not use derivative
+contracts to manage foreign currency risks in a meaningful way.
+Our net assets subject to financial statement translation into U.S. Dollars are primarily in our insurance, utilities and
+energy and certain manufacturing and service subsidiaries. A portion of our financial statement translation-related impact
+from changes in foreign currency rates is recorded in other comprehensive income. In addition, we include gains or losses in
+net earnings related to certain liabilities of Berkshire and U.S. insurance subsidiaries that are denominated in foreign
+currencies, due to changes in exchange rates. A summary of these gains (losses), after-tax, for each of the years ending
+December 31, 2020 and 2019 follows (in millions).
+2020
+Non-U.S. denominated debt included in net earnings
+Net liabilities under certain reinsurance contracts included in net earnings
+Foreign currency translation included in other comprehensive income
+$
+2019
+(764) $
+(163)
+1,264
+58
+(92)
+257
+Commodity Price Risk
+Our subsidiaries use commodities in various ways in manufacturing and providing services. As such, we are subject to
+price risks related to various commodities. In most instances, we attempt to manage these risks through the pricing of our
+products and services to customers. To the extent that we are unable to sustain price increases in response to commodity price
+increases, our operating results will likely be adversely affected. We do not utilize derivative contracts to manage commodity
+price risks to any significant degree.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+See “Market Risk Disclosures” contained in Item 7 “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations.”
+Management’s Report on Internal Control Over Financial Reporting
+Management of Berkshire Hathaway Inc. is responsible for establishing and maintaining adequate internal control over
+financial reporting, as such term is defined in the Securities Exchange Act of 1934 Rule 13a-15(f). Under the supervision and
+with the participation of our management, including our principal executive officer and principal financial officer, we
+conducted an evaluation of the effectiveness of the Company’s internal control over financial reporting as of December 31,
+2020 as required by the Securities Exchange Act of 1934 Rule 13a-15(c). In making this assessment, we used the criteria set
+forth in the framework in Internal Control—Integrated Framework (2013) issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. Based on our evaluation under the framework in Internal Control—Integrated
+Framework (2013), our management concluded that our internal control over financial reporting was effective as of
+December 31, 2020.
+The effectiveness of our internal control over financial reporting as of December 31, 2020 has been audited by
+Deloitte & Touche LLP, an independent registered public accounting firm, as stated in their report which appears on page K67.
+Berkshire Hathaway Inc.
+February 27, 2021
+K-66
+Item 8. Financial Statements and Supplementary Data
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and the Board of Directors of
+Berkshire Hathaway Inc.
+Omaha, Nebraska
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Berkshire Hathaway Inc. and subsidiaries (the
+“Company”) as of December 31, 2020 and 2019, the related consolidated statements of earnings, comprehensive income,
+changes in shareholders’ equity, and cash flows, for each of the three years in the period ended December 31, 2020, and the
+related notes (collectively referred to as the “financial statements”). We also have audited the Company’s internal control
+over financial reporting as of December 31, 2020, based on criteria established in Internal Control — Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the
+Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in
+the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of
+America. Also, in our opinion, the Company maintained, in all material respects, effective internal control over financial
+reporting as of December 31, 2020, based on criteria established in Internal Control — Integrated Framework (2013) issued
+by COSO.
+Basis for Opinions
+The Company’s management is responsible for these financial statements, for maintaining effective internal control over
+financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the
+accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an
+opinion on these financial statements and an opinion on the Company’s internal control over financial reporting based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States)
+(PCAOB) and are required to be independent with respect to the Company in accordance with the US federal securities laws
+and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform
+the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether
+due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+Our audits of the financial statements included performing procedures to assess the risks of material misstatement of the
+financial statements, whether due to error or fraud, and performing procedures to respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits
+also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. Our audit of internal control over financial reporting included obtaining
+an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing
+and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included
+performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a
+reasonable basis for our opinions.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures
+that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and
+dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and
+expenditures of the company are being made only in accordance with authorizations of management and directors of the
+company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company’s assets that could have a material effect on the financial statements.
+K-67
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (Continued)
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate
+because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements
+that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures
+that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a
+whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit
+matters or on the accounts or disclosures to which they relate.
+Unpaid Losses and Loss Adjustment Expenses— Refer to Notes 1 and 15 to the financial statements
+Critical Audit Matter Description
+The Company’s unpaid losses and loss adjustment expenses (“claim liabilities”) under short duration property and casualty
+insurance and reinsurance contracts are $79,854 million as of December 31, 2020. The key assumptions affecting certain
+claim liabilities include expected loss and expense (“loss”) ratios, expected claim count emergence patterns, expected loss
+payment emergence patterns and expected loss reporting emergence patterns.
+Given the subjectivity of estimating these key assumptions, performing audit procedures to evaluate whether claim liabilities
+were appropriately recorded as of December 31, 2020, required a high degree of auditor judgment and an increased extent of
+effort, including the need to involve our actuarial specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the key assumptions affecting certain claim liabilities included the following, among others:
+• We tested the operating effectiveness of controls over claim liabilities, including those over the key assumptions.
+• We evaluated the methods and assumptions used by management to estimate the claim liabilities by:
+• Testing the underlying data that served as the basis for the actuarial analysis, such as historical claims and earned
+premium, to test that the inputs to the actuarial estimate were reasonable.
+• Comparing management’s prior-year claim liabilities to actual development during the current year to identify
+potential bias in the determination of the claim liabilities.
+• With the assistance of our actuarial specialists:
+• We developed independent estimates of the claim liabilities, including loss data and industry claim development
+factors as needed, and compared our estimates to management’s estimates.
+• We compared management’s change in ultimate loss and loss adjustment expense to prior year estimates to test the
+reasonableness of the prior year estimates and assessed unexpected development.
+Unpaid Losses and Loss Adjustment Expenses Under Retroactive Reinsurance Contracts — Refer to Notes 1 and 16 to the
+financial statements
+Critical Audit Matter Description
+The Company’s unpaid losses and loss adjustment expenses (“claim liabilities”) for property and casualty retroactive
+reinsurance contracts are $40,966 million as of December 31, 2020. The key assumptions affecting certain claim liabilities
+and related deferred charge reinsurance assumed assets (“related assets”) include expected loss and expense (“loss”) ratios,
+expected loss payment emergence patterns and expected loss reporting emergence.
+Given the subjectivity of estimating these key assumptions, performing audit procedures to evaluate whether claim liabilities
+were appropriately recorded as of December 31, 2020, required a high degree of auditor judgment and an increased extent of
+effort, including the need to involve our actuarial specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to the key assumptions affecting claim liabilities and related assets included the following,
+among others:
+• We tested the operating effectiveness of controls over claim liabilities and related assets, including those over the key
+assumptions.
+K-68
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (Continued)
+•
+•
+We evaluated the methods and assumptions used by management to estimate the claim liabilities and related assets by:
+• Testing the underlying data that served as the basis for the actuarial analysis, including historical claims, to test that
+the inputs to the actuarial estimate were reasonable.
+• Comparing management’s prior-year claim liabilities to actual development during the current year to identify
+potential bias in the determination of the claim liabilities and related assets.
+With the assistance of our actuarial specialists:
+• We developed independent claim liability estimates for certain retroactive reinsurance contracts and compared our
+estimates to management’s estimates. For other retroactive reinsurance contracts and related assets, we evaluated the
+process used by management to develop the estimated claim liabilities and related assets.
+• We compared management’s change in ultimate loss and loss adjustment expense to prior year estimates, assessed
+unexpected development and assessed internal rates of return.
+Goodwill and Indefinite-Lived Intangible Assets — Refer to Notes 1 and 13 to the financial statements
+Critical Audit Matter Description
+The Company’s evaluation of goodwill and indefinite-lived intangible assets for impairment involves the comparison of the
+fair value of each reporting unit or asset to its carrying value. The Company evaluates goodwill and indefinite-lived
+intangible assets for impairment at least annually. When evaluating goodwill and indefinite-lived intangible assets for
+impairment, the fair value of each reporting unit or asset is estimated. Significant judgment is required in estimating fair
+values and performing impairment tests. The Company primarily uses discounted projected future net earnings or net cash
+flows and multiples of earnings to estimate fair value, which requires management to make significant estimates and
+assumptions related to forecasts of future revenue, earnings before interest and taxes (“EBIT”), and discount rates. Changes
+in these assumptions could have a significant impact on the fair value of reporting units and indefinite-lived intangible assets.
+The Precision Castparts Corp. (“PCC”) reporting unit reported approximately $31 billion of goodwill and indefinite-lived
+intangible assets as of December 31, 2019. During the second quarter of 2020, the Company performed an interim
+reevaluation of the goodwill and indefinite-lived intangible assets at the PCC reporting unit. This determination was made
+due to disruptions arising from the COVID-19 pandemic that had an adverse impact on the industries in which PCC operates.
+As a result of the reevaluation, the Company recognized goodwill and indefinite-lived intangible asset impairment charges in
+the amount of approximately $10 billion, as the fair values of the PCC reporting unit and indefinite-lived intangible assets
+were less than their respective carrying values. As a result, PCC reported goodwill and indefinite-lived intangible assets of
+approximately $21 billion as of December 31, 2020.
+Given the significant judgments made by management to estimate the fair value of the PCC reporting unit and certain
+customer relationships with indefinite lives along with the difference between their fair values and carrying values,
+performing audit procedures to evaluate the reasonableness of management’s estimates and assumptions related to forecasts
+of future revenue and EBIT and the selection of the discount rate required a high degree of auditor judgment and an increased
+extent of effort, including the need to involve our fair value specialists.
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to forecasts of future revenue and EBIT and the selection of the discount rate for the PCC
+reporting unit and certain customer relationships included the following, among others:
+• We tested the effectiveness of controls over goodwill and indefinite-lived intangible assets, including those over the
+forecasts of future revenue and EBIT and the selection of the discount rate.
+• We evaluated management’s ability to accurately forecast future revenue and EBIT by comparing prior year
+forecasts to actual results in the respective years.
+• We evaluated the reasonableness of management’s current revenue and EBIT forecasts by comparing the forecasts
+to historical results and forecasted information included in analyst and industry reports and certain peer companies’
+disclosures.
+• With the assistance of our fair value specialists, we evaluated the valuation methodologies, the long-term growth
+rates and discount rate, including testing the underlying source information and the mathematical accuracy of the
+calculations, and developed a range of independent estimates and compared those to the long-term growth rates and
+discount rate selected by management.
+/s/ Deloitte & Touche LLP
+Omaha, Nebraska
+February 27, 2021
+We have served as the Company’s auditor since 1985.
+K-69
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED BALANCE SHEETS
+(dollars in millions)
+December 31,
+2020
+ASSETS
+Insurance and Other:
+Cash and cash equivalents*
+Short-term investments in U.S. Treasury Bills
+Investments in fixed maturity securities
+Investments in equity securities
+Equity method investments
+Loans and finance receivables
+Other receivables
+Inventories
+Property, plant and equipment
+Equipment held for lease
+Goodwill
+Other intangible assets
+Deferred charges under retroactive reinsurance contracts
+Other
+$
+Railroad, Utilities and Energy:
+Cash and cash equivalents*
+Receivables
+Property, plant and equipment
+Goodwill
+Regulatory assets
+Other
+$
+*
+44,714
+90,300
+20,410
+281,170
+17,303
+19,201
+32,310
+19,208
+21,200
+14,601
+47,121
+29,462
+12,441
+14,580
+664,021
+3,276
+3,542
+151,216
+26,613
+3,440
+21,621
+209,708
+873,729
+2019
+$
+$
+61,151
+63,822
+18,685
+248,027
+17,505
+17,527
+32,418
+19,852
+21,438
+15,065
+57,052
+31,051
+13,747
+13,232
+630,572
+3,024
+3,417
+137,838
+24,830
+2,881
+15,167
+187,157
+817,729
+Includes U.S. Treasury Bills with maturities of three months or less when purchased of $23.2 billion at December 31,
+2020 and $37.1 billion at December 31, 2019.
+See accompanying Notes to Consolidated Financial Statements
+K-70
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED BALANCE SHEETS
+(dollars in millions)
+December 31,
+2020
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Insurance and Other:
+Unpaid losses and loss adjustment expenses
+Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts
+Unearned premiums
+Life, annuity and health insurance benefits
+Other policyholder liabilities
+Accounts payable, accruals and other liabilities
+Derivative contract liabilities
+Aircraft repurchase liabilities and unearned lease revenues
+Notes payable and other borrowings
+$
+Railroad, Utilities and Energy:
+Accounts payable, accruals and other liabilities
+Regulatory liabilities
+Notes payable and other borrowings
+Income taxes, principally deferred
+Total liabilities
+Shareholders’ equity:
+Common stock
+Capital in excess of par value
+Accumulated other comprehensive income
+Retained earnings
+Treasury stock, at cost
+Berkshire Hathaway shareholders’ equity
+Noncontrolling interests
+Total shareholders’ equity
+$
+See accompanying Notes to Consolidated Financial Statements
+K-71
+79,854
+40,966
+21,395
+21,616
+8,670
+29,279
+1,065
+5,856
+41,522
+250,223
+2019
+$
+73,019
+42,441
+19,782
+20,155
+7,723
+27,611
+968
+5,281
+37,590
+234,570
+15,224
+7,475
+75,373
+98,072
+74,098
+422,393
+14,708
+7,311
+65,778
+87,797
+66,799
+389,166
+8
+35,626
+(4,243)
+444,626
+(32,853)
+443,164
+8,172
+451,336
+873,729 $
+8
+35,658
+(5,243)
+402,493
+(8,125)
+424,791
+3,772
+428,563
+817,729
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF EARNINGS
+(dollars in millions except per share amounts)
+2020
+Revenues:
+Insurance and Other:
+Insurance premiums earned
+Sales and service revenues
+Leasing revenues
+Interest, dividend and other investment income
+$
+Year Ended December 31,
+2019
+2018
+63,401 $
+127,044
+5,209
+8,092
+203,746
+61,078 $
+134,989
+5,856
+9,240
+211,163
+57,418
+133,336
+5,732
+7,678
+204,164
+Total revenues
+20,750
+15,540
+5,474
+41,764
+245,510
+23,357
+15,353
+4,743
+43,453
+254,616
+23,703
+15,555
+4,415
+43,673
+247,837
+Investment and derivative contract gains/losses:
+40,746
+72,607
+(22,455)
+43,951
+5,812
+12,798
+101,091
+3,520
+19,809
+10,671
+1,105
+198,757
+44,456
+4,986
+11,200
+107,041
+4,003
+19,226
+96
+1,056
+192,064
+39,906
+5,699
+9,793
+106,083
+4,061
+17,856
+382
+1,035
+184,815
+Railroad, Utilities and Energy:
+Freight rail transportation revenues
+Energy operating revenues
+Service revenues and other income
+Costs and expenses:
+Insurance and Other:
+Insurance losses and loss adjustment expenses
+Life, annuity and health insurance benefits
+Insurance underwriting expenses
+Cost of sales and services
+Cost of leasing
+Selling, general and administrative expenses
+Goodwill and intangible asset impairments
+Interest expense
+Railroad, Utilities and Energy:
+Freight rail transportation expenses
+Utilities and energy cost of sales and other expenses
+Other expenses
+Interest expense
+Total costs and expenses
+Earnings before income taxes and equity method earnings (losses)
+Equity method earnings (losses)
+Earnings before income taxes
+Income tax expense (benefit)
+Net earnings
+Earnings attributable to noncontrolling interests
+Net earnings attributable to Berkshire Hathaway shareholders
+Net earnings per average equivalent Class A share
+Net earnings per average equivalent Class B share*
+Average equivalent Class A shares outstanding
+Average equivalent Class B shares outstanding
+*
+13,120
+15,436
+16,045
+11,638
+11,296
+11,641
+4,796
+4,002
+3,895
+2,978
+2,905
+2,818
+32,532
+33,639
+34,399
+231,289
+225,703
+219,214
+54,967
+101,520
+6,168
+726
+1,176
+(2,167)
+55,693
+102,696
+4,001
+12,440
+20,904
+(321)
+43,253
+81,792
+4,322
+732
+375
+301
+$
+42,521 $
+81,417 $
+4,021
+$
+26,668 $
+49,828 $
+2,446
+$
+17.78 $
+33.22 $
+1.63
+1,594,469
+1,633,946
+1,643,795
+2,391,703,454 2,450,919,020 2,465,692,368
+Class B shares are economically equivalent to one-fifteen-hundredth of a Class A share. Accordingly, net earnings per
+average equivalent Class B share outstanding is equal to one-fifteen-hundredth of the equivalent Class A amount. See
+Note 22.
+See accompanying Notes to Consolidated Financial Statements
+K-72
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(dollars in millions)
+2020
+Net earnings
+Other comprehensive income:
+Unrealized appreciation of investments
+Applicable income taxes
+Foreign currency translation
+Applicable income taxes
+Defined benefit pension plans
+Applicable income taxes
+Other, net
+Other comprehensive income, net
+Comprehensive income
+Comprehensive income attributable to noncontrolling interests
+Comprehensive income attributable to Berkshire Hathaway shareholders
+Year Ended December 31,
+2019
+$
+43,253
+$
+$
+74
+(19)
+1,284
+3
+(355)
+74
+(42)
+1,019
+44,272
+751
+43,521 $
+81,792
+2018
+$
+4,322
+142
+(31)
+323
+(28)
+(711)
+155
+(48)
+(198)
+81,594
+405
+81,189 $
+(438)
+84
+(1,531)
+62
+(571)
+143
+(12)
+(2,263)
+2,059
+249
+1,810
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+(dollars in millions)
+Berkshire Hathaway shareholders’ equity
+Common
+Accumulated
+stock and
+other
+capital in
+Treasury
+excess of comprehensive Retained
+earnings
+stock
+income
+par value
+Balance December 31, 2017
+Adoption of new accounting pronouncements
+Net earnings
+Other comprehensive income, net
+Issuance (acquisition) of common stock
+Transactions with noncontrolling interests
+Balance December 31, 2018
+Net earnings
+Other comprehensive income, net
+Issuance (acquisition) of common stock
+Transactions with noncontrolling interests
+Balance December 31, 2019
+Net earnings
+Adoption of new accounting pronouncement
+Other comprehensive income, net
+Issuance (acquisition) of common stock
+Transactions with noncontrolling interests
+Balance December 31, 2020
+$ 35,702 $
+—
+—
+—
+59
+(46)
+35,715
+—
+—
+21
+(70)
+35,666
+—
+—
+—
+—
+(32)
+$ 35,634 $
+58,571 $255,786 $ (1,763) $
+(61,375) 61,305
+—
+—
+4,021
+—
+(2,211)
+—
+—
+—
+—
+(1,346)
+—
+—
+—
+(5,015) 321,112
+(3,109)
+—
+81,417
+—
+(228)
+—
+—
+—
+—
+(5,016)
+—
+(36)
+—
+(5,243) 402,493
+(8,125)
+—
+42,521
+—
+—
+(388)
+—
+1,000
+—
+—
+—
+— (24,728)
+—
+—
+—
+(4,243) $444,626 $(32,853) $
+See accompanying Notes to Consolidated Financial Statements
+K-73
+Noncontrolling
+interests
+Total
+3,658 $351,954
+—
+(70)
+301
+4,322
+(52)
+(2,263)
+—
+(1,287)
+(110)
+(156)
+3,797 352,500
+375
+81,792
+30
+(198)
+—
+(4,995)
+(430)
+(536)
+3,772 428,563
+732
+43,253
+—
+(388)
+19
+1,019
+—
+(24,728)
+3,649
+3,617
+8,172 $451,336
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in millions)
+2020
+Cash flows from operating activities:
+Net earnings
+Adjustments to reconcile net earnings to operating cash flows:
+Investment (gains) losses
+Depreciation and amortization
+Other, including asset impairment charges
+Changes in operating assets and liabilities:
+Losses and loss adjustment expenses
+Deferred charges reinsurance assumed
+Unearned premiums
+Receivables and originated loans
+Other assets
+Other liabilities
+Income taxes
+Net cash flows from operating activities
+Cash flows from investing activities:
+Purchases of equity securities
+Sales of equity securities
+Purchases of U.S. Treasury Bills and fixed maturity securities
+Sales of U.S. Treasury Bills and fixed maturity securities
+Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities
+Purchases of loans and finance receivables
+Collections of loans and finance receivables
+Acquisitions of businesses, net of cash acquired
+Purchases of property, plant and equipment and equipment held for lease
+Other
+Net cash flows from investing activities
+Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses
+Repayments of borrowings of insurance and other businesses
+Proceeds from borrowings of railroad, utilities and energy businesses
+Repayments of borrowings of railroad, utilities and energy businesses
+Changes in short term borrowings, net
+Acquisition of treasury stock
+Other
+Net cash flows from financing activities
+Effects of foreign currency exchange rate changes
+Increase (decrease) in cash and cash equivalents and restricted cash
+Cash and cash equivalents and restricted cash at beginning of year
+Cash and cash equivalents and restricted cash at end of year *
+* Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+Insurance and Other
+Railroad, Utilities and Energy
+Restricted cash, included in other assets
+$
+$
+$
+$
+Year Ended December 31,
+2019
+2018
+43,253
+81,792
+$
+4,322
+(40,905)
+10,596
+11,263
+(71,123)
+10,064
+(1,254)
+22,155
+9,779
+2,957
+4,819
+1,307
+1,587
+(1,609)
+(1,109)
+3,376
+7,195
+39,773
+6,087
+357
+1,707
+(2,303)
+(2,011)
+190
+15,181
+38,687
+3,449
+1,174
+1,794
+(3,443)
+(1,832)
+2,002
+(4,957)
+37,400
+(30,161)
+38,756
+(208,429)
+31,873
+149,709
+(772)
+393
+(2,532)
+(13,012)
+(3,582)
+(37,757)
+(18,642)
+14,336
+(136,123)
+15,929
+137,767
+(75)
+345
+(1,683)
+(15,979)
+(1,496)
+(5,621)
+(43,210)
+18,783
+(141,844)
+39,693
+113,045
+(1,771)
+342
+(3,279)
+(14,537)
+(71)
+(32,849)
+5,925
+(2,700)
+8,445
+(3,761)
+(1,118)
+(24,706)
+(429)
+(18,344)
+92
+(16,236)
+64,632
+48,396 $
+8,144
+(5,095)
+5,400
+(2,638)
+266
+(4,850)
+(497)
+730
+25
+33,821
+30,811
+64,632 $
+2,409
+(7,395)
+7,019
+(4,213)
+(1,943)
+(1,346)
+(343)
+(5,812)
+(140)
+(1,401)
+32,212
+30,811
+44,714
+3,276
+406
+48,396
+61,151
+3,024
+457
+64,632
+27,749
+2,612
+450
+30,811
+See accompanying Notes to Consolidated Financial Statements
+K-74
+$
+$
+$
+$
+$
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2020
+(1)
+Significant accounting policies and practices
+(a)
+Nature of operations and basis of consolidation
+Berkshire Hathaway Inc. (“Berkshire”) is a holding company owning subsidiaries engaged in a number of
+diverse business activities, including insurance and reinsurance, freight rail transportation, utilities and energy,
+manufacturing, service and retailing. In these notes the terms “us,” “we,” or “our” refer to Berkshire and its
+consolidated subsidiaries. Further information regarding our reportable business segments is contained in Note 27.
+Information concerning business acquisitions completed over the past three years appears in Note 2. We believe that
+reporting the Railroad, Utilities and Energy subsidiaries separately is appropriate given the relative significance of their
+long-lived assets, capital expenditures and debt, which is not guaranteed by Berkshire.
+The accompanying Consolidated Financial Statements include the accounts of Berkshire consolidated with the
+accounts of all subsidiaries and affiliates in which we hold a controlling financial interest as of the financial statement
+date. Normally a controlling financial interest reflects ownership of a majority of the voting interests. We consolidate
+variable interest entities (“VIE”) when we possess both the power to direct the activities of the VIE that most
+significantly affect its economic performance, and we (a) are obligated to absorb the losses that could be significant to
+the VIE or (b) hold the right to receive benefits from the VIE that could be significant to the VIE. Intercompany
+accounts and transactions have been eliminated.
+(b)
+Use of estimates in preparation of financial statements
+We prepare our Consolidated Financial Statements in conformity with accounting principles generally accepted
+in the United States (“GAAP”) which requires us to make estimates and assumptions that affect the reported amounts
+of assets and liabilities at the balance sheet date and the reported amounts of revenues and expenses during the period.
+Our estimates of unpaid losses and loss adjustment expenses are subject to considerable estimation error due to the
+inherent uncertainty in projecting ultimate claim costs. In addition, estimates and assumptions associated with the
+amortization of deferred charges on retroactive reinsurance contracts, determinations of fair values of certain financial
+instruments and evaluations of goodwill and identifiable intangible assets for impairment require considerable
+judgment. Actual results may differ from the estimates used in preparing our Consolidated Financial Statements.
+The novel coronavirus (“COVID-19”) spread rapidly across the world in 2020 and was declared a pandemic by
+the World Health Organization. The government and private sector responses to contain its spread began to
+significantly affect our operating businesses in March. COVID-19 has since adversely affected nearly all of our
+operations, although the effects are varying significantly. The duration and extent of the effects over longer terms
+cannot be reasonably estimated at this time. The risks and uncertainties resulting from the pandemic that may affect our
+future earnings, cash flows and financial condition include the time necessary to distribute safe and effective vaccines
+and to vaccinate a significant number of people in the U.S. and throughout the world as well as the long-term effect
+from the pandemic on the demand for certain of our products and services. Accordingly, significant estimates used in
+the preparation of our financial statements including those associated with evaluations of certain long-lived assets,
+goodwill and other intangible assets for impairment, expected credit losses on amounts owed to us and the estimations
+of certain losses assumed under insurance and reinsurance contracts may be subject to significant adjustments in future
+periods.
+(c)
+Cash and cash equivalents and short-term investments in U.S. Treasury Bills
+Cash equivalents consist of demand deposit and money market accounts and investments (including U.S.
+Treasury Bills) with maturities of three months or less when purchased. Short-term investments in U.S. Treasury Bills
+consist of U.S. Treasury Bills with maturities exceeding three months at the time of purchase and are stated at
+amortized cost, which approximates fair value.
+K-75
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(d)
+Investments in fixed maturity securities
+We classify investments in fixed maturity securities on the acquisition date and at each balance sheet date.
+Securities classified as held-to-maturity are carried at amortized cost, reflecting the ability and intent to hold the
+securities to maturity. Securities classified as trading are acquired with the intent to sell in the near term and are carried
+at fair value with changes in fair value reported in earnings. All other securities are classified as available-for-sale and
+are carried at fair value. Substantially all of these investments are classified as available-for-sale. We amortize the
+difference between the original cost and maturity value of a fixed maturity security to earnings using the interest
+method.
+We record investment gains and losses on available-for-sale fixed maturity securities when the securities are
+sold, as determined on a specific identification basis. For securities in an unrealized loss position, we recognize a loss
+in earnings for the excess of amortized cost over fair value if we intend to sell before the price recovers. Otherwise, we
+evaluate as of the balance sheet date whether the unrealized losses are attributable to credit losses or other factors. We
+consider the severity of the decline in value, creditworthiness of the issuer and other relevant factors. We record an
+allowance for credit losses, limited to the excess of amortized cost over fair value, along with a corresponding charge
+to earnings if the present value of estimated cash flows is less than the present value of contractual cash flows. The
+allowance may be subsequently increased or decreased based on the prevailing facts and circumstances. The portion of
+the unrealized loss that we believe is not related to a credit loss is recognized in other comprehensive income.
+(e)
+Investments in equity securities
+We carry substantially all investments in equity securities at fair value and record the subsequent changes in fair
+values in the Consolidated Statements of Earnings as a component of investment gains/losses.
+(f)
+Investments under the equity method
+We utilize the equity method to account for investments when we possess the ability to exercise significant
+influence, but not control, over the operating and financial policies of the investee. The ability to exercise significant
+influence is presumed when the investor possesses more than 20% of the voting interests of the investee. This
+presumption may be overcome based on specific facts and circumstances that demonstrate that the ability to exercise
+significant influence is restricted. We apply the equity method to investments in common stock and to other
+investments when such other investments possess substantially identical subordinated interests to common stock.
+In applying the equity method, we record the investment at cost and subsequently increase or decrease the
+carrying amount of the investment by our proportionate share of the net earnings or losses and other comprehensive
+income of the investee. We record dividends or other equity distributions as reductions in the carrying value of the
+investment. In the event that net losses of the investee reduce the carrying amount to zero, additional net losses may be
+recorded if other investments in the investee are at-risk, even if we have not committed to provide financial support to
+the investee. Such additional equity method losses, if any, are based upon the change in our claim on the investee’s
+book value.
+(g)
+Receivables
+Receivables primarily consist of balances due from customers, insurance premiums receivable and reinsurance
+losses recoverable. Trade receivables, insurance premium receivables and other receivables are primarily short-term in
+nature with stated collection terms of less than one year from the date of origination. Reinsurance recoverables are
+comprised of amounts ceded under reinsurance contracts or pursuant to mandatory government-sponsored insurance
+programs. Reinsurance recoverables relate to claims for unpaid losses and loss adjustment expenses arising from
+property and casualty contracts and claim benefits under life and health insurance contracts. Receivables are stated net
+of estimated allowances for uncollectible balances. Prior to 2020, we recorded provisions for uncollectible balances
+when it was probable counterparties or customers would be unable to pay all amounts due based on the contractual
+terms and historical loss history.
+As of January 1, 2020, we adopted a new accounting pronouncement that affects the measurement of allowances
+for credit losses. See Note 1(w). In measuring credit loss allowances, we primarily utilize credit loss history, with
+adjustments to reflect current or expected future economic conditions when reasonable and supportable forecasts of
+losses deviate from historical experience. In evaluating expected credit losses of reinsurance recoverable on unpaid
+losses, we review the credit quality of the counterparty and consider right-of-offset provisions within reinsurance
+contracts and other forms of credit enhancement including, collateral, guarantees and other available information. We
+charge-off receivables against the allowances after all reasonable collection efforts are exhausted.
+K-76
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(h)
+Loans and finance receivables
+Loans and finance receivables are primarily manufactured home loans, and to lesser extent, commercial loans
+and site-built home loans. We carry substantially all of these loans at amortized cost, net of allowances for expected
+credit losses, based on our ability and intent to hold such loans to maturity. Acquisition costs and loan origination and
+commitment costs paid or fees received along with acquisition premiums or discounts are amortized as yield
+adjustments over the lives of the loans.
+Prior to 2020, credit losses were measured when non-collection was considered probable based on the prevailing
+facts and circumstances. Beginning in 2020, measurements of expected credit losses include provisions for noncollection, whether the risk is probable or remote. Expected credit losses on manufactured housing installment loans
+are based on the net present value of future principal payments less estimated expenses related to the charge-off and
+foreclosure of expected uncollectible loans and include provisions for loans that are not in foreclosure. Our principal
+credit quality indicator is whether the loans are performing. Expected credit loss estimates consider historical default
+rates, collateral recovery rates, historical runoff rates, interest rates, reductions of future cash flows for modified loans
+and the historical time elapsed from last payment until foreclosure, among other factors. In addition, our estimates
+consider current conditions and reasonable and supportable forecasts.
+Loans are considered delinquent when payments are more than 30 days past due. We place loans over 90 days
+past due on nonaccrual status and accrued but uncollected interest is reversed. Subsequent collections on the loans are
+first applied to the principal and interest owed for the most delinquent amount. We resume interest income accrual
+once a loan is less than 90 days delinquent.
+Loans are considered non-performing when the foreclosure process has started. Once a loan is in the process of
+foreclosure, interest income is not recognized unless the foreclosure is cured or the loan is modified. Once a
+modification is complete, interest income is recognized based on the terms of the new loan. Foreclosed loans are
+charged off when the collateral is sold. Loans not in foreclosure are evaluated for charge-off based on individual
+circumstances concerning the future collectability of the loan and the condition of the collateral securing the loan.
+(i)
+Derivatives
+We carry derivative contracts in our Consolidated Balance Sheets at fair value, net of reductions permitted under
+master netting agreements with counterparties. We record the changes in fair value of derivative contracts that do not
+qualify as hedging instruments for financial reporting purposes in earnings or, if such contracts involve our regulated
+utilities subsidiaries, as regulatory assets or liabilities when inclusion in regulated rates is probable.
+(j)
+Fair value measurements
+As defined under GAAP, fair value is the price that would be received to sell an asset or paid to transfer a
+liability between market participants in the principal market or in the most advantageous market when no principal
+market exists. Adjustments to transaction prices or quoted market prices may be required in illiquid or disorderly
+markets in estimating fair value. Alternative valuation techniques may be appropriate under the circumstances to
+determine the value that would be received to sell an asset or paid to transfer a liability in an orderly transaction.
+Market participants are assumed to be independent, knowledgeable, and able and willing to transact an exchange and
+not acting under duress. Our nonperformance or credit risk is considered in determining the fair value of liabilities.
+Considerable judgment may be required in interpreting market data used to develop the estimates of fair value.
+Accordingly, estimates of fair value presented herein are not necessarily indicative of the amounts that could be
+realized in a current or future market exchange.
+(k)
+Inventories
+Inventories consist of manufactured goods, goods or products acquired for resale and homes constructed for sale.
+Manufactured inventory costs include materials, direct and indirect labor and factory overhead. At December 31, 2020,
+we used the last-in-first-out (“LIFO”) method to value approximately 35% of consolidated inventories with the
+remainder primarily determined under first-in-first-out and average cost methods. Non-LIFO inventories are stated at
+the lower of cost or net realizable value. The excess of current or replacement costs over costs determined under LIFO
+was approximately $1.1 billion as of December 31, 2020 and $950 million as of December 31, 2019.
+K-77
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(l)
+Property, plant and equipment
+We record additions to property, plant and equipment used in operations at cost, which includes asset additions,
+improvements and betterments. With respect to constructed assets, all materials, direct labor and contract services as
+well as certain indirect costs are capitalized. Indirect costs include interest over the construction period. With respect to
+constructed assets of our utility and energy subsidiaries that are subject to authoritative guidance for regulated
+operations, capitalized costs also include an allowance for funds used during construction, which represents the cost of
+equity funds used to finance the construction of the regulated facilities. Normal repairs and maintenance and other
+costs that do not improve the property, extend useful lives or otherwise do not meet capitalization criteria are charged
+to expense as incurred.
+Depreciation of assets of our regulated utilities and railroad is generally determined using group depreciation
+methods where rates are based on periodic depreciation studies approved by the applicable regulator. Under group
+depreciation, a composite rate is applied to the gross investment in a particular class of property, despite differences in
+the service life or salvage value of individual property units within the same class. When such assets are retired or sold,
+no gain or loss is recognized. Gains or losses on disposals of all other assets are recorded through earnings.
+We depreciate property, plant and equipment used by our other businesses to estimated salvage value primarily
+using the straight-line method over estimated useful lives. Ranges of estimated useful lives of depreciable assets used
+in our other businesses are as follows: buildings and improvements – 5 to 50 years, machinery and equipment – 3 to 25
+years and furniture, fixtures and other – 3 to 15 years. Ranges of estimated useful lives of depreciable assets unique to
+our railroad business are as follows: track structure and other roadway – 10 to 100 years and locomotives, freight cars
+and other equipment – 6 to 43 years. Ranges of estimated useful lives of assets unique to our regulated utilities and
+energy businesses are as follows: utility generation, transmission and distribution systems – 5 to 80 years, interstate
+natural gas pipeline assets – 3 to 80 years and independent power plants and other assets – 3 to 40 years.
+We evaluate property, plant and equipment for impairment when events or changes in circumstances indicate
+that the carrying value of such assets may not be recoverable or when the assets are held for sale. Upon the occurrence
+of a triggering event, we assess whether the estimated undiscounted cash flows expected from the use of the asset and
+the residual value from the ultimate disposal of the asset exceeds the carrying value. If the carrying value exceeds the
+estimated recoverable amounts, we reduce the carrying value to fair value and record an impairment loss in earnings,
+except with respect to impairment of assets of our regulated utility and energy subsidiaries where the impacts of
+regulation are considered in evaluating the carrying value.
+(m)
+Leases
+We are party to contracts where we lease property to others (“lessor” contracts) and where we lease property
+from others (“lessee” contracts). We record acquisitions of and additions to equipment that we lease to others at cost.
+We depreciate equipment held for lease to estimated salvage value primarily using the straight-line method over
+estimated useful lives ranging from 3 to 35 years. We use declining balance deprecation methods for assets when the
+revenue-earning power of the asset is relatively greater during the earlier years of its life and maintenance and repair
+costs increase during the later years. We also evaluate equipment held for lease for impairment consistent with policies
+for property, plant and equipment.
+When we lease assets from others, we record right-of-use assets and lease liabilities. Right-of-use assets
+represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make
+lease payments arising from the lease. In this regard, lease payments include fixed payments and variable payments
+that depend on an index or rate. The lease term is generally the non-cancellable lease period. Certain lease contracts
+contain renewal options or other terms that provide for variable payments based on performance or usage. Options are
+not included in determining right-of-use assets or lease liabilities unless it is reasonably certain that options will be
+exercised. Generally, incremental borrowing rates are used in measuring lease liabilities. Right-of-use assets are
+subject to review for impairment.
+K-78
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(n)
+Goodwill and other intangible assets
+Goodwill represents the excess of the acquisition price of a business over the fair value of identified net assets of
+that business. We evaluate goodwill for impairment at least annually. When evaluating goodwill for impairment, we
+estimate the fair value of the reporting unit. Several methods may be used to estimate a reporting unit’s fair value,
+including market quotations, asset and liability fair values and other valuation techniques, including, but not limited to,
+discounted projected future net earnings or net cash flows and multiples of earnings. If the carrying amount of a
+reporting unit, including goodwill, exceeds the estimated fair value, then the excess is charged to earnings as an
+impairment loss.
+Intangible assets with indefinite lives are also tested for impairment at least annually and when events or changes
+in circumstances indicate that, more-likely-than-not, the asset is impaired. Significant judgment is required in
+estimating fair values and performing goodwill and indefinite-life intangible asset impairment tests. We amortize
+intangible assets with finite lives in a pattern that reflects the expected consumption of related economic benefits or on
+a straight-line basis over the estimated economic useful lives. Intangible assets with finite lives are reviewed for
+impairment when events or changes in circumstances indicate that the carrying amount may not be recoverable.
+(o)
+Revenue recognition
+We earn insurance premiums on prospective property/casualty insurance and reinsurance contracts over the loss
+exposure or coverage period in proportion to the level of protection provided. In most cases, such premiums are earned
+ratably over the term of the contract with unearned premiums computed on a monthly or daily pro-rata basis. Premiums
+on retroactive property/casualty reinsurance contracts are earned at the inception of the contracts, as all underlying loss
+events covered by the policies occurred prior to contract inception. Premiums for life reinsurance and annuity contracts
+are earned when due. Premiums earned are stated net of amounts ceded to reinsurers. Premiums earned on contracts
+with experience-rating provisions reflect estimated loss experience under such contracts.
+Sales and service revenues are recognized when goods or services are transferred to a customer. A good or
+service is transferred when (or as) the customer obtains control of that good or service. Revenues are based on the
+consideration we expect to receive in connection with our promises to deliver goods and services to our customers.
+We manufacture and/or distribute a wide variety of industrial, building and consumer products. Our sales
+contracts provide customers with these products through wholesale and retail channels in exchange for consideration
+specified under the contracts. Contracts generally represent customer orders for individual products at stated prices.
+Sales contracts may contain either single or multiple performance obligations. In instances where contracts contain
+multiple performance obligations, we allocate the revenue to each obligation based on the relative stand-alone selling
+prices of each product or service.
+Sales revenue reflects reductions for returns, allowances, volume discounts and other incentives, some of which
+may be contingent on future events. In certain customer contracts, sales revenue includes certain state and local excise
+taxes billed to customers on specified products when those taxes are levied directly upon us by the taxing authorities.
+Sales revenue excludes sales taxes and value-added taxes collected on behalf of taxing authorities. Sales revenue
+includes consideration for shipping and other fulfillment activities performed prior to the customer obtaining control of
+the goods. We also elect to treat consideration for such services performed after control has passed to the customer as
+sales revenue.
+Our product sales revenues are generally recognized at a point in time when control of the product transfers to
+the customer, which coincides with customer pickup or product delivery or acceptance, depending on terms of the
+arrangement. We recognize sales revenues and related costs with respect to certain contracts over time, primarily from
+certain castings, forgings and aerostructures contracts. Control of the product units under these contracts transfers
+continuously to the customer as the product is manufactured. These products generally have no alternative use and the
+contract requires the customer to provide reasonable compensation if terminated for reasons other than breach of
+contract.
+K-79
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(o)
+Revenue recognition (Continued)
+Our energy revenue derives primarily from tariff-based sales arrangements approved by various regulatory
+commissions. These tariff-based revenues are mainly comprised of energy, transmission, distribution and natural gas
+and have performance obligations to deliver energy products and services to customers which are satisfied over time as
+energy is delivered or services are provided. Our nonregulated energy revenue primarily relates to our renewable
+energy business. Energy revenues are equivalent to the amounts we have the right to invoice and correspond directly
+with the value to the customer of the performance to date and include billed and unbilled amounts. Payments from
+customers are generally due within 30 days of billing. Rates charged for energy products and services are established
+by regulators or contractual arrangements that establish the transaction price, as well as the allocation of price among
+the separate performance obligations. When preliminary regulated rates are permitted to be billed prior to final
+approval by the applicable regulator, certain revenue collected may be subject to refund and a liability for estimated
+refunds is accrued.
+The primary performance obligation under our freight rail transportation service contracts is to move freight
+from a point of origin to a point of destination. The performance obligations are represented by bills of lading which
+create a series of distinct services that have a similar pattern of transfer to the customer. The revenues for each
+performance obligation are based on various factors including the product being shipped, the origin and destination
+pair and contract incentives, which are outlined in various private rate agreements, common carrier public tariffs,
+interline foreign road agreements and pricing quotes. The transaction price is generally a per car/unit amount to
+transport railcars from a specified origin to a specified destination. Freight revenues are recognized over time as the
+service is performed because the customer simultaneously receives and consumes the benefits of the service. Revenues
+recognized represent the proportion of the service completed as of the balance sheet date. Invoices for freight
+transportation services are generally issued to customers and paid within 30 days or less. Customer incentives, which
+are primarily provided for shipping a specified cumulative volume or shipping to/from specific locations, are recorded
+as a reduction to revenue on a pro-rata basis based on actual or projected future customer shipments.
+Other service revenues derive from contracts with customers in which performance obligations are satisfied over
+time, where customers receive and consume benefits as we perform the services, or at a point in time when the services
+are provided. Other service revenues primarily derive from real estate brokerage, automotive repair, aircraft
+management, aviation training and franchising and news distribution services.
+Leasing revenue is generally recognized ratably over the term of the lease or based on usage, if applicable under
+the terms of the contract. A substantial portion of our leases are classified as operating leases.
+(p)
+Losses and loss adjustment expenses
+We record liabilities for unpaid losses and loss adjustment expenses under property/casualty insurance and
+reinsurance contracts for loss events that have occurred on or before the balance sheet date. Such liabilities represent
+the estimated ultimate payment amounts without discounting for time value.
+We base liability estimates on (1) loss reports from policyholders and cedents, (2) individual case estimates and
+(3) estimates of incurred but not reported losses. Losses and loss adjustment expenses in the Consolidated Statements
+of Earnings include paid claims, claim settlement costs and changes in estimated claim liabilities. Losses and loss
+adjustment expenses charged to earnings are net of amounts recovered and estimates of amounts recoverable under
+ceded reinsurance contracts. Reinsurance contracts do not relieve the ceding company of its obligations to indemnify
+policyholders with respect to the underlying insurance and reinsurance contracts.
+(q)
+Retroactive reinsurance contracts
+We record liabilities for unpaid losses and loss adjustment expenses under short duration retroactive reinsurance
+contracts consistent with other short duration property/casualty insurance and reinsurance contracts described in Note
+1(p). With respect to retroactive reinsurance contracts, we also record deferred charge assets at the inception of the
+contracts, representing the excess, if any, of the estimated ultimate claim liabilities over the premiums earned. We
+subsequently amortize the deferred charge assets over the expected claim settlement periods using the interest method.
+Changes to the estimated timing or amount of future loss payments also produce changes in deferred charge balances.
+We apply changes in such estimates retrospectively and the resulting changes in deferred charge balances, together
+with periodic amortization, are included in insurance losses and loss adjustment expenses in the Consolidated
+Statements of Earnings.
+K-80
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(r)
+Insurance policy acquisition costs
+We capitalize the incremental costs that directly relate to the successful sale of insurance contracts, subject to
+ultimate recoverability, and we subsequently amortize such costs to underwriting expenses as the related premiums are
+earned. Direct incremental acquisition costs include commissions, premium taxes and certain other costs associated
+with successful efforts. We expense all other underwriting costs as incurred. The recoverability of capitalized insurance
+policy acquisition costs generally reflects anticipation of investment income. The unamortized balances are included in
+other assets and were approximately $3.25 billion and $2.95 billion at December 31, 2020 and 2019, respectively.
+(s)
+Life and annuity insurance benefits
+We compute liabilities for insurance benefits under life contracts based upon estimated future investment yields,
+expected mortality, morbidity and lapse or withdrawal rates, as well as estimates of premiums we expect to receive and
+expenses we expect to incur in the future. These assumptions, as applicable, also include a margin for adverse
+deviation and may vary with the characteristics of the contract’s date of issuance, policy duration and country of risk.
+The interest rate assumptions used may vary by contract or jurisdiction. We discount periodic payment annuity
+liabilities based on the implicit rate as of the inception of the contracts such that the present value of the liabilities
+equals the premiums. Discount rates for most contracts range from 3% to 7%.
+(t)
+Regulated utilities and energy businesses
+Certain energy subsidiaries prepare their financial statements in accordance with authoritative guidance for
+regulated operations, reflecting the economic effects of regulation from the ability to recover certain costs from
+customers and the requirement to return revenues to customers in the future through the regulated rate-setting process.
+Accordingly, certain costs are deferred as regulatory assets and certain income is accrued as regulatory liabilities.
+Regulatory assets and liabilities will be amortized into operating expenses and revenues over various future periods.
+Regulatory assets and liabilities are continually assessed for probable future inclusion in regulatory rates by
+considering factors such as applicable regulatory or legislative changes and recent rate orders received by other
+regulated entities. If future inclusion in regulatory rates ceases to be probable, the amount no longer probable of
+inclusion in regulatory rates is charged or credited to earnings (or other comprehensive income, if applicable) or
+returned to customers.
+(u)
+Foreign currency
+The accounts of our non-U.S. based subsidiaries are measured, in most instances, using functional currencies
+other than the U.S. Dollar. Revenues and expenses in the financial statements of these subsidiaries are translated into
+U.S. Dollars at the average exchange rate for the period and assets and liabilities are translated at the exchange rate as
+of the end of the reporting period. The net effects of translating the financial statements of these subsidiaries are
+included in shareholders’ equity as a component of accumulated other comprehensive income. Gains and losses arising
+from transactions denominated in a currency other than the functional currency of the reporting entity, including gains
+and losses from the remeasurement of assets and liabilities due to changes in currency exchange rates, are included in
+earnings.
+(v)
+Income taxes
+Berkshire files a consolidated federal income tax return in the United States, which includes eligible subsidiaries.
+In addition, we file income tax returns in state, local and foreign jurisdictions as applicable. Provisions for current
+income tax liabilities are calculated and accrued on income and expense amounts expected to be included in the income
+tax returns for the current year. Income taxes reported in earnings also include deferred income tax provisions.
+Deferred income tax assets and liabilities are computed on differences between the financial statement bases and
+tax bases of assets and liabilities at the enacted tax rates. Changes in deferred income tax assets and liabilities
+associated with components of other comprehensive income are charged or credited directly to other comprehensive
+income. Otherwise, changes in deferred income tax assets and liabilities are included as a component of income tax
+expense. The effect on deferred income tax assets and liabilities attributable to changes in enacted tax rates are charged
+or credited to income tax expense in the period of enactment. Valuation allowances are established for certain deferred
+tax assets when realization is not likely.
+K-81
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(v)
+Income taxes (Continued)
+Assets and liabilities are established for uncertain tax positions taken or positions expected to be taken in income
+tax returns when such positions, in our judgment, do not meet a more-likely-than-not threshold based on the technical
+merits of the positions. Estimated interest and penalties related to uncertain tax positions are included as a component
+of income tax expense.
+(w)
+New accounting pronouncements adopted in 2020
+We adopted Accounting Standards Codification (“ASC”) 326 “Financial Instruments-Credit Losses” on January
+1, 2020. ASC 326 provides for the measurement of expected credit losses on financial assets that are carried at
+amortized cost based on the net amounts expected to be collected. Measurements of expected credit losses therefore
+include provisions for non-collection, whether the risk is probable or remote. Prior to the adoption of ASC 326, credit
+losses were measured when non-collection was considered probable based on the prevailing facts and circumstances.
+We do not measure an allowance for expected credit losses on accrued interest and instead, as permitted, we elected to
+reverse uncollectible accrued interest through interest income on a timely basis. Upon adoption of ASC 326, we
+recorded a charge to retained earnings of $388 million representing the cumulative after-tax increase in our allowances
+for credit losses, which was primarily related to our manufactured housing loans.
+(x)
+New accounting pronouncements adopted in 2019
+Berkshire adopted ASC 842 “Leases” on January 1, 2019. Most significantly, ASC 842 requires a lessee to
+recognize a liability to make operating lease payments and an asset with respect to its right to use the underlying asset
+for the lease term. In adopting and applying ASC 842, we elected to use practical expedients, including but not limited
+to, not reassessing past lease and easement accounting, not separating lease components from non-lease components by
+class of asset and not recording assets or liabilities for leases with terms of one year or less. We adopted ASC 842 as of
+January 1, 2019 with respect to contracts in effect as of that date and elected to not restate prior period financial
+statements.
+Upon the adoption of ASC 842, we recognized operating lease right-of-use assets of approximately $6.2 billion
+and lease liabilities of $5.9 billion. We also reduced other assets by approximately $300 million. Consequently, our
+consolidated assets and liabilities increased by approximately $5.9 billion. ASC 842 did not have a material effect on
+our accounting for our lessor contracts or for lessee contracts classified as financing leases.
+(y)
+New accounting pronouncements adopted in 2018
+On January 1, 2018, we adopted Accounting Standards Update (“ASU”) 2016-01 “Financial Instruments—
+Recognition and Measurement of Financial Assets and Financial Liabilities,” ASU 2018-02 “Reclassification of
+Certain Tax Effects from Accumulated Other Comprehensive Income” and ASC 606 “Revenues from Contracts with
+Customers.” Prior year financial statements were not restated. A summary of the effects of the initial adoption of ASU
+2016-01, ASU 2018-02 and ASC 606 on our shareholders’ equity follows (in millions).
+ASU 2016-01
+Increase (decrease):
+Accumulated other comprehensive income
+Retained earnings
+Shareholders’ equity
+$
+ASU 2018-02
+(61,459) $
+61,459
+—
+84 $
+(84)
+—
+ASC 606
+— $
+(70)
+(70)
+Total
+(61,375)
+61,305
+(70)
+In adopting ASU 2016-01, as of January 1, 2018, we reclassified the net after-tax unrealized gains on equity
+securities from accumulated other comprehensive income to retained earnings. Thereafter, the unrealized gains and
+losses from the changes during the period in the fair values of our equity securities are included within investment
+gains/losses in the Consolidated Statements of Earnings. In adopting ASU 2018-02, we reclassified certain deferred
+income tax effects as of January 1, 2018 attributable to the reduction in the U.S. statutory income tax rate under the
+Tax Cuts and Jobs Act of 2017 from accumulated other comprehensive income to retained earnings. In adopting ASC
+606, we recorded increases to certain assets and other liabilities, with the cumulative net effect recorded to retained
+earnings.
+K-82
+Notes to Consolidated Financial Statements (Continued)
+(1)
+Significant accounting policies and practices (Continued)
+(z)
+New accounting pronouncements to be adopted subsequent to December 31, 2020
+In August 2018, the FASB issued ASU 2018-12 “Targeted Improvements to the Accounting for Long-Duration
+Contracts.” ASU 2018-12 requires periodic reassessment of actuarial and discount rate assumptions used to value
+policyholder liabilities and deferred acquisition costs of long-duration insurance and reinsurance contracts, with the
+effects of changes in cash flow assumptions reflected in earnings and the effects of changes in discount rate
+assumptions reflected in other comprehensive income. Under current GAAP, the actuarial and discount rate
+assumptions are set at the contract inception date and not subsequently changed, except under limited circumstances.
+ASU 2018-12 requires new disclosures and is effective for fiscal years beginning after December 15, 2022, with early
+adoption permitted. We are evaluating the effect this standard will have on our Consolidated Financial Statements.
+(2)
+Business acquisitions
+Our long-held acquisition strategy is to acquire businesses that have consistent earning power, good returns on equity
+and able and honest management. Financial results attributable to business acquisitions are included in our Consolidated
+Financial Statements beginning on their respective acquisition dates.
+In July 2020, Berkshire Hathaway Energy (“BHE”) reached a definitive agreement with Dominion Energy, Inc.
+(“Dominion”) to acquire substantially all of Dominion’s natural gas transmission and storage business. On October 5, 2020,
+BHE and Dominion also agreed, as permitted under the acquisition agreement, to provide for the acquisition of all originally
+agreed upon businesses, except for certain pipeline assets (the “Excluded Assets”) and entered into a second acquisition
+agreement with respect to the Excluded Assets. The acquisition of the Dominion businesses, other than the Excluded Assets,
+was completed on November 1, 2020 and included more than 5,400 miles of natural gas transmission, gathering and storage
+pipelines, about 420 billion cubic feet of operated natural gas storage capacity and partial ownership of a liquefied natural gas
+export, import and storage facility (“Cove Point”). Under the terms of the second acquisition agreement, BHE agreed to
+acquire the Excluded Assets for approximately $1.3 billion in cash. The closing of this second acquisition is subject to
+receiving necessary regulatory approvals and other customary closing conditions and is expected to occur during the first half
+of 2021.
+The cost of the acquisition completed on November 1, 2020, was approximately $2.5 billion after post-closing
+adjustments as provided in the agreement. The preliminary fair values of identified assets acquired and liabilities assumed
+and residual goodwill are summarized as follows (in millions).
+Property, plant and equipment
+Goodwill
+Other
+Assets acquired
+$
+Notes payable and other borrowings
+Other
+Liabilities assumed
+Noncontrolling interests
+Net assets
+$
+$
+$
+9,254
+1,732
+2,376
+13,362
+5,615
+1,317
+6,932
+3,916
+2,514
+As part of this acquisition, BHE acquired an indirect 25% economic interest in Cove Point, consisting of 100% of the
+general partnership interest and 25% of the limited partnership interests. We concluded that Cove Point is a VIE and that we
+have the power to direct the activities that most significantly impact its economic performance as well as the obligation to
+absorb losses and receive benefits which could be significant to Cove Point. Therefore, we treat Cove Point as a consolidated
+subsidiary. The noncontrolling interests in the preceding table is attributable to the limited partner interests held by third
+parties.
+On October 1, 2018, we acquired MLMIC Insurance Company (“MLMIC”), a writer of medical professional liability
+insurance domiciled in New York. The acquisition price was approximately $2.5 billion. As of the acquisition date, the fair
+value of MLMIC’s assets was approximately $6.1 billion, primarily investments ($5.2 billion), and the fair value of its
+liabilities was approximately $3.6 billion, primarily unpaid losses and loss adjustment expenses ($3.2 billion).
+K-83
+Notes to Consolidated Financial Statements (Continued)
+(2)
+Business acquisitions (Continued)
+In each of the past three years, we also completed several smaller-sized business acquisitions, which we consider as
+“bolt-ons” to several of our existing business operations. Aggregate consideration paid for bolt-on acquisitions, net of cash
+acquired was approximately $130 million in 2020, $1.7 billion in 2019 and $1.0 billion in 2018. We do not believe that these
+acquisitions are material, individually or in the aggregate to our Consolidated Financial Statements.
+(3)
+Investments in fixed maturity securities
+Investments in fixed maturity securities as of December 31, 2020 and 2019 are summarized by type below (in
+millions).
+Amortized
+Cost
+December 31, 2020
+U.S. Treasury, U.S. government corporations and agencies $
+Foreign governments
+Corporate bonds
+Other
+$
+December 31, 2019
+U.S. Treasury, U.S. government corporations and agencies $
+Foreign governments
+Corporate bonds
+Other
+$
+Unrealized
+Gains
+3,348
+11,233
+4,729
+414
+19,724
+$
+3,054
+8,584
+5,896
+539
+18,073
+$
+$
+$
+Unrealized
+Losses
+55
+110
+464
+66
+695
+$
+37
+63
+459
+67
+626
+$
+$
+$
+Fair
+Value
+— $
+(5)
+(2)
+(2)
+(9) $
+3,403
+11,338
+5,191
+478
+20,410
+(1) $
+(9)
+(3)
+(1)
+(14) $
+3,090
+8,638
+6,352
+605
+18,685
+Investments in foreign governments include securities issued by national and provincial government entities as well as
+instruments that are unconditionally guaranteed by such entities. As of December 31, 2020, approximately 88% of our
+foreign government holdings were rated AA or higher by at least one of the major rating agencies.
+The amortized cost and estimated fair value of fixed maturity securities at December 31, 2020 are summarized below
+by contractual maturity dates. Amounts are in millions. Actual maturities may differ from contractual maturities due to early
+call or prepayment rights held by issuers.
+Due in one
+year or less
+Amortized cost
+Fair value
+$ 10,379
+10,448
+Due after one
+year through
+five years
+Due after five
+years through
+ten years
+$
+$
+8,323
+8,456
+K-84
+373
+496
+Mortgagebacked
+securities
+Due after
+ten years
+$
+337
+640
+$
+312
+370
+Total
+$ 19,724
+20,410
+Notes to Consolidated Financial Statements (Continued)
+(4)
+Investments in equity securities
+Investments in equity securities as of December 31, 2020 and 2019 are summarized based on the primary industry of
+the investee in the table below (in millions).
+Net
+Unrealized
+Gains
+Cost
+Basis
+December 31, 2020 *
+Banks, insurance and finance
+Consumer products
+Commercial, industrial and other
+$
+$
+*
+26,312
+34,747
+47,561
+108,620
+$
+$
+$
+$
+66,479
+146,330
+68,361
+281,170
+Approximately 68% of the aggregate fair value was concentrated in four companies (American Express Company –
+$18.3 billion; Apple Inc. – $120.4 billion; Bank of America Corporation – $31.3 billion and The Coca-Cola Company
+– $21.9 billion).
+Net
+Unrealized
+Gains
+Cost
+Basis
+December 31, 2019 *
+Banks, insurance and finance
+Consumer products
+Commercial, industrial and other
+$
+$
+*
+40,167
+111,583
+20,800
+172,550
+Fair
+Value
+40,419
+38,887
+31,034
+110,340
+$
+$
+61,976
+60,747
+14,964
+137,687
+Fair
+Value
+$
+$
+102,395
+99,634
+45,998
+248,027
+Approximately 60% of the aggregate fair value was concentrated in four companies (American Express Company –
+$18.9 billion; Apple Inc. – $73.7 billion; Bank of America Corporation – $33.4 billion and The Coca-Cola Company –
+$22.1 billion).
+On August 8, 2019, Berkshire invested a total of $10 billion in Occidental Corporation (“Occidental”) newly issued
+Occidental Cumulative Perpetual Preferred Stock with an aggregate liquidation value of $10 billion and warrants to purchase
+up to 80 million shares of Occidental common stock at an exercise price of $62.50 per share. In accordance with the terms of
+the warrants, on August 3, 2020, the number of shares of common stock that can be purchased was increased to 83.86 million
+shares and the exercise price was reduced to $59.62 per share. The preferred stock accrues dividends at 8% per annum and is
+redeemable at the option of Occidental commencing in 2029 at a redemption price equal to 105% of the liquidation
+preference plus any accumulated and unpaid dividends, or is mandatorily redeemable under certain specified capital return
+events. Dividends on the preferred stock may be paid in cash or, at Occidental’s option, in shares of Occidental common
+stock. The warrants are exercisable in whole or in part until one year after the redemption of the preferred stock. Our
+investments in Occidental are included in the commercial, industrial and other category in the preceding tables.
+(5)
+Equity method investments
+Berkshire and its subsidiaries hold investments in certain businesses that are accounted for pursuant to the equity
+method. Currently, the most significant of these is our investment in the common stock of The Kraft Heinz Company (“Kraft
+Heinz”). Kraft Heinz is one of the world’s largest manufacturers and marketers of food and beverage products, including
+condiments and sauces, cheese and dairy, meals, meats, refreshment beverages, coffee and other grocery products. Berkshire
+currently owns 325,442,152 shares of Kraft Heinz common stock representing 26.6% of the outstanding shares.
+K-85
+Notes to Consolidated Financial Statements (Continued)
+(5)
+Equity method investments (Continued)
+We recorded equity method earnings from our investment in Kraft Heinz of $95 million in 2020, $493 million in 2019
+and losses of approximately $2.7 billion in 2018. Equity method earnings (losses) included the effects of goodwill and
+identifiable intangible asset impairment charges recorded by Kraft Heinz. Our share of such charges was approximately $850
+million in 2020, $450 million in 2019 and $3.7 billion in 2018. We received dividends from Kraft Heinz of $521 million in
+each of 2020 and 2019 and $814 million in 2018, which we recorded as reductions in our carrying value.
+Shares of Kraft Heinz common stock are publicly-traded and the fair value of our investment was approximately $11.3
+billion at December 31, 2020 and $10.5 billion at December 31, 2019. The carrying value of our investment was
+approximately $13.3 billion at December 31, 2020 and $13.8 billion at December 31, 2019. As of December 31, 2020, the
+carrying value of our investment exceeded the fair value based on the quoted market price by $2.0 billion (15% of carrying
+value). In light of this fact, we evaluated our investment in Kraft Heinz for impairment. We utilize no bright-line tests in such
+evaluations. Based on the available facts and information regarding the operating results of Kraft Heinz, our ability and intent
+to hold the investment until recovery, the relative amount of the decline and the length of time that fair value was less than
+carrying value, we concluded that recognition of an impairment loss in earnings was not required. However, we will continue
+to monitor this investment and it is possible that an impairment loss will be recorded in earnings in a future period based on
+changes in facts and circumstances or intentions.
+Summarized financial information of Kraft Heinz follows (in millions).
+December 26,
+2020
+Assets
+Liabilities
+$
+99,830
+49,587
+Year ending
+December 26,
+2020
+Sales
+Net earnings (losses) attributable to Kraft Heinz common shareholders
+$
+$
+26,185
+356
+December 28,
+2019
+$
+101,450
+49,701
+Year ending
+December 28,
+2019
+$
+$
+24,977
+1,935
+Year ending
+December 29,
+2018
+$
+$
+26,268
+(10,192)
+Other investments accounted for pursuant to the equity method include our investments in Berkadia Commercial
+Mortgage LLC (“Berkadia”), Pilot Travel Centers LLC (“Pilot”) and Electric Transmission Texas, LLC (“ETT”). The
+carrying value of our investments in these entities was approximately $4.0 billion as of December 31, 2020 and $3.7 billion
+as of December 31, 2019. Our equity method earnings in these entities were $631 million in 2020, $683 million in 2019 and
+$563 million in 2018. Additional information concerning these investments follows.
+We own a 50% interest in Berkadia, with Jefferies Financial Group Inc. (“Jefferies”) owning the other 50% interest.
+Berkadia is a servicer of commercial real estate loans in the U.S., performing primary, master and special servicing functions
+for U.S. government agency programs, commercial mortgage-backed securities transactions, banks, insurance companies and
+other financial institutions. A source of funding for Berkadia’s operations is through its issuance of commercial paper, which
+is currently limited to $1.5 billion. On December 31, 2020, Berkadia’s commercial paper outstanding was $1.47 billion. The
+commercial paper is supported by a surety policy issued by a Berkshire insurance subsidiary. Jefferies is obligated to
+indemnify us for one-half of any losses incurred under the policy.
+A Berkshire Hathaway Energy Company subsidiary owns a 50% interest in ETT, an owner and operator of electric
+transmission assets in the Electric Reliability Council of Texas footprint. American Electric Power owns the other 50%
+interest.
+On October 3, 2017, we entered into an investment agreement and an equity purchase agreement whereby we acquired
+a 38.6% interest in Pilot, headquartered in Knoxville, Tennessee. Pilot is the largest operator of travel centers in North
+America, supplying more than 11 billion gallons of fuel per year via more than 950 retail locations across 44 U.S. states and
+six Canadian provinces and through wholesale distribution. The Haslam family currently owns a 50.1% interest in Pilot and a
+third party owns the remaining 11.3% interest. We also entered into an agreement to acquire in 2023 an additional 41.4%
+interest in Pilot with the Haslam family retaining a 20% interest. As a result, Berkshire will become the majority owner of
+Pilot in 2023.
+K-86
+Notes to Consolidated Financial Statements (Continued)
+(6)
+Investment gains/losses
+Investment gains/losses for each of the three years ending December 31, 2020 are summarized below (in millions).
+2020
+Equity securities:
+Change in unrealized investment gains/losses during the year on
+securities held at the end of the period
+Investment gains/losses during the year on securities sold
+$
+Fixed maturity securities:
+Gross realized gains
+Gross realized losses
+Other
+$
+2019
+2018
+54,951 $
+(14,036)
+40,915
+69,581
+1,585
+71,166
+$
+(22,729)
+291
+(22,438)
+56
+(27)
+(39)
+40,905 $
+87
+(25)
+(105)
+71,123 $
+480
+(227)
+30
+(22,155)
+Equity securities gains and losses include unrealized gains and losses from changes in fair values during the period on
+equity securities we still own, as well as gains and losses on securities we sold during the period. As reflected in the
+Consolidated Statements of Cash Flows, we received proceeds of approximately $38.8 billion in 2020, $14.3 billion in 2019
+and $18.8 billion in 2018 from sales of equity securities. In the preceding table, investment gains/losses on equity securities
+sold reflect the difference between proceeds from sales and the fair value of the equity security sold at the beginning of the
+period or the purchase date, if later. Our taxable gains on equity securities sold during the year, which are generally the
+difference between the proceeds from sales and our original cost, were $6.2 billion in 2020, $3.2 billion in 2019 and
+$3.3 billion in 2018.
+(7)
+Loans and finance receivables
+Loans and finance receivables are summarized as follows (in millions).
+December 31,
+2020
+Loans and finance receivables before allowances and discounts
+Allowances for uncollectible loans
+Unamortized acquisition discounts and points
+$
+2019
+20,436 $
+(712)
+(523)
+19,201 $
+$
+18,199
+(167)
+(505)
+17,527
+Loans and finance receivables are principally manufactured home loans, and to a lesser extent, commercial loans and
+site-built home loans. Reconciliations of the allowance for credit losses on loans and finance receivables for 2020 and 2019
+follow (in millions).
+2020
+Balance at beginning of year
+Adoption of ASC 326
+Provision for credit losses
+Charge-offs, net of recoveries
+Balance at December 31
+2019
+$
+167 $
+486
+177
+(118)
+712 $
+$
+177
+—
+125
+(135)
+167
+At December 31, 2020, approximately 99% of home loan balances were evaluated collectively for impairment. At
+December 31, 2020, we considered approximately 97% of the loan balances to be current as to payment status. A summary of
+performing and non-performing home loans before discounts and allowances by year of loan origination as of December 31,
+2020 follows (in millions).
+Loans and Financing Receivables by Origination Year
+2020
+Performing
+Non-performing
+Total
+$
+$
+4,430
+3
+4,433
+2019
+$
+$
+2,537
+5
+2,542
+2018
+$
+$
+2017
+1,928
+7
+1,935
+K-87
+$
+$
+1,424
+7
+1,431
+2016
+$
+$
+1,276
+7
+1,283
+Prior
+$
+$
+6,645
+43
+6,688
+Total
+$
+$
+18,240
+72
+18,312
+Notes to Consolidated Financial Statements (Continued)
+(7)
+Loans and finance receivables (Continued)
+We are party to an agreement with Seritage Growth Properties to provide a $2.0 billion term loan facility, which
+expires on July 31, 2023. The outstanding loan under the facility was approximately $1.6 billion at December 31, 2020 and
+2019, and is secured by mortgages on real estate properties. In 2020, we provided a loan to Lee Enterprises, Inc. in
+connection with its acquisition of our newspaper operations and the repayment by Lee of its then outstanding credit facilities.
+The loan balance as of December 31, 2020 was $524 million. We are the sole lender to each of these entities and each of
+these loans is current as to payment status.
+(8)
+Other receivables
+Other receivables of insurance and other businesses are comprised of the following (in millions).
+December 31,
+2020
+Insurance premiums receivable
+Reinsurance recoverables
+Trade receivables
+Other
+Allowances for uncollectible accounts
+$
+$
+2019
+14,025 $
+4,805
+11,521
+2,637
+(678)
+32,310 $
+13,379
+4,470
+12,275
+2,712
+(418)
+32,418
+Receivables of our railroad and utilities and energy businesses are comprised of the following (in millions).
+December 31,
+2020
+Trade receivables
+Other
+Allowances for uncollectible accounts
+$
+2019
+3,235 $
+438
+(131)
+3,542 $
+$
+3,120
+388
+(91)
+3,417
+Provisions for credit losses on receivables in the preceding tables were $564 million in 2020 and $363 million in 2019.
+Net charge-offs were $401 million in 2020 and $350 million in 2019.
+(9)
+Inventories
+Inventories are comprised of the following (in millions).
+December 31,
+2020
+Raw materials
+Work in process and other
+Finished manufactured goods
+Goods acquired for resale
+$
+$
+2019
+4,821
+2,541
+4,412
+7,434
+19,208
+$
+$
+4,492
+2,700
+4,821
+7,839
+19,852
+(10) Property, plant and equipment
+A summary of property, plant and equipment of our insurance and other businesses follows (in millions).
+December 31,
+2020
+Land, buildings and improvements
+Machinery and equipment
+Furniture, fixtures and other
+$
+Accumulated depreciation
+$
+K-88
+13,799 $
+25,488
+4,530
+43,817
+(22,617)
+21,200 $
+2019
+13,259
+24,285
+4,666
+42,210
+(20,772)
+21,438
+Notes to Consolidated Financial Statements (Continued)
+(10) Property, plant and equipment (Continued)
+A summary of property, plant and equipment of railroad and utilities and energy businesses follows (in millions). The
+utility generation, transmission and distribution systems and interstate natural gas pipeline assets are owned by regulated
+public utility and natural gas pipeline subsidiaries.
+December 31,
+2020
+Railroad:
+Land, track structure and other roadway
+Locomotives, freight cars and other equipment
+Construction in progress
+$
+Accumulated depreciation
+Utilities and energy:
+Utility generation, transmission and distribution systems
+Interstate natural gas pipeline assets
+Independent power plants and other assets
+Construction in progress
+Accumulated depreciation
+$
+2019
+63,824 $
+13,523
+916
+78,263
+(13,175)
+65,088
+62,404
+13,482
+748
+76,634
+(12,101)
+64,533
+86,730
+16,667
+12,671
+3,308
+119,376
+(33,248)
+86,128
+151,216 $
+81,127
+8,165
+8,817
+3,732
+101,841
+(28,536)
+73,305
+137,838
+Depreciation expense for each of the three years ending December 31, 2020 is summarized below (in millions).
+2020
+Insurance and other
+Railroad, utilities and energy
+$
+$
+2019
+2,320
+5,799
+8,119
+$
+2018
+2,269
+5,297
+7,566
+$
+$
+2,186
+5,098
+7,284
+$
+(11) Equipment held for lease
+Equipment held for lease includes railcars, aircraft, over-the-road trailers, intermodal tank containers, cranes, storage
+units and furniture. Equipment held for lease is summarized below (in millions).
+December 31,
+2020
+Railcars
+Aircraft
+Other
+$
+2019
+9,402 $
+8,204
+4,868
+22,474
+(7,873)
+14,601 $
+Accumulated depreciation
+$
+9,260
+8,093
+4,862
+22,215
+(7,150)
+15,065
+Depreciation expense for equipment held for lease was $1,200 million in 2020, $1,181 million in 2019 and
+$1,102 million in 2018. Fixed and variable operating lease revenues for each of the two years ending December 31, 2020 are
+summarized below (in millions).
+2020
+Fixed lease revenue
+Variable lease revenue
+$
+$
+K-89
+2019
+4,262
+947
+5,209
+$
+$
+4,415
+1,441
+5,856
+Notes to Consolidated Financial Statements (Continued)
+(11) Equipment held for lease (Continued)
+A summary of future operating lease receipts as of December 31, 2020 follows (in millions).
+2021
+$
+2022
+2,618
+$
+2023
+1,962
+$
+2024
+1,429
+2025
+$
+905
+Thereafter
+$
+443
+$
+Total
+387
+$
+7,744
+(12) Leases
+We are party to contracts where we lease property from others. As a lessee, we primarily lease office and operating
+facilities, locomotives, freight cars, energy generation facilities and transmission assets. Operating lease right-of-use assets
+were $5,579 million and lease liabilities were $5,469 million at December 31, 2020. Operating lease right-of-use assets were
+$5,941 million and lease liabilities were $5,882 million at December 31, 2019. Such amounts were included in other assets
+and accounts payable, accruals and other liabilities in our Consolidated Balance Sheet. The weighted average term of these
+leases was approximately 7.3 years at December 31, 2020 and 7.7 years at December 31, 2019. The weighted average
+discount rate used to measure lease liabilities was approximately 3.6% at December 31, 2020 and 3.8% at December 31,
+2019. A summary of our remaining operating lease payments as of December 31, 2020 and December 31, 2019 follows (in
+millions).
+Year 1
+December 31:
+2020
+2019
+$
+1,342
+1,374
+Year 2
+$
+1,111
+1,183
+Year 3
+$
+905
+950
+Year 4
+$
+725
+764
+Year 5
+$
+544
+620
+Thereafter
+Total
+lease
+payments
+Amount
+representing
+interest
+$
+$
+$
+1,691
+1,988
+6,318
+6,879
+Lease
+liabilities
+(849) $
+(997)
+5,469
+5,882
+Components of operating lease costs for the years ending December 31, 2020 and 2019, by type, are summarized in the
+following table (in millions). Operating lease expense was $1,649 million in 2018.
+2020
+Operating lease cost
+Short-term lease cost
+Variable lease cost
+Sublease income
+Total lease cost
+$
+2019
+1,413
+145
+228
+(10)
+1,776
+$
+$
+1,459
+178
+276
+(24)
+1,889
+$
+(13) Goodwill and other intangible assets
+Reconciliations of the changes in the carrying value of goodwill during 2020 and 2019 follows (in millions).
+December 31,
+2020
+Balance at beginning of year
+Acquisitions of businesses
+Impairment charges
+Other, including foreign currency translation
+Balance at end of year*
+*
+$
+$
+81,882 $
+1,758
+(10,033)
+127
+73,734 $
+2019
+81,025
+890
+(90)
+57
+81,882
+Net of accumulated goodwill impairments of $11.0 billion as of December 31, 2020 and $1.1 billion as of December
+31, 2019.
+K-90
+Notes to Consolidated Financial Statements (Continued)
+(13) Goodwill and other intangible assets (Continued)
+The gross carrying amounts and related accumulated amortization of other intangible assets are summarized as follows
+(in millions).
+December 31, 2020
+Gross
+Accumulated
+carrying
+amortization
+amount
+Insurance and other:
+Customer relationships
+Trademarks and trade names
+Patents and technology
+Other
+$
+$
+Railroad, utilities and energy:
+Customer relationships
+Trademarks, trade names and other
+$
+$
+27,374
+5,206
+4,766
+3,339
+40,685
+$
+678
+1,003
+1,681
+$
+$
+$
+December 31, 2019
+Gross
+Accumulated
+carrying
+amortization
+amount
+5,756
+779
+3,313
+1,375
+11,223
+$
+361
+98
+459
+$
+$
+27,943
+5,286
+4,560
+3,364
+41,153
+$
+678
+325
+1,003
+$
+$
+$
+5,025
+759
+3,032
+1,286
+10,102
+324
+84
+408
+$
+Intangible asset amortization expense was $1,277 million in 2020, $1,317 million in 2019 and $1,393 million in 2018.
+Estimated amortization expense over the next five years is as follows (in millions): 2021 – $1,262; 2022 – $1,190; 2023 –
+$1,108; 2024 – $986 and 2025 – $906. Intangible assets with indefinite lives were $18.3 billion as of December 31, 2020 and
+$19.0 billion as of December 31, 2019 and primarily related to certain customer relationships and trademarks and trade
+names.
+During 2020, we concluded it was necessary to reevaluate goodwill and indefinite-lived intangible assets of certain of
+our reporting units for impairment due to the disruptions arising from the COVID-19 pandemic. We believed that the most
+significant of these disruptions related to the air travel and commercial aerospace and supporting industries. We recorded pretax goodwill impairment charges of approximately $10 billion and pre-tax indefinite-lived intangible asset impairment
+charges of $638 million in the second quarter of 2020. Approximately $10 billion of these charges related to Precision
+Castparts Corp. (“PCC”), the largest business within Berkshire's manufacturing segment. The carrying value of PCC-related
+goodwill and indefinite-lived intangible assets prior to the impairment charges was approximately $31 billion.
+The impairment charges were determined based on discounted cash flow methods and reflected our assessments of the
+risks and uncertainties associated with the aerospace industry. Significant judgment is required in estimating the fair value of
+a reporting unit and in performing impairment tests. Due to the inherent uncertainty in forecasting cash flows and earnings,
+actual results in the future may vary significantly from the forecasts.
+(14) Derivative contracts
+We are party to derivative contracts through certain of our subsidiaries. The most significant derivative contracts
+consist of equity index put option contracts. Information related to these contracts follows (dollars in millions).
+December 31,
+2020
+Balance sheet liabilities - at fair value
+Notional value
+Intrinsic value
+Weighted average remaining life (in years)
+$
+1,065
+10,991
+727
+1.2
+2019
+$
+968
+14,385
+397
+1.8
+The equity index put option contracts are European style options written prior to March 2008 on four major equity
+indexes. Notional value in the preceding table represents the aggregate undiscounted amounts payable assuming that the
+value of each index is zero at each contract’s expiration date. Intrinsic value is the undiscounted liability assuming the
+contracts are settled based on the index values and foreign currency exchange rates as of the balance sheet date. Substantially
+all open contracts as of December 31, 2020 will expire by February 2023.
+K-91
+Notes to Consolidated Financial Statements (Continued)
+(14) Derivative contracts (Continued)
+Future payments, if any, under any given contract will be required if the prevailing index value is below the contract
+strike price at the expiration date. We received aggregate premiums of $1.9 billion on the contract inception dates with
+respect to unexpired contracts as of December 31, 2020 and we have no counterparty credit risk.
+We recorded derivative contract losses of $159 million in 2020, gains of $1,484 million in 2019 and losses of $300
+million in 2018, with respect to our equity index put option contracts. These gains and losses were primarily due to changes
+in the equity index values. These contracts may not be unilaterally terminated or fully settled before the expiration dates and
+the ultimate amount of cash basis gains or losses on these contracts will not be determined until the contract expiration dates.
+Our regulated utility subsidiaries may use forward purchases and sales, futures, swaps and options to manage a portion
+of their commodity price risks. Most of these net derivative contract assets or liabilities of our regulated utilities are probable
+of recovery through rates and are offset by regulatory liabilities or assets.
+(15) Unpaid losses and loss adjustment expenses
+Our liabilities for unpaid losses and loss adjustment expenses (also referred to as “claim liabilities”) under property and
+casualty insurance and reinsurance contracts are based upon estimates of the ultimate claim costs associated with claim
+occurrences as of the balance sheet date and include estimates for incurred-but-not-reported (“IBNR”) claims. A
+reconciliation of the changes in claim liabilities, excluding liabilities under retroactive reinsurance contracts (see Note 16),
+for each of the three years ending December 31, 2020 is as follows (in millions).
+2020
+Balances at beginning of year:
+Gross liabilities
+Reinsurance recoverable on unpaid losses
+Net liabilities
+Incurred losses and loss adjustment expenses:
+Current accident year events
+Prior accident years’ events
+Total
+Paid losses and loss adjustment expenses:
+Current accident year events
+Prior accident years’ events
+Total
+Foreign currency translation adjustment
+Business acquisition (disposition)
+Balances at December 31:
+Net liabilities
+Reinsurance recoverable on unpaid losses
+Gross liabilities
+$
+$
+2019
+2018
+73,019 $
+(2,855)
+70,164
+68,458 $
+(3,060)
+65,398
+61,122
+(3,201)
+57,921
+43,400
+(356)
+43,044
+43,335
+(752)
+42,583
+39,876
+(1,406)
+38,470
+(17,884)
+(18,862)
+(36,746)
+480
+—
+(19,482)
+(17,642)
+(37,124)
+(23)
+(670)
+(18,391)
+(15,452)
+(33,843)
+(331)
+3,181
+76,942
+2,912
+79,854
+70,164
+2,855
+73,019
+65,398
+3,060
+68,458
+$
+$
+Incurred losses and loss adjustment expenses shown in the preceding table were recorded in earnings and related to
+insured events occurring in the current year (“current accident year”) and events occurring in all prior years (“prior accident
+years”). Current accident year losses included approximately $950 million in 2020, $1.0 billion in 2019 and $1.6 billion in
+2018 from significant catastrophe events occurring in each year. Current accident year losses in 2020 also reflected the
+effects of low private passenger automobile claims frequencies and increased loss estimates for certain commercial insurance
+and reinsurance business attributable to the COVID-19 pandemic.
+We recorded net reductions of estimated ultimate liabilities for prior accident years of $356 million in 2020,
+$752 million in 2019 and $1,406 million in 2018, which produced corresponding reductions in incurred losses and loss
+adjustment expenses. These reductions, as percentages of the net liabilities at the beginning of each year, were 0.5% in 2020,
+1.1% in 2019 and 2.4% in 2018.
+K-92
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+Estimated ultimate liabilities for prior years’ loss events related to primary insurance were reduced by $518 million in
+2020, $457 million in 2019 and $937 million in 2018. The decrease in 2020 was primarily attributable to reductions for
+private passenger automobile, medical professional liability and workers’ compensation claims, partly offset by increases for
+other casualty claims. The decrease in 2019 reflected reductions in medical professional liability and workers’ compensation
+claims, partially offset by higher commercial auto and other liability claims. The decrease in 2018 was primarily due to
+reductions for workers’ compensation, medical professional liability and private passenger automobile claims. Estimated
+ultimate liabilities for prior years’ loss events related to property and casualty reinsurance increased $162 million in 2020 and
+were reduced $295 million in 2019 and $469 million in 2018. The increase in 2020 included increased claims estimates for
+legacy casualty exposures.
+Estimated claim liabilities included amounts for environmental, asbestos and other latent injury exposures, net of
+reinsurance recoverable, of approximately $2.1 billion at December 31, 2020 and $1.7 billion at December 31, 2019. These
+liabilities are subject to change due to changes in the legal and regulatory environment. We are unable to reliably estimate
+additional losses or a range of losses that are reasonably possible for these claims.
+Disaggregated information concerning our claims liabilities is provided below and in the pages that follow. The effects
+of businesses acquired or disposed during the period are reflected in the data presented on a retrospective basis. A
+reconciliation of the disaggregated net unpaid losses and allocated loss adjustment expenses (the latter referred to as
+“ALAE”) of GEICO, Berkshire Hathaway Primary Group (“BH Primary”) and Berkshire Hathaway Reinsurance Group
+(“BHRG”) to our consolidated unpaid losses and loss adjustment expenses as of December 31, 2020 follows (in millions).
+GEICO
+Physical
+Damage
+Unpaid losses and ALAE, net
+Reinsurance recoverable
+Unpaid unallocated loss
+adjustment expenses
+Other unpaid losses and loss
+adjustment expenses
+Unpaid losses and loss adjustment
+expenses
+$
+GEICO
+Auto
+Liability
+BH
+Primary
+Medical
+Professional
+Liability
+524 $ 18,755 $
+—
+1,109
+BH Primary
+Workers’
+Compensation
+and Other
+Casualty
+7,897 $
+49
+BHRG
+Property
+BHRG
+Casualty
+Total
+11,294 $ 11,280 $ 22,890 $ 72,640
+621
+181
+864
+2,824
+2,671
+1,719
+$ 79,854
+GEICO
+GEICO’s claim liabilities predominantly relate to various types of private passenger auto liability and physical damage
+claims. For such claims, we establish and evaluate unpaid claim liabilities using standard actuarial loss development methods
+and techniques. The actuarial methods utilize historical claims data, adjusted when deemed appropriate to reflect perceived
+changes in loss patterns. Claim liabilities include average, case, case development and IBNR estimates.
+We establish average liabilities based on expected severities for newly reported physical damage and liability claims
+prior to establishing individual case reserves when insufficient time or information is available for specific claim estimates
+and for large volumes of minor physical damage claims that once reported are quickly settled. We establish case loss
+estimates for liability claims, including estimates for loss adjustment expenses, as the facts and merits of the claim are
+evaluated.
+Estimates for liability coverages are more uncertain than for physical damage coverages, primarily due to the longer
+claim-tails, the greater chance of protracted litigation and the incompleteness of facts at the time the case estimate is first
+established. The “claim-tail” is the time period between the claim occurrence date and settlement date. Consequently, we
+establish additional case development liabilities, which are usually percentages of the case liabilities. For unreported claims,
+IBNR liabilities are estimated by projecting the ultimate number of claims expected (reported and unreported) for each
+significant coverage and deducting reported claims to produce estimated unreported claims. The product of the average cost
+per unreported claim and the number of unreported claims produces the IBNR liability estimate. We may record
+supplemental IBNR liabilities in certain situations when actuarial techniques are difficult to apply.
+K-93
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+GEICO’s incurred and paid losses and ALAE, net of reinsurance, are summarized by accident year below for physical
+damage and auto liability claims. IBNR and case development liabilities are as of December 31, 2020. Claim counts are
+established when accidents that may result in a liability are reported and are based on policy coverage. Each claim event may
+generate claims under multiple coverages, and thus may result in multiple counts. The “Cumulative Number of Reported
+Claims” includes the combined number of reported claims for all policy coverages and excludes projected IBNR claims.
+Dollars are in millions.
+Physical Damage
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2019*
+2019
+2020
+$
+IBNR and Case
+Development
+Liabilities
+2020
+9,020
+$
+Incurred losses and ALAE
+$
+8,920
+8,603
+17,523
+$
+Cumulative
+Number of
+Reported
+Claims
+(in thousands)
+69
+296
+8,929
+7,794
+IBNR and Case
+Development
+Liabilities
+Cumulative
+Number of
+Reported
+Claims
+(in thousands)
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2019*
+2019
+2020
+$
+2020
+8,678
+$
+Paid losses and ALAE
+Net unpaid losses and ALAE for 2019 – 2020 accident years
+Net unpaid losses and ALAE for accident years before 2019
+Net unpaid losses and ALAE
+$
+8,905
+8,118
+17,023
+500
+24
+524
+Auto Liability
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2016
+2017
+2018
+2019
+2020
+2016*
+$
+2017*
+11,800
+$
+12,184
+14,095
+2018*
+$
+12,149
+13,864
+15,383
+2019*
+$
+2020
+12,178
+13,888
+15,226
+16,901
+$
+Incurred losses and ALAE
+$
+12,198
+13,824
+14,985
+16,678
+14,637
+72,322
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2016
+2017
+2018
+2019
+2020
+2016*
+$
+5,069
+2017*
+$
+8,716
+5,806
+2018*
+$
+10,330
+9,944
+6,218
+2019*
+$
+11,294
+11,799
+10,772
+6,742
+Paid losses and ALAE
+Net unpaid losses and ALAE for 2016 – 2020 accident years
+Net unpaid losses and ALAE for accident years before 2016
+Net unpaid losses and ALAE
+*
+Unaudited required supplemental information
+K-94
+2020
+$
+$
+11,718
+12,729
+12,658
+11,671
+5,395
+54,171
+18,151
+604
+18,755
+$
+222
+502
+1,163
+2,905
+4,482
+2,451
+2,639
+2,702
+2,749
+1,945
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+BH Primary
+BH Primary’s liabilities for unpaid losses and loss adjustment expenses primarily derive from medical professional
+liability and workers’ compensation and other casualty insurance, including commercial auto and general liability insurance.
+Incurred and paid losses and ALAE are summarized by accident year in the following tables, disaggregated by medical
+professional liability coverages and workers’ compensation and other casualty coverages. IBNR and case development
+liabilities are as of December 31, 2020. The cumulative number of reported claims reflects the number of individual
+claimants and includes claims that ultimately resulted in no liability or payment. Dollars are in millions.
+BH Primary Medical Professional Liability
+We estimate the ultimate expected incurred losses and loss adjustment expenses for medical professional claim
+liabilities using a variety of commonly accepted actuarial methodologies, such as the paid and incurred development method
+and Bornhuetter-Ferguson based methods, as well as other techniques that consider insured loss exposures and historical and
+expected loss trends, among other factors. These methodologies produce loss estimates from which we determine our best
+estimate. In addition, we study developments in older accident years and adjust initial loss estimates to reflect recent
+development based upon claim age, coverage and litigation experience.
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2011*
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+$1,346 $1,334 $1,321 $1,262 $1,173 $1,115 $1,050 $1,004 $ 968 $ 972 $
+1,336 1,306 1,277 1,223 1,168 1,078 1,035
+998
+988
+1,328 1,296 1,261 1,195 1,127 1,086 1,019
+985
+1,370 1,375 1,305 1,246 1,218 1,127
+1,061
+1,374 1,342 1,269 1,290 1,218
+1,157
+1,392 1,416 1,414 1,394
+1,341
+1,466 1,499 1,495
+1,474
+1,602 1,650
+1,659
+1,670
+1,691
+1,704
+Incurred losses and ALAE $13,032
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2011*
+$
+2012*
+16 $
+2013*
+2014*
+2015*
+82 $ 200 $ 356 $
+15
+93
+218
+15
+90
+21
+2016*
+2017*
+2018*
+2019*
+2020
+517 $ 632 $ 711 $ 767 $ 822 $
+377
+522
+642
+725
+789
+219
+368
+518
+635
+743
+106
+238
+396
+540
+671
+23
+108
+218
+382
+543
+22
+115
+274
+461
+27
+128
+300
+35
+166
+39
+Paid losses and ALAE
+Net unpaid losses and ALAE for 2011– 2020 accident years
+Net unpaid losses and ALAE for accident years before 2011
+Net unpaid losses and ALAE
+*
+Cumulative
+Number of
+IBNR and Case
+Reported
+Development
+Claims
+Liabilities
+(in thousands)
+Unaudited required supplemental information
+K-95
+842
+830
+793
+752
+663
+620
+457
+367
+160
+34
+5,518
+7,514
+383
+$ 7,897
+39
+53
+65
+129
+202
+286
+494
+780
+1,204
+1,529
+11
+11
+11
+11
+12
+14
+20
+22
+17
+13
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+BH Primary Workers’ Compensation and Other Casualty
+We periodically evaluate ultimate loss and loss adjustment expense estimates for the workers’ compensation and other
+casualty claims using a combination of commonly accepted actuarial methodologies such as the Bornhuetter-Ferguson and
+chain-ladder approaches using paid and incurred loss data. Paid and incurred loss data is segregated and analyzed by state due
+to the different state regulatory frameworks that may impact certain factors, including the duration and amount of loss
+payments. We also separately study the various components of liabilities, such as employee lost wages, medical expenses and
+the costs of claims investigations and administration. We establish case liabilities for reported claims based upon the facts
+and circumstances of the claim. The excess of the ultimate projected losses, including the expected development of case
+estimates, and the case-basis liabilities is included in IBNR liabilities.
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2011*
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+Cumulative
+Number of
+IBNR and Case
+Reported
+Development
+Claims
+Liabilities
+(in thousands)
+2011 $ 738 $ 675 $ 675 $ 624 $ 621 $ 618 $ 607 $ 596 $ 591 $ 576 $
+2012
+873
+850
+837
+791
+780
+762
+750
+736
+718
+2013
+1,258 1,228 1,178 1,127 1,096 1,072 1,050
+1,028
+2014
+1,743 1,638 1,614 1,548 1,482 1,497
+1,477
+2015
+2,169 2,127 2,042 2,014 2,025
+1,997
+2016
+2,511 2,422 2,359 2,325
+2,365
+2017
+3,044 2,907 2,842
+2,843
+2018
+3,544 3,412
+3,480
+2019
+4,074
+4,102
+2020
+4,421
+Incurred losses and ALAE $23,007
+39
+53
+120
+190
+267
+470
+691
+1,152
+1,788
+2,987
+46
+53
+67
+90
+111
+115
+138
+160
+170
+120
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2011*
+2012*
+2013*
+2014*
+2011 $ 109 $ 220 $ 333 $
+2012
+116
+299
+2013
+177
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+481 $ 496 $ 505 $ 512 $ 519
+560
+592
+611
+626
+634
+725
+793
+835
+858
+874
+800 1,007 1,111 1,176
+1,214
+700 1,017 1,289 1,488
+1,570
+329
+775 1,148 1,461
+1,661
+441 1,003 1,434
+1,771
+538 1,198
+1,683
+682
+1,478
+695
+Paid losses and ALAE 12,099
+Net unpaid losses and ALAE for 2011 – 2020 accident years 10,908
+Net unpaid losses and ALAE for accident years before 2011
+386
+Net unpaid losses and ALAE $11,294
+*
+403 $
+414
+422
+239
+453 $
+501
+609
+557
+289
+Unaudited required supplemental information
+BHRG
+We use a variety of methodologies to establish BHRG’s estimates for property and casualty claims liabilities. We use
+certain methodologies, such as paid and incurred loss development techniques, incurred and paid loss Bornhuetter-Ferguson
+techniques and frequency and severity techniques, as well as ground-up techniques when appropriate.
+Our claims liabilities are principally a function of reported losses from ceding companies, case development and IBNR
+liability estimates. Case loss estimates are reported under our contracts either individually or in bulk as provided under the
+terms of the contracts. We may independently evaluate case losses reported by the ceding company, and if deemed
+appropriate, we may establish case liabilities based on our estimates.
+K-96
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+Estimated IBNR liabilities are affected by expected case loss emergence patterns and expected loss ratios, which are
+evaluated as groups of contracts with similar exposures or on a contract-by-contract basis. Estimated case and IBNR
+liabilities for major catastrophe events are generally based on a per-contract assessment of the ultimate cost associated with
+the individual loss event. Claim count data is not provided consistently by ceding companies under our contracts or is
+otherwise considered unreliable.
+Incurred and paid losses and ALAE of BHRG are disaggregated based on losses that are expected to have shorter
+claim-tails (property) and losses expected to have longer claim-tails (casualty). Under certain contracts, the coverage can
+apply to multiple lines of business written by the ceding company, whether property, casualty or combined, and the ceding
+company may not report loss data by such lines consistently, if at all. In those instances, we allocated losses to property and
+casualty coverages based on internal estimates. BHRG’s disaggregated incurred and paid losses and ALAE are summarized
+by accident year, net of reinsurance. IBNR and case development liabilities are as of December 31, 2020. Dollars are in
+millions.
+BHRG Property
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2011*
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+$ 4,111 $ 4,095 $ 3,804 $ 3,711 $ 3,707 $ 3,672 $ 3,654 $ 3,638 $ 3,627 $ 3,616 $
+3,153
+2,846
+2,644
+2,403
+2,351
+2,348
+2,329
+2,315
+2,305
+3,255
+3,093
+2,745
+2,653
+2,631
+2,570
+2,518
+2,504
+2,648
+2,436
+2,322
+2,178
+2,123
+2,050
+2,021
+3,287
+3,135
+2,577
+2,979
+2,976
+3,000
+3,293
+3,923
+3,646
+3,614
+3,616
+5,291
+4,986
+4,837
+4,727
+4,426
+4,524
+4,397
+4,146
+4,299
+5,858
+Incurred losses and ALAE $36,343
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+*
+IBNR and Case
+Development
+Liabilities
+2011*
+$
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+609 $ 2,259 $ 2,917 $ 3,188 $ 3,304 $ 3,387 $ 3,429 $ 3,474 $ 3,493 $ 3,507
+262
+1,232
+1,813
+1,950
+2,040
+2,117
+2,135
+2,181
+2,199
+526
+1,459
+1,906
+2,105
+2,226
+2,307
+2,347
+2,376
+467
+1,249
+1,574
+1,713
+1,779
+1,829
+1,858
+581
+1,614
+1,969
+2,166
+2,271
+2,453
+709
+1,811
+2,208
+2,670
+2,923
+1,028
+2,734
+3,660
+3,972
+915
+2,341
+2,868
+751
+2,282
+960
+Paid losses and ALAE 25,398
+Net unpaid losses and ALAE for 2011 – 2020 accident years 10,945
+Net unpaid losses and ALAE for accident years before 2011
+335
+Net unpaid losses and ALAE $11,280
+Unaudited required supplemental information
+K-97
+30
+35
+45
+48
+143
+218
+187
+678
+952
+3,129
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+BHRG Casualty
+Incurred Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2011*
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+$ 2,635 $ 2,726 $ 2,595 $ 2,536 $ 2,447 $ 2,354 $ 2,346 $ 2,307 $ 2,272 $ 2,255 $
+2,820
+3,002
+2,837
+2,899
+2,827
+2,712
+2,645
+2,588
+2,581
+2,160
+2,298
+2,328
+2,170
+2,114
+2,060
+1,964
+1,892
+1,900
+2,099
+2,068
+2,030
+1,944
+1,980
+1,970
+1,902
+2,109
+2,137
+2,035
+1,908
+1,870
+1,928
+2,138
+2,047
+2,003
+1,922
+2,216
+2,711
+2,588
+2,494
+2,948
+3,585
+3,509
+3,455
+3,931
+3,883
+Incurred losses and ALAE $26,307
+Cumulative Paid Losses and ALAE through December 31,
+Accident
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+*
+IBNR and Case
+Development
+Liabilities
+2011*
+$
+294 $
+2012*
+2013*
+2014*
+2015*
+2016*
+2017*
+2018*
+2019*
+2020
+824 $ 1,169 $ 1,412 $ 1,501 $ 1,595 $ 1,673 $ 1,713 $ 1,748 $ 1,776
+312
+757
+1,150
+1,381
+1,539
+1,664
+1,764
+1,825
+1,883
+294
+530
+818
+947
+1,052
+1,155
+1,215
+1,273
+153
+488
+655
+765
+889
+974
+1,119
+199
+500
+725
+846
+938
+1,029
+255
+563
+742
+874
+972
+233
+574
+830
+1,282
+267
+875
+1,649
+356
+906
+406
+Paid losses and ALAE 12,295
+Net unpaid losses and ALAE for 2011 – 2020 accident years 14,012
+Net unpaid losses and ALAE for accident years before 2011
+8,878
+Net unpaid losses and ALAE $22,890
+Unaudited required supplemental information
+K-98
+279
+317
+387
+537
+455
+555
+762
+1,183
+1,924
+2,754
+Notes to Consolidated Financial Statements (Continued)
+(15) Unpaid losses and loss adjustment expenses (Continued)
+Required supplemental unaudited average historical claims duration information based on the net losses and ALAE
+incurred and paid accident year data in the preceding tables follows. The percentages show the average portions of net losses
+and ALAE paid by each succeeding year, with year 1 representing the current accident year.
+In Year
+Average Annual Percentage Payout of Incurred Losses by Age, Net of Reinsurance
+1
+2
+3
+4
+5
+6
+GEICO Physical Damage
+GEICO Auto Liability
+BH Primary Medical Professional Liability
+BH Primary Workers’ Compensation and Other Casualty
+BHRG Property
+BHRG Casualty
+97%
+42%
+2%
+16%
+19%
+11%
+2%
+29%
+7%
+21%
+37%
+16%
+13% 7% 4%
+12% 14% 14% 12%
+16% 13% 8% 4%
+17% 8% 4% 4%
+14% 9% 5% 5%
+7
+8
+9
+10
+9%
+3%
+1%
+5%
+6%
+2%
+2%
+2%
+5%
+1%
+1%
+2%
+2%
+1%
+0%
+1%
+(16) Retroactive reinsurance contracts
+Retroactive reinsurance policies provide indemnification of losses and loss adjustment expenses of short-duration
+insurance contracts with respect to underlying loss events that occurred prior to the contract inception date. Claims payments
+may commence immediately after the contract date or, when applicable, once a contractual retention amount has been
+reached. Reconciliations of the changes in estimated liabilities for retroactive reinsurance unpaid losses and loss adjustment
+expenses (“claim liabilities”) and related deferred charge reinsurance assumed assets for each of the three years ended
+December 31, 2020 follow (in millions).
+2020
+2019
+2018
+Unpaid losses Deferred Unpaid losses Deferred Unpaid losses Deferred
+and loss
+charges
+and loss
+charges
+and loss
+charges
+adjustment reinsurance adjustment reinsurance adjustment reinsurance
+expenses
+assumed
+expenses
+assumed
+expenses
+assumed
+Balances at beginning of year
+$
+Incurred losses and loss adjustment expenses:
+Current year contracts
+Prior years’ contracts
+Total
+Paid losses and loss adjustment expenses
+Balances at December 31
+$
+Incurred losses and loss adjustment expenses, net
+of deferred charges
+$
+42,441 $ (13,747) $
+41,834 $ (14,104) $
+42,937 $ (15,278)
+—
+—
+(399)
+1,306
+(399)
+1,306
+(1,076)
+—
+40,966 $ (12,441) $
+1,138
+(453)
+378
+810
+1,516
+357
+(909)
+—
+42,441 $ (13,747) $
+603
+(86)
+(341)
+1,260
+262
+1,174
+(1,365)
+—
+41,834 $ (14,104)
+1,873
+1,436
+907
+$
+$
+In the preceding table, classifications of incurred losses and loss adjustment expenses are based on the inception dates
+of the contracts. We do not believe that analysis of losses incurred and paid by accident year of the underlying event is
+relevant or meaningful given that our exposure to losses incepts when the contract incepts. Further, we believe the
+classifications of reported claims and case development liabilities have little or no practical analytical value.
+Estimated ultimate claim liabilities included $17.7 billion at December 31, 2020 and $18.2 billion at December 31,
+2019, with respect to an agreement with various subsidiaries of American International Group, Inc. (collectively, “AIG”) to
+indemnify AIG for 80% of up to $25 billion of losses and allocated loss adjustment expenses in excess of $25 billion retained
+by AIG for certain commercial insurance loss events occurring prior to 2016. The related deferred charge assets were $5.4
+billion at December 31, 2020 and $6.3 billion at December 31, 2019.
+K-99
+Notes to Consolidated Financial Statements (Continued)
+(16) Retroactive reinsurance contracts (Continued)
+Incurred losses and loss adjustment expenses related to contracts written in prior years were $907 million in 2020,
+$1,188 million in 2019 and $919 million in 2018, which included recurring amortization of deferred charges and the effect of
+changes in the timing and amount of expected future loss payments.
+In establishing retroactive reinsurance claim liabilities, we analyze historical aggregate loss payment patterns and
+project losses into the future under various probability-weighted scenarios. We expect the claim-tail to be very long for many
+contracts, with some lasting several decades. We monitor claim payment activity and review ceding company reports and
+other information concerning the underlying losses. We reassess and revise the expected timing and amounts of ultimate
+losses periodically or when significant events are revealed through our monitoring and review processes.
+Our retroactive reinsurance claim liabilities include estimated liabilities for environmental, asbestos and other latent
+injury exposures of approximately $12.5 billion at December 31, 2020 and $12.9 billion at December 31, 2019. Retroactive
+reinsurance contracts are generally subject to aggregate policy limits and thus, our exposure to such claims under these
+contracts is likewise limited. We monitor evolving case law and its effect on environmental and other latent injury claims.
+Changing laws or government regulations, newly identified toxins, newly reported claims, new theories of liability, new
+contract interpretations and other factors could result in increases in these liabilities, which could be material to our results of
+operations. We are unable to reliably estimate the amount of additional net loss or the range of net loss that is reasonably
+possible.
+(17) Notes payable and other borrowings
+Notes payable and other borrowings are summarized below (in millions). The weighted average interest rates and
+maturity date ranges shown in the following tables are based on borrowings as of December 31, 2020.
+Weighted
+Average
+Interest Rate
+Insurance and other:
+Berkshire Hathaway Inc. (“Berkshire”):
+U.S. Dollar denominated due 2021-2047
+Euro denominated due 2021-2035
+Japanese Yen denominated due 2023-2060
+Berkshire Hathaway Finance Corporation (“BHFC”):
+U.S. Dollar denominated due 2021-2050
+Great Britain Pound denominated due 2039-2059
+Other subsidiary borrowings due 2021-2045
+Short-term subsidiary borrowings
+December 31,
+2020
+2019
+3.2% $
+1.0%
+0.7%
+8,308
+8,326
+6,031
+3.7%
+2.5%
+4.2%
+2.5%
+10,766
+2,347
+4,682
+1,062
+41,522
+$
+$
+$
+8,324
+7,641
+3,938
+8,679
+2,274
+5,262
+1,472
+37,590
+In March 2020, Berkshire repaid €1.0 billion of maturing senior notes and issued €1.0 billion of 0.0% senior notes due
+in 2025. In April 2020, Berkshire issued ¥195.5 billion (approximately $1.8 billion) of senior notes with maturity dates
+ranging from 2023 to 2060 and a weighted average interest rate of 1.07%.
+Borrowings of BHFC, a wholly owned finance subsidiary of Berkshire, consist of senior unsecured notes used to fund
+manufactured housing loans originated or acquired and equipment held for lease of certain subsidiaries. BHFC borrowings
+are fully and unconditionally guaranteed by Berkshire. During 2020, BHFC repaid $900 million of maturing senior notes and
+issued $3.0 billion of senior notes consisting of $500 million of 1.85% notes due in 2030, $750 million of 1.45% notes due in
+2030 and $1.75 billion of 2.85% notes due in 2050.
+The carrying values of Berkshire and BHFC non-U.S. Dollar denominated senior notes (€6.85 billion, £1.75 billion and
+¥625.5 billion par) reflect the applicable exchange rates as of the balance sheet dates. The effects of changes in foreign
+currency exchange rates during the period are recorded in earnings as a component of selling, general and administrative
+expenses. Changes in the exchange rates resulted in pre-tax losses of approximately $1.0 billion in 2020 and pre-tax gains of
+$192 million in 2019 and $366 million in 2018.
+K-100
+Notes to Consolidated Financial Statements (Continued)
+(17) Notes payable and other borrowings (Continued)
+In addition to BHFC borrowings, Berkshire guaranteed approximately $1.2 billion of other subsidiary borrowings at
+December 31, 2020. Generally, Berkshire’s guarantee of a subsidiary’s debt obligation is an absolute, unconditional and
+irrevocable guarantee for the full and prompt payment when due of all payment obligations.
+Weighted
+Average
+Interest Rate
+Railroad, utilities and energy:
+Berkshire Hathaway Energy Company (“BHE”) and subsidiaries:
+BHE senior unsecured debt due 2021-2051
+Subsidiary and other debt due 2021-2064
+Short-term borrowings
+Burlington Northern Santa Fe ("BNSF") and subsidiaries due 2021-2097
+December 31,
+2020
+4.2% $
+4.1%
+1.8%
+4.6%
+$
+2019
+13,447 $
+36,420
+2,286
+23,220
+75,373 $
+8,581
+30,772
+3,214
+23,211
+65,778
+BHE subsidiary debt represents amounts issued pursuant to separate financing agreements. Substantially all of the
+assets of certain BHE subsidiaries are, or may be, pledged or encumbered to support or otherwise secure debt. These
+borrowing arrangements generally contain various covenants, including covenants which pertain to leverage ratios, interest
+coverage ratios and/or debt service coverage ratios. In November 2020, BHE’s subsidiary debt increased $5.6 billion for the
+debt assumed in connection with the Dominion pipeline business acquisition. See Note 2 to the Consolidated Financial
+Statements. During 2020, BHE and its subsidiaries also issued new term debt of approximately $7.6 billion with maturity
+dates ranging from 2025 to 2062 and a weighted average interest rate of 3.2% and repaid $3.2 billion of term debt and
+reduced short-term borrowings.
+BNSF’s borrowings are primarily senior unsecured debentures. During 2020, BNSF issued $575 million of 3.05%
+senior unsecured debentures due in 2051 and repaid debt of $570 million. As of December 31, 2020, BNSF, BHE and their
+subsidiaries were in compliance with all applicable debt covenants. Berkshire does not guarantee any debt, borrowings or
+lines of credit of BNSF, BHE or their subsidiaries.
+As of December 31, 2020, our subsidiaries had unused lines of credit and commercial paper capacity aggregating
+approximately $9.3 billion to support short-term borrowing programs and provide additional liquidity. Such unused lines of
+credit included approximately $8.2 billion related to BHE and its subsidiaries.
+Debt principal repayments expected during each of the next five years are as follows (in millions). Amounts in 2021
+include short-term borrowings.
+2021
+Insurance and other
+Railroad, utilities and energy
+$
+$
+2022
+4,354
+5,044
+9,398
+$
+$
+1,593
+3,405
+4,998
+2023
+$
+$
+6,021
+4,792
+10,813
+2024
+$
+2,343
+3,965
+6,308
+$
+2025
+$
+2,817
+3,777
+6,594
+$
+(18) Income taxes
+The liabilities for income taxes reflected in our Consolidated Balance Sheets are as follows (in millions).
+December 31,
+2020
+Currently payable (receivable)
+Deferred
+Other
+$
+$
+K-101
+(276) $
+73,261
+1,113
+74,098 $
+2019
+24
+65,823
+952
+66,799
+Notes to Consolidated Financial Statements (Continued)
+(18) Income taxes (Continued)
+The tax effects of temporary differences that give rise to significant portions of deferred tax assets and deferred tax
+liabilities are shown below (in millions).
+December 31,
+2020
+Deferred tax liabilities:
+Investments – unrealized appreciation and cost basis differences
+Deferred charges reinsurance assumed
+Property, plant and equipment and equipment held for lease
+Goodwill and other intangible assets
+Other
+$
+2019
+40,181
+2,613
+30,203
+6,753
+3,736
+83,486
+$
+32,134
+2,890
+29,388
+7,293
+3,144
+74,849
+(1,135)
+(900)
+(2,193)
+(1,421)
+(4,576)
+(10,225)
+73,261 $
+(1,086)
+(853)
+(1,981)
+(1,610)
+(3,496)
+(9,026)
+65,823
+Deferred tax assets:
+Unpaid losses and loss adjustment expenses
+Unearned premiums
+Accrued liabilities
+Regulatory liabilities
+Other
+Net deferred tax liability
+$
+We have not established deferred income taxes on accumulated undistributed earnings of certain foreign subsidiaries,
+which are expected to be reinvested indefinitely. Repatriation of all accumulated earnings of foreign subsidiaries would be
+impracticable to the extent that such earnings represent capital to support normal business operations. Generally, no U.S.
+federal income taxes will be imposed on future distributions of foreign earnings under current law. However, distributions to
+the U.S. or other foreign jurisdictions could be subject to withholding and other local taxes.
+On December 22, 2017, legislation known as the Tax Cuts and Jobs Act of 2017 (“TCJA”) was enacted. Among its
+provisions, the TCJA reduced the statutory U.S. Corporate income tax rate from 35% to 21% effective January 1, 2018 and
+provided for a one-time tax on certain accumulated undistributed post-1986 earnings of foreign subsidiaries. These effects
+were largely recorded in 2017 upon the enactment. In 2018, we reduced our estimate of the income taxes on the deemed
+repatriation of earnings of foreign subsidiaries and recognized additional deferred income tax rate change effects.
+Income tax expense reflected in our Consolidated Statements of Earnings for each of the three years ending
+December 31, 2020 is as follows (in millions).
+2020
+Federal
+State
+Foreign
+$
+$
+Current
+Deferred
+$
+$
+K-102
+2019
+10,596
+1,086
+758
+12,440
+$
+5,052
+7,388
+12,440
+$
+$
+$
+2018
+19,069
+625
+1,210
+20,904
+$
+5,818
+15,086
+20,904
+$
+$
+$
+(1,613)
+175
+1,117
+(321)
+5,176
+(5,497)
+(321)
+Notes to Consolidated Financial Statements (Continued)
+(18) Income taxes (Continued)
+Income tax expense is reconciled to hypothetical amounts computed at the U.S. federal statutory rate for each of the
+three years ending December 31, 2020 in the table below (in millions).
+2020
+2019
+2018
+Earnings before income taxes
+$
+55,693
+$
+102,696
+$
+4,001
+Hypothetical income tax expense computed at the U.S. federal statutory rate
+Dividends received deduction and tax-exempt interest
+State income taxes, less U.S. federal income tax benefit
+Foreign tax rate differences
+U.S. income tax credits
+Net benefit from the enactment of the TCJA
+Goodwill impairments
+Other differences, net
+$
+11,696
+(448)
+858
+13
+(1,519)
+—
+1,977
+(137)
+12,440
+$
+21,566
+(433)
+494
+(6)
+(942)
+—
+20
+205
+20,904
+$
+840
+(393)
+138
+271
+(711)
+(302)
+21
+(185)
+(321)
+$
+Effective income tax rate
+22.3%
+$
+20.4%
+$
+(8.0)%
+We file income tax returns in the United States and in state, local and foreign jurisdictions. We have settled income tax
+liabilities with the U.S. federal taxing authority (“IRS”) for tax years through 2011 and the tax years 2012 and 2013 remain
+open. The IRS is auditing Berkshire’s consolidated U.S. federal income tax returns for the 2014 through 2016 tax years. We
+are also under audit or subject to audit with respect to income taxes in many state and foreign jurisdictions. It is reasonably
+possible that certain of these income tax examinations will be settled in 2021. We currently do not believe that the outcome
+of unresolved issues or claims will be material to our Consolidated Financial Statements.
+At December 31, 2020 and 2019, net unrecognized tax benefits were $1,113 million and $952 million, respectively.
+Included in the balance at December 31, 2020, were $920 million of tax positions that, if recognized, would impact the
+effective tax rate. The remaining balance in net unrecognized tax benefits principally relates to tax positions where the
+ultimate recognition is highly certain but there is uncertainty about the timing of recognition. Because of the impact of
+deferred income tax accounting, these positions, when recognized, would not affect the annual effective income tax rate. We
+recorded income tax expense of $60 million in 2020 and $377 million in 2019 for uncertain tax positions related to
+investments by a subsidiary in certain tax equity investment funds that generated income tax benefits from 2015 through
+2018. We now believe that it is more likely than not those income tax benefits are not valid. We do not expect any material
+increases to the estimated amount of unrecognized tax benefits during 2021.
+(19) Dividend restrictions – Insurance subsidiaries
+Payments of dividends by our insurance subsidiaries are restricted by insurance statutes and regulations. Without prior
+regulatory approval, our principal insurance subsidiaries may declare up to approximately $23 billion as ordinary dividends
+during 2021. Investments in fixed maturity and equity securities and short-term investments on deposit with U.S. state
+insurance authorities in accordance with state insurance regulations were approximately $5.5 billion at December 31, 2020
+and $6.3 billion at December 31, 2019.
+Combined shareholders’ equity of U.S. based insurance subsidiaries determined pursuant to statutory accounting rules
+(Surplus as Regards Policyholders) was approximately $237 billion at December 31, 2020 and $216 billion at December 31,
+2019. Statutory surplus differs from the corresponding amount based on GAAP, due to differences in accounting for certain
+assets and liabilities. For instance, deferred charges reinsurance assumed, deferred policy acquisition costs, unrealized gains
+on certain investments and related deferred income taxes are recognized for GAAP but not for statutory reporting purposes.
+In addition, the carrying values of certain assets, such as goodwill and non-insurance entities owned by our insurance
+subsidiaries, are not fully recognized for statutory reporting purposes.
+K-103
+Notes to Consolidated Financial Statements (Continued)
+(20) Fair value measurements
+Our financial assets and liabilities are summarized below as of December 31, 2020 and December 31, 2019, with fair
+values shown according to the fair value hierarchy (in millions). The carrying values of cash and cash equivalents, U.S.
+Treasury Bills, receivables and accounts payable, accruals and other liabilities are considered to be reasonable estimates of
+their fair values.
+Carrying
+Value
+December 31, 2020
+Investments in fixed maturity securities:
+U.S. Treasury, U.S. government corporations and
+agencies
+Foreign governments
+Corporate bonds
+Other
+Investments in equity securities
+Investment in Kraft Heinz common stock
+Loans and finance receivables
+Derivative contract assets (1)
+Derivative contract liabilities:
+Railroad, utilities and energy (1)
+Equity index put options
+Notes payable and other borrowings:
+Insurance and other
+Railroad, utilities and energy
+December 31, 2019
+Investments in fixed maturity securities:
+U.S. Treasury, U.S. government corporations and
+agencies
+Foreign governments
+Corporate bonds
+Other
+Investments in equity securities
+Investment in Kraft Heinz common stock
+Loans and finance receivables
+Derivative contract assets (1)
+Derivative contract liabilities:
+Railroad, utilities and energy (1)
+Equity index put options
+Notes payable and other borrowings:
+Insurance and other
+Railroad, utilities and energy
+(1)
+$
+$
+3,403
+11,338
+5,191
+478
+281,170
+13,336
+19,201
+270
+Quoted
+Prices
+(Level 1)
+Fair Value
+$
+3,403
+11,338
+5,191
+478
+281,170
+11,280
+20,554
+270
+$
+3,358
+9,259
+—
+—
+271,848
+11,280
+—
+1
+Significant
+Other
+Observable
+Inputs
+(Level 2)
+Significant
+Unobservable
+Inputs
+(Level 3)
+$
+$
+45
+2,079
+5,191
+478
+38
+—
+2,692
+72
+—
+—
+—
+—
+9,284
+—
+17,862
+197
+121
+1,065
+121
+1,065
+6
+—
+96
+—
+19
+1,065
+41,522
+75,373
+46,676
+92,593
+—
+—
+46,665
+92,593
+11
+—
+3,090
+8,638
+6,352
+605
+248,027
+13,757
+17,527
+145
+$
+3,090
+8,638
+6,352
+605
+248,027
+10,456
+17,861
+145
+$
+3,046
+5,437
+—
+—
+237,271
+10,456
+—
+—
+$
+44
+3,201
+6,350
+605
+46
+—
+1,809
+23
+$
+—
+—
+2
+—
+10,710
+—
+16,052
+122
+76
+968
+76
+968
+6
+—
+59
+—
+11
+968
+37,590
+65,778
+40,589
+76,237
+—
+—
+40,569
+76,237
+20
+—
+Assets are included in other assets and liabilities are included in accounts payable, accruals and other liabilities.
+K-104
+Notes to Consolidated Financial Statements (Continued)
+(20) Fair value measurements (Continued)
+The fair values of substantially all of our financial instruments were measured using market or income approaches. The
+hierarchy for measuring fair value consists of Levels 1 through 3, which are described below.
+Level 1 – Inputs represent unadjusted quoted prices for identical assets or liabilities exchanged in active markets.
+Level 2 – Inputs include directly or indirectly observable inputs (other than Level 1 inputs) such as quoted prices
+for similar assets or liabilities exchanged in active or inactive markets; quoted prices for identical assets or liabilities
+exchanged in inactive markets; other inputs that may be considered in fair value determinations of the assets or
+liabilities, such as interest rates and yield curves, volatilities, prepayment speeds, loss severities, credit risks and default
+rates; and inputs that are derived principally from or corroborated by observable market data by correlation or other
+means. Pricing evaluations generally reflect discounted expected future cash flows, which incorporate yield curves for
+instruments with similar characteristics, such as credit ratings, estimated durations and yields for other instruments of
+the issuer or entities in the same industry sector.
+Level 3 – Inputs include unobservable inputs used in the measurement of assets and liabilities. Management is
+required to use its own assumptions regarding unobservable inputs because there is little, if any, market activity in the
+assets or liabilities and it may be unable to corroborate the related observable inputs. Unobservable inputs require
+management to make certain projections and assumptions about the information that would be used by market
+participants in valuing assets or liabilities.
+Reconciliations of assets and liabilities measured and carried at fair value on a recurring basis with the use of
+significant unobservable inputs (Level 3) for each of the three years ending December 31, 2020 follow (in millions).
+Investments
+in equity and
+fixed maturity
+securities
+Balance December 31, 2017
+Gains (losses) included in:
+Earnings
+Other comprehensive income
+Regulatory assets and liabilities
+Acquisitions
+Dispositions and settlements
+Balance December 31, 2018
+Gains (losses) included in:
+Earnings
+Other comprehensive income
+Regulatory assets and liabilities
+Acquisitions
+Dispositions and settlements
+Balance December 31, 2019
+Gains (losses) included in:
+Earnings
+Other comprehensive income
+Regulatory assets and liabilities
+Acquisitions
+Dispositions and settlements
+Balance December 31, 2020
+$
+$
+K-105
+Net
+derivative
+contract
+liabilities
+6
+$
+(2,069)
+—
+—
+—
+2
+(1)
+7
+(118)
+2
+3
+3
+(164)
+(2,343)
+404
+—
+—
+10,000
+(4)
+10,407
+1,972
+(1)
+(26)
+6
+(465)
+(857)
+(1,426)
+—
+—
+—
+(2)
+8,979 $
+603
+—
+(17)
+5
+(621)
+(887)
+Notes to Consolidated Financial Statements (Continued)
+(20) Fair value measurements (Continued)
+We acquired investments in Occidental Cumulative Perpetual Preferred Stock (“Occidental Preferred”) and Occidental
+common stock warrants in August 2019 at an aggregate cost of $10 billion. We currently consider the related fair value
+measurements to contain Level 3 inputs. See Note 4 for information regarding these investments.
+Quantitative information as of December 31, 2020, with respect to assets and liabilities measured and carried at fair
+value on a recurring basis with the use of significant unobservable inputs (Level 3) follows (in millions).
+Principal
+Valuation
+Techniques
+Fair
+Value
+Investments in equity securities:
+Preferred stock
+$
+8,891
+Unobservable
+Inputs
+Discounted cash flow
+Weighted
+Average
+Expected duration
+Discount for transferability
+restrictions and subordination
+9 years
+375 bps
+Common stock warrants
+86
+Warrant pricing model
+Expected duration
+Volatility
+9 years
+32%
+Derivative contract liabilities
+1,065
+Option pricing model
+Volatility
+19%
+Investments in equity securities in the preceding table include our investments in the Occidental Preferred and
+Occidental common stock warrants. These investments are subject to contractual restrictions on transferability and contain
+provisions that currently prevent us from economically hedging our investments. In applying discounted cash flow techniques
+in valuing the Occidental Preferred, we made assumptions regarding the expected duration of the investment. The Occidental
+Preferred is redeemable at Occidental’s option beginning in 2029. We also made estimates regarding the impact of
+subordination, as the Occidental Preferred has a lower priority in liquidation than debt instruments. In valuing the Occidental
+common stock warrants, we used a warrant valuation model. While most of the inputs to the model are observable, we made
+assumptions regarding the expected duration and volatility of the warrants. The Occidental common stock warrants
+contractually expire on the one-year anniversary on which no Occidental Preferred remains outstanding.
+Our equity index put option contracts are illiquid and contain contract terms that are not standard in derivatives
+markets. For example, we are not required to post collateral under most of our contracts. We determine the fair value of the
+equity index put option contract liabilities based on the Black-Scholes option valuation model.
+(21) Accumulated other comprehensive income
+A summary of the net changes in after-tax accumulated other comprehensive income attributable to Berkshire
+Hathaway shareholders for each of the three years ending December 31, 2020 follows (in millions).
+Unrealized
+appreciation
+of
+investments,
+net
+Balance December 31, 2017
+Reclassifications to retained earnings upon
+adoption of new accounting standards
+Other comprehensive income, net
+Balance December 31, 2018
+Other comprehensive income, net
+Balance December 31, 2019
+Other comprehensive income, net
+Balance December 31, 2020
+$
+Foreign
+currency
+translation
+62,093 $ (3,114) $
+(61,340)
+(383)
+370
+111
+481
+55
+$
+536 $
+K-106
+Defined
+benefit
+pension
+plans
+Other
+Accumulated
+other
+comprehensive
+income
+(420) $
+12 $
+58,571
+(65)
+36
+(1,424)
+(432)
+(4,603)
+(816)
+257
+(553)
+(4,346)
+(1,369)
+1,264
+(276)
+(3,082) $ (1,645) $
+(6)
+28
+34
+(43)
+(9)
+(43)
+(52) $
+(61,375)
+(2,211)
+(5,015)
+(228)
+(5,243)
+1,000
+(4,243)
+Notes to Consolidated Financial Statements (Continued)
+(22) Common stock
+Changes in Berkshire’s issued, treasury and outstanding common stock during the three years ending December 31,
+2020 are shown in the table below. In addition to our common stock, 1,000,000 shares of preferred stock are authorized, but
+none are issued.
+Class A, $5 Par Value
+(1,650,000 shares authorized)
+Issued
+Treasury Outstanding
+Balance December 31, 2017
+Conversions of Class A common stock to
+Class B common stock and exercises of
+replacement stock options
+Treasury stock acquired
+Balance December 31, 2018
+Conversions of Class A common stock to
+Class B common stock and exercises of
+replacement stock options
+Treasury stock acquired
+Balance December 31, 2019
+Conversions of Class A common stock to
+Class B common stock and exercises of
+replacement stock options
+Treasury stock acquired
+Balance December 31, 2020
+762,755
+Class B, $0.0033 Par Value
+(3,225,000,000 shares authorized)
+Issued
+Treasury
+Outstanding
+(11,680)
+751,075 1,342,066,749
+(1,409,762) 1,340,656,987
+(20,542)
+—
+—
+(1,217)
+742,213 (12,897)
+(20,542)
+31,492,234
+(1,217)
+—
+729,316 1,373,558,983
+—
+31,492,234
+(4,729,147)
+(4,729,147)
+(6,138,909) 1,367,420,074
+(22,906)
+—
+—
+(4,440)
+719,307 (17,337)
+(22,906)
+34,624,869
+(4,440)
+—
+701,970 1,408,183,852
+—
+34,624,869
+(17,563,410) (17,563,410)
+(23,702,319) 1,384,481,533
+(40,784)
+—
+— (17,255)
+678,523 (34,592)
+(40,784)
+61,176,000
+—
+61,176,000
+(17,255)
+— (95,614,062) (95,614,062)
+643,931 1,469,359,852 (119,316,381) 1,350,043,471
+Each Class A common share is entitled to one vote per share. Class B common stock possesses dividend and
+distribution rights equal to one-fifteen-hundredth (1/1,500) of such rights of Class A common stock. Each Class B common
+share possesses voting rights equivalent to one-ten-thousandth (1/10,000) of the voting rights of a Class A share. Unless
+otherwise required under Delaware General Corporation Law, Class A and Class B common shares vote as a single class.
+Each share of Class A common stock is convertible, at the option of the holder, into 1,500 shares of Class B common stock.
+Class B common stock is not convertible into Class A common stock. On an equivalent Class A common stock basis, there
+were 1,543,960 shares outstanding as of December 31, 2020 and 1,624,958 shares outstanding as of December 31, 2019.
+Since we have two classes of common stock, we provide earnings per share data on the Consolidated Statements of
+Earnings for average equivalent Class A shares outstanding and average equivalent Class B shares outstanding. Class B
+shares are economically equivalent to one-fifteen-hundredth (1/1,500) of a Class A share. Average equivalent Class A shares
+outstanding represents average Class A shares outstanding plus one-fifteen-hundredth (1/1,500) of the average Class B shares
+outstanding. Average equivalent Class B shares outstanding represents average Class B shares outstanding plus 1,500 times
+average Class A shares outstanding.
+Berkshire’s common stock repurchase program, as amended, permits Berkshire to repurchase shares any time that
+Warren Buffett, Berkshire’s Chairman of the Board and Chief Executive Officer, and Charlie Munger, Vice Chairman of the
+Board, believe that the repurchase price is below Berkshire’s intrinsic value, conservatively determined. The program
+continues to allow share repurchases in the open market or through privately negotiated transactions and does not specify a
+maximum number of shares to be repurchased. However, repurchases will not be made if they would reduce the total value of
+Berkshire’s consolidated cash, cash equivalents and U.S. Treasury Bill holdings below $20 billion. The repurchase program
+does not obligate Berkshire to repurchase any specific dollar amount or number of Class A or Class B shares and there is no
+expiration date to the program.
+(23) Revenues from contracts with customers
+We recognize revenue when a good or service is transferred to a customer. A good or service is transferred when or as
+the customer obtains control of that good or service. Revenues are based on the consideration we expect to receive in
+connection with our promises to deliver goods and services to our customers.
+K-107
+Notes to Consolidated Financial Statements (Continued)
+(23) Revenues from contracts with customers (Continued)
+The following tables summarize customer contract revenues disaggregated by reportable segment and the source of the
+revenue for each of the three years ended December 31, 2020 (in millions). Other revenues included in consolidated revenues
+were primarily insurance premiums earned, interest, dividend and other investment income and leasing revenues, which are
+not considered to be revenues from contracts with customers under GAAP.
+2020
+Manufactured products:
+Industrial and commercial products
+Building products
+Consumer products
+Grocery and convenience store distribution
+Food and beverage distribution
+Auto sales
+Other retail and wholesale distribution
+Service
+Electricity and natural gas
+Total
+Other revenues
+McLane
+Company
+Manufacturing
+$
+$
+Service and
+retailing
+Berkshire Insurance,
+Hathaway Corporate
+Energy
+and other
+BNSF
+Total
+20,772 $
+— $
+192 $
+— $
+— $
+— $ 20,964
+15,943
+—
+—
+—
+—
+—
+15,943
+14,757
+—
+—
+—
+—
+—
+14,757
+— 30,795
+—
+—
+—
+—
+30,795
+— 15,368
+—
+—
+—
+—
+15,368
+—
+—
+8,258
+—
+—
+—
+8,258
+2,452
+—
+12,470
+—
+—
+—
+14,922
+1,456
+584
+3,332 20,693
+4,595
+—
+30,660
+—
+—
+—
+—
+15,066
+—
+15,066
+55,380 46,747
+24,252 20,693
+19,661
+— 166,733
+3,598
+93
+3,859
+57
+1,353
+69,817
+78,777
+58,978 $ 46,840 $ 28,111 $ 20,750 $ 21,014 $ 69,817 $245,510
+2019
+Manufactured products:
+Industrial and commercial products
+Building products
+Consumer products
+Grocery and convenience store distribution
+Food and beverage distribution
+Auto sales
+Other retail and wholesale distribution
+Service
+Electricity and natural gas
+Total
+Other revenues
+$ 25,311
+15,620
+14,120
+—
+—
+—
+2,299
+1,642
+—
+58,992
+3,632
+$ 62,624
+$
+—
+—
+—
+33,057
+16,767
+—
+—
+539
+—
+50,363
+95
+$ 50,458
+$
+184
+—
+—
+—
+—
+8,481
+12,213
+4,062
+—
+24,940
+4,459
+$ 29,399
+$
+—
+—
+—
+—
+—
+—
+—
+23,302
+—
+23,302
+55
+$ 23,357
+$
+—
+—
+—
+—
+—
+—
+—
+4,096
+14,819
+18,915
+1,181
+$ 20,096
+$
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+68,682
+$ 68,682
+$ 25,495
+15,620
+14,120
+33,057
+16,767
+8,481
+14,512
+33,641
+14,819
+176,512
+78,104
+$254,616
+$ 25,707
+14,323
+14,790
+—
+—
+—
+2,091
+1,519
+—
+58,430
+3,340
+$ 61,770
+$
+$
+$
+$
+$
+$ 25,911
+14,323
+14,790
+33,518
+16,309
+8,181
+14,158
+33,304
+14,951
+175,445
+72,392
+$247,837
+2018
+Manufactured products:
+Industrial and commercial products
+Building products
+Consumer products
+Grocery and convenience store distribution
+Food and beverage distribution
+Auto sales
+Other retail and wholesale distribution
+Service
+Electricity and natural gas
+Total
+Other revenues
+—
+—
+—
+33,518
+16,309
+—
+—
+84
+—
+49,911
+76
+$ 49,987
+K-108
+204
+—
+—
+—
+—
+8,181
+12,067
+4,100
+—
+24,552
+4,297
+$ 28,849
+—
+—
+—
+—
+—
+—
+—
+23,652
+—
+23,652
+51
+$ 23,703
+—
+—
+—
+—
+—
+—
+—
+3,949
+14,951
+18,900
+1,070
+$ 19,970
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+63,558
+$ 63,558
+Notes to Consolidated Financial Statements (Continued)
+(23) Revenues from contracts with customers (Continued)
+A summary of the transaction price allocated to the significant unsatisfied remaining performance obligations relating
+to contracts with expected durations in excess of one year as of December 31, 2020 and the timing of when the performance
+obligations are expected to be satisfied follows (in millions).
+Less than
+12 months
+Electricity and natural gas
+Other sales and service contracts
+$
+Greater than
+12 months
+3,210
+1,228
+$
+22,088
+2,382
+Total
+$
+25,298
+3,610
+(24) Pension plans
+Certain of our subsidiaries sponsor defined benefit pension plans. Benefits under the plans are generally based on years
+of service and compensation or fixed benefit rates. Plan sponsors may make contributions to the plans to meet regulatory
+requirements and may also make discretionary contributions. The components of our net periodic pension expense for each of
+the three years ending December 31, 2020 follow (in millions).
+2020
+Service cost
+Interest cost
+Expected return on plan assets
+Amortization of actuarial losses and other
+Net periodic pension expense
+$
+$
+2019
+235 $
+510
+(955)
+171
+(39) $
+224 $
+618
+(936)
+26
+(68) $
+2018
+271
+593
+(988)
+188
+64
+The projected benefit obligation (“PBO”) is the actuarial present value of benefits earned based upon service and
+compensation prior to the valuation date and, if applicable, includes assumptions regarding future compensation levels.
+Benefit obligations under qualified U.S. defined benefit pension plans are funded through assets held in trusts. Pension
+obligations under certain non-U.S. plans and non-qualified U.S. plans are unfunded and the aggregate PBOs of such plans
+were approximately $1.6 billion and $1.3 billion as of December 31, 2020 and 2019, respectively. The cost of pension plans
+covering employees of certain regulated subsidiaries of BHE are generally recoverable through the regulated rate making
+process.
+The funded status at year end 2020 and 2019 and reconciliations of the changes in PBOs and plan assets related to
+BHE’s pension plans and all other pension plans for each of the two years ending December 31, 2020 follow (in millions).
+2020
+Other
+Total
+4,898 $
+33
+133
+(285)
+(63)
+566
+5,282 $
+13,808 $
+202
+377
+(709)
+(12)
+1,481
+15,147 $
+18,706 $
+235
+510
+(994)
+(75)
+2,047
+20,429 $
+4,808 $
+69
+(285)
+554
+(63)
+75
+5,158 $
+124 $
+11,688 $
+127
+(709)
+1,820
+(12)
+(134)
+12,780 $
+2,367 $
+16,496 $
+196
+(994)
+2,374
+(75)
+(59)
+17,938 $
+2,491 $
+BHE
+Benefit obligations
+PBO beginning of year
+Service cost
+Interest cost
+Benefits paid
+Settlements
+Actuarial (gains) or losses and other
+PBO end of year
+Plan assets
+Plan assets beginning of year
+Employer contributions
+Benefits paid
+Actual return on plan assets
+Settlements
+Other
+Plan assets end of year
+Funded status – net liability
+$
+$
+$
+$
+$
+K-109
+2019
+Other
+Total
+4,551 $
+32
+161
+(257)
+(121)
+532
+4,898 $
+12,371 $
+192
+457
+(776)
+(46)
+1,610
+13,808 $
+16,922
+224
+618
+(1,033)
+(167)
+2,142
+18,706
+4,385 $
+68
+(257)
+650
+(121)
+83
+4,808 $
+90 $
+10,574 $
+131
+(776)
+1,764
+(46)
+41
+11,688 $
+2,120 $
+14,959
+199
+(1,033)
+2,414
+(167)
+124
+16,496
+2,210
+BHE
+Notes to Consolidated Financial Statements (Continued)
+(24) Pension plans (Continued)
+The funded status reflected in assets was $1,351 million and in liabilities was $3,842 million at December 31, 2020.
+The funded status included in assets was $857 million and in liabilities was $3,067 million at December 31, 2019.
+The accumulated benefit obligation (“ABO”) is the actuarial present value of benefits earned based on service and
+compensation prior to the valuation date. The ABO was $19.4 billion at December 31, 2020 and $17.5 billion at December
+31, 2019. Information for plans with PBOs and ABOs in excess of plan assets as of December 31, 2020 and 2019 follows (in
+millions)
+2020
+PBOs
+Plan assets
+$
+ABOs
+Plan assets
+2019
+12,775 $
+9,018
+12,625
+9,627
+10,875
+7,820
+10,617
+8,367
+Weighted average assumptions used in determining PBOs and net periodic pension expense follow.
+2020
+Discount rate applicable to pension benefit obligations
+Expected long-term rate of return on plan assets
+Rate of compensation increase
+Discount rate applicable to net periodic pension expense
+2019
+2.3%
+6.2
+2.6
+3.1
+2018
+3.1%
+6.4
+2.5
+4.0
+3.9%
+6.4
+2.6
+3.4
+Pension benefit payments expected over the next ten years are as follows (in millions): 2021 – $1,105; 2022 – $1,031;
+2023 – $1,034; 2024 – $1,037; 2025 – $1,040; and 2026 to 2030 – $5,119. Sponsoring subsidiaries expect to contribute $202
+million to the plans in 2021.
+Fair value measurements of plan assets as of December 31, 2020 and 2019 follow (in millions).
+Fair Value
+Total
+December 31, 2020
+Cash and cash equivalents
+Equity securities
+Fixed maturity securities
+Investment funds and other
+$
+$
+December 31, 2019
+Cash and cash equivalents
+Equity securities
+Fixed maturity securities
+Investment funds and other
+$
+$
+Level 1
+383
+11,383
+3,173
+2,999
+17,938
+$
+412
+11,105
+2,328
+2,651
+16,496
+$
+$
+$
+Level 2
+243
+10,123
+2,214
+198
+12,778
+$
+309
+9,860
+1,593
+143
+11,905
+$
+$
+$
+Level 3
+140
+851
+926
+398
+2,315
+$
+103
+836
+704
+358
+2,001
+$
+$
+$
+Investment
+funds and
+partnerships
+at net asset
+value
+—
+409
+33
+56
+498
+$
+—
+409
+31
+40
+480
+$
+$
+$
+—
+—
+—
+2,347
+2,347
+—
+—
+—
+2,110
+2,110
+See Note 20 for a discussion of the three levels of fair value measurements. Plan assets are generally invested with the
+long-term objective of producing earnings to adequately cover expected benefit obligations, while assuming a prudent level
+of risk. Allocations may change due to changing market conditions and investment opportunities. The expected rates of
+return on plan assets reflect subjective assessments of expected long-term investment returns. Generally, past investment
+returns are not given significant consideration when establishing assumptions for expected long-term rates of return on plan
+assets. Actual experience will differ from the assumed rates of return.
+K-110
+Notes to Consolidated Financial Statements (Continued)
+(24) Pension plans (Continued)
+A reconciliation of the pre-tax accumulated other comprehensive income (loss) related to defined benefit pension plans
+for each of the two years ending December 31, 2020 follows (in millions).
+2020
+Balance beginning of year
+Amount included in net periodic pension expense
+Actuarial gains (losses) and other
+Balance end of year
+$
+$
+2019
+(1,896)
+141
+(496)
+(2,251)
+$
+(1,184)
+94
+(806)
+(1,896)
+$
+Several of our subsidiaries also sponsor defined contribution retirement plans, such as 401(k) or profit-sharing plans.
+Employee contributions are subject to regulatory limitations and the specific plan provisions. Several plans provide for
+employer matching contributions up to levels specified in the plans and provide for additional discretionary contributions as
+determined by management. Our defined contribution plan expense was approximately $1.4 billion in 2020, $1.2 billion in
+2019 and $1.0 billion in 2018.
+(25) Contingencies and Commitments
+We are parties in a variety of legal actions that routinely arise out of the normal course of business, including legal
+actions seeking to establish liability directly through insurance contracts or indirectly through reinsurance contracts issued by
+Berkshire subsidiaries. Plaintiffs occasionally seek punitive or exemplary damages. We do not believe that such normal and
+routine litigation will have a material effect on our financial condition or results of operations. Berkshire and certain of its
+subsidiaries are also involved in other kinds of legal actions, some of which assert or may assert claims or seek to impose
+fines and penalties. We believe that any liability that may arise as a result of other pending legal actions will not have a
+material effect on our consolidated financial condition or results of operations.
+Our subsidiaries regularly make commitments in the ordinary course of business to purchase goods and services used
+in their businesses. As of December 31, 2020, estimated future payments under such arrangements were as follows: $14.6
+billion in 2021, $4.5 billion in 2022, $3.4 billion in 2023, $2.8 billion in 2024, $3.1 billion in 2025 and $20.0 billion after
+2025. The most significant of these relate to our railroad, utilities and energy businesses and our shared aircraft ownership
+and leasing business.
+Pursuant to the terms of agreements with noncontrolling shareholders in our less than wholly-owned subsidiaries, we
+may be obligated to acquire their equity interests. If we had acquired all outstanding noncontrolling interests as of
+December 31, 2020, we estimate the cost would have been approximately $6.3 billion. However, the timing and the amount
+of any such future payments that might be required are contingent on future actions of the noncontrolling owners.
+(26) Supplemental cash flow information
+A summary of supplemental cash flow information for each of the three years ending December 31, 2020 is presented
+in the following table (in millions).
+2020
+Cash paid during the period for:
+Income taxes
+Interest:
+Insurance and other
+Railroad, utilities and energy
+Non-cash investing and financing activities:
+Liabilities assumed in connection with business acquisitions
+Operating lease liabilities arising from obtaining right-of-use assets
+K-111
+$
+5,001
+2019
+$
+5,415
+2018
+$
+4,354
+1,001
+3,006
+1,011
+2,879
+1,111
+2,867
+6,981
+729
+766
+782
+3,735
+—
+Notes to Consolidated Financial Statements (Continued)
+(27) Business segment data
+Our operating businesses include a large and diverse group of insurance, manufacturing, service and retailing
+businesses. We organize our reportable business segments in a manner that reflects how management views those business
+activities. Certain businesses are grouped together for segment reporting based upon similar products or product lines,
+marketing, selling and distribution characteristics, even though those business units are operated under separate local
+management.
+The tabular information that follows shows data of reportable segments reconciled to amounts reflected in our
+Consolidated Financial Statements. Intersegment transactions are not eliminated from segment results when management
+considers those transactions in assessing the results of the respective segments. Furthermore, our management does not
+consider investment and derivative gains/losses, impairments or amortization of certain business acquisition accounting
+adjustments related to Berkshire’s business acquisitions or certain other corporate income and expense items in assessing the
+financial performance of operating units. Collectively, these items are included in reconciliations of segment amounts to
+consolidated amounts.
+Berkshire’s operating segments are as follows.
+Business Identity
+Insurance:
+Business Activity
+GEICO
+Underwriting private passenger automobile insurance mainly by direct
+response methods
+Berkshire Hathaway Primary Group
+Underwriting multiple lines of property and casualty insurance policies
+for primarily commercial accounts
+Berkshire Hathaway Reinsurance Group
+Underwriting excess-of-loss, quota-share and facultative reinsurance
+worldwide
+BNSF
+Operation of one of the largest railroad systems in North America
+Berkshire Hathaway Energy
+Regulated electric and gas utility, including power generation and
+distribution activities and real estate brokerage activities
+Manufacturing
+Manufacturers of numerous products including industrial, consumer and
+building products, including home building and related financial
+services
+McLane Company
+Wholesale distribution of groceries and non-food items
+Service and retailing
+Providers of numerous services including shared aircraft ownership
+programs, aviation pilot training, electronic components distribution,
+various retailing businesses, including automobile dealerships and trailer
+and furniture leasing
+K-112
+Notes to Consolidated Financial Statements (Continued)
+(27) Business segment data (Continued)
+A disaggregation of our consolidated data for each of the three most recent years is presented as follows (in millions).
+Revenues
+2019
+2020
+Operating Businesses
+Insurance:
+Underwriting:
+GEICO
+$
+Berkshire Hathaway Primary Group
+Berkshire Hathaway Reinsurance Group
+Insurance underwriting
+Investment income
+Total insurance
+BNSF
+Berkshire Hathaway Energy
+Manufacturing
+McLane Company
+Service and retailing
+Reconciliation to consolidated amount
+Investment and derivative gains/losses
+Interest expense, not allocated to segments
+Equity method investments
+Goodwill and intangible asset impairments
+Corporate, eliminations and other
+Operating Businesses
+Insurance
+BNSF
+Berkshire Hathaway Energy
+Manufacturing
+McLane Company
+Service and retailing
+35,093
+9,615
+18,693
+63,401
+5,960
+69,361
+$
+35,572
+9,165
+16,341
+61,078
+6,615
+67,693
+$
+33,363
+8,111
+15,944
+57,418
+5,518
+62,936
+20,869
+21,031
+59,079
+46,840
+28,178
+245,358
+23,515
+20,114
+62,730
+50,458
+29,487
+253,997
+23,855
+19,987
+61,883
+49,987
+28,939
+247,587
+—
+—
+—
+—
+152
+$ 245,510
+—
+—
+—
+—
+619
+$ 254,616
+—
+—
+—
+—
+250
+$ 247,837
+2020
+Interest expense
+2019
+2018
+$
+Reconciliation to consolidated amount
+Investment and derivative gains/losses
+Interest expense, not allocated to segments
+Equity method investments
+Corporate, eliminations and other
+$
+—
+1,037
+1,941
+737
+—
+61
+3,776
+$
+—
+483
+—
+(176)
+4,083 $
+—
+1,070
+1,835
+752
+—
+86
+3,743
+$
+—
+416
+—
+(198)
+3,961 $
+K-113
+Earnings before income taxes
+2020
+2019
+2018
+2018
+—
+1,041
+1,777
+690
+15
+91
+3,614
+$
+3,428 $
+110
+(2,700)
+838
+5,949
+6,787
+1,506 $
+383
+(1,472)
+417
+6,600
+7,017
+2,449
+670
+(1,109)
+2,010
+5,503
+7,513
+6,792
+2,479
+8,010
+251
+2,628
+26,947
+7,250
+2,618
+9,522
+288
+2,555
+29,250
+6,863
+2,472
+9,366
+246
+2,696
+29,156
+40,746
+72,607
+(22,455)
+(483)
+(416)
+(458)
+726
+1,176
+(2,167)
+(10,671)
+(96)
+(382)
+(1,572)
+175
+307
+$ 55,693 $ 102,696 $
+4,001
+2020
+Income tax expense
+2019
+2018
+$
+1,089 $
+1,631
+(1,010)
+1,795
+71
+669
+4,245
+1,166 $
+1,769
+(526)
+2,253
+71
+603
+5,336
+1,374
+1,644
+(452)
+2,188
+59
+634
+5,447
+—
+458
+—
+(219)
+3,853 $
+8,855
+(102)
+57
+(615)
+12,440 $
+15,159
+(88)
+148
+349
+20,904 $
+(4,673)
+(96)
+(753)
+(246)
+(321)
+Notes to Consolidated Financial Statements (Continued)
+(27) Business segment data (Continued)
+2020
+Operating Businesses
+Insurance
+BNSF
+Berkshire Hathaway Energy
+Manufacturing
+McLane Company
+Service and retailing
+$
+50
+3,063
+6,765
+2,133
+98
+903
+$ 13,012
+2020
+Operating Businesses
+Insurance
+BNSF
+Berkshire Hathaway Energy
+Manufacturing
+McLane Company
+Service and retailing
+Capital expenditures
+2019
+2018
+$
+108
+3,608
+7,364
+2,981
+158
+1,760
+$ 15,979
+$
+130
+3,187
+6,241
+3,116
+276
+1,587
+$ 14,537
+Depreciation of tangible assets
+2020
+2019
+2018
+$
+$
+Goodwill at year-end
+2019
+2018
+$ 15,224
+14,851
+11,763
+25,512
+232
+6,152
+$ 73,734
+$ 15,289
+14,851
+9,979
+34,800
+734
+6,229
+$ 81,882
+$ 15,289
+14,851
+9,851
+34,019
+734
+6,281
+$ 81,025
+Reconciliation to consolidated amount
+Corporate and other
+Goodwill
+74
+2,423
+3,376
+2,026
+204
+1,216
+9,319
+$
+$
+82
+2,350
+2,947
+1,951
+225
+1,192
+8,747
+$
+$
+79
+2,268
+2,830
+1,890
+204
+1,115
+8,386
+Identifiable assets at year-end
+2020
+2019
+2018
+$ 399,169
+73,809
+109,286
+104,318
+6,771
+26,173
+719,526
+$ 364,550
+73,699
+88,651
+104,437
+6,872
+26,494
+664,703
+$ 289,746
+70,242
+80,543
+99,912
+6,243
+24,724
+571,410
+80,469
+73,734
+$ 873,729
+71,144
+81,882
+$ 817,729
+55,359
+81,025
+$ 707,794
+Property/casualty and life/health insurance premiums written and earned are summarized below (in millions).
+2020
+Premiums Written:
+Direct
+Assumed
+Ceded
+Premiums Earned:
+Direct
+Assumed
+Ceded
+Property/Casualty
+2019
+2018
+2020
+Life/Health
+2019
+2018
+$ 47,838 $ 47,578 $ 44,513 $
+11,533
+10,214
+8,970
+(898)
+(821)
+(869)
+$ 58,473 $ 56,971 $ 52,614 $
+510 $
+5,960
+(42)
+6,428 $
+839 $
+5,046
+(45)
+5,840 $
+1,111
+5,540
+(49)
+6,602
+$ 46,418 $ 46,540 $ 43,095 $
+11,449
+9,643
+8,649
+(907)
+(851)
+(825)
+$ 56,960 $ 55,332 $ 50,919 $
+510 $
+5,973
+(42)
+6,441 $
+839 $
+4,952
+(45)
+5,746 $
+1,111
+5,438
+(50)
+6,499
+K-114
+Notes to Consolidated Financial Statements (Continued)
+(27) Business segment data (Continued)
+Insurance premiums written by geographic region (based upon the domicile of the insured or reinsured) are
+summarized below (in millions).
+2020
+United States
+Western Europe
+Asia Pacific
+All other
+$
+$
+Property/Casualty
+2019
+50,250 $
+3,751
+3,410
+1,062
+58,473 $
+2018
+50,529 $
+2,535
+3,114
+793
+56,971 $
+Life/Health
+2019
+2020
+46,146
+2,157
+3,726
+585
+52,614
+$
+$
+2,820 $
+1,120
+1,652
+836
+6,428 $
+2018
+2,553 $
+908
+1,582
+797
+5,840 $
+3,598
+939
+1,361
+704
+6,602
+Consolidated sales, service and leasing revenues were $132.3 billion in 2020, $140.8 billion in 2019 and $139.1 billion
+in 2018. Sales, service and leasing revenues attributable to the United States were 86% in 2020, 85% in 2019 and 84% in
+2018 of such amounts. The remainder of sales, service and leasing revenues were primarily in Europe, Canada and the Asia
+Pacific. Railroad, utilities and energy revenues were $41.8 billion in 2020, $43.5 billion in 2019 and $43.7 billion in 2018. In
+each of the three years, approximately 96% of such revenues were attributable to the United States. At December 31, 2020,
+approximately 89% of our consolidated net property, plant and equipment and equipment held for lease was located in the
+United States with the remainder primarily in Canada and the United Kingdom.
+(28) Quarterly data
+A summary of revenues and net earnings by quarter for each of the last two years follows. This information is
+unaudited. Amounts are in millions, except per share amounts.
+1st
+Quarter
+2020
+Revenues
+Net earnings (loss) attributable to Berkshire shareholders *
+Net earnings (loss) attributable to Berkshire shareholders per
+equivalent Class A common share
+2019
+Revenues
+Net earnings attributable to Berkshire shareholders *
+Net earnings attributable to Berkshire shareholders per
+equivalent Class A common share
+∗
+$
+$
+2nd
+Quarter
+61,265 $
+(49,746)
+56,840
+26,295
+(30,653)
+16,314
+60,678
+21,661
+$
+13,209
+63,598
+14,073
+3rd
+Quarter
+$
+63,024
+30,137
+4th
+Quarter
+$
+18,994
+$
+8,608
+64,972
+16,524
+64,381
+35,835
+23,015
+$
+10,119
+65,368
+29,159
+17,909
+Includes after-tax investment and derivative gains/losses as follows:
+1st
+Quarter
+2020
+2019
+$
+K-115
+(55,617) $
+16,106
+2nd
+Quarter
+31,645
+7,934
+3rd
+Quarter
+$
+24,737
+8,666
+4th
+Quarter
+$
+30,826
+24,739
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None
+Item 9A. Controls and Procedures
+At the end of the period covered by this Annual Report on Form 10-K, the Corporation carried out an evaluation, under
+the supervision and with the participation of the Corporation’s management, including the Chairman (Chief Executive
+Officer) and the Senior Vice President (Chief Financial Officer), of the effectiveness of the design and operation of the
+Corporation’s disclosure controls and procedures pursuant to Exchange Act Rule 13a-15. Based upon that evaluation, the
+Chairman (Chief Executive Officer) and the Senior Vice President (Chief Financial Officer) concluded that the Corporation’s
+disclosure controls and procedures are effective in timely alerting them to material information relating to the Corporation
+(including its consolidated subsidiaries) required to be included in the Corporation’s periodic SEC filings. The report called
+for by Item 308(a) of Regulation S-K is incorporated herein by reference to Management’s Report on Internal Control Over
+Financial Reporting, included on page K-66 of this report. The attestation report called for by Item 308(b) of Regulation S-K
+is incorporated herein by reference to Report of Independent Registered Public Accounting Firm, included on page K-67 of
+this report. There has been no change in the Corporation’s internal control over financial reporting during the quarter ended
+December 31, 2020 that has materially affected, or is reasonably likely to materially affect, the Corporation’s internal control
+over financial reporting.
+Item 9B. Other Information
+None
+Part III
+Except for the information set forth under the caption “Executive Officers of the Registrant” in Part I hereof,
+information required by this Part (Items 10, 11, 12, 13 and 14) is incorporated by reference from the Registrant’s definitive
+proxy statement, filed pursuant to Regulation 14A, for the Annual Meeting of Shareholders of the Registrant to be held on
+May 1, 2021, which meeting will involve the election of directors.
+Part IV
+Item 15. Exhibits and Financial Statement Schedules
+(a)1. Financial Statements
+The following Consolidated Financial Statements, as well as the Report of Independent Registered Public Accounting
+Firm, are included in Part II Item 8 of this report:
+PAGE
+Report of Independent Registered Public Accounting Firm
+Consolidated Balance Sheets—
+December 31, 2020 and December 31, 2019
+Consolidated Statements of Earnings—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018
+Consolidated Statements of Comprehensive Income—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018
+Consolidated Statements of Changes in Shareholders’ Equity—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018
+Consolidated Statements of Cash Flows—
+Years Ended December 31, 2020, December 31, 2019, and December 31, 2018
+Notes to Consolidated Financial Statements
+2. Financial Statement Schedule
+Report of Independent Registered Public Accounting Firm
+Schedule I—Parent Company Condensed Financial Information
+Balance Sheets as of December 31, 2020 and 2019, Statements of Earnings and Comprehensive Income
+and Cash Flows for the years ended December 31, 2020, December 31, 2019 and December 31, 2018
+and Note to Condensed Financial Information
+Other schedules are omitted because they are not required, information therein is not applicable, or is reflected in
+the Consolidated Financial Statements or notes thereto.
+(b) Exhibits
+See the “Exhibit Index” at page K-120.
+K-116
+K-67
+K-70
+K-72
+K-73
+K-73
+K-74
+K-75
+K-117
+K-118
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and the Board of Directors of
+Berkshire Hathaway Inc.
+Omaha, Nebraska
+Opinion on the Financial Statement Schedule
+We have audited the consolidated financial statements of Berkshire Hathaway Inc. and subsidiaries (the “Company”) as of
+December 31, 2020 and 2019, and for each of the three years in the period ended December 31, 2020, and the Company’s
+internal control over financial reporting as of December 31, 2020, and have issued our report thereon dated February 27,
+2021; such consolidated financial statements and report are included elsewhere in this Form 10-K. Our audits also included
+the financial statement schedule of the Company listed in the Index at Item 15. This financial statement schedule is the
+responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial
+statement schedule based on our audits. In our opinion, such financial statement schedule, when considered in relation to the
+financial statements taken as a whole, presents fairly, in all material respects, the information set forth therein.
+/s/ Deloitte & Touche LLP
+Omaha, Nebraska
+February 27, 2021
+K-117
+BERKSHIRE HATHAWAY INC. (Parent Company)
+Condensed Financial Information
+(Dollars in millions)
+Schedule I
+Balance Sheets
+December 31,
+2020
+Assets:
+Cash and cash equivalents
+Short-term investments in U.S. Treasury Bills
+Investments in and advances to/from consolidated subsidiaries
+Investment in The Kraft Heinz Company
+Other assets
+$
+$
+Liabilities and Shareholders’ Equity:
+Accounts payable, accrued interest and other liabilities
+Income taxes, principally deferred
+Notes payable and other borrowings
+$
+Berkshire Hathaway shareholders’ equity
+$
+2019
+12,329
+29,773
+411,826
+13,336
+108
+467,372
+$
+369
+1,174
+22,665
+24,208
+443,164
+467,372
+$
+$
+$
+15,004
+25,514
+392,162
+13,757
+131
+446,568
+320
+1,554
+19,903
+21,777
+424,791
+446,568
+Statements of Earnings and Comprehensive Income
+2020
+Income items:
+From consolidated subsidiaries:
+Dividends and distributions
+Undistributed earnings (losses)
+$
+Investment gains (losses)
+Equity in net earnings (losses) of The Kraft Heinz Company
+Other income
+Cost and expense items:
+General and administrative
+Interest expense
+Foreign exchange (gains) losses on non-U.S. Dollar denominated debt
+Income tax expense (benefit)
+Net earnings attributable to Berkshire Hathaway shareholders
+Other comprehensive income attributable to Berkshire Hathaway shareholders
+Comprehensive income attributable to Berkshire Hathaway shareholders
+$
+See Note to Condensed Financial Information
+K-118
+Year ended December 31,
+2019
+2018
+26,110 $
+17,402
+43,512
+(24)
+95
+328
+43,911
+15,603 $
+65,237
+80,840
+(125)
+493
+780
+81,988
+9,658
+(3,952)
+5,706
+(4)
+(2,730)
+649
+3,621
+194
+489
+970
+(263)
+1,390
+42,521
+1,000
+43,521 $
+122
+591
+(193)
+51
+571
+81,417
+(228)
+81,189 $
+216
+601
+(366)
+(851)
+(400)
+4,021
+(2,211)
+1,810
+BERKSHIRE HATHAWAY INC. (Parent Company)
+Condensed Financial Information
+(Dollars in millions)
+Schedule I (continued)
+Statements of Cash Flows
+2020
+Cash flows from operating activities:
+Net earnings attributable to Berkshire Hathaway shareholders
+Adjustments to reconcile net earnings to cash flows from operating activities:
+Investment gains/losses
+Undistributed earnings of consolidated subsidiaries
+Non-cash dividends from subsidiaries
+Income taxes payable
+Other
+Net cash flows from operating activities
+Cash flows from investing activities:
+Investments in and advances to/from consolidated subsidiaries, net
+Purchases of U.S. Treasury Bills
+Sales and maturities of U.S. Treasury Bills
+Other
+Net cash flows from investing activities
+Cash flows from financing activities:
+Proceeds from borrowings
+Repayments of borrowings
+Acquisition of treasury stock
+Other
+Net cash flows from financing activities
+Increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of year
+Cash and cash equivalents at end of year
+Other cash flow information:
+Income taxes paid
+Interest paid
+$
+$
+$
+Year ended December 31,
+2019
+2018
+42,521
+$
+81,417
+$
+4,021
+24
+(17,402)
+(8,296)
+(72)
+1,100
+17,875
+125
+(65,237)
+—
+(56)
+(693)
+15,556
+4
+3,952
+—
+(972)
+3,062
+10,067
+(1,947)
+(54,715)
+59,035
+11
+2,384
+60
+(40,107)
+36,943
+737
+(2,367)
+460
+(29,740)
+21,442
+—
+(7,838)
+2,923
+(1,151)
+(24,706)
+—
+(22,934)
+(2,675)
+15,004
+12,329 $
+3,967
+(758)
+(4,850)
+19
+(1,622)
+11,567
+3,437
+15,004 $
+17
+(1,563)
+(1,346)
+61
+(2,831)
+(602)
+4,039
+3,437
+3,391
+359
+3,531
+364
+2,790
+388
+$
+$
+Note to Condensed Financial Information
+Berkshire currently owns 26.6% of the outstanding shares of The Kraft Heinz Company (“Kraft Heinz”) common
+stock, which is accounted for pursuant to the equity method. See Note 5 to the accompanying Consolidated Financial
+Statements for additional information regarding this investment.
+In 2020, the Parent Company repaid €1.0 billion of maturing senior notes and issued €1.0 billion of 0.0% senior notes
+due in 2025 and ¥195.5 billion (approximately $1.8 billion) of senior notes with maturity dates ranging from 2023 to 2060
+with a weighted average interest rate of 1.07%. As of December 31, 2020, the Parent Company’s non-U.S. Dollar
+denominated borrowings included €6.85 billion and ¥625.5 billion par value senior notes. The gains and losses from the
+periodic remeasurement of these non-U.S. Dollar denominated notes due to changes in foreign currency exchange rates are
+included in earnings. See Note 17 to the accompanying Consolidated Financial Statements for additional information.
+Parent Company debt maturities over the next five years are as follows: 2021—$2,172 million; 2022—$600 million;
+2023—$4,633 million; 2024—$2,272 million and 2025—$1,801 million. The Parent Company guarantees certain debt of
+subsidiaries, which in the aggregate, approximated $14.4 billion at December 31, 2020 and included $13.1 billion of debt
+issued by Berkshire Hathaway Finance Corporation. Such guarantees are an absolute, unconditional and irrevocable
+guarantee for the full and prompt payment when due of all present and future payment obligations. The Parent Company has
+also provided guarantees in connection with equity index put option contracts and certain retroactive reinsurance contracts
+issued by subsidiaries. The amounts of subsidiary payments under these contracts, if any, is contingent upon the outcome of
+future events.
+K-119
+EXHIBIT INDEX
+Exhibit No.
+2(i)
+Agreement and Plan of Merger dated as of June 19, 1998 between Berkshire and General Re Corporation.
+Incorporated by reference to Annex I to Registration Statement No. 333-61129 filed on Form S-4.
+2(ii)
+Agreement and Plan of Merger dated as of November 2, 2009 by and among Berkshire, R Acquisition
+Company, LLC and BNSF. Incorporated by reference to Annex A to Registration Statement No. 333-163343
+on Form S-4.
+2(iii)
+Agreement and Plan of Merger dated August 8, 2015, by and among Berkshire, NW Merger Sub Inc. and
+Precision Castparts Corporation (“PCC”) Incorporated by reference to Exhibit 2.1 to PCC’s Current Report on
+Form 8-K filed on August 10, 2015 (SEC File No. 001-10348)
+3(i)
+Restated Certificate of Incorporation Incorporated by reference to Exhibit 3(i) to Form 10-K filed on March 2,
+2015.
+3(ii)
+By-Laws Incorporated by reference to Exhibit 3(ii) to Form 8-K filed on May 4, 2016.
+4.1
+Indenture, dated as of December 22, 2003, between Berkshire Hathaway Finance Corporation, Berkshire
+Hathaway Inc. and The Bank of New York Mellon Trust Company, N.A. (as successor to J.P. Morgan Trust
+Company, National Association), as trustee. Incorporated by reference to Exhibit 4.1 on Form S-4 of Berkshire
+Hathaway Finance Corporation and Berkshire Hathaway Inc. filed on February 4, 2004. SEC File No. 333112486
+4.2
+Indenture, dated as of February 1, 2010, among Berkshire Hathaway Inc., Berkshire Hathaway Finance
+Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee. Incorporated by reference to
+Exhibit 4.1 to Berkshire’s Registration Statement on Form S-3 filed on February 1, 2010. SEC File No. 333164611
+4.3
+Indenture, dated as of January 26, 2016, by and among Berkshire Hathaway Inc., Berkshire Hathaway Finance
+Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee. Incorporated by reference to
+Exhibit 4.1 to Berkshire’s Registration Statement on Form S-3 filed on January 26, 2016. SEC File No. 333209122
+4.4
+Indenture, dated as of December 1, 1995, between BNSF and The First National Bank of Chicago, as trustee.
+Incorporated by reference to Exhibit 4 on Form S-3 of BNSF filed on February 8, 1999.
+4.5
+Indenture, dated as of October 4, 2002, by and between MidAmerican Energy Holdings Company and The
+Bank of New York, Trustee. Incorporated by reference to Exhibit 4.1 to the Berkshire Hathaway Energy
+Company Registration Statement No. 333-101699 dated December 6, 2002.
+Other instruments defining the rights of holders of long-term debt of Registrant and its subsidiaries are
+not being filed since the total amount of securities authorized by all other such instruments does not
+exceed 10% of the total assets of the Registrant and its subsidiaries on a consolidated basis as of
+December 31, 2020. The Registrant hereby agrees to furnish to the Commission upon request a copy of
+any such debt instrument to which it is a party.
+10.1
+Equity Commitment Letter of Berkshire Hathaway Inc. with Hawk Acquisition Holding Corporation dated
+February 13, 2013. Incorporated by reference to Exhibit 10.1 on Form 8-K of Berkshire Hathaway Inc. filed on
+February 14, 2013.
+14
+Code of Ethics
+Berkshire’s Code of Business Conduct and Ethics is posted on its Internet website at
+www.berkshirehathaway.com
+21
+Subsidiaries of Registrant
+23
+Consent of Independent Registered Public Accounting Firm
+31.1
+Rule 13a—14(a)/15d-14(a) Certification
+31.2
+Rule 13a—14(a)/15d-14(a) Certification
+32.1
+Section 1350 Certification
+32.2
+Section 1350 Certification
+K-120
+Exhibit No.
+95
+Mine Safety Disclosures
+101
+The following financial information from Berkshire Hathaway Inc.’s Annual Report on Form 10-K for the year
+ended December 31, 2020, formatted in iXBRL (Inline Extensible Business Reporting Language) includes: (i)
+the Cover Page (ii) the Consolidated Balance Sheets, (iii) the Consolidated Statements of Earnings, (iv) the
+Consolidated Statements of Comprehensive Income, (v) the Consolidated Statements of Changes in
+Shareholders’ Equity, (vi) the Consolidated Statements of Cash Flows, and (vii) the Notes to Consolidated
+Financial Statements and Schedule I, tagged in summary and detail.
+104
+Cover Page Interactive Data File (formatted as iXBRL and contained in Exhibit 101)
+K-121
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+BERKSHIRE HATHAWAY INC.
+Date: February 27, 2021
+/S/
+MARC D. HAMBURG
+Marc D. Hamburg
+Senior Vice President and
+Principal Financial Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+/S/ WARREN E. BUFFETT
+Warren E. Buffett
+/S/ GREGORY E. ABEL
+Chairman of the Board of
+Directors—Chief Executive Officer
+February 27, 2021
+Date
+Director—Vice Chairman—Non Insurance Operations
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director—Vice Chairman—Insurance Operations
+February 27, 2021
+Date
+Director—Vice Chairman
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Director
+February 27, 2021
+Date
+Senior Vice President—Principal Financial Officer
+February 27, 2021
+Date
+Vice President—Principal Accounting Officer
+February 27, 2021
+Date
+Gregory E. Abel
+/S/ HOWARD G. BUFFETT
+Howard G. Buffett
+/S/ STEPHEN B. BURKE
+Stephen B. Burke
+/S/ KENNETH I. CHENAULT
+Kenneth I. Chenault
+/S/ SUSAN L. DECKER
+Susan L. Decker
+/S/ DAVID S. GOTTESMAN
+David S. Gottesman
+/S/ CHARLOTTE GUYMAN
+Charlotte Guyman
+/S/ AJIT JAIN
+Ajit Jain
+/S/ CHARLES T. MUNGER
+Charles T. Munger
+/S/ THOMAS S. MURPHY
+Thomas S. Murphy
+/S/ RONALD L. OLSON
+Ronald L. Olson
+/S/ WALTER SCOTT, JR.
+Walter Scott, Jr.
+/S/ MERYL B. WITMER
+Meryl B. Witmer
+/S/ MARC D. HAMBURG
+Marc D. Hamburg
+/S/ DANIEL J. JAKSICH
+Daniel J. Jaksich
+K-122
+BERKSHIRE HATHAWAY INC.
+OPERATING COMPANIES
+INSURANCE BUSINESSES:
+GEICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Reinsurance Group . . .
+General Re . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Homestate
+Companies . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Specialty . . . . . . . . . . . .
+Berkshire Hathaway GUARD Insurance
+Companies . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MedPro Group Inc. . . . . . . . . . . . . . . . . . . . . .
+MLMIC Insurance Companies . . . . . . . . . . . .
+National Indemnity Primary Group . . . . . . . .
+United States Liability Insurance
+Companies . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Central States Indemnity . . . . . . . . . . . . . . . . .
+Employees
+RAILROAD, UTILITIES AND ENERGY BUSINESSES: Employees
+42,156
+549
+1,982
+BNSF:
+BNSF Railway . . . . . . . . . . . . . . . . . . . . . . .
+BNSF Logistics . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Energy Company:
+Corporate Office . . . . . . . . . . . . . . . . . . . . .
+PacifiCorp . . . . . . . . . . . . . . . . . . . . . . . . . .
+MidAmerican Energy . . . . . . . . . . . . . . . . .
+NV Energy . . . . . . . . . . . . . . . . . . . . . . . . . .
+Northern Powergrid . . . . . . . . . . . . . . . . . .
+BHE Pipeline Group . . . . . . . . . . . . . . . . . .
+BHE Transmission . . . . . . . . . . . . . . . . . . .
+BHE Renewables . . . . . . . . . . . . . . . . . . . . .
+MidAmerican Energy Services . . . . . . . . .
+HomeServices of America . . . . . . . . . . . . .
+1,176
+1,051
+1,067
+1,088
+300
+797
+991
+43
+51,200
+29
+5,133
+3,390
+2,399
+2,596
+2,728
+741
+377
+97
+6,276
+59,666
+MANUFACTURING BUSINESSES:
+Acme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Benjamin Moore . . . . . . . . . . . . . . . . . . . . . . . .
+Brooks Sports . . . . . . . . . . . . . . . . . . . . . . . . . .
+Clayton Homes . . . . . . . . . . . . . . . . . . . . . . . . .
+CTB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Duracell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fechheimer . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Forest River . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fruit of the Loom . . . . . . . . . . . . . . . . . . . . . . .
+Garan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+H. H. Brown Shoe Group . . . . . . . . . . . . . . . . .
+IMC International Metalworking
+Companies . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Johns Manville . . . . . . . . . . . . . . . . . . . . . . . . .
+Justin Brands . . . . . . . . . . . . . . . . . . . . . . . . . .
+Larson-Juhl . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LiquidPower Specialty Products, Inc. . . . . . .
+Lubrizol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MiTek Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Precision Castparts . . . . . . . . . . . . . . . . . . . . . .
+Richline Group . . . . . . . . . . . . . . . . . . . . . . . . .
+Scott Fetzer Companies . . . . . . . . . . . . . . . . . .
+Shaw Industries . . . . . . . . . . . . . . . . . . . . . . . . .
+Marmon(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35,225
+675
+SERVICE AND RETAILING BUSINESSES:
+1,960
+1,905
+969
+19,455
+2,678
+2,907
+416
+12,611
+29,307
+3,259
+827
+Affordable Housing Partners, Inc. . . . . . . . . . .
+Ben Bridge Jeweler . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire Hathaway Automotive . . . . . . . . . . .
+Borsheims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Business Wire . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Charter Brokerage . . . . . . . . . . . . . . . . . . . . . . .
+CORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Dairy Queen . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Detlev Louis . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FlightSafety . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Helzberg Diamonds . . . . . . . . . . . . . . . . . . . . . . .
+Jordan’s Furniture . . . . . . . . . . . . . . . . . . . . . . .
+McLane Company . . . . . . . . . . . . . . . . . . . . . . . .
+Nebraska Furniture Mart . . . . . . . . . . . . . . . . .
+NetJets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Oriental Trading . . . . . . . . . . . . . . . . . . . . . . . . .
+Pampered Chef . . . . . . . . . . . . . . . . . . . . . . . . . .
+R.C.Willey Home Furnishings . . . . . . . . . . . . . .
+See’s Candies . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Star Furniture . . . . . . . . . . . . . . . . . . . . . . . . . . .
+TTI, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+WPLG, Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+XTRA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12,866
+7,709
+380
+946
+431
+8,636
+6,291
+19,944
+2,224
+1,996
+20,806
+20,302
+22
+611
+9,206
+133
+426
+191
+1,868
+474
+1,403
+4,004
+1,826
+889
+24,304
+4,406
+6,218
+1,288
+371
+2,458
+2,082
+417
+7,279
+190
+391
+70,457
+178,825
+Berkshire Hathaway Corporate Office . . . . . . . . . . .
+26
+360,174
+(1)
+Marmon Holding, Inc. (“Marmon”) is a holding company that conducts operations through more than 100 manufacturing and
+service businesses organized into 11 sectors.
+A-1
+BERKSHIRE HATHAWAY INC.
+PROPERTY/CASUALTY INSURANCE*
+Our property/casualty (“P/C”) insurance business has been the engine propelling Berkshire’s growth since 1967, the year we
+acquired National Indemnity and its sister company, National Fire & Marine, for $8.6 million. Today, National Indemnity is the largest
+P/C company in the world as measured by net worth. Insurance is a business of promises, and Berkshire’s ability to honor its
+commitments is unmatched.
+One reason we were attracted to the P/C business was the industry’s business model: P/C insurers receive premiums upfront and
+pay claims later. In extreme cases, such as claims arising from exposure to asbestos, or severe workplace accidents, payments can stretch
+over many decades.
+This collect-now, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to
+others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount
+of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our
+float. And how it has grown, as the following table shows:
+Float (in millions)
+Year
+1970
+$
+39
+1980
+237
+1990
+1,632
+2000
+27,871
+2010
+65,832
+2018
+122,732
+2019
+129,423
+We may in time experience a decline in float. If so, the decline will be very gradual – at the outside no more than 3% in any year.
+The nature of our insurance contracts is such that we can never be subject to immediate or near-term demands for sums that are of
+significance to our cash resources. That structure is by design and is a key component in the unequaled financial strength of our
+insurance companies. That strength will never be compromised.
+If our premiums exceed the total of our expenses and eventual losses, our insurance operation registers an underwriting profit that
+adds to the investment income the float produces. When such a profit is earned, we enjoy the use of free money – and, better yet, get paid
+for holding it.
+For the P/C industry as a whole, the financial value of float is now far less than it was for many years. That’s because the standard
+investment strategy for almost all P/C companies is heavily – and properly – skewed toward high-grade bonds. Changes in interest rates
+therefore matter enormously to these companies, and during the last decade the bond market has offered pathetically low rates.
+Consequently, insurers suffered, as year by year they were forced – by maturities or issuer-call provisions – to recycle their “old”
+investment portfolios into new holdings providing much lower yields. Where once these insurers could safely earn 5 cents or 6 cents on
+each dollar of float, they now take in only 2 cents or 3 cents (or even less if their operations are concentrated in countries mired in the
+never-never land of negative rates).
+Some insurers may try to mitigate their loss of revenue by buying lower-quality bonds or non-liquid “alternative” investments
+promising higher yields. But those are dangerous games and activities that most institutions are ill-equipped to play.
+Berkshire’s situation is more favorable than that of insurers in general. Most important, our unrivaled mountain of capital,
+abundance of cash and a huge and diverse stream of non-insurance earnings allow us far more investment flexibility than is generally
+available to other companies in the industry. The many choices open to us are always advantageous – and sometimes have presented us
+with major opportunities.
+Our P/C companies have meanwhile had an excellent underwriting record. Berkshire has now operated at an underwriting profit
+for 16 of the last 17 years, the exception being 2017, when our pre-tax loss was a whopping $3.2 billion. For the entire 17-year span, our
+pre-tax gain totaled $27.5 billion, of which $400 million was recorded in 2019.
+That record is no accident: Disciplined risk evaluation is the daily focus of our insurance managers, who know that the rewards
+of float can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old
+Testament style.
+As I have repeatedly done in the past, I will emphasize now that happy outcomes in insurance are far from a sure thing: We will
+most certainly not have an underwriting profit in 16 of the next 17 years. Danger always lurks.
+Mistakes in assessing insurance risks can be huge and can take many years – even decades – to surface and ripen. (Think
+asbestos.) A major catastrophe that will dwarf hurricanes Katrina and Michael will occur – perhaps tomorrow, perhaps many decades
+from now. “The Big One” may come from a traditional source, such as wind or earthquake, or it may be a total surprise involving, say, a
+cyber attack having disastrous consequences beyond anything insurers now contemplate. When such a mega-catastrophe strikes,
+Berkshire will get its share of the losses and they will be big – very big. Unlike many other insurers, however, handling the loss will not
+come close to straining our resources, and we will be eager to add to our business the next day.
+* Reproduced from Berkshire Hathaway Inc. 2019 Annual Report
+A-2
+BERKSHIRE HATHAWAY INC.
+ANNUAL MEETING INFORMATION
+Due to the COVID-19 pandemic, the 2021 Annual Meeting to be held on May 1, 2021 will be held in a virtual format only to
+provide a safe experience for our shareholders and employees. The schedule for the virtual meeting is as follows.
+Schedule (all times are Eastern Daylight Time)
+Yahoo Premeeting Show
+1:00 – 1:30
+Question and Answer Period
+1:30 – 5:00
+Formal Shareholder Meeting
+5:00 – 5:30
+Shareholders can view the premeeting show, the question and answer session and the formal shareholder meeting by visiting
+https://finance.yahoo.com/brklivestream.
+Shareholders who wish to ask questions during the Question and Answer Period and the Formal Shareholder Meeting may
+submit questions by e-mailing BerkshireQuestions@CNBC.com.
+BERKSHIRE HATHAWAY INC.
+STOCK TRANSFER AGENT
+EQ Shareowner Services (“EQ”), a division of Equiniti Trust Company., P. O. Box 64854, St. Paul, MN 55164-0854 serves as
+Transfer Agent and Registrar for the Company’s common stock. Correspondence may be directed to EQ at the address indicated or at
+www.shareowneronline.com. Telephone inquiries should be directed to the Shareowner Relations Department at 1-877-602-7411
+between 7:00 A.M. and 7:00 P.M. Central Time. Certificates for re-issue or transfer should be directed to the Transfer Department at the
+address indicated.
+Berkshire has two classes of common stock designated Class A common stock and Class B common stock. Each share of Class A
+common stock is convertible, at the option of the holder, into 1,500 shares of Class B common stock. Shares of Class B common stock are
+not convertible into shares of Class A common stock.
+Shareholders of record wishing to convert Class A common stock into Class B common stock may contact EQ in writing. Along
+with the underlying stock certificate, shareholders should provide EQ with specific written instructions regarding the number of shares to
+be converted and the manner in which the Class B shares are to be registered. We recommend that you use certified or registered mail
+when delivering the stock certificates and written instructions.
+If Class A shares are held in “street name,” shareholders wishing to convert all or a portion of their holding should contact their
+broker or bank nominee. It will be necessary for the nominee to make the request for conversion.
+A-3
+BERKSHIRE HATHAWAY INC.
+DIRECTORS
+OFFICERS
+WARREN E. BUFFETT,
+Chairman and CEO of Berkshire
+WARREN E. BUFFETT, Chairman and CEO
+CHARLES T. MUNGER, Vice Chairman
+CHARLES T. MUNGER,
+Vice Chairman of Berkshire
+GREGORY E. ABEL,
+Vice Chairman of Berkshire - Non Insurance Operations
+GREGORY E. ABEL, Vice Chairman - Non Insurance Operations
+AJIT JAIN, Vice Chairman - Insurance Operations
+MARC D. HAMBURG, Senior Vice President and CFO
+AJIT JAIN,
+Vice Chairman of Berkshire - Insurance Operations
+HOWARD G. BUFFETT,
+Chairman and Chief Executive Officer of the Howard G.
+Buffett Foundation, a charitable foundation that directs
+funding for humanitarian and conservation related issues.
+STEPHEN B. BURKE,
+Former Chairman and CEO of NBCUniversal, a media and
+entertainment company.
+DANIEL J. JAKSICH, Vice President, Controller
+MARK D. MILLARD, Vice President
+JO ELLEN RIECK, Vice President
+KERBY S. HAM, Treasurer
+REBECCA K. AMICK, Director of Internal Auditing
+KENNETH I. CHENAULT,
+Chairman and Managing Director of General Catalyst, a
+venture capital firm and Former Chairman and CEO of
+American Express Company.
+SUSAN L. DECKER,
+Founder and CEO of Raftr, a communication platform for
+university students and administrators.
+DAVID S. GOTTESMAN,
+Senior Managing Director of First Manhattan Company,
+an investment advisory firm.
+CHARLOTTE GUYMAN,
+Former Chairman of the Board of Directors of
+UW Medicine, an academic medical center.
+THOMAS S. MURPHY,
+Former Chairman of the Board and CEO of Capital
+Cities/ABC
+RONALD L. OLSON,
+Partner of the law firm of Munger, Tolles & Olson LLP
+WALTER SCOTT, JR.,
+Former Chairman of Level 3 Communications, a
+successor to certain businesses of Peter Kiewit Sons’ Inc.
+which is engaged in telecommunications and computer
+outsourcing.
+MERYL B. WITMER,
+Managing member of the General Partner of Eagle Capital
+Partners L.P., an investment partnership.
+Letters from Annual Reports (1977 through 2020), quarterly reports, press releases and other information about Berkshire may
+be obtained on the Internet at www.berkshirehathaway.com.
+BERKSHIRE HATHAWAY INC.
+Executive Offices — 3555 Farnam Street, Omaha, Nebraska 68131

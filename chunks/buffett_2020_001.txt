@@ -1,0 +1,114 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2020
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2020ar/2020ar.pdf
+extracted_from: line 248 - 839
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Berkshire earned $42.5 billion in 2020 according to generally accepted accounting principles (commonly
+called “GAAP”). The four components of that figure are $21.9 billion of operating earnings, $4.9 billion of realized
+capital gains, a $26.7 billion gain from an increase in the amount of net unrealized capital gains that exist in the stocks
+we hold and, finally, an $11 billion loss from a write-down in the value of a few subsidiary and affiliate businesses
+that we own. All items are stated on an after-tax basis.
+Operating earnings are what count most, even during periods when they are not the largest item in our GAAP
+total. Our focus at Berkshire is both to increase this segment of our income and to acquire large and favorably-situated
+businesses. Last year, however, we met neither goal: Berkshire made no sizable acquisitions and operating earnings
+fell 9%. We did, though, increase Berkshire’s per-share intrinsic value by both retaining earnings and repurchasing
+about 5% of our shares.
+The two GAAP components pertaining to capital gains or losses (whether realized or unrealized) fluctuate
+capriciously from year to year, reflecting swings in the stock market. Whatever today’s figures, Charlie Munger, my
+long-time partner, and I firmly believe that, over time, Berkshire’s capital gains from its investment holdings will be
+substantial.
+As I’ve emphasized many times, Charlie and I view Berkshire’s holdings of marketable stocks – at yearend
+worth $281 billion – as a collection of businesses. We don’t control the operations of those companies, but we do
+share proportionately in their long-term prosperity. From an accounting standpoint, however, our portion of their
+earnings is not included in Berkshire’s income. Instead, only what these investees pay us in dividends is recorded on
+our books. Under GAAP, the huge sums that investees retain on our behalf become invisible.
+What’s out of sight, however, should not be out of mind: Those unrecorded retained earnings are usually
+building value – lots of value – for Berkshire. Investees use the withheld funds to expand their business, make
+acquisitions, pay off debt and, often, to repurchase their stock (an act that increases our share of their future earnings).
+As we pointed out in these pages last year, retained earnings have propelled American business throughout our
+country’s history. What worked for Carnegie and Rockefeller has, over the years, worked its magic for millions of
+shareholders as well.
+Of course, some of our investees will disappoint, adding little, if anything, to the value of their company by
+retaining earnings. But others will over-deliver, a few spectacularly. In aggregate, we expect our share of the huge
+pile of earnings retained by Berkshire’s non-controlled businesses (what others would label our equity portfolio) to
+eventually deliver us an equal or greater amount of capital gains. Over our 56-year tenure, that expectation has been
+met.
+
+3
+
+The final component in our GAAP figure – that ugly $11 billion write-down – is almost entirely the
+quantification of a mistake I made in 2016. That year, Berkshire purchased Precision Castparts (“PCC”), and I paid
+too much for the company.
+No one misled me in any way – I was simply too optimistic about PCC’s normalized profit potential. Last
+year, my miscalculation was laid bare by adverse developments throughout the aerospace industry, PCC’s most
+important source of customers.
+In purchasing PCC, Berkshire bought a fine company – the best in its business. Mark Donegan, PCC’s CEO,
+is a passionate manager who consistently pours the same energy into the business that he did before we purchased it.
+We are lucky to have him running things.
+I believe I was right in concluding that PCC would, over time, earn good returns on the net tangible assets
+deployed in its operations. I was wrong, however, in judging the average amount of future earnings and, consequently,
+wrong in my calculation of the proper price to pay for the business.
+PCC is far from my first error of that sort. But it’s a big one.
+Two Strings to Our Bow
+Berkshire is often labeled a conglomerate, a negative term applied to holding companies that own a
+hodge-podge of unrelated businesses. And, yes, that describes Berkshire – but only in part. To understand how and
+why we differ from the prototype conglomerate, let’s review a little history.
+Over time, conglomerates have generally limited themselves to buying businesses in their entirety. That
+strategy, however, came with two major problems. One was unsolvable: Most of the truly great businesses had no
+interest in having anyone take them over. Consequently, deal-hungry conglomerateurs had to focus on so-so
+companies that lacked important and durable competitive strengths. That was not a great pond in which to fish.
+Beyond that, as conglomerateurs dipped into this universe of mediocre businesses, they often found
+themselves required to pay staggering “control” premiums to snare their quarry. Aspiring conglomerateurs knew the
+answer to this “overpayment” problem: They simply needed to manufacture a vastly overvalued stock of their own
+that could be used as a “currency” for pricey acquisitions. (“I’ll pay you $10,000 for your dog by giving you two of
+my $5,000 cats.”)
+Often, the tools for fostering the overvaluation of a conglomerate’s stock involved promotional techniques
+and “imaginative” accounting maneuvers that were, at best, deceptive and that sometimes crossed the line into fraud.
+When these tricks were “successful,” the conglomerate pushed its own stock to, say, 3x its business value in order to
+offer the target 2x its value.
+Investing illusions can continue for a surprisingly long time. Wall Street loves the fees that deal-making
+generates, and the press loves the stories that colorful promoters provide. At a point, also, the soaring price of a
+promoted stock can itself become the “proof” that an illusion is reality.
+
+4
+
+Eventually, of course, the party ends, and many business “emperors” are found to have no clothes. Financial
+history is replete with the names of famous conglomerateurs who were initially lionized as business geniuses by
+journalists, analysts and investment bankers, but whose creations ended up as business junkyards.
+Conglomerates earned their terrible reputation.
+************
+Charlie and I want our conglomerate to own all or part of a diverse group of businesses with good economic
+characteristics and good managers. Whether Berkshire controls these businesses, however, is unimportant to us.
+It took me a while to wise up. But Charlie – and also my 20-year struggle with the textile operation I inherited
+at Berkshire – finally convinced me that owning a non-controlling portion of a wonderful business is more profitable,
+more enjoyable and far less work than struggling with 100% of a marginal enterprise.
+For those reasons, our conglomerate will remain a collection of controlled and non-controlled businesses.
+Charlie and I will simply deploy your capital into whatever we believe makes the most sense, based on a company’s
+durable competitive strengths, the capabilities and character of its management, and price.
+If that strategy requires little or no effort on our part, so much the better. In contrast to the scoring system
+utilized in diving competitions, you are awarded no points in business endeavors for “degree of difficulty.”
+Furthermore, as Ronald Reagan cautioned: “It’s said that hard work never killed anyone, but I say why take the
+chance?”
+The Family Jewels and How We Increase Your Share of These Gems
+On page A-1 we list Berkshire’s subsidiaries, a smorgasbord of businesses employing 360,000 at yearend.
+You can read much more about these controlled operations in the 10-K that fills the back part of this report. Our major
+positions in companies that we partly own and don’t control are listed on page 7 of this letter. That portfolio of
+businesses, too, is large and diverse.
+Most of Berkshire’s value, however, resides in four businesses, three controlled and one in which we have
+only a 5.4% interest. All four are jewels.
+The largest in value is our property/casualty insurance operation, which for 53 years has been the core of
+Berkshire. Our family of insurers is unique in the insurance field. So, too, is its manager, Ajit Jain, who joined
+Berkshire in 1986.
+Overall, the insurance fleet operates with far more capital than is deployed by any of its competitors
+worldwide. That financial strength, coupled with the huge flow of cash Berkshire annually receives from its
+non-insurance businesses, allows our insurance companies to safely follow an equity-heavy investment strategy not
+feasible for the overwhelming majority of insurers. Those competitors, for both regulatory and credit-rating reasons,
+must focus on bonds.
+And bonds are not the place to be these days. Can you believe that the income recently available from a
+10-year U.S. Treasury bond – the yield was 0.93% at yearend – had fallen 94% from the 15.8% yield available in
+September 1981? In certain large and important countries, such as Germany and Japan, investors earn a negative return
+on trillions of dollars of sovereign debt. Fixed-income investors worldwide – whether pension funds, insurance

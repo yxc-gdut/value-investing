@@ -1,0 +1,100 @@
+Auditors can’t audit these contracts, and regulators can’t regulate them. When I read the pages of “disclosure” in
+10-Ks of companies that are entangled with these instruments, all I end up knowing is that I don’t know what is
+going on in their portfolios (and then I reach for some aspirin).
+For a case study on regulatory effectiveness, let’s look harder at the Freddie and Fannie example.
+These giant institutions were created by Congress, which retained control over them, dictating what they could
+and could not do. To aid its oversight, Congress created OFHEO in 1992, admonishing it to make sure the two
+behemoths were behaving themselves. With that move, Fannie and Freddie became the most intensely-regulated
+companies of which I am aware, as measured by manpower assigned to the task.
+On June 15, 2003, OFHEO (whose annual reports are available on the Internet) sent its 2002 report to
+Congress – specifically to its four bosses in the Senate and House, among them none other than Messrs. Sarbanes
+and Oxley. The report’s 127 pages included a self-congratulatory cover-line: “Celebrating 10 Years of
+Excellence.” The transmittal letter and report were delivered nine days after the CEO and CFO of Freddie had
+resigned in disgrace and the COO had been fired. No mention of their departures was made in the letter, even
+while the report concluded, as it always did, that “Both Enterprises were financially sound and well managed.”
+In truth, both enterprises had engaged in massive accounting shenanigans for some time. Finally, in
+2006, OFHEO issued a 340-page scathing chronicle of the sins of Fannie that, more or less, blamed the fiasco on
+every party but – you guessed it – Congress and OFHEO.
+The Bear Stearns collapse highlights the counterparty problem embedded in derivatives transactions, a
+time bomb I first discussed in Berkshire’s 2002 report. On April 3, 2008, Tim Geithner, then the able president of
+the New York Fed, explained the need for a rescue: “The sudden discovery by Bear’s derivative counterparties
+that important financial positions they had put in place to protect themselves from financial risk were no longer
+operative would have triggered substantial further dislocation in markets. This would have precipitated a rush by
+Bear’s counterparties to liquidate the collateral they held against those positions and to attempt to replicate those
+positions in already very fragile markets.” This is Fedspeak for “We stepped in to avoid a financial chain reaction
+of unpredictable magnitude.” In my opinion, the Fed was right to do so.
+A normal stock or bond trade is completed in a few days with one party getting its cash, the other its
+securities. Counterparty risk therefore quickly disappears, which means credit problems can’t accumulate. This
+rapid settlement process is key to maintaining the integrity of markets. That, in fact, is a reason for NYSE and
+NASDAQ shortening the settlement period from five days to three days in 1995.
+Derivatives contracts, in contrast, often go unsettled for years, or even decades, with counterparties
+building up huge claims against each other. “Paper” assets and liabilities – often hard to quantify – become
+important parts of financial statements though these items will not be validated for many years. Additionally, a
+frightening web of mutual dependence develops among huge financial institutions. Receivables and payables by
+the billions become concentrated in the hands of a few large dealers who are apt to be highly-leveraged in other
+ways as well. Participants seeking to dodge troubles face the same problem as someone seeking to avoid venereal
+disease: It’s not just whom you sleep with, but also whom they are sleeping with.
+
+17
+
+Sleeping around, to continue our metaphor, can actually be useful for large derivatives dealers because
+it assures them government aid if trouble hits. In other words, only companies having problems that can infect
+the entire neighborhood – I won’t mention names – are certain to become a concern of the state (an outcome, I’m
+sad to say, that is proper). From this irritating reality comes The First Law of Corporate Survival for ambitious
+CEOs who pile on leverage and run large and unfathomable derivatives books: Modest incompetence simply
+won’t do; it’s mindboggling screw-ups that are required.
+Considering the ruin I’ve pictured, you may wonder why Berkshire is a party to 251 derivatives
+contracts (other than those used for operational purposes at MidAmerican and the few left over at Gen Re). The
+answer is simple: I believe each contract we own was mispriced at inception, sometimes dramatically so. I both
+initiated these positions and monitor them, a set of responsibilities consistent with my belief that the CEO of any
+large financial organization must be the Chief Risk Officer as well. If we lose money on our derivatives, it will be
+my fault.
+Our derivatives dealings require our counterparties to make payments to us when contracts are
+initiated. Berkshire therefore always holds the money, which leaves us assuming no meaningful counterparty
+risk. As of yearend, the payments made to us less losses we have paid – our derivatives “float,” so to speak –
+totaled $8.1 billion. This float is similar to insurance float: If we break even on an underlying transaction, we will
+have enjoyed the use of free money for a long time. Our expectation, though it is far from a sure thing, is that we
+will do better than break even and that the substantial investment income we earn on the funds will be frosting on
+the cake.
+Only a small percentage of our contracts call for any posting of collateral when the market moves
+against us. Even under the chaotic conditions existing in last year’s fourth quarter, we had to post less than 1% of
+our securities portfolio. (When we post collateral, we deposit it with third parties, meanwhile retaining the
+investment earnings on the deposited securities.) In our 2002 annual report, we warned of the lethal threat that
+posting requirements create, real-life illustrations of which we witnessed last year at a variety of financial
+institutions (and, for that matter, at Constellation Energy, which was within hours of bankruptcy when
+MidAmerican arrived to effect a rescue).
+Our contracts fall into four major categories. With apologies to those who are not fascinated by
+financial instruments, I will explain them in excruciating detail.
+•
+
+We have added modestly to the “equity put” portfolio I described in last year’s report. Some of our
+contracts come due in 15 years, others in 20. We must make a payment to our counterparty at
+maturity if the reference index to which the put is tied is then below what it was at the inception of
+the contract. Neither party can elect to settle early; it’s only the price on the final day that counts.
+To illustrate, we might sell a $1 billion 15-year put contract on the S&P 500 when that index is at,
+say, 1300. If the index is at 1170 – down 10% – on the day of maturity, we would pay $100 million.
+If it is above 1300, we owe nothing. For us to lose $1 billion, the index would have to go to zero. In
+the meantime, the sale of the put would have delivered us a premium – perhaps $100 million to
+$150 million – that we would be free to invest as we wish.
+Our put contracts total $37.1 billion (at current exchange rates) and are spread among four major
+indices: the S&P 500 in the U.S., the FTSE 100 in the U.K., the Euro Stoxx 50 in Europe, and the
+Nikkei 225 in Japan. Our first contract comes due on September 9, 2019 and our last on January 24,
+2028. We have received premiums of $4.9 billion, money we have invested. We, meanwhile, have
+paid nothing, since all expiration dates are far in the future. Nonetheless, we have used BlackScholes valuation methods to record a yearend liability of $10 billion, an amount that will change
+on every reporting date. The two financial items – this estimated loss of $10 billion minus the $4.9
+billion in premiums we have received – means that we have so far reported a mark-to-market loss
+of $5.1 billion from these contracts.
+
+18
+
+We endorse mark-to-market accounting. I will explain later, however, why I believe the BlackScholes formula, even though it is the standard for establishing the dollar liability for options,
+produces strange results when the long-term variety are being valued.
+One point about our contracts that is sometimes not understood: For us to lose the full $37.1 billion
+we have at risk, all stocks in all four indices would have to go to zero on their various termination
+dates. If, however – as an example – all indices fell 25% from their value at the inception of each
+contract, and foreign-exchange rates remained as they are today, we would owe about $9 billion,
+payable between 2019 and 2028. Between the inception of the contract and those dates, we would
+have held the $4.9 billion premium and earned investment income on it.
+•
+
+The second category we described in last year’s report concerns derivatives requiring us to pay

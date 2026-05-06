@@ -1,0 +1,131 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 1999
+type: chairman-letter
+url: https://www.berkshirehathaway.com/1999ar/1999ar.pdf
+extracted_from: line 272 - 1333
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+Our gain in net worth during 1999 was $358 million, which increased the per-share book value of both our
+Class A and Class B stock by 0.5%. Over the last 35 years (that is, since present management took over) per-share
+book value has grown from $19 to $37,987, a rate of 24.0% compounded annually.*
+The numbers on the facing page show just how poor our 1999 record was. We had the worst absolute
+performance of my tenure and, compared to the S&P, the worst relative performance as well. Relative results are what
+concern us: Over time, bad relative numbers will produce unsatisfactory absolute results.
+Even Inspector Clouseau could find last year’s guilty party: your Chairman. My performance reminds me of
+the quarterback whose report card showed four Fs and a D but who nonetheless had an understanding coach. “Son,”
+he drawled, “I think you’re spending too much time on that one subject.”
+My “one subject” is capital allocation, and my grade for 1999 most assuredly is a D. What most hurt us during
+the year was the inferior performance of Berkshire’s equity portfolio — and responsibility for that portfolio, leaving
+aside the small piece of it run by Lou Simpson of GEICO, is entirely mine. Several of our largest investees badly
+lagged the market in 1999 because they’ve had disappointing operating results. We still like these businesses and are
+content to have major investments in them. But their stumbles damaged our performance last year, and it’s no sure
+thing that they will quickly regain their stride.
+The fallout from our weak results in 1999 was a more-than-commensurate drop in our stock price. In 1998,
+to go back a bit, the stock outperformed the business. Last year the business did much better than the stock, a
+divergence that has continued to the date of this letter. Over time, of course, the performance of the stock must roughly
+match the performance of the business.
+Despite our poor showing last year, Charlie Munger, Berkshire’s Vice Chairman and my partner, and I expect
+that the gain in Berkshire’s intrinsic value over the next decade will modestly exceed the gain from owning the S&P.
+We can’t guarantee that, of course. But we are willing to back our conviction with our own money. To repeat a fact
+you’ve heard before, well over 99% of my net worth resides in Berkshire. Neither my wife nor I have ever sold a share
+of Berkshire and — unless our checks stop clearing — we have no intention of doing so.
+Please note that I spoke of hoping to beat the S&P “modestly.” For Berkshire, truly large superiorities over
+that index are a thing of the past. They existed then because we could buy both businesses and stocks at far more
+attractive prices than we can now, and also because we then had a much smaller capital base, a situation that allowed
+us to consider a much wider range of investment opportunities than are available to us today.
+Our optimism about Berkshire’s performance is also tempered by the expectation — indeed, in our minds,
+the virtual certainty — that the S&P will do far less well in the next decade or two than it has done since 1982. A
+recent article in Fortune expressed my views as to why this is inevitable, and I’m enclosing a copy with this report.
+Our goal is to run our present businesses well — a task made easy because of the outstanding managers we
+have in place — and to acquire additional businesses having economic characteristics and managers comparable to
+those we already own. We made important progress in this respect during 1999 by acquiring Jordan’s Furniture and
+contracting to buy a major portion of MidAmerican Energy. We will talk more about these companies later in the
+report but let me emphasize one point here: We bought both for cash, issuing no Berkshire shares. Deals of that kind
+aren’t always possible, but that is the method of acquisition that Charlie and I vastly prefer.
+
+*All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company
+had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
+3
+
+Guides to Intrinsic Value
+I often talk in these pages about intrinsic value, a key, though far from precise, measurement we utilize in our
+acquisitions of businesses and common stocks. (For an extensive discussion of this, and other investment and
+accounting terms and concepts, please refer to our Owner’s Manual on pages 55 - 62. Intrinsic value is discussed on
+page 60.)
+In our last four reports, we have furnished you a table that we regard as useful in estimating Berkshire’s
+intrinsic value. In the updated version of that table, which follows, we trace two key components of value. The first
+column lists our per-share ownership of investments (including cash and equivalents but excluding assets held in our
+financial products operation) and the second column shows our per-share earnings from Berkshire’s operating
+businesses before taxes and purchase-accounting adjustments (discussed on page 61), but after all interest and corporate
+expenses. The second column excludes all dividends, interest and capital gains that we realized from the investments
+presented in the first column. In effect, the columns show how Berkshire would look if it were split into two parts, with
+one entity holding our investments and the other operating all of our businesses and bearing all corporate costs.
+
+Investments
+Per Share
+
+Year
+1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$
+
+45
+577
+7,200
+47,339
+
+Pre-tax Earnings
+(Loss) Per Share
+With All Income from
+Investments Excluded
+$
+
+4.39
+13.07
+108.86
+(458.55)
+
+Here are the growth rates of the two segments by decade:
+Investments
+Per Share
+
+Pre-tax Earnings Per Share
+With All Income from
+Investments Excluded
+
+1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+29.0%
+28.7%
+20.7%
+
+11.5%
+23.6%
+N.A.
+
+Annual Growth Rate, 1969-1999 . . . . . . . . . . . . . . . . . . . . . .
+
+25.4%
+
+N.A.
+
+Decade Ending
+
+In 1999, our per-share investments changed very little, but our operating earnings, affected by negatives that
+overwhelmed some strong positives, fell apart. Most of our operating managers deserve a grade of A for delivering
+fine results and for having widened the difference between the intrinsic value of their businesses and the value at which
+these are carried on our balance sheet. But, offsetting this, we had a huge — and, I believe, aberrational —
+underwriting loss at General Re. Additionally, GEICO’s underwriting profit fell, as we had predicted it would.
+GEICO’s overall performance, though, was terrific, outstripping my ambitious goals.
+We do not expect our underwriting earnings to improve in any dramatic way this year. Though GEICO’s
+intrinsic value should grow by a highly satisfying amount, its underwriting performance is almost certain to weaken.
+That’s because auto insurers, as a group, will do worse in 2000, and because we will materially increase our marketing
+expenditures. At General Re, we are raising rates and, if there is no mega-catastrophe in 2000, the company’s

@@ -1,0 +1,680 @@
+Buffett: How Inflation Swindles the Equity Investor
+
+HOW INFLATION SWINDLES THE EQUITY INVESTOR1
+by Warren E. Buffett
+Fortune, Vol. XCV, No. 5, May 1977, 250-267. New York, NY: Time, Inc.
+It is no longer a secret that stocks, like bonds, do poorly in an inflationary environment. We have been in such an
+environment for most of the past decade, and it has indeed been a time of troubles for stocks. But the reasons for
+the stock market’s problems in this period are still imperfectly understood.
+There is no mystery at all about the problems of bondholders of in an era of inflation. When the value of the dollar
+deteriorates month after month, a security with income and principal payments denominated in those dollars isn’t
+going to be a big winner. You hardly need a Ph.D. in economics to figure that one out.
+It was long assumed that stocks were something else. For many years, the conventional wisdom insisted that
+stocks were a hedge against inflation. The proposition was rooted in the fact that stocks are not claims against
+dollars, as bonds are, but represent ownership of companies with productive facilities. These, investors believed,
+would retain their value in real terms; let the politicians print money as they might.
+And why didn’t it turn out that way? The main reason, I believe, is that stocks, in economic substance, are really
+very similar to bonds.
+I know that this belief will seem eccentric to many investors. They will immediately observe that the return on a
+bond (the coupon?) is fixed, while the return on an equity investment (the company’s earnings) can vary
+substantially from one year to another. True enough. But anyone who examines the aggregate that have been
+earned by companies during the postwar years will discover something extraordinary: The returns on equity have
+in fact not varied much at all.
+The Coupon Is Sticky
+In the first ten years after the war—the decade ending in 1955—the Dow Jones Industrials had an average annual
+return on year-end equity of 12.8 percent. In the second decade, the figure was 10.1 percent. In the third decade it
+was 10.9 percent. Data for the larger universe, the Fortune 500 (whose history goes back only to the mid-1950’s)
+indicate somewhat similar results: 11.2 percent in the decade ending in 1965, 11.8 percent in the decade through
+1975. The figures for a few exceptional years have been substantially higher (the high for the 500 was 14.1% in
+1974) or lower (9.5 percent in 1958 and 1970), but over the years, and in the aggregate, the return on book value
+tends to keep coming back to a level around 12 percent. It shows no signs of exceeding that level significantly in
+inflationary years (or in years of stable prices, for that matter).
+For the moment, let’s think of those companies, not as listed stocks, but as productive enterprises. Let’s also
+assume that the owners of those enterprises had acquired them at book value. In that case, their own return would
+have been around 12 percent too. And because the return has been so consistent, it seems reasonable to think of it
+as an ―equity coupon.‖
+In the real world, of course, investors in stocks don’t just buy and hold. Instead, many try to outwit their fellow
+investors in order to maximize their own proportions of corporate earnings. This thrashing about obviously
+fruitless in aggregate, has no impact on the equity coupon but reduces the investor’s portion of it, because he
+incurs substantial frictional costs, such as advisory fees and brokerage charges. Throw in an active options
+market, which adds nothing to the productivity of American enterprise but requires a cast of thousands to man the
+casino, and frictional cost rise further.
+1
+
+I believe Buffett’s article on inflation and its effect on equity investors is one of the best investment articles ever written.
+
+Page 1
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Stocks Are Perpetual
+It is also true in the real world investors in stocks don’t usually get to buy at book value. Sometimes they have
+been able to buy in below book: usually, however, they’ve had to pay more than book, and more about these
+relationships later. Meanwhile, let’s focus on the main point: as inflation has increased, the return on equity
+capital has not. Essentially, those who buy equities receive securities with an underlying fixed return—just like
+those who buy bonds. Of course, there are some important differences between the bond and stock forms. For
+openers, bonds eventually come due. It may require a long wait, but eventually the bond investor gets to
+renegotiate the terms of his contract. If current and prospective rates of inflation make his old coupon look
+inadequate, he can refuse to play further unless coupons currently being offered rekindle his interest. Something
+of this sort has been going on in recent years.
+Stocks, on the other hand, are perpetual. They have a maturity date of infinity. Investors in stocks are stuck with
+whatever return corporate America happens to earn. If corporate America is destined to earn 12 percent, then that
+is the level investors must learn to live with. As a group, stock investors can neither opt out nor renegotiate. In
+the aggregate, their commitment is actually increasing. Individual companies can be sold or liquidated, and
+corporations can repurchase their own shares; on balance, however, new equity flotation’s and retained earnings
+guarantee that the equity capital locked up in the corporate system will increase.
+So, score one for the bond form. Bond coupons eventually will be renegotiated; equity ―coupons‖ won’t. It is true,
+of course, that for a long time a 12 percent coupon did not appear in need of a whole lot of correction.
+The Bondholder Gets It in Cash
+There is another major difference between the garden variety of bond and our new exotic 12 percent ―equity
+bond‖ that comes to the Wall Street costume ball dressed in a stock certificate.
+In the usual case, a bond investor receives his entire coupon in cash is left to reinvest it as best he can. Our stock
+investor’s equity coupon, in contrast, is partially retained by the company and is reinvested at whatever rates the
+company happens to be earning. In other words, going back to our corporate universe, part of the 12 percent
+earned annually is paid out in dividends and the balance is put right back into the universe to earn 12 percent also.
+The Good Old Days
+This characteristic of stocks—the reinvestment of part of the coupon--can be good or bad news, depending on the
+relative attractiveness of that 12 percent. The news was very good indeed in the 1950’s and early 1960’s. With
+bonds yielding only 3 or 4 percent, the right to reinvest automatically a portion of the equity coupon at 12 percent
+was of enormous value. Note that investors could not just invest their own money and get that 12 percent return.
+Stock prices in this period ranged far above book value, and investors were prevented by the premium prices they
+had to pay from directly extracting out of the underlying corporate universe whatever rate that universe was
+earning. You can’t pay far above par for a 12 percent bond and earn 12 percent for yourself.
+But on their retained earnings, investors could earn 12 percent. In effect, earnings retention allowed investors to
+buy at book value part of an enterprise that, in the economic environment then existing, was worth a great deal
+more than book value.
+It was a situation that left very little to be said for cash dividends and a lot to be said for earnings retention.
+Indeed, the more money that investors thought likely to be reinvested as the 12 percent rate, the more valuable
+they considered their reinvestment privilege, and the more they were willing to pay for it. In the early 1960’s,
+inventors eagerly paid top-scale prices for electric utilities situated in growth areas, knowing that these companies
+
+Page 2
+
+Buffett: How Inflation Swindles the Equity Investor
+
+had the ability to reinvest very large proportions of their earnings. Utilities whose operating environment dictated
+a larger cash payout rated lower prices.
+If, during this period, a high-grade, non callable, long-term bond with a 12 percent coupon had existed, it would
+have sold far above par. And if it were a bond with a further unusual characteristic—which was that most of the
+coupon payments could be automatically reinvested at par in similar bonds—the issue would have commanded an
+even greater premium. In essence, growth stocks retaining most of their earnings represented just such a security.
+When their reinvestment rate on the added equity capital was 12 percent while interest rates generally were
+around 4 percent, investors became very happy—and, of course, they paid happy prices.
+Heading for the Exits.
+Looking back, stock investors can think of themselves in the 1946-66 period as having been ladled a truly
+bountiful triple dip. First, they were the beneficiaries of any underlying corporate return on equity that was far
+above prevailing interest rates. Second, a significant portion of that return was reinvested for them at rates that
+were otherwise unattainable. And third, they were afforded an escalating appraisal of underlying equity capital as
+the first two benefits became widely recognized. This third dip meant that, on top of the basic 12 percent or so
+earned by corporation on their equity capital, investors were receiving a bonus as the Dow Jones Industrials
+increased in price from 133 percent of book value in 1946 to 220 percent in 1966. Such a marking-up process
+temporarily allowed investors to achieve a return that exceeded the inherent earning power of the enterprises in
+which they had invested.
+This heaven-on-earth situation finally was ―discovered‖ in the mid-1960’s by many major investing institutions.
+But just in as these financial elephants began trampling on one another in their rush to equities, we entered an era
+of accelerating inflation and higher interest rates. Quite logically, the marking-up process began to reverses itself.
+Rising interest rates ruthlessly reduced the value of all existing fixed coupon investments. And as long-term
+corporate bond rates began moving up (eventually reaching the 10 percent area), both the equity return of 12
+percent and the reinvestment ―privilege‖ began to look different.
+Stocks are quite properly thought of as riskier than bonds. While that equity coupon is more or less fixed over
+periods of time, it does fluctuate somewhat from year to year. Investor’s attitudes about the future can be affected
+substantially, although frequently erroneously, by those yearly changes. Stocks are also riskier because they come
+equipped with infinite maturities. (Even your friendly broker wouldn't have the nerve to peddle a 100-year bond,
+if he had any available, as ―safe.‖) Because of the additional risk, the natural reaction of investors is to expect an
+equity return that is comfortable above the bond return—and 12 percent on equity versus, say, 10 percent on
+bonds issued buy the same corporate universe does not seem to qualify as comfortable. As the spread narrows,
+equity investors start looking for the exits.
+But, of course, as a group they can’t get out. All they can achieve is a lot of movement, substantial frictional
+costs, and a new, much lower level of valuation, reflecting the lessened attractiveness of the 12 percent equity
+coupon under inflationary conditions. Bond investors have had a succession of shocks over the past decade in the
+course of discovering that there is not magic attached to any given coupon level: at 6 percent, or 8 percent, or 10
+percent, bonds can still collapse in price. Stock investors, who are in general not aware that they too have a
+―coupon,‖ are still receiving their education on this point.
+Five Ways to Improve Earnings.
+Must we really view that 12 percent equity coupon as immutable? Is there any law that says the corporate return
+on equity capital cannot adjust itself upward in response to a permanently higher average rate of inflation?
+
+Page 3
+
+Buffett: How Inflation Swindles the Equity Investor
+
+There is no law, of course. On the other hand, corporate America cannot increase earnings by desire or decree. To
+raise that return on equity, corporations would need at least one of the following:
+(1) an increase in turnover, i.e., in the ratio between sales and total assets employed in the business;
+(2) cheaper leverage;
+(3) more leverage;
+(4) lower income taxes;
+(5) wider operating margins on sales.
+And that’s it. There simply are no other ways to increase returns on common equity. Let’s see what can be done
+with these.
+We’ll begin with turnover. The three major categories of assets we have to think about for this exercise is
+accounts receivable, inventories and fixed assets such as plants and machinery.
+Accounts receivable go up proportionally as sales go up, whether the increase in dollar sales is produced by more
+physical volume or by inflation. No room for improvement here.
+With inventories, the situation is not quite so simple. Over the long-term, the trend in unit inventories may be
+expected to follow the trend in unit sales. Over the short term, however, the physical turnover rate may bob
+around because of special influences—e.g., cost expectations, or bottlenecks.
+The use of last-in, first out (LIFO) inventory-valuation methods serves to increase the reported turnover rate
+during inflationary times. When dollar sales are rising because of inflation, inventory valuations of a LIFO
+company either will remain level (if unit sales are not rising) or will trail the rise in dollar sales (if unit sales are
+rising). In either case, dollar turnover will increase.
+During the early 1970’s, there was a pronounced swing by corporations toward LIFO accounting which has the
+effect of lowering a company’s reported earnings and tax bills). The trend now seems to have slowed. Still, the
+existence of a lot of LIFO companies, plus the likelihood that some others will join the crowd, ensures some
+further increase in the reported turnover of inventory.
+The Gains Are Apt to be Modest
+In the case of fixed assets, any rise in the inflation rate, assuming it affects all products equally, will initially have
+the effect of increasing turnover. That is true because sales will immediately reflect the new price level, while the
+fixed-asset account will reflect the change only gradually, i.e., as existing assets are retired and replaced at the
+new prices. Obviously, the more slowly a company goes about this replacement process, the more the turnover
+ratio will rise. The action stops, however, when a replacement cycle is completed. Assuming a constant rate of
+inflation, sales and fixed assets will then begin to rise in concert at the rate of inflation.
+To sum up, inflation will produce some gains in turnover ratios. Some improvement would be certain because of
+LIFO, and some would be possible (if inflation accelerates) because of sales rising more rapidly than fixed assets.
+But the gains are apt to be modest and not of a magnitude to produce substantial improvement in returns on equity
+capital. During the decade ending in 1975, despite generally accelerating inflation and the extensive use of LIFO
+accounting, the turnover ratio of the Fortune 500 went only from 1.18/1 to 1.29/1.
+
+Page 4
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Cheaper leverage? Not likely. High rates of inflation generally cause borrowing to become dearer, not cheaper.
+Galloping rates of inflation create galloping capital needs; and lenders, as they become increasingly distrustful of
+long-term contracts, become more demanding. But even if there is no further rise in interest rates, leverage will
+be getting more expensive because the average cost of the debt now on corporate books is less than would be the
+cost of replacing it. And replacement will be required as the existing debt matures. Overall, then, future changes
+in the cost of leverage seem likely to have a mildly depressing effect on the return on equity.
+More leverage? American business already has fired many, if not most, of the more-leverage bullets once
+available to it. Proof of that proposition can be seen in some other Fortune 500 statistics: in the twenty years
+ending in 1975, stockholders’ equity as a percentage of total assets declined for the 500 from 63 percent to just
+under 59%. In other words, each dollar of equity capital now is leveraged much more heavily than it used to be.
+What the Lenders Learned
+An irony of inflation-induced financial requirement is that the highly profitable companies—generally the best
+credits-require relatively little debt capital. But the laggards in profitability never can get enough. Lenders
+understand this problem much better than they did a decade ago—and are correspondingly less willing to let
+capital-hungry, low-profitability enterprises leverage themselves to the sky.
+Nevertheless, given inflationary conditions, many corporations seem sure in the future to turn to still more
+leverage as a means of shoring up equity returns. Their managements will make that move because they will need
+enormous amounts of capital—often merely to do the same physical volume of business—and will wish to get it
+without cutting dividends or making equity offerings that, because of inflation, are not apt to shape up as
+attractive. Their natural response will be to heap on debt, almost regardless of cost. They will tend to behave like
+those utility companies that argued over an either of a point in the 1960’s and were grateful to find 12 percent
+debt financing in 1974.
+Added debt at present interest rates, however, will do less for equity returns than did added debt at 4 percent rates
+in the early 1960’s. There is also the problem that higher debt ratios cause credit ratings to be lowered, creating a
+further rise in interest costs.
+So that is another way, to be added to those already discussed, in which the cost of leverage will be rising. In
+total, the higher costs of leverage are likely to offset the benefits of greater leverage.
+Besides, there is already far more debt in corporate America than is conveyed by conventional balance sheets.
+Many companies have massive pension obligations geared to whatever pay levels will be in effect when present
+workers retire. At the low inflation rates of 1955-56, the liabilities arising from such plans were reasonably
+predictable. Today, nobody can really know the company’s ultimate obligation. But if the inflation rate averages 7
+percent in the future, a twenty-five-year-old employee who is now earning $12,000, and whose raises do no more
+than match increases in living costs, will be making $180,000 when he retires at sixty-five.
+Of course, there is a marvelously precise figure in many annual reports each year, purporting to be the unfunded
+pension liability. If that figure were really believable, a corporation could simply ante up that sum, add to it the
+existing pension-fund assets, turn the total amount over to any insurance company, and have it assume all the
+corporation’s present pension liabilities. In the real world, alas, it is impossible to find an insurance company
+willing even to listen to such a deal.
+Virtually every corporate treasurer in America would recoil at the idea of issuing a ―cost-of-living‖ bond—a noncallable obligation with coupons tied to a price index. But through the private pension system, corporate America
+has in fact taken on a fantastic amount of debt that is the equivalent of such a bond.
+
+Page 5
+
+Buffett: How Inflation Swindles the Equity Investor
+
+More leverage, whether through conventional debt or unbooked and indexed ―pension debt,‖ should be viewed
+with skepticism by shareholders. A 12 percent return from an enterprise that is debt-free is far superior to the
+same return achieved by a business hocked to its eyeballs which means that today’s 12 percent equity returns may
+will be less valuable than the 12 percent returns of twenty years ago.
+More Fun in New York
+Lower corporate income taxes seem unlikely. Investors in American corporations already own what might be
+thought of as a Class D stock. The Class A, B, and C stocks are represented by the income-tax claims of the
+federal, state, and municipal governments. It is true that these ―investors‖ have no claim on the corporation’s
+assets; however, they get a major share of the earnings, including earnings generated by the equity buildup
+resulting from retention of part of the earnings owned by the Class D shareholders.
+A further charming characteristic of these wonderful Class A, B, and C stocks is that their share of the
+corporation’s earning can be increased immediately, abundantly, and without payment by the unilateral vote of
+any one of the ―stockholder‖ classes, e.g., by congressional action in the case of the Class A. To add to the fun,
+one of the classes will sometimes vote to increase its ownership share in the business retroactively—as companies
+operating in New York discovered to their dismay in 1975. Whenever the Class A, B, or C ―stockholder‖ vote
+themselves a larger share of the business, the portion remaining for Class D—that’s the one held by the ordinary
+investor—declines.
+Looking ahead, it seems unwise to assume that those who control the A, B, and C shares will vote to reduce their
+own take over the long run. The Class D shares probably will have to struggle to hold their own.
+Bad News from the FTC
+The last of our five possible sources of increased returns on equity is wider operating margins on sales. Here is
+where some optimists would hope to achieve major gains. There is no proof that they are wrong. But there are
+only 100 cents on the sales dollar and a lot of demands on that dollar before we get to the residual, pretax profits.
+The major claimants are labor, raw materials, energy, and various non-income taxes. The relative importance of
+these costs hardly seems likely to decline during an age of inflation.
+Recent statistical evidence, furthermore, does not inspire confidence in the proposition that margins will widen in
+a period of inflation. In the decade ending in 1965, a period of relatively low inflation, the universe of
+manufacturing companies reported on quarterly by the Federal Trade Commission had an average annual pretax
+margin on sales of 8.6 percent. In the decade ending in 1975, the average margin was 8 percent. Margins were
+down, in other words, despite a very considerable increase in the inflation rate.
+If business was able to base its prices on replacement costs, margins would widen in inflationary periods. But the
+simple fact is that most large businesses, despite a widespread belief in their market power, just don’t manage to
+pull it off. Replacement cost accounting almost always shows that corporate earnings have declined significantly
+in the past decade. If such major industries as oil, steel, and aluminum really have the oligopolistic muscle
+imputed to them, one can only conclude that their pricing policies have been remarkably restrained.
+There you have the complete lineup: five factors that can improve returns on common equity, none of which, by
+my analysis, are likely to take use very far in that direction in periods of high inflation. You may have emerged
+from this exercise more optimistic than I am. But remember, returns in the 12 percent area have been with us a
+long time.
+The Investor’s Equation the dollar
+
+Page 6
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Even if you agree that the 12 percent equity coupon is more or less immutable, you still may hope to do well with
+it in the years ahead. It’s conceivable that you will. After all, a lot of investors did well with it for a long time. But
+your future results will be governed by three variables: the relationship between book value and market value, the
+tax rate, and the inflation rate.
+Let’s wade through a little arithmetic about book and market value. When stocks consistently sell at book value,
+it’s all very simple. If a stock has a book value of $100 and also an average market value of $100, 12 percent
+earnings by business will produce a 12 percent return for the investor (less those frictional costs, which we’ll
+ignore for the moment). If the payout ratio is 50 percent, our investor will get $6 via dividends and a further $6
+from the increase in the book value of the business, which will, of course, be reflected in the market value of his
+holdings.
+If the stock sold at 150 percent of book value, the picture would change. The investor would receive the same $6
+cash dividend, but it would now represent only a 4 percent return on his $150 cost. The book value of the business
+would still increase by 6 percent (to $106) and the market value of the investor’s holdings, valued consistently at
+150 percent of book value, would similarly increase by 6 percent to ($159). But the investor’s total return, i.e.,
+from appreciation plus dividends, would be only 10 percent versus the underlying 12 percent earned by the
+business.
+When the investor buys in below book value, the process is reversed. For example, if the stock sells at 80 percent
+of book value, the same earnings and payout assumptions would yield 7.5 percent from dividends ($6 on an $80
+prices) and 6 percent from appreciation—a total return of 13.5 percent. In other words, you would do better buy
+buying at a discount rather than a premium, just as common sense would suggest.
+During the postwar years, the market value of the Dow Jones industrials has been as low at 84 percent of book
+value (in 1974) and as high as 232 percent (in 1965); most of the time the ratio has been well over 100 percent.
+(Early this spring, it was around 110 percent.) Let’s assume that in the future the ratio will be something close to
+100 percent—meaning that investors in stocks would earn the full 12 percent. At least, they could earn that figure
+before taxes and before inflation.
+7 Percent after Taxes
+How large a bite might taxes take out of the 12 percent? For individual investors, it seems reasonable to assume
+that federal, state, and local income taxes will average perhaps 50% on dividends and 30 percent on capital gains.
+A majority of investors may have marginalized rates somewhat below these, but many with larger holdings will
+experience substantially higher rates. Under the new tax law, as Fortune observed last month, a high-income
+investor in a heavily taxed city could have a marginal rate on capital gains as high as 56 percent. (See ―The Tax
+Practioners Act of 1976.‖)
+So let’s also assume, in line with recent experience, that corporations earning 12 percent on equity pay out 5
+percent in cash dividends (2.5% after tax). And retain 7 percent, with those retained earnings producing a
+corresponding market-value growth (4.9 percent after the 30 percent tax). The after-tax return, then, would be 7.4
+percent. Probably this should be rounded down to about 7 percent to allow for frictional costs. To push our stocksas-disguised-bonds thesis one notch further, then, stocks might be regarded as the equivalent, for individuals, of 7
+percent tax-exempt perpetual bonds.
+
+Page 7
+
+Buffett: How Inflation Swindles the Equity Investor
+
+The Number Nobody Knows
+Which brings us to the crucial question—the inflation rate. No one knows the answer on this one—including the
+politicians, economists, and Establishment pundits, who felt, a few years back, that with slight nudges here and
+there unemployment and inflation rates would respond like trained seals.
+But many signs seem negative for stable prices: the fact that inflation is now worldwide; propensity of major
+groups in our society to utilize their electoral muscle to shift, rather than solve, economic problems; the
+demonstrated unwillingness to tackle even the most vital problems (e.g., energy and nuclear proliferation) if they
+can be post-poned; and a political system that rewards legislators with reelection if their actions appear to produce
+short-term benefits even though their ultimate imprint will be to compound long-term pain.
+Most of those in political office, quite understandably, are firmly against inflation and firmly in favor of policies
+producing it. (This schizophrenia hasn’t caused them to lose touch with reality, however; Congressmen have
+made sure that their pensions—unlike practically all granted in the private sector—are indexed to cost-of-living
+changes after retirement.)
+Discussions regarding future inflation rates usually probe the subtleties of monetary and fiscal policies. These are
+important variables in determining the outcome of any specific inflationary equation. But, at the source, peacetime
+inflation is a political problem, not an economic problem. Human behavior, not monetary behavior, is the key.
+And when you very human politicians choose between the next election and the next generation, it’s clear what
+usually happens.
+Such broad generalizations do not produce precise numbers. However, it seems quite possible to me that inflation
+rates will average 7 percent in future years. I hope this forecast proves to be wrong. And it may well be. Forecasts
+usually tell us more of the forecaster than of the future. You are free to factor your own inflation rate into the
+investor’s equation. But if you foresee a rate averaging 2 percent or 3 percent, you are wearing different glasses
+than I am.
+So there we are: 12 percent before taxes and inflation; 7 percent after taxes and before inflation; and maybe zero
+(0) percent after taxes and inflation. It hardly sounds like a formula that will keep all those cattle stampeding on
+TV.
+As a common stockholder you will have more dollars, but you may have no more purchasing power, Out with
+Ben Franklin (A penny saved is a penny earned‖) and in with Milton Friedman (A man might as well consume
+his capital as invest it‖).
+What Widows Don’t Notice
+The arithmetic makes it plain that inflation is a far more devastating tax than anything that has been enacted by
+our legislatures. The inflation tax has a fantastic ability to simply consume capital. It makes no difference to a
+widow with her savings in a 5 percent passbook account whether she pays 100 percent tax on her interest income
+during a period of zero inflation, or pays no income taxes during years of 5 percent inflation. Either way, he is
+―taxed‖ in a manner that leaves her no real income whatsoever. Any money she spends comes right out of capital.
+She would find outrageous a 120 percent income tax, but doesn’t seem to notice that 6 percent inflation is the
+economic equivalent.
+If my inflation assumption is close to correct, disappointing results will occur not because the market falls, but in
+spite of the fact that the market rises. At around 920 early last month, the Dow was up fifty-five points from
+where it was ten years ago. But adjusted for inflation the Dow is won almost 345 points—from 865 to 520. And
+
+Page 8
+
+Buffett: How Inflation Swindles the Equity Investor
+
+about half of the earnings of the Dow had to be withheld from their owners and reinvested in order to achieve
+even that result.
+In the next ten years, the Dow would be doubled just by a combination of the 12 percent equity coupon, a 40
+percent payout ratio, and the present 110 percent ratio of market to book value. And with 7 percent inflation,
+investors who sold at 1800 would still be considerably worse off than they are today after paying their capitalgains taxes.
+I can almost hear the reaction of some investors to these downbeat thoughts. It will be to assume that, whatever
+the difficulties presented by the new investment era; they will somehow contrive to turn in superior results for
+themselves. Their success is most unlikely. And in aggregate of course, impossible. If you feel you can dance in
+and out of securities in a way that defeats the inflation tax, I would like to be your broker—but not your partner.
+Even so-called tax-exempt investors, such as pension funds and college endowment funds, do not escape the
+inflation tax. If my assumptions of a 7 percent earned each year as merely as a replenishment of purchasing
+power, endowment funds are earning nothing until they have outpaced the inflation treadmill. At 7 percent
+inflation and, say, overall investment returns of 8 percent, these institutions, which believe they are tax-exempt,
+are in fact paying ―income taxes‖ of 87.5 percent.
+The Social Equation
+Unfortunately, the major problems from high inflation rates flow not to investors but to society as a whole.
+Investment income is a small portion of national income, and if per capita real income could grow at a healthy
+rate alongside zero real investment returns, social justice might well be advanced.
+A market economy creates some lopsided payoffs to participants. The right endowment of vocal chords,
+anatomical structure, physical strength, or mental powers can produce enormous piles of claim checks (stocks,
+bonds, and other forms of capital) on future national output. Proper selection of ancestors similarly can result in
+lifetime supplies of such tickets upon birth. If zero real investment returns delivered a bit greater portion of the
+national output from such stockholders to equally worthy and hardworking citizens lacking jack-pot producing
+talents, it would seem unlikely to pose such an insult to an equitable world as to risk Divine Intervention.
+But the potential for real improvement in the welfare of workers at the expense of affluent stockholders is not
+significant. Employee compensation already totals twenty-eight times the amount paid out on dividends, and a lot
+of those dividends now go to pension funds, nonprofit institutions such as universities, and individual
+stockholders who are not affluent. Under these circumstances, if we now shifted all dividends of wealthy
+stockholders into wages—something we could do only once, like killing a cow (or, if you prefer, a pig)—we
+would increase real wages by less then we used to obtain from one year’s growth of the economy.
+The Russians Understand It Too
+Therefore, diminishment of the affluent, through the impact of inflation on their investments, will not even
+provide material short-term aid to those who are not affluent. Their economic well-being will rise or fall with the
+general effects of inflation on the economy. And those effects are not likely to be good.
+Large gains in real capital, invested in modern production facilities are required to produce large gains in
+economic well-being. Great labor availability, great consumer wants, and great government promises will lead to
+nothing but great frustration without continuous creation and employment of expensive new capital assets
+throughout industry. That’s an equation understood by Russians as well as Rockefellers. And it’s one that has
+been applied with stunning success in West Germany and Japan. High capital-accumulation rates have enabled
+
+Page 9
+
+Buffett: How Inflation Swindles the Equity Investor
+
+those countries to achieve gains in living standards at rates far exceeding ours, even though we have enjoyed
+much the superior position in energy.
+To understand the impact of inflation upon real capital accumulation, a little math is required. Come back for a
+moment to that 12 percent return on equity capital. Such earnings are stated after depreciation, which presumable
+will allow replacement of present productive capacity—if that plant and equipment can be purchased in the future
+at prices similar to their original cost.
+The Way It Was
+Let’s assume that about half of earnings are paid out in dividends, leaving 6 percent of equity capital available to
+finance future growth. If inflation is low—say, 2 percent—a large portion of that growth can be real growth in
+physical output. For under these conditions, 2 percent more will have to be invested in receivables, inventories,
+and fixed assets next year just to duplicate this year’s physical output—leaving 4 percent for investment in assets
+to produce more physical goods. The 2 percent finances illusory dollar growth reflecting inflation and the
+remaining 4 percent finances real growth. If population growth is 1 percent, the 4 percent gain in real output
+translates into a 3 percent gain in real per capita net income. That, very, roughly, is what used to happen in our
+economy.
+
+Now move the inflation rate to 7 percent and compute what is left for real growth after the financing of the
+mandatory inflation component. The answer is nothing—if dividend policies and leverage ratios remain
+unchanged. After half of the 12 percent earnings are paid out, the same 6 percent is left, but it is all conscripted to
+provide the added dollars needed to transact last year’s physical volume of business.
+Many companies, faced with no real retained earnings with which to finance physical expansion after normal
+dividend payments, will improvise. How, they will ask themselves, can we stop or reduce dividends without
+risking stockholder wrath? I have good news for them: a ready-made set of blueprints is available.
+In recent years the electric-utility industry has had little or no dividend-paying capacity. Or, rather, it has had the
+power to pay dividends if investors agree to buy stock from them. In 1975 electric utilities paid common
+dividends of $3.3 billion and asked investors to return $3.4 billion. Of course, they mixed in a little solicit –
+Peter-to-Pay-Paul technique so as not to acquire a Con Ed reputation. Con Ed, you remember, was unwise
+enough in 1974 to simply tell its shareholders it didn’t have the money to pay the dividend. Candor was rewarded
+with calamity in the market place.
+The more sophisticated utility maintains—perhaps—increases the quarterly dividend and then asks shareholders
+(either old or new) to mail back the money. In other words, the company issues new stock. This procedure diverts
+massive amounts of capital to the tax collector and substantial sums to underwriters. Everyone, however, seems to
+remain in good spirits (particularly the underwriters).
+More Joy at A.T. &T.
+Encouraged by such success, some utilities have devised a further shortcut. In this case, the company declares the
+dividend, the shareholder pays the tax, and –presto—more shares are issued. No cash changes hands, although the
+IRS, spoilsport as always, persists in treating the transaction as if it had.
+A. T. &T., for example, instituted a dividend-reinvested program in 1973. This company, in fairness, must be
+described as very stockholder-minded, and its adoption of this program, considering the folkways of finance, must
+be regarded as totally understandable. But the substance of the program is out of Alice in Wonderland.
+
+Page 10
+
+Buffett: How Inflation Swindles the Equity Investor
+
+In 1976, A. T. & T. paid $2.3 billion in cash dividends to about 2.9 million owners of its common stock. At the
+end of the year, 648,000 holders (up from 601,000 the previous year) reinvested $432 million (up from $327
+million) in additional shares supplied directly by the company.
+Just for fun, let’s assume that all A.T. & T. shareholders ultimately sign up for this program. In that case, no cash
+at all would be mailed to shareholders—just when Con Ed passed a dividend. However, each of the 2.9 million
+owners would be notified that he should pay income taxes on his share of the retained earnings that had that year
+been called a ―dividend.‖ Assuming that ―dividends‖ totaled $2.3 billion, as in 1976, and that shareholders paid an
+average tax of 30 percent on these, they would end up, courtesy of this marvelous plan, paying nearly $700
+million to the IRS. Imagine the joy of shareholders, in such circumstances, if the directors were then to double the
+dividend.
+The Government Will Try to Do it.
+We can expect to see more use of disguised payout reductions as business struggles with the problem of real
+capital accumulation. But throttling back shareholders somewhat will not entirely solve the problem. A
+combination of 7 percent inflation and 12 percent returns will rescue the stream of corporate capital available to
+finance real growth.
+And so, as conventional private capital-accumulation methods falter under inflation, our government will
+increasingly attempt to influence capital flows to industry, either unsuccessfully as in England or successfully as
+in Japan. The necessary cultural and historical underpinnings for a Japanese-style enthusiastic partnership of
+governments, business, and labor seems lacking here. If we are lucky, we will avoid following the English path,
+where all segments fight over division of the pie rather than pool their energies to enlarge it.
+On balance, however, it seems likely that we will hear a great deal more as the years unfold about
+underinvestment, stagflation, and the failures of the private sector to fulfill needs.
+Inflation
+A further, particularly ironic, punishment is inflicted by an inflationary environment upon the owners of the "Bad"
+business. To continue operating in its present mode, such a low-return business usually must retain much of its
+earnings - no matter what penalty such a policy produces for shareholders.
+Reason would prescribe just the opposite policy. An individual, stuck with a 5% bond with many years to run
+before maturity, does not take the coupons from that bond and pay one hundred cents on the dollar. Instead, he
+takes those coupons from his low-return bond and-if inclined to reinvest-looks for the highest return with safety
+currently available. Good money is not thrown after bad. What makes sense for the bondholder makes sense for
+the shareholder. Logically, a company with historic and prospective high returns on equity should retain much or
+all of its earnings so that shareholders can earn premium returns on enhanced capital. Conversely, low returns on
+corporate equity would suggest a very high dividend payout so that owners could direct capital toward more
+attractive areas. (The Scriptures concur. In the parable of the talents, the two high-earning servants are rewarded
+with 100% retention of earnings and encouraged to expand their operations. However, the non-earning third
+servant is not only chastised--"wicked and slothful" - but also is required to redirect all of his capital to the top
+performer. Matthew 25: 14-30).
+When prices continuously rise, the "bad" business must retain every nickel that it can. Not because it is attractive
+as a repository for equity capital, but precisely because it is so unattractive, the low-return business must follow a
+high retention policy. If it wishes to continue operating in the future as it has in the past-and most entities,
+including businesses, do-it simply has no choice.
+
+Page 11
+
+Buffett: How Inflation Swindles the Equity Investor
+
+For inflation acts as a gigantic corporate tapeworm. That tapeworm preemptively consumes its requisite daily diet
+of investment dollars regardless of the health of the host organism.
+Whatever the level of reported profits (even if nil), more dollars for receivables, inventory and fixed assets are
+continuously required by the business in order to merely match the unit volume or the previous year. The less
+prosperous the enterprise, the greater the proportion of available sustenance claimed by the tapeworm. A business
+earning 8% or 10% on equity often has no leftovers for expansion, debt reduction or "real" dividends. The
+tapeworm of inflation simply cleans the plate. (The low-return company's inability to pay dividends,
+understandably, is often disguised. Corporate America increasingly is turning to dividend reinvestment plans,
+sometimes even embodying a discount arrangement that all but forces shareholders to reinvest. Other companies
+sell newly issued shares to Peter in order to pay dividends to Paul. Beware of "dividends" that can be paid out
+only if someone promises to replace the capital distributed.)
+END
+----
+
+--
+
+Contact email: aldridge56@aol.com blog: http://csinvesting.wordpress.com studying/teaching/investing
+
+Page 12
+
+Buffett: How Inflation Swindles the Equity Investor
+
+This is a good post from http://www.gannononinvesting.com/
+A blog written by a self-taught investor.
+I attach it here because it reinforces the points made in Buffett‟s great article. Read it and reap.
+A reader sent me an email asking me why the company shown in my blind stock valuation contest has
+free cash flow that's so much lower than reported earnings.
+Let’s look at something Warren Buffett said in his 2009 letter to shareholders:
+“Our BNSF operation, it should be noted, has certain important economic characteristics that resemble
+those of our electric utilities. In both cases we provide fundamental services that are, and will remain,
+essential to the economic well-being of our customers, the communities we serve, and indeed the nation.
+Both will require heavy investment that greatly exceeds depreciation allowances for decades to
+come….”
+Without giving too much away, the mystery company in the blind stock valuation exercise fits that
+description.
+But why does any company fit that description?
+Why would a company require capital spending “that greatly exceeds depreciation allowances” not
+just for one year or two but decade after decade?
+The answer is inflation.
+Now, before I get into illustrating why railroads all vastly overstate their true economic earnings, I want
+to stress that this overstatement is not caused by fraud or management’s desire to mislead. If investors
+are misled, it’s only because they look at the P/E ratio without looking at free cash flow.
+It is well known that railroads can’t pay out all their earnings in dividends. The big reason for this is that
+some of those stated earnings are completely illusory.
+It’s an earnings mirage.
+This railroad earnings mirage come from a continual gap between capital spending and depreciation.
+Year after year, railroads spend more on new property than they count as a replacement expense. In
+other words, the ―upkeep‖ expense at railroads is vastly understated. This causes vastly overstated
+earnings.
+Railroads depreciate against the original cost of their old assets. But they replace their old assets with
+new assets. Because of inflation, replacing any asset bought or built in 1991 with an identical one in
+2011 will cost more money.
+Depreciation doesn’t adjust for cost inflation.
+Contact email: aldridge56@aol.com blog: http://csinvesting.wordpress.com studying/teaching/investing
+
+Page 13
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Obviously, inflation isn’t specific to railroads. But an inflation rate of say 2% a year makes little
+difference when you’re replacing an asset after 1 or 2 or 3 years.
+Inflation makes a huge difference when you’re replacing an asset after 10 or 15 or 20 years.
+A movie ticket cost $4.20 in 1991. Try getting a replacement ticket for $4.20 today.
+Railroads tend to have free cash flow that is no greater than about 50% of their reported earnings. That's
+true of American railroads over the last 15 years or so (when inflation ran 2% a year using the GDP
+deflator). A couple railroads had free cash flow - the actual amount they could have paid in dividends
+each year - running around half of earnings. Most actually did even worse than that. This means their
+earnings don't all come in the form of cash.
+Some of the 50% difference was caused by capital spending meant to grow the business. But a lot of that
+50% difference between net income and free cash flow was caused by a gap between depreciation
+expense and the actual cost required to replace the railroad’s assets.
+Depreciation charges were too low relative to the actual cash upkeep needed to maintain the same assets
+and do the same volume of business.
+That’s bound to happen if railroads are replacing equipment that's 15 or 20 years old. Obviously,
+inflation makes the replacement cost higher than the original cost.
+Yet depreciation isn’t adjusted for inflation.
+Companies depreciate against the original cost of the asset they use up over those 15 or 20 years. So if
+they buy something for $1,000 that will last 20 years they charge themselves $50 a year ($1,000 / 20
+years = $50/year). But even if inflation is just 3% a year over the next 20 years, the actual replacement
+cost when the thing breaks down in 2031 will be $1,800. It'll be $2,200 if inflation is 4%.
+Let's assume inflation will be 3% over the asset’s 20 year life. That means the replacement cost of
+something we buy in 2011 and replace in 2031 will be $1,800 in 2031 for every $1,000 we pay today.
+If instead of depreciating against the original $1,000 cost we make up a non-GAAP fantasy account I'll
+call "Provision for Future Equipment Replacement" we might use a straight-line method where we take
+the actual replacement cost ($1,800) in 2031 and space it out evenly over 20 years. $1,800 divided by 20
+years equals $90 a year.
+So, we'd report depreciation of $50 a year under the original cost method - assuming 3% inflation - even
+though we know full well that we have to set aside $90 a year for the actual replacement cost of the
+equipment in 2031 if we live in a world of 3% inflation. That means our owner earnings should be
+reduced by multiplying depreciation by 1.8 ($90/$50 = 1.8). So, economic depreciation is really 1.8
+times the depreciation we put on the books.
+If you look at a group of 5 or 10 railroads, power companies, etc. you'll get a feel for how long the
+Contact email: aldridge56@aol.com blog: http://csinvesting.wordpress.com studying/teaching/investing
+
+Page 14
+
+Buffett: How Inflation Swindles the Equity Investor
+
+useful life of their entire business is. A big clue is property, plant, and equipment / capital spending. If a
+no-growth business has $32,000 of PP&E and $2,000 in capital spending, it's shedding and regrowing its
+PP&E skin at a rate of once every 16 years (since it's replacing 1/16th this year). That's how long the
+business's life span is. It has to regenerate all its tangible assets every 16 years.
+This is only meaningful for an asset heavy business like a railroad. It’s not a relevant calculation for
+businesses that depend primarily – or entirely – on their current assets to produce earnings.
+And all of this is in nominal terms. In reality, the company’s property, plant, and equipment isn’t being
+replaced every 17 years in a business where annual capital spending is 6% of PP&E (1/0.06 = 16.67).
+It’s not like you’re replacing the same 100 miles of track every 17 years. It’s more like you’re replacing
+the same $100 worth of track every 17 years. How much track $100 buys changes over the years.
+Why should you care how long it takes a business to shed and regrow its balance sheet skin?
+It gives you a clue as to how inflation is disguising the economic reality behind the reported earnings.
+Only businesses that are very asset heavy will be affected by inflation in this way.
+But – even among asset heavy businesses – there’s a big difference between a business that replaces
+those tangible assets every 6 years and a business that replaces those tangible assets every 16 years.
+A business that replaces its tangible assets every 6 years will be depreciating some of those assets in
+2005 dollars instead of 2011 dollars. But a business that replaces its tangible assets every 16 years will
+be depreciating some of those assets in 1995 dollars instead of 2011 dollars.
+Railroads are an odd business in that their assets don’t have to be replaced very often. It’s just that they
+have to use unfathomable amounts of assets to move stuff around. Some other asset heavy businesses –
+especially very dense, very heavily used networks – have high capital spending but short asset lives.
+Their depreciation expense is more accurate even though they’re also big capital spenders, because the
+original cost of their assets is always closer to the replacement cost of those same assets.
+None of this would be true if we lived in a non-inflationary world. But since the 1940s, we in the United
+States have tended to have more or less constant inflation. Prices never really fall for very long. And
+they rise ever higher over time.
+The result is that our companies understate their depreciation expense in proportion to the age of the
+assets chewed up by their day-to-day operations.
+Ravi Nagarajan of Rational Walk sent me an email where he mentioned that some industries do a good
+job of breaking down capital spending and explaining depreciation. That’s true. The two examples he
+gave were railroads and offshore oil drillers.
+If you’re wondering about how railroads calculate depreciation, there’s a note in each company’s 10-K
+that explains how it calculates depreciation.
+
+Contact email: aldridge56@aol.com blog: http://csinvesting.wordpress.com studying/teaching/investing
+
+Page 15
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Here is note #10 from the Union Pacific (UNP) 10-K:
+“…Properties and equipment are carried at cost and are depreciated on a straight-line basis over their
+estimated service lives, which are measured in years, except for rail in high-density traffic corridors
+(i.e., all rail lines except for those subject to abandonment, yard and switching tracks, and electronic
+yards), which are measured in millions of gross tons per mile of track…”
+Basically, Union Pacific is saying that they don’t adjust their depreciation charges for inflation. They
+just take the original cost of the property and depreciate it using one of two methods.
+The easiest way to think of the two depreciation methods is to imagine a hammer and an anvil. The
+property is the hammer. You can either set aside money to pay for a new hammer in equal installments
+every day or in equal installments every time the hammer strikes the anvil. For something like a
+hammer, the economically accurate way to depreciate the asset is based on the number of anvil strikes,
+because the anvil will eventually destroy the hammer. Time doesn’t destroy hammers. Anvils destroy
+hammers.
+Always ask what forces a company to replace its assets.
+Is it time? Is it use? Is it technology? Or is it customer taste?
+The best asset is one that can survive all those changes.
+The worst asset is one that can’t survive any of those changes.
+Twenty years ago – back in 1991 – this is what Warren Buffett told a group of Notre Dame Students:
+“The telephone company (AT&T), with the patents, the MBAs, the stock options, and everything else,
+had one problem, and that problem is illustrated by those figures on that lower left hand column. And
+those figures show the plant investment in the telephone business. That‟s $47 billion, starting off with,
+growing to $99 billion over an eight or nine year period. More and more and more money had to be
+tossed in, in order to make these increased earnings, going from $2.2 billion to $5.6 billion. So, they got
+more money, but you can get more money from a savings account if you keep adding money to it every
+year. The progress in earnings that the telephone company made was only achievable because they kept
+on shoving more money into the savings account and the truth was, under the conditions of the „70s,
+they were not getting paid commensurate with the amount of money that they had to shove into the pot,
+whereas Lord Thompson, once he bought the paper in Council Bluffs, never put another dime in. They
+just mailed money every year. And as they got more money, he bought more newspapers. And, in fact, he
+said it was going to say on his tombstone that he bought newspapers in order to make more money in
+order to buy more newspapers. The idea was that, essentially, he raised prices and raised earnings there
+every year without having to put more capital into the business. One is a marvelous, absolutely
+sensational business, the other one is a terrible business.”
+So why did Warren Buffett buy Burlington Northern?
+That’s a great question. Buffett has given some clues. His best explanation is probably what he told
+Contact email: aldridge56@aol.com blog: http://csinvesting.wordpress.com studying/teaching/investing
+
+Page 16
+
+Buffett: How Inflation Swindles the Equity Investor
+
+Charlie Rose.
+Since I don’t agree with Buffett’s purchase, I can’t do his argument justice.
+I just have no interest in owning a railroad. It’s not a business I want to be in. That may be close minded.
+But that’s the truth.
+What I wanted to do here is just make sure that the folks who are interested in buying railroads aren’t
+overly fixated on the P/E ratio.
+A railroad’s reported earnings are not comparable to reported earnings in other industries.
+3.

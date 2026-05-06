@@ -1,0 +1,113 @@
+---
+source: Berkshire Hathaway Annual Report
+year: 2009
+type: chairman-letter
+url: https://www.berkshirehathaway.com/2009ar/2009ar.pdf
+extracted_from: line 305 - 1376
+---
+
+To the Shareholders of Berkshire Hathaway Inc.:
+Our gain in net worth during 2009 was $21.8 billion, which increased the per-share book value of both
+our Class A and Class B stock by 19.8%. Over the last 45 years (that is, since present management took over)
+book value has grown from $19 to $84,487, a rate of 20.3% compounded annually.*
+Berkshire’s recent acquisition of Burlington Northern Santa Fe (BNSF) has added at least 65,000
+shareholders to the 500,000 or so already on our books. It’s important to Charlie Munger, my long-time partner,
+and me that all of our owners understand Berkshire’s operations, goals, limitations and culture. In each annual
+report, consequently, we restate the economic principles that guide us. This year these principles appear on pages
+89-94 and I urge all of you – but particularly our new shareholders – to read them. Berkshire has adhered to these
+principles for decades and will continue to do so long after I’m gone.
+In this letter we will also review some of the basics of our business, hoping to provide both a freshman
+orientation session for our BNSF newcomers and a refresher course for Berkshire veterans.
+How We Measure Ourselves
+Our metrics for evaluating our managerial performance are displayed on the facing page. From the start,
+Charlie and I have believed in having a rational and unbending standard for measuring what we have – or have
+not – accomplished. That keeps us from the temptation of seeing where the arrow of performance lands and then
+painting the bull’s eye around it.
+Selecting the S&P 500 as our bogey was an easy choice because our shareholders, at virtually no cost, can
+match its performance by holding an index fund. Why should they pay us for merely duplicating that result?
+A more difficult decision for us was how to measure the progress of Berkshire versus the S&P. There are
+good arguments for simply using the change in our stock price. Over an extended period of time, in fact, that is
+the best test. But year-to-year market prices can be extraordinarily erratic. Even evaluations covering as long as a
+decade can be greatly distorted by foolishly high or low prices at the beginning or end of the measurement
+period. Steve Ballmer, of Microsoft, and Jeff Immelt, of GE, can tell you about that problem, suffering as they do
+from the nosebleed prices at which their stocks traded when they were handed the managerial baton.
+The ideal standard for measuring our yearly progress would be the change in Berkshire’s per-share intrinsic
+value. Alas, that value cannot be calculated with anything close to precision, so we instead use a crude proxy for
+it: per-share book value. Relying on this yardstick has its shortcomings, which we discuss on pages 92 and 93.
+Additionally, book value at most companies understates intrinsic value, and that is certainly the case at
+Berkshire. In aggregate, our businesses are worth considerably more than the values at which they are carried on
+our books. In our all-important insurance business, moreover, the difference is huge. Even so, Charlie and I
+believe that our book value – understated though it is – supplies the most useful tracking device for changes in
+intrinsic value. By this measurement, as the opening paragraph of this letter states, our book value since the start
+of fiscal 1965 has grown at a rate of 20.3% compounded annually.
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are
+1/1500th of those shown for A.
+
+3
+
+We should note that had we instead chosen market prices as our yardstick, Berkshire’s results would
+look better, showing a gain since the start of fiscal 1965 of 22% compounded annually. Surprisingly, this modest
+difference in annual compounding rate leads to an 801,516% market-value gain for the entire 45-year period
+compared to the book-value gain of 434,057% (shown on page 2). Our market gain is better because in 1965
+Berkshire shares sold at an appropriate discount to the book value of its underearning textile assets, whereas
+today Berkshire shares regularly sell at a premium to the accounting values of its first-class businesses.
+Summed up, the table on page 2 conveys three messages, two positive and one hugely negative. First,
+we have never had any five-year period beginning with 1965-69 and ending with 2005-09 – and there have been
+41 of these – during which our gain in book value did not exceed the S&P’s gain. Second, though we have lagged
+the S&P in some years that were positive for the market, we have consistently done better than the S&P in the
+eleven years during which it delivered negative results. In other words, our defense has been better than our
+offense, and that’s likely to continue.
+The big minus is that our performance advantage has shrunk dramatically as our size has grown, an
+unpleasant trend that is certain to continue. To be sure, Berkshire has many outstanding businesses and a cadre of
+truly great managers, operating within an unusual corporate culture that lets them maximize their talents. Charlie
+and I believe these factors will continue to produce better-than-average results over time. But huge sums forge
+their own anchor and our future advantage, if any, will be a small fraction of our historical edge.
+What We Don’t Do
+Long ago, Charlie laid out his strongest ambition: “All I want to know is where I’m going to die, so I’ll
+never go there.” That bit of wisdom was inspired by Jacobi, the great Prussian mathematician, who counseled
+“Invert, always invert” as an aid to solving difficult problems. (I can report as well that this inversion approach
+works on a less lofty level: Sing a country song in reverse, and you will quickly recover your car, house and
+wife.)
+Here are a few examples of how we apply Charlie’s thinking at Berkshire:
+•
+
+Charlie and I avoid businesses whose futures we can’t evaluate, no matter how exciting their
+products may be. In the past, it required no brilliance for people to foresee the fabulous growth
+that awaited such industries as autos (in 1910), aircraft (in 1930) and television sets (in 1950). But
+the future then also included competitive dynamics that would decimate almost all of the
+companies entering those industries. Even the survivors tended to come away bleeding.
+Just because Charlie and I can clearly see dramatic growth ahead for an industry does not mean
+we can judge what its profit margins and returns on capital will be as a host of competitors battle
+for supremacy. At Berkshire we will stick with businesses whose profit picture for decades to
+come seems reasonably predictable. Even then, we will make plenty of mistakes.
+
+•
+
+We will never become dependent on the kindness of strangers. Too-big-to-fail is not a fallback
+position at Berkshire. Instead, we will always arrange our affairs so that any requirements for cash
+we may conceivably have will be dwarfed by our own liquidity. Moreover, that liquidity will be
+constantly refreshed by a gusher of earnings from our many and diverse businesses.
+When the financial system went into cardiac arrest in September 2008, Berkshire was a supplier
+of liquidity and capital to the system, not a supplicant. At the very peak of the crisis, we poured
+$15.5 billion into a business world that could otherwise look only to the federal government for
+help. Of that, $9 billion went to bolster capital at three highly-regarded and previously-secure
+American businesses that needed – without delay – our tangible vote of confidence. The remaining
+$6.5 billion satisfied our commitment to help fund the purchase of Wrigley, a deal that was
+completed without pause while, elsewhere, panic reigned.
+
+4
+
+We pay a steep price to maintain our premier financial strength. The $20 billion-plus of cashequivalent assets that we customarily hold is earning a pittance at present. But we sleep well.
+•
+
+We tend to let our many subsidiaries operate on their own, without our supervising and
+monitoring them to any degree. That means we are sometimes late in spotting management
+problems and that both operating and capital decisions are occasionally made with which Charlie
+and I would have disagreed had we been consulted. Most of our managers, however, use the
+independence we grant them magnificently, rewarding our confidence by maintaining an owneroriented attitude that is invaluable and too seldom found in huge organizations. We would rather
+suffer the visible costs of a few bad decisions than incur the many invisible costs that come from
+decisions made too slowly – or not at all – because of a stifling bureaucracy.
+With our acquisition of BNSF, we now have about 257,000 employees and literally hundreds of
+different operating units. We hope to have many more of each. But we will never allow Berkshire
+to become some monolith that is overrun with committees, budget presentations and multiple
+layers of management. Instead, we plan to operate as a collection of separately-managed mediumsized and large businesses, most of whose decision-making occurs at the operating level. Charlie
